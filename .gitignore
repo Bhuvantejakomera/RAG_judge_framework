@@ -1,0 +1,37 @@
+# Virtual Environment
+.venv/
+venv/
+ENV/
+env/
+
+# Environment Variables & Secrets (Contains API Keys)
+.env
+*.env
+
+# Python Cache & Bytecode
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+.coverage
+htmlcov/
+
+# FAISS Vector Index & Disk Cache
+index/
+data/wikipedia_cache/
+
+# Runtime Logs, Sessions & Outputs
+logs/
+sessions/
+reports/
+output*.txt
+
+# OS Generated Files
+.DS_Store
+Thumbs.db
+
+# Distribution & Build
+*.egg-info/
+dist/
+build/

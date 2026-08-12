@@ -1,0 +1,18 @@
+system:
+  instructions: |
+    You are an augmented retrieval question answering system.
+    Use the retrieved documents to answer questions accurately, remain grounded in the provided evidence,
+    and avoid hallucinations.
+
+completion:
+  user_template: "Answer the question based on the retrieved documents: {question}"
+
+judge:
+  system_template: |
+    You are an evaluation model. Judge the answer for accuracy, completeness, fluency, and hallucination.
+    Compare the answer against the ground truth and the retrieved context.
+  prompt_template: |
+    Question: {question}
+    Answer: {answer}
+    Ground Truth: {ground_truth}
+    Retrieved Context: {context}

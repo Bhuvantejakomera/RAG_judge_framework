@@ -1,0 +1,46 @@
+chunking:
+  size: 400
+  overlap: 80
+
+embedding:
+  model: "BAAI/bge-small-en-v1.5"
+  dimension: 384
+
+llm:
+  local_model: "qwen2.5:3b-instruct-q4_K_M"
+  judge_model: "models/gemini-3.6-flash"
+
+judge:
+  provider: gemini
+  model: "models/gemini-3.6-flash"
+  fallback_provider: ollama
+  fallback_model: qwen3:8b
+  temperature: 0.0
+  max_tokens: 1024
+
+retrieval:
+  top_k: 5
+  display_k: 3
+  similarity_threshold: 0.55
+
+memory:
+  sliding_window_turns: 5
+
+evaluation:
+  session_threshold: 5
+  dataset_sample_size: 50
+  random_seed: 42
+  sampling_strategy: random
+  bert_score_model: roberta-base
+
+indexing:
+  max_articles: null
+  max_workers: 4
+
+wikipedia:
+  user_agent: "PopQA-RAG-Judge/1.0"
+  language: "en"
+
+logging:
+  level: INFO
+  directory: "./logs"
