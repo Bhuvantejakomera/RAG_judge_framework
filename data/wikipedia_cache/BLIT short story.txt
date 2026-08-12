@@ -1,0 +1,61 @@
+"BLIT" is a 1988 science fiction short story by the British writer David Langford, first published in the September–October 1988 issue of Interzone.
+It was republished in Interzone: The 4th Anthology (1989) and in a 2004 collection of Langford's works, Different Kinds of Darkness, which also contains several sequels.
+The story introduced the concept of the "basilisk" to science fiction literature. A basilisk is a legendary reptile said to have the power to cause death with a single glance. In the context of "BLIT", it is a type of highly dangerous image that contains patterns exploiting flaws in the structure of the human mind to produce a lethal reaction, effectively "crashing" the mind the way a computer program crashes when given data that it fails to process. It does this by triggering thoughts that the mind is physically or logically incapable of thinking. 
+The story marked a departure from Langford's typically humorous storytelling style.
+
+Plot
+The text alternates between a narrative and interspersed expository sections.
+In the narrative, a terrorist named Robbo spray-paints a BLIT image known as the Parrot onto walls in a majority-Asian area. To avoid seeing the image himself, an action that would cause his death, Robbo wears "shatter-goggles" to blur and distort his vision, similar to a kaleidoscope. The police catch him as he sprays the pattern on the door of a gay pub, but four of them die when they look at his stencil.
+In the police station, Robbo overhears the officers lamenting that there are no laws against "brain hacking". They cannot even prosecute him for the deaths of their colleagues because the only evidence of murder is the stencil, which cannot be confirmed as a BLIT without killing anyone who observes it. Robbo concludes he is likely to be released with merely a fine for spraying graffiti.
+Awaiting a magistrate in a holding cell, Robbo idly finds himself imagining distorted fragments and outlines of the Parrot he has seen many times through his "shatter-goggles". Desperately trying to avoid these thoughts, he begs the police for alcohol to no avail - there is no medical reason to cloud his short-term memory. His brain cannot help but "decode" the true pattern and he succumbs to its effects.
+The expository section comprises extracts from a seemingly official document, classified under "SECRET * BASILISK" (the only manner in which Langford actually uses the word 'basilisk'). The first extract identifies the Parrot as the earliest BLIT, an acronym of "Berryman Logical Image Technique" named for AI researcher V. Berryman who worked with C. M. Turner at the Cambridge IV supercomputer facility. This facility later suffered a security breach whose details are not revealed.
+The next extract describes the case of a popular magazine encouraging its readers to generate a Fractal Star pattern on their computers. Zooming in on certain areas of the fractal was found to exhibit BLIT effects, leading to catastrophe. The last extract expounds on theories of why BLIT patterns are so harmful, including that they are "Gödelian 'spoilers', implicit programs which the human equipment cannot safely run", or that they produce neurochemical "memotoxins" in the human brain that cause it to die; but further understanding has been limited by BLIT researchers being killed by their work.
+
+Sequels
+Langford has written three follow-up works to "BLIT".
+
+"What Happened at Cambridge IV"
+Released in 1990, this sequel recounts the undisclosed events hinted at in the original story. It takes the form of a confessional suicide note by the unnamed Deputy Director of Cambridge IV, an undercover computer laboratory located closer to the Thames Valley than Cambridge which is threatened with repeated budget cuts.
+Due to his homosexual infatuation with Dr. Vernon Berryman, the narrator enacted several schemes in an attempt to bolster Whitehall financial support for Berryman's work on images that compel the brain's attention. One plot involved a fake sabotage scenario that unintentionally killed Ceri Turner, an American neurophysiologist (Berryman's co-researcher named in "BLIT"), whom the narrator disparaged as nonintellectual and feckless. She had been measuring her own unconscious neural activity when the fire prevention system sealed off the room she was in. Inspired by Turner's recordings, Berryman progresses his research onto reproducing the "electromagnetic signature of death".
+Since the department could not afford protective "scrambler glasses", Berryman's eventual success finds him slumped dead in his chair. Now fully insane, the narrator decides to join the object of his lust. Before looking at the screen himself, he selects several targets and decoys from a security watchlist and posts disks containing the BLIT data to them, hoping to kickstart a terrorist movement.
+
+"COMP.BASILISK FAQ"
+This second sequel was first published in Nature in December 1999 and revised in 2006. It mentions William Gibson's Neuromancer (1984), Fred Hoyle's The Black Cloud (1957), J. B. Priestley's The Shapes of Sleep (1962), and Piers Anthony's Macroscope (1969) as containing a similar idea.
+
+"Different Kinds of Darkness"
+This third sequel was published in The Magazine of Fantasy & Science Fiction in 2000, and won the Hugo Award for Best Short Story in 2001.
+The world of "BLIT" has reached a post-apocalyptic state: terrorists display BLIT images everywhere, once having killed millions with a live broadcast of the Parrot. Some parents opt to protect their children by means of "biochips" implanted in the optic nerves. These chips edit what the eyes can see, replacing views of unsafe areas—including all outdoor locations—with an utter black. In preparation for being granted control of their chips, school-leavers are shown the Trembler for 2 seconds: this BLIT pattern merely causes convulsions.
+The main characters are schoolchildren yet to learn the truth. They call the artificial black "type-two" darkness, and deduce that in contrast to ordinary darkness, adults are able to see in it. Student Khalid finds a copy of the Trembler left behind in a photocopier. He establishes a secret club whose members aim to endure it for increasing lengths of time. Khalid eventually manages 20 seconds without twitching and shuddering violently, while club member Jonathan reaches 10½.
+When their school is attacked with the Parrot, Jonathan crumples the paper before any other students see it. To the surprise of the staff, it does not kill him but only knocks him unconscious, suggesting that biochips may no longer be needed if "vaccination" is a viable solution to lethal BLITs. As a reward, Jonathan's biochip is reprogrammed and he sees a real sunset for the first time.
+
+Reception
+Reception for the story has been positive and Susie Vrobel has written that "BLIT" has become well known for its use of fractal patterns. Matthew Sanborn Smith reviewed "BLIT" for StarShipSofa in 2008. John Clute noted that "Like the fractal caltrap it describes, David Langford's stunning "Blit" gives off a steely medusoid glare; and one is very glad the tale is so short".
+
+Cultural influence
+Authors Ken MacLeod and Greg Egan both acknowledge the idea with a specific reference to Langford – "the Langford visual hack" in The Cassini Division (1998) and "the Langford Mind-Erasing Fractal Basilisk" in Permutation City (1994). Charles Stross also refers to a type of magical ward known as the "Langford Death Parrot" in The Fuller Memorandum (2010) and "Basilisk attacks" with "Langford fractals" in Accelerando (2005). Acknowledging these inspirations, The Encyclopedia of Science Fiction noted that this story has "proved mildly influential in sf circles". "Basilisk hacks" that affect the mind of any transhuman who perceives them are a primary method of operation of the Exsurgent Virus in the science-fiction/horror role-playing game Eclipse Phase. 
+In Peter Watts' novel Blindsight (2006) this concept is explored (albeit briefly) in the story's prehistoric cousins to humans: vampires. The trope of vampires being vanquished by signs of the cross is attributed to a basilisk specific to them: perpendicular lines (something not found in their prehistoric habitats).
+The 1995 computer game Frontier: First Encounters makes several references to the Langford Basilisk in its various news journals. In this instance, home computers have become powerful enough to generate the Basilisk fractal, which results in instant death to anyone viewing it.
+The concept of "basilisk hack" has also been mentioned in scholarly literature, with Langford's story attributed as its origins.
+The basilisk is also used by machines to kill humans or hack their minds in Gregory Benford's novel Great Sky River (1987).
+On the SCP Wiki, the page for SCP-001 features a "Berryman-Langford memetic kill agent" that, in-universe, is meant to kill unauthorized individuals attempting to access the SCP-001 files.
+Season 7 Episode 4 of Netflix's Black Mirror prominently features a basilisk that is used to hijack computer systems as well as the human brain.
+
+See also
+Information hazard
+Roko's basilisk
+McCollough effect, a real-world optical illusion that, after viewing, can cause long-term changes in visual perception.
+Medusa
+Cockatrice
+Psychological warfare
+Photosensitive epilepsy
+In the Star Trek: The Next Generation episode "I, Borg", the crew proposes exposing the Borg to a paradoxical geometric construct designed to confound analysis, exhausting the resources of the collective.
+In Neal Stephenson's 1992 book Snow Crash, the title refers to a naturally occurring information-based virus, weaponized by the antagonist.
+Weapons in science fiction
+
+References
+Sources
+BLIT, David Langford, Interzone, 1988.
+What if... the human brain could be hacked into?, Dave Langford, T3, August 1999.
+
+External links
+BLIT title listing at the Internet Speculative Fiction Database

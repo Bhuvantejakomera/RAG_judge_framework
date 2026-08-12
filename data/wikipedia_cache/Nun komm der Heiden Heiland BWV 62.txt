@@ -1,0 +1,65 @@
+Johann Sebastian Bach composed the church cantata Nun komm, der Heiden Heiland (Now come, Savior of the heathens), BWV 62, in Leipzig for the first Sunday in Advent and first performed it on 3 December 1724. It is based on Martin Luther's Advent hymn "Nun komm, der Heiden Heiland", a paraphrase of the Latin hymn "Veni redemptor gentium". The cantata is part of Bach's chorale cantata cycle, the second cycle during his tenure as Thomaskantor that began in 1723. In the format of this cycle, the text of the first and last stanzas of the hymn is retained unchanged while the text of the inner stanzas was paraphrased by an unknown librettist into a sequence of alternating arias and recitatives. The cantata is opened by a chorale fantasia and closed by a four-part chorale setting.
+The cantata is scored for four vocal soloists, a four-part choir, and a Baroque instrumental ensemble of horn only to support the chorale melody, two oboes, strings and basso continuo.
+
+History, hymn and words
+Bach composed a cantata with the same name, Nun komm, der Heiden Heiland, BWV 61, for the First Sunday of Advent in 1714 when he worked for the court of Weimar. The libretto by Erdmann Neumeister included for the first movement the first stanza of Martin Luther's Advent hymn of the same name, the number one hymn to begin the Liturgical year with Advent in all Lutheran hymnals at the time.
+In 1723, Bach was appointed Thomaskantor (director of church music) in Leipzig, where he was responsible for the music at four churches, and for the training and education of boys singing in the Thomanerchor. He took office in the middle of the liturgical year, on the first Sunday after Trinity, 30 May 1723. Bach wrote Nun komm, der Heiden Heiland, BWV 62, in 1724, his second year as Thomaskantor, for the First Sunday of Advent, as part of his chorale cantata cycle.
+The prescribed readings for the Sunday were from the Epistle to the Romans, night is advanced, day will come (Romans 13:11–14), and from the Gospel of Matthew, the Entry into Jerusalem (Matthew 21:1–9). The cantata is based on Martin Luther's hymn "Nun komm, der Heiden Heiland". For the hymn, Luther had paraphrased the Latin hymn for Advent "Veni redemptor gentium".
+In the format of the chorale cantata cycle, an unknown poet who collaborated with Bach retained the first and last stanza, and paraphrased the inner stanzas (2 to 7). He shaped the content of stanzas 2 and 3 to an aria, stanzas 4 and 5 to a recitative, and the remaining stanzas to an aria and a duet recitative. While Luther, influenced by the Latin model, phrased succinctly and sometimes in allusions, Bach's collaborator in Leipzig texted often freely and with poetic ambition.
+Bach led the Thomanerchor in the first performance of the cantata on 3 December 1724. Another performance is documented between 1732 and 1735. It was performed again in 1736, with an added part for violone in all movements, after the Thomasschule had bought an instrument at an auction in 1735. Bach's score contains a detailed list of the liturgy of the service on the Advent Sunday. Hans-Joachim Schulze argues that Bach may have written it as instruction for a substitute while he was absent from Leipzig that day; he had to travel to Dresden to receive the title Hofcompositeur (Court composer) from the Elector of Saxony, Frederick Augustus II, on Saturday 1 December 1736, giving an organ concert at the Hofkirche's new Silbermann organ. Bach's successor Johann Friedrich Doles performed the cantata after Bach's death.
+
+Music
+Structure and scoring
+Bach structured the cantata in six movements, beginning with a chorale fantasia, followed by a series of alternating arias and recitatives, and concluded by a chorale. He scored it for four vocal soloists (soprano (S), alto (A), tenor (T) and bass (B)), and a Baroque instrumental ensemble of horn (Co), only to support the chorale melody, two oboes (Ob), two violin parts (Vl), a viola part (Va), and basso continuo (Bc). The duration is given as 22 minutes.
+In the following table of the movements, the scoring, keys and time signatures are taken from Alfred Dürr's standard work Die Kantaten von Johann Sebastian Bach, using the symbol for common time (4/4). The continuo, playing throughout, is not shown.
+
+Movements
+The hymn tune is based on the medieval chant of the paraphrased hymn; John Eliot Gardiner, who conducted the Bach Cantata Pilgrimage in 2000, described it as of "dark, imposing character". The melody is in four lines, the last one equal to the first.
+Church music was allowed in Leipzig only on the first Sunday of Advent. Gardiner observed about the three extant cantatas for this occasion, also Nun komm, der Heiden Heiland, BWV 61, and Schwingt freudig euch empor, BWV 36, which all deal with Luther's hymn, that they "display a sense of excitement at the onset of the Advent season. This can be traced back both to qualities inherent in the chorale tune itself, and to the central place Bach gives to Luther's words."
+
+1
+Typical for the cantatas of the chorale cantata cycle, the first movement is a chorale fantasia with the text of Luther's first stanza:
+
+The music opens with an instrumental ritornello, beginning with a quote of the first (and last) line of the tune in the continuo, and ending with a slightly different quote in the oboes. Other than these quotes, the orchestra plays a free concerto, with the oboes introducing a theme and the first violin playing figuration. The ritornello appears shortened three times to separate the lines of the text and in full at the end. The soprano sings the cantus firmus in long notes, while the lower voices prepare each entry in imitation, using a motif from the tune for the first line, an inverted motif from the tune for the second line, motifs from the ritornello in the third line and an expanded reprise of the first line for the last. Dürr suggested that Bach was inspired to this festive setting in 6/4 time by the Gospel reading about the entry into Jerusalem. Christoph Wolff pointed out that the instrumentation is simple because Advent was a "season of abstinence". Schulze wrote that the "unity of the instrumental component serves the cohesion of the entire movement" and noted that the "anticipatory imitation" of the lower voices is more extended than in other chorale cantatas because elaborate coloratura is used to illustrate the phrase "des sich wundert alle Welt": the marveling of all the world.
+
+2
+The first aria, for tenor, deals with the mystery of the birth of Jesus: "Bewundert, o Menschen, dies große Geheimnis: der höchste Beherrscher erscheinet der Welt" (Marvel, O humanity, at this great mystery: the Supreme Ruler appears to the world ). Set in a major key in Siciliano rhythm, with string accompaniment doubled in tutti sections by the oboes, the music was described by Dürr as "joyfully soaring". Schulze noted the dance character of the aria, between passepied and minuet which begins with 24 measures of instrumental music. He described the dominating motif in the voice as song-like and rhythmically succinct.
+
+3
+A secco recitative for bass expresses: "So geht aus Gottes Herrlichkeit und Thron sein eingeborner Sohn" (Thus from God's glory and throne goes forth his only-begotten Son).
+
+4
+In great contrast to the first aria, the second one, for bass, is focused on fight: "Streite, siege, starker Held!" (Struggle, conquer, powerful hero!) The aspect was introduced by the librettist, who transformed Luther's address of Jesus as "equal to the Father" into calling a strong hero.
+Schulze regarded elements of "rolling passages" in the voice and fanfare-like instrumental unison passages as typical for the era's "arias with heroic gesture". Dürr described the motifs in the continuo as militant and tumultuous. In a later version the voice is doubled by the upper strings. Gardiner regarded the aria's "pompous, combative character" as a sketch for the bass aria "Großer Herr und starker König" from Part I of Bach's 1734 Christmas Oratorio.
+
+5
+The duet recitative of the high voices, "Wir ehren diese Herrlichkeit und nahen nun zu deiner Krippen" (We honor this glory and approach your manger now), expresses thanks, intimately accompanied by the strings. According to Schulze, modulation into distant keys illustrates the miracle of the birth and the way to the manger, who described the music as otherworldly and luminous.
+
+6
+The closing chorale of the cantata is a doxology, "Lob sei Gott, dem Vater, g'ton" (Praise be to God the Father), which treats the medieval melody to a four-part setting.
+
+Manuscripts and publication
+Bach's autograph score of the cantata and the set of parts are extant. It was first published in 1868 in the first complete edition of Bach's work, the Bach-Gesellschaft Ausgabe. The volume in question was edited by Wilhelm Rust. In the Neue Bach-Ausgabe it was published in 1954, edited by Dürr and Werner Neumann, with a critical report in 1955.
+
+Recordings
+A list of recordings is provided on the Bach Cantatas Website. Vocal ensembles with one voice per part (OVPP) and instrumental groups playing period instruments in historically informed performances are marked by green background.
+
+References
+Cited sources
+"Nun komm der Heiden Heiland BWV 62; BC A 2". Bach Digital. Retrieved 21 December 2024.
+Dahn, Luke (2024). "BWV 62.6". bach-chorales.com. Retrieved 21 December 2024.
+Dellal, Pamela (2024). "BWV 62 – Nun komm, der Heiden Heiland". Emmanuel Music. Retrieved 21 December 2024.
+Dürr, Alfred; Jones, Richard D. P. (2006). "Nun komm, der Heiden Heiland, BWV 62". The Cantatas of J. S. Bach: With Their Librettos in German-English Parallel Text. Oxford: Oxford University Press. pp. 77―80. ISBN 978-0-19-969628-4.
+Gardiner, John Eliot (2009). Johann Sebastian Bach (1685-1750) / Cantatas Nos 36, 61, 62, 70, 132 & 147 (Media notes). Soli Deo Gloria (at Hyperion Records website). Retrieved 31 December 2018.
+Oron, Aryeh (2024). "Cantata BWV 62 Nun komm, der Heiden Heiland". Bach Cantatas website. Retrieved 21 December 2024.
+Schulze, Hans-Joachim (2006). Nun komm, der Heiden Heiland / Come now, God's chosen saviour / BWV 62 (PDF). Translated by Coombs, John. Stuttgart: Carus-Verlag. pp. 1, 4.
+Schulze, Hans-Joachim (29 April 2024). "Nun komm der Heiden Heiland BWV 62 / BC A 2". Commentaries on the Cantatas by Johann Sebastian Bach. Windsor & Downs Press. Retrieved 9 May 2025.
+Wolff, Christoph (2002). "Chorale cantatas from the cycle of the Leipzig church cantatas 1724–25" (PDF). Ton Koopman (liner notes on Bach Cantatas website). pp. 8–9. Retrieved 21 November 2011.
+Wolff, Christoph (2002). "Mostly Cantatas". Johann Sebastian Bach: The Learned Musician. Oxford University Press. pp. 253–295. ISBN 978-0-393-32256-9.
+
+Further reading
+Mincham, Julian (2010). "Chapter 27 Bwv 62 – The Cantatas of Johann Sebastian Bach". jsbachcantatas.com. Retrieved 22 August 2022.
+
+External links
+Nun komm, der Heiden Heiland, BWV 62: Scores at the International Music Score Library Project
+Nun komm, der Heiden Heiland, BWV 62: performance by the Netherlands Bach Society (video and background information)

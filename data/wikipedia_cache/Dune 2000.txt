@@ -1,0 +1,41 @@
+Dune 2000 is a real-time strategy video game, developed by Intelligent Games and published by the defunct Westwood Studios in 1998 for Microsoft Windows. It was later ported to the PlayStation in 1999. It is a partial remake of Dune II, which is loosely based on Frank Herbert's Dune universe. The story of the game is similar to Dune II, and is continued in Emperor: Battle for Dune.
+
+Gameplay
+The player needs to choose and command one of the three Houses and must fight for control of "mélange" (spice) on the planet Arrakis. The player harvests spice to earn "solaris", the in-game currency, by setting up spice harvesters, refineries, silos, and power grids. They must also deploy soldiers, armed vehicles, and defensive measures to protect their operations from rival Houses, while also being mindful of vicious sandworms and explosive "spice blooms". Dune 2000 features an interface and gameplay similar to Command & Conquer: Red Alert, where unlike in Dune II, the player can control more than one unit at a time.
+
+Similar to most real-time strategy games, the game map initially starts with a black fog of war covering the entire map, with an exception to units' line of sight. As the units explore the map, the fog is removed for the duration of the mission, allowing the player to observe activity in those regions even if they do not have any units with line of sight to them. Like Dune II, the player may construct concrete before placing buildings. In Dune II, all buildings would deteriorate regardless, but the concrete foundations slowed the process. However, in Dune 2000, the buildings do not deteriorate over time when built in their entirety on concrete.
+Although each house has many common units, such as infantry, Wind Traps, and Mobile Construction Vehicles, each House also has its own set of units, such as the Atreides Sonic Tank, the Ordos Deviator and the Harkonnen Devastator. Houses Harkonnen and Atreides share the Trike, while House Ordos has an upgraded version, the Raider. Like many games of the Westwood franchise, a player can gain access to other Houses' special units by capturing their factories. House Ordos can obtain the Missile Tank by ordering it from the Starport when it would otherwise be inaccessible. After patch 1.06, the Harkonnen can eventually train the Sardaukar, soldier-fanatics loyal to the Corrino Emperor with higher endurance and strength.
+
+Cinematics
+The game also features live action cinematics that play before each mission for the three different factions as well as for the introduction.
+
+Synopsis
+Emperor Corrino (Adrian Sparks) has issued a challenge that the House which can produce the most spice will control its source, the desert planet Dune, with no rules as to how the Houses can achieve this goal. Meanwhile, Lady Elara (Musetta Vander) of the Bene Gesserit and bound concubine to the Emperor, secretly takes the "commander" - the player - into one of the Heighliners, a person whose bloodline and future the Sisterhood had checked. According to Elara, they saw many visions of the commander dying — and only in one vision does the commander live and even rise to control massive armies and bring peace to Arrakis; thus, she and the Bene Gesserit have betrayed the Emperor's trust to bring about this possible future.
+As in Dune II, the three main playable factions are House Atreides, House Harkonnen and House Ordos. There are also four non-playable subfactions: House Corrino, the Fremen, the Mercenaries and the Smugglers.
+
+House Atreides
+Hailing from the water-planet of Caladan, the noble Atreides have a strict loyalty to their Duke and follow him with zeal. The Duke's famous Mentat, Noree Moneo (John Rhys-Davies), advises and resides over the Duke's forces on Arrakis. The House's fleets of ornithopters ensure their superior air power backed by Sonic Tanks to humanely destroy enemies. The Duke also wishes to develop an alliance with the Fremen, the native warriors of Dune.
+House Harkonnen
+The Harkonnens are ruled by the wicked Baron and come from the volcanic waste-planet of Giedi Prime. According to Lady Elara, the only thing human about the Harkonnen is their genetic makeup, as all humanity was abandoned long ago in favor of brutality and maliciousness, favoring pure firepower brought by Devastator Tanks and the Death Hand Missile. The Baron's Mentat, Hayt De Vries (Robert Carin), was born from the flesh of a dead man in the Tleilaxu Flesh Vats.
+House Ordos
+The Ordos originate from a frigid, ice-covered planet unnamed in Dune 2000 but later called Sigma Draconis IV in Emperor: Battle for Dune. As they import their goods from nearby star systems, House Ordos relies on their skills as merchants to survive; however, their wealth has made them increasingly paranoid. According to the manual, House Ordos buys all of its units instead of constructing them themselves, including Saboteurs to demolish buildings and Deviator Tanks to temporarily turn enemy vehicles against each other. Unlike the other two houses, House Ordos is not mentioned in any of Frank Herbert's Dune novels, but it is mentioned in The Dune Encyclopedia.
+
+Development
+The game's development team consisted of over 25 people.
+
+Reception
+The game received mixed reviews on both platforms according to the review aggregation website GameRankings. GameSpot criticized the PC version's production values for being drab by 1998 standards, and cited balance problems despite the remake's attempt to introduce unit balance where the original game had none. Next Generation said of the same PC version: "We applaud the fact that Westwood did exactly what it said it would do with this game, but we have to question the person who approved the idea in the first place. Oh, well – maybe the company will do a true sequel next time instead of yet another tired realtime rehash."
+Peter Suciu of AllGame gave the PC version four-and-a-half stars out of five, saying that "for fans of the original game, or those who like a real-time challenge, Dune 2000 is an instant classic". However, Glenn Wigmore of the same website gave the PlayStation version three-and-a-half stars out of five: "With smooth visuals, superb sound, a plethora of gameplay modes, strategy and replay value, Dune 2000 is a real winner. It also makes great use of the various PlayStation peripherals, making for a well rounded experience".
+
+Open source
+The game engine recreation fan project OpenRA has support for Dune 2000.
+
+Notes
+References
+Further reading
+Zdunich, S. Micah (January 1999). "Spice to see you again". The Duelist. No. 33. Wizards of the Coast. p. 90.
+
+External links
+Dune 2000 (Windows) at MobyGames
+Dune 2000 (PlayStation) at MobyGames
+Dune 2000 at IMDb

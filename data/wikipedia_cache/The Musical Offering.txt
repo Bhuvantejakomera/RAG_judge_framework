@@ -1,0 +1,96 @@
+The Musical Offering (German: Musikalisches Opfer or Das Musikalische Opfer), BWV 1079, is a collection of keyboard canons, fugues, and other pieces of music by Johann Sebastian Bach, all based on a single musical theme given to him by Frederick the Great (King Frederick II of Prussia), to whom they are dedicated. They were published in September 1747.  The Ricercar a 6, a six-voice fugue that is regarded as the high point of the entire work, was put forward by the musicologist Charles Rosen as the most significant piano composition in history, partly because it is one of the first. This ricercar is also occasionally called the Prussian Fugue, a name used by Bach himself.
+
+History
+The collection has its roots in a meeting between Bach and Frederick II on May 7, 1747. The meeting, taking place at the king's residence in Potsdam, came about because Bach's son Carl Philipp Emanuel was employed there as court musician. Frederick wanted to show the elder Bach a novelty, the fortepiano, which had been invented 47 years earlier but had not yet gained wide acceptance (Bach did not encounter them until around 1736). The king, however, owned several of the experimental instruments being developed by Gottfried Silbermann. During his anticipated visit to Frederick's palace in Potsdam, Bach, who was well known for his skill at improvising, received from Frederick a long and complex musical theme on which to improvise a three-voice fugue. He did so, but Frederick then challenged him to improvise a six-voice fugue on the same theme. Bach answered that he would need to work the score and send it to the king afterwards. Bach instead chose a different theme and, again, completely extempore, executed a six-voice fugue on it with the same virtuosity as he had done the three-voice fugue, greatly impressing all in attendance. He later returned to Leipzig to write out the Thema Regium ("theme of the king"):
+
+Four months after the meeting, Bach published a set of pieces based on this theme that are now known as The Musical Offering. Bach inscribed the piece "Regis Iussu Cantio Et Reliqua Canonica Arte Resoluta" (the theme given by the king, with additions, resolved in the canonic style), the first letters of which spell out the word ricercar, a well-known genre at the time.
+
+Possible origin of the King's Theme
+Humphrey F. Sassoon has compared the theme issued by Frederick II to the theme of an A minor fugue (HWV 609) by George Frideric Handel, published in Six fugues or voluntarys for organ or harpsichord. Sassoon notes that "Handel's theme is much shorter than the King's, but its musical 'architecture' is uncannily similar: jumps followed by a descending chromatic scale." He also elaborates on their additional similarities, which led Sassoon to suggest that Bach used Handel's A minor fugue as a structural model or guide for the Musical Offering's Ricercar a 6 and that its musical concepts may also have influenced Bach's development of the Ricercar a 3. Nevertheless, the Ricercar a 6 is longer and incomparably more complex than Handel's fugue.
+Arnold Schoenberg, in his 1950 essay on Bach, suggested that the Thema Regium was created by Bach's son Carl Phillip Emanuel on the orders of the king as a well-prepared trap to embarrass J. S. Bach.
+
+Structure and instrumentation
+In its finished form, The Musical Offering comprises:
+
+Two Ricercars, the second one written down on as many staves as there are voices:
+a Ricercar a 3 (a three-voice fugue)
+a Ricercar a 6 (a six-voice fugue)
+Ten Canons:
+Canones diversi super Thema Regium:
+2 Canons a 2 (the first representing a notable example of a crab canon or canon cancrizans)
+Canon a 2, per motum contrarium
+Canon a 2, per augmentationem, contrario motu
+Canon a 2, per tonos
+Canon perpetuus
+Fuga canonica in Epidiapente
+Canon a 2 "Quaerendo invenietis"
+Canon a 4
+Canon perpetuus, contrario motu
+
+A Sonata sopr'il Soggetto Reale – a trio sonata featuring the flute, an instrument which Frederick played, consisting of four movements:
+Largo
+Allegro
+Andante
+Allegro
+Apart from the trio sonata, which is written for flute, violin and basso continuo, the pieces have no indications of which instruments are meant to play them.
+The ricercars and canons have been realized in various ways. The ricercars are more frequently performed on keyboard than the canons, which are often played by an ensemble of chamber musicians, with instrumentation comparable to that of the trio sonata.
+As the printed version gives the impression of being organized for convenient page turning when sight-playing the score, the order of the pieces intended by Bach (if there was an intended order) remains uncertain, although it is customary to open the collection with the Ricercar a 3, and play the trio sonata toward the end. The Canones super Thema Regium are also usually played together.
+
+Musical riddles
+Some of the canons of The Musical Offering are represented in the original score by no more than a short monodic melody of a few measures with an enigmatic inscription in Latin above the melody. These compositions are called the riddle fugues (or sometimes, more appropriately, the riddle canons). The performers are supposed to interpret the music as a piece with multiple intertwining melodies. Some of these riddles have been explained to have more than one possible "solution," although most current printed editions of the score give a single, standard solution of the riddle.
+One of these riddle canons, "in augmentationem" (i.e. augmentation, the length of the notes gets longer), is inscribed "Notulis crescentibus crescat Fortuna Regis" (may the fortunes of the king increase like the length of the notes), while a modulating canon which ends a tone higher than it starts is inscribed "Ascendenteque Modulatione ascendat Gloria Regis" (as the modulation rises, so may the king's glory).
+
+Canon per tonos (endlessly rising canon)
+The canon per tonos (endlessly rising canon) pits a variant of the king's theme against a two-voice canon at the fifth. However, it modulates and finishes one whole tone higher than it started out at. Thus, it has no final cadence.
+
+Theological character
+Among the theories about external sources of influence, Michael Marissen draws attention to the possibility of theological connotations. Marissen sees an incongruity between the official dedication to Frederick the Great and the effect of the music, which is often melancholy, even mournful. The trio sonata is a contrapuntal sonata da chiesa, whose style was at odds with Frederick’s secular tastes. The inscription Quaerendo invenietis, found over Canon No. 9, alludes to the Sermon on the Mount (“Seek and ye shall find”, Matthew 7:7, Luke 11:9). The main title, Opfer (“offering”), makes it possible for the cycle to be viewed as an Offertory in the religious sense of the word. Marissen also points out that, canonic procedures often evoking the rigorous demands of the Mosaic Law, the ten canons likely allude to the Ten Commandments. Marissen believes that Bach was trying to evangelize Frederick the Great, pointing him to the demands of the Mosaic Law.
+In a recent study Zoltán Göncz had pointed out, the authorial injunction to seek (Quaerendo invenietis) does not only relate to the riddle canons but to the six-part ricercar as well, whose archaic title also means to seek. There are several Biblical citations hidden in this movement, and their discovery is made especially difficult by various compositional maneuvers. The unique formal structure of the fugue provides a clue: certain anomalies and apparent inconsistencies point to external, non-musical influences.
+Among Bach's duties during his tenure at Leipzig (1723–50) was teaching Latin. Ursula Kirkendale argued for a close connection with the twelve-volume rhetorical manual Institutio Oratoria of the Roman orator Quintilian, whom Frederick the Great admired. Philologist and Rector of the Leipzig Thomasschule Johann Matthias Gesner, for whom Bach composed a cantata in 1729, published a substantial Quintilian edition with a long footnote in Bach's honor.
+
+Adaptations and citations
+The "thema regium" appears as the theme for the first and last movements of Sonata No. 7 in D minor by Friedrich Wilhelm Rust, written in about 1788, and also as the theme for elaborate variations by Giovanni Paisiello in his "Les Adieux de la Grande Duchesse de Russies," written in about 1784, upon his departure from the court of Catherine the Great.
+The "Ricercar a 6" has been arranged on its own on a number of occasions, the most prominent arranger being Anton Webern, who in 1935 made a version for small orchestra, noted for its Klangfarbenmelodie style (i.e. melody lines are passed on from one instrument to another after every few notes, every note receiving the "tone color" of the instrument it is played on):
+
+Webern's arrangement was dedicated to the BBC music producer and conductor Edward Clark.
+Another version of the Ricercare a 6 voci was published in 1942 by C. F. Peters in an arrangement for organ by the musicologist Hermann Keller, then based in Stuttgart.
+Igor Markevitch produced a realization for three orchestral groups and, for the sonata movements, solo quartet (violin, flute, cello, and harpsichord), written in 1949–50.
+In 1952, Giorgio Federico Ghedini wrote his own orchestration, which utilized two pianos but no horns.
+The Modern Jazz Quartet used one of the canons (originally "for two violins at the unison") as an introduction to their performance of the standard song "Softly, as in a Morning Sunrise", on their album Concorde (1955). The Royal Theme is played on the double bass, with Milt Jackson (vibraphone) and John Lewis (piano) weaving the two imitative contrapuntal voices above:
+
+Isang Yun composed Königliches Thema for Solo Violin, a passacaglia on the Thema Regium with Asian and Twelve-tone influences, written in 1970.
+Bart Berman composed three new canons on the Royal Theme of The Musical Offering, which were published in 1978 as a special holiday supplement to the Dutch music journal Mens & Melodie (publisher: Het Spectrum).
+Sofia Gubaidulina used the Royal Theme of The Musical Offering in her violin concerto Offertorium (1980). Orchestrated in an arrangement similar to Webern's, the theme is deconstructed note by note through a series of variations and reconstructed as a Russian Orthodox hymn.
+Leslie Howard produced a new realisation of The Musical Offering, which he orchestrated and conducted in Finland in 1990.
+The organist Jean Guillou transcribed the entire work for organ in 2005.
+
+Notable recordings
+Karl Münchinger, Stuttgart Chamber Orchestra (Decca, 1955)
+Milan Munclinger, Ars Rediviva: Stanislav Duchoň, Karel Bidlo, Jiří Baxa, Josef Vlach, Václav Snítil, Jaroslav Motlík, František Sláma, František Pošta, Viktorie Švihlíková (Supraphon, 1959)
+Karl Richter, Otto Büchner, Kurt Guntner, Siegfried Meinecke, Fritz Kiskalt, Hedwig Bilgram (DGG/Archiv Produktion, 1963)
+Milan Munclinger, Ars Rediviva: Stanislav Duchoň, Karel Bidlo, Václav Snítil, Jaroslav Motlík, František Sláma, František Pošta, Josef Hála (Supraphon, 1966)
+Nikolaus Harnoncourt, Concentus Musicus Wien (Teldec, 1970)
+Neville Marriner, Academy of St. Martin in the Fields (Philips, 1974)
+Reinhard Goebel, Musica Antiqua Köln (Archiv Bach Edition, 1979)
+Hans-Martin Linde, Linde-Consort (EMI-Reflexe, 1981)
+Barthold Kuijken (flute), Sigiswald Kuijken (violin), Wieland Kuijken (viola da gamba), Robert Kohnen (harpsichord) (Deutsche Harmonia Mundi, 1994)
+Jordi Savall, Le Concert des Nations (Alia Vox, 1999)
+Hanssler Edition, Gottfried von der Goltz, Petra Mullejans, Martin Jopp, Daniela Helms, Christian Gosses (Violin / Viola), Karl Keiser (flute), Ekkehard Weber (viola da gamba), Kristin von der Goltz (cello) and Michael Behringer (harpsichord / forte piano (BWV 1079) (Hanssler Edition CD92.133. 1999)
+Konstantin Lifschitz (Orfeo 676071, 2008) (all movements on piano)
+
+See also
+List of compositions of Johann Sebastian Bach
+Perpetuum mobile
+
+References
+Further reading
+Reinhard Boess: Die Kunst des Rätselkanons im 'musikalischen Opfer', 1991, 2 vols., ISBN 3-7959-0530-3
+
+External links
+Musikalisches Opfer, BWV 1079: Scores at the International Music Score Library Project
+"The Musical Offering: A Musical Pedagogical Workshop by J. S. Bach, or The Musical Geometry of Bach's Puzzle Canons" [English], Schillerinstituttet [Danish].
+The Mutopia Project has some of the music of The Musical Offering
+Das Musikalisches Opfer, PianoSociety.com
+Performance of Trio Sonata by The Chamber Music Society of Lincoln Center from the Isabella Stewart Gardner Museum in MP3 format
+Phillips, Tony (March 1, 1999). Feature Column: "Math and The Musical Offering" Archived 2009-09-15 at the Wayback Machine, What's New in Mathematics: American Mathematical Society
+"Johann Sebastian Bach (1685–1750), L'Offrande musicale – Musical Offering, Musikalisches Opfer BWV 1079", ClassicalÀlacarte.com.

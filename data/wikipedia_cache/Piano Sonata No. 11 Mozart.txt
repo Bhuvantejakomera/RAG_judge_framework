@@ -1,0 +1,44 @@
+The Piano Sonata No. 11 in A major, K. 331 / 300i, by Wolfgang Amadeus Mozart is a piano sonata in three movements.
+The sonata was published by Artaria in 1784, alongside Nos. 10 and 12 (K. 330 and K. 332).
+The third movement of this sonata, the "Rondo alla Turca", or "Turkish March", is often heard on its own and regarded as one of Mozart's best-known piano pieces.
+
+Structure
+The sonata consists of three movements:
+
+All of the movements are in the key of A major or A minor; therefore, the work is homotonal. A typical performance of this entire sonata takes about 20 minutes.
+
+I. Andante grazioso
+Since the opening movement of this sonata is a theme and variation, Mozart defied the convention of beginning a sonata with an allegro movement in sonata form. The theme is a siciliana, consisting of an 8-measure section and a 10-measure section, each repeated, a structure shared by each variation.
+
+II. Menuetto
+The second movement of the sonata is a standard minuet and trio movement in A major.
+
+III. Alla turca
+The last movement, marked Alla turca, is popularly known as the "Turkish Rondo" or "Turkish March".
+
+Mozart himself titled the rondo "Alla turca". It imitates the sound of Turkish Janissary bands, the music of which was much in vogue at that time. The form of this movement is an irregular rondo, structured as A–B–C–B–A–B followed by a coda, with B serving as the refrain in which the sounds of Turkish Janissary band instruments are imitated.
+
+Section A: This section, in A minor, consists of a rising sixteenth-note melody followed by a falling eighth note melody over a staccato eighth-note accompaniment. A melody in thirds and eighth notes is played before the sixteenth-note melody returns slightly varied.
+Section B: This section is the refrain. It is a forte march in octaves over an arpeggiated chord accompaniment. The key changes to A major.
+Section C: This section, in F♯ minor, consists of sixteenth note melody over a broken-chord accompaniment.
+Coda: A forte theme consisting mostly of chords (arpeggiated and not) and octaves. There is a brief piano restatement of the theme in the middle of the coda followed by a final forte restatement before an ending in octaves.
+
+Relationships to later compositions and arrangements
+The theme of the first movement was used by Max Reger in his Variations and Fugue on a Theme by Mozart (1914) for orchestra. The Israeli composer Ron Weidberg (b. 1953) used the same theme for a set of variations. Dave Brubeck's "Blue Rondo à la Turk" (1959) is not based on or related to the last movement.
+
+2014 autograph discovery
+In 2014, Hungarian librarian Balázs Mikusi discovered in Budapest's National Széchényi Library four pages from the first and middle movements in Mozart's autograph manuscript of the sonata. Until then, only the last page of the last movement, which is preserved in the International Mozarteum Foundation, had been known to have survived. The paper and handwriting of the four pages matched that of the final page of the score, held in Salzburg. The original score is close to the first edition, published in 1784.
+In the first movement, however, in bars 5 and 6 of the fifth variation, the rhythm of the last three notes was altered. In the menuetto, the last quarter beat of bar 3 is a C♯ in most editions, but in the original autograph an A is printed. In the first edition, an A is also printed in bar 3, as in the original, but on the other hand a C♯ is printed in the parallel passage at bar 33, mirroring subsequent editions.
+On 26 September 2014 Zoltán Kocsis gave the first performance of the rediscovered score, at the National Széchényi Library in Budapest.
+
+References
+External links
+
+Pages from Mozart's autograph manuscript: pages from first and middle movements and last page of the rondo movement
+Sonate in A, KV 331: Score and critical report (in German) in the Neue Mozart-Ausgabe
+Piano sonata in A major, K. 331(300i) (interactive score) on Verovio Humdrum Viewer (Alte Mozart-Ausgabe version)
+Piano Sonata No. 11, K. 331/300i: Scores at the International Music Score Library Project
+Free scores of the Piano Sonata No. 11 at Mutopia Project
+Free sheet music of Piano Sonata No. 11 from Cantorion.org
+Video on YouTube, Daniel Barenboim
+Animated score on YouTube, Ingrid Haebler

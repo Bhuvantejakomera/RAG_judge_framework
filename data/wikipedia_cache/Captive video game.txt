@@ -1,0 +1,47 @@
+Captive is a science fiction role-playing video game released by Mindscape in 1990. In the style of Dungeon Master, it uses pseudo-3D realtime graphics from a first-person perspective. It was released for Amiga, Atari ST, and, in 1992, MS-DOS.
+The player characters are androids (termed "droids" in the game) operated remotely by a prisoner trying to free himself. The player assumes the role of the prisoner, and the game involves visiting and destroying a series of bases on different planets.
+
+Plot
+Trill, the main character, is judged guilty (indicted for a crime he did not commit) and ordered in a space cryogenic prison for 250 years.  248 years later, he awakes, but without the memory of who he is, where he is and why he was imprisoned.
+In the corner of his cell, which had doubled as a store-room, the prisoner finds a "briefcase computer" which gives him control over a group of four droids on a space ship. Now he must use these droids to find and free himself.
+
+Gameplay
+Game structure
+To free Trill, the droids visit a number of bases on several planets. On each base, the droids locate space probes, which provide the locations of subsequent bases. In addition to collecting probes, the droids also have to blow up the generators of the base which power the force field of the prison station, and then find the exit before the base collapses.
+Controlled by the prisoner/player, the droids are firstly found in a spaceship in distant space (an interface using vector graphics), until ordered to land with a capsule on a planet. On each planet, the droids have to first locate the entrance to the base, then enter and explore 'dungeons' containing various puzzles and alien and robotic enemies.
+A fully completed mission consists of ten bases followed by the space station; there is a room in the space station which houses Trill, and if the droids enter this room, the game gives the player the choice of freeing him and ending the game completely, or allowing the enemy to recapture him, starting another mission.
+
+Shops
+There are shops where the droids can buy, sell and repair various weapons, ammunition and body parts. Each droid has of a number of replaceable body parts: a head, chest, arms, hands, legs and feet. These can be upgraded and repaired individually.
+There are also accessories that can be purchased at the shops such as batteries and remote cameras, and a variety of special utility devices.
+
+Weapons
+There are a variety of weapons, both for hand-to-hand combat and projectile weapons. Depending on its type and the position of the droid wielding it, a weapon can have effect on the left, in the middle or on the right, and at one of two different heights. Some weapons can fire multiple shots at different heights and positions. The two front droids can attack on the left- or right-hand flank  respectively. The two droids in the back rank can each only fire projectile weapons down the middle.
+
+Devices
+The droids can purchase add-on devices from two series: the optics, which either provide extra information or affect the eyesight of the droids, or the devscapes, which affect the droids in other ways. Each droid can only use one such special device at any given time.
+
+Challenge
+The movement and fighting is similar to traditional Dungeon Master clones like Eye of the Beholder. It plays in real time, and although at first most of the opponents move relatively slowly, the game difficulty ramps up so that rapid reflexes become necessary, as does the use of the environment to gain advantage, such as trapping enemies in doors, using ladders to escape, and paralysing robotic enemies by flooding sections of the base with water.
+
+Miscellaneous
+Antony Crowther used an algorithm that generates each planet and base, including its inhabitants, using a single numerical "seed" on the game disk - a trick which enabled him to have 65,535 levels in the game without having to store the details of each level individually (only one base is "active" in any given saved game, since each base must be "destroyed" before moving on).
+The game was known as "Federation War" while in development, but a reader of ACE magazine came up with the name Captive in a competition.
+
+Reviews
+Amiga Format reviewed Captive in 1990, and gave it a score of 91%. Zzap! also gave the game a 91% score in 1991, saying:
+
+As a true RPG it has many of the drawbacks that Dungeon Master had (very little interaction, fictional combat etc). However, the gameworld is well designed, the plot and the opponents are imaginative and the puzzles are challenging with many thrills and spills to keep you on the edge of your chair.
+In May 1991, the game was ranked the 31st best game of all time by Amiga Power and, in that same year, the editors of PC Format declared it one of the 50 best computer games of all time.
+
+See also
+Liberation: Captive 2 - The sequel to Captive
+Hired Guns
+
+References
+External links
+Captive at MobyGames
+Captive at Amiga Hall of Light
+The Ultimate Captive Guide
+Stuff - Captive
+Tony Crowther's review of Dungeon Master, with a few comments on Captive (archived)

@@ -1,0 +1,60 @@
+Risen is an action role-playing game developed by the German company Piranha Bytes and published by Deep Silver. The first title in the Risen series, it was released internationally for Microsoft Windows and Xbox 360 in October 2009, with a North American release for Xbox 360 in February 2010. Ports for the PlayStation 4, Xbox One and Nintendo Switch were released in January 2023.
+The game tells the narrative of an unnamed player character's adventures in Faranga, a mountainous fictitious island ruled by the ruthless High Inquisitor Mendoza. Mendoza knows about a temple that leads to the interior of an erupting volcano dominating the island, and the player character follows Mendoza's instructions to get entry to it. The temple is home to ancient beings known as Titans, which Mendoza attempts to control in order to strengthen himself.
+Risen received mostly positive reviews, with acclaim for its gameplay, graphics, and voice acting, but criticism for the poor Xbox 360 port. The series is continued by Risen 2: Dark Waters and Risen 3: Titan Lords.
+
+Backstory
+Risen is set on Faranga island, the visual of which is inspired by Sicily. The environment is mostly mountainous, with different climates and Mediterranean vegetation. The island is dominated by an active volcano and inhabited by a wide variety of creatures; the island has buildings and suggestive names from the Spanish Inquisition in Sicily and the Norman period. There are three main settlements on Faranga: Harbor Town, the only proper city and port on the island; the Bandit Camp, headquarters of the island's former ruler Don Esteban and most of the men that remained loyal to him; and the Monastery, where mages and scholars study and research magic. Dotting the islands are small settlements and farms, as well as lone dwellings of hunters and druids.
+After mankind used magic to drive away the gods ruling them, they inadvertently unleashed the Titans, ancient beings previously sealed away by the Gods. On Faranga island, ancient temple ruins spontaneously rise from the ground, providing access to a network of interconnected underground areas such as catacombs and dungeons. The island is surrounded by constant storms, hindering attempts to enter or leave it, although the island itself is unharmed by the storms.
+Believing Faranga holds the secret to defeat the Titans, High Inquisitor Mendoza leads the Warriors of the Order to the island. They take over Harbor Town, driving Esteban's men out, and use the Monastery as a base of operation and to train recruits. They also begin exploring the ruins and collecting artifacts. Mendoza rules the island with an iron fist, forbidding unauthorized people to enter or leave Harbor Town. Anyone caught wandering outside Harbor town is immediately captured and forcibly drafted.
+
+Plot
+The nameless player character is a stowaway on a small ship. Near Faranga, the ship is destroyed by a Titan, and he washes up on the shores unharmed.
+After exploring the island and meeting its inhabitants, the player can choose a faction with which to align. He can become a bandit (by joining Don Esteban), a Warrior of the Order, or a Mage. Regardless of his choice, the player character becomes involved with the plans of Mendoza, who has discovered a temple leading into the heart of the volcano. The High Inquisitor tasks the main character with gaining access to the temple.
+After the player has gathered five Crystal Disks, which activate the mechanism to open the entrance, the Inquisition enters the temple. They find the spirit of Titan Lord Ursegor, who helped the Gods imprison the Titans thousands of years ago. Ursegor reveals the presence of a Fire Titan, still imprisoned below the temple. It is revealed that the Titan's presence has been protecting Faranga from the storms and the other Titans.
+Mendoza seeks to control the Fire Titan and use it to defeat the other Titans. However, if the Titan is released from its prison, Faranga would become vulnerable to the mystical storms and would be destroyed, and there is no guarantee that Mendoza can really control the Titan. The hero rebukes this course of action, and Mendoza seals himself in the chamber with the Fire Titan.
+After the hero releases Ursegor from the curse binding his spirit to the temple, Ursegor urges him to find the Titan Lord's armor to imprison the Fire Titan, which will soon be set free by Mendoza. The armor pieces were sealed in various ruins throughout the island, along with undead priests. After assembling the Titan Lord's armor and acquiring the Titan Shield and Titan's Hammer, the hero returns to the temple and defeats Mendoza. After that, he enters the chamber, subdues the Fire Titan and imprisons it once again.
+The ending suggests that Faranga has been spared from destruction, but that four more Titans continue to ravage the mainland. After the credits roll, dialogue between the main character and Patty, the daughter of infamous pirate Gregorius Emmanuel Steelbeard, suggests that the two will travel to the mainland to fight the Titans.
+
+Gameplay
+The player technically has access to most of the island right from the beginning of the game. However, the paths leading further into the island are almost always blocked by numerous wild creatures that can easily overwhelm and kill a beginner character. After the player character acquires better skills and equipment, he can explore the island with much more freedom.
+Risen has smaller areas that can't be accessed until later. Creatures do not respawn in the first part of the game, but new enemies will spawn in their place in later chapters. The island is also said to contain easter eggs.
+
+Combat
+Risen is an action RPG with a strong focus on combat. The combatants, including the player and enemies, has access to different attack moves, as well as parries, blocks, and dodges. Whether an attack connects depend on the positioning of the combatants, the usage of shields (without shields, player cannot block projectiles or attacks from shorter creatures) as well as the nature of the attack (stronger attacks can knock aside shields, leaving the target open for follow up strikes; magic attacks cannot be blocked, etc.).
+Players have access to a wide array of weapons divided into 3 melee types (swords, axes and staves) and two ranged types (bows and crossbows). Most weapons have a minimum Stat requirements (typically Dexterity for bows, and Strength for the rest of the weapons).
+
+Skills
+Corresponding to the weapon types, player has access to 5 weapon skills. Improving skills with melee weapon unlocks additional offensive and defensive options.
+The game also features various non-combat skills such as pickpocketing or lock picking for alternate ways of completing quests. The game features a simple crafting system, where players with enough skills in smithing and alchemy can combine raw material into useful equipment or potions.
+Magic in Risen can be divided to two broad types: Crystal Magic and Rune Magic. With Crystal Magic, player can launch magical projectiles that damage enemies. This skill is trained similarly to weapon skills. Rune Magic has 4 tiers, corresponding to the complexity of spells that can be cast. Spells are mostly non-combat and have a wide variety of usage, either to solve puzzle (like levitation, telekinesis) or provide buffs (speed, strength or armor).
+
+Level up
+Players gain level by accumulating experience points, usually through killing enemies and completing quests. When gaining levels, players are awarded Learning points. These points can then be used at NPC trainers (along with money) to improve skills and attributes.
+There is no fixed character class to choose from. Instead, players can technically train any skill at the appropriate trainers. Any limitations are usually explained from a story-line point of view. For example, the player character can only learn Mages's skills (Rune Magic) if he joins the Mages. Similarly, the best sword trainer is a Bandit, and will refuse to train the player character if he is a Mage or Warrior of the Order.
+Quests conversations are fully logged in a quest diary. Maps are available, along with "quest maps" on which objectives are marked. Non-player characters are voiced in English.
+An IGN reviewer wrote that Risen resembles the Gothic games in "the general ambiance of the world[,] the presentation, feel of gameplay, and style of exploration" but is more "user-friendly" than the "more hardcore Gothic games".
+
+Development
+Piranha Bytes itself developed the Windows version, which was released on 2 October 2009, along with the European version of the Xbox 360 port. The Xbox 360 port was outsourced to an experienced external console team under the close supervision of Piranha Bytes.
+After the last official patch, version 1.10, an unofficial patch v1.30 by the fan community was created to address remaining issues.
+On 20 July 2009, Risen was refused classification in Australia by the OFLC. According to the game's Australian distributor, Madman Interactive, the OFLC cited "sexual activity and drug use related to incentives or rewards" as the reason for the refusal.
+
+Marketing
+Deep Silver released several trailers for the game online. The first cinematic trailer was produced in 2008 by Virgin Lands. The following cinematic teaser (which features portions of the Nightwish song "The Poet and the Pendulum") and the intro cinematic were produced in 2009 by Lemonaut Creations.
+A demo entitled The Risen Experience can be played online on the official Risen website.
+
+Reception
+Risen received generally favorable reviews, with aggregate scores on GameRankings and Metacritic reaching 77.57% and 77/100 for the Windows version and 63.44% and 60/100 for the Xbox 360 version.
+PC Zone gave the PC version an 85/100, concluding that "Risen is a solid, engrossing and beautifully presented RPG that's well worth your time and money".
+IGN gave the PC version an 8.6/10, praising for its hard yet rewarding gameplay, impressive graphics and solid voice acting, yet still pointed to the combat mechanics being messy while fighting hordes but mentioned "...you'll get better at it as you bump up your skill with a preferred weapon type and unlock new moves, making the experience even easier, though it never quite feels as natural as it should."
+Eurogamer gave the Xbox 360 version a 4/10, but noted that "there's clearly a really good RPG buried under all this technical mediocrity".
+GameZone's Steven Hopper gave the Xbox 360 version 7/10, saying "Risen is a solid game brought down by a shoddy port to consoles. While there's still a lot of fun to be had with the deep missions that foster exploration, the game's technical presentation is subpar and there are some gameplay issues as a result of the move to the Xbox 360."
+Xbox Evolved's Michael Ogunnubi gave the Xbox 360 version of the game 8 out of 10, saying "I highly recommend Risen to players who enjoyed the heck out of somewhat obscure titles like Gothic 1 and 2, Vampire: The Masquerade – Bloodlines, and Avernum, or to those who enjoyed Bethesda's brief experiment in 3D adventure gaming known as Redguard, or finally to those who grew up addicted to highly interactive classics like Ultima VII."
+
+Sequels
+Risen 2: Dark Waters was released for Windows in April 2012 and for Xbox 360 and PlayStation 3 in July/August 2012. Risen 3: Titan Lords was released for Windows, Xbox 360 and PlayStation 3 in August 2014.
+
+References
+External links
+Risen at MobyGames
+Risen at MusicBrainz (list of releases)

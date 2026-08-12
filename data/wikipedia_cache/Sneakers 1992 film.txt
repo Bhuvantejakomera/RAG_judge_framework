@@ -1,0 +1,52 @@
+Sneakers is a 1992 American caper comedy film directed by Phil Alden Robinson from a screenplay co-written with Walter Parkes and Lawrence Lasker. It stars Robert Redford, Dan Aykroyd, Ben Kingsley, Mary McDonnell, River Phoenix, Sidney Poitier and David Strathairn. In the film, Martin (Redford) and his group of security specialists are hired to steal a black box but soon realize the job has nefarious and far-reaching consequences.
+Lasker and Parkes first conceived Sneakers in 1981 during pre-production on WarGames (1983). Redford was the first actor attached to the project, and he helped recruit the remaining cast members, as well as Robinson. Several of the characters were inspired by members of the hacking and national defense communities, and the actors improvised several scenes during filming. Principal photography took place on location across California, with filming taking place in San Francisco, Oakland, Simi Valley, and the Courthouse Square backlot at Universal Studios Hollywood.
+Sneakers was theatrically released in the United States on September 11, 1992, by Universal Pictures. The film received generally positive reviews from critics, with praise for its humor, tone, and plot. It grossed $105.2 million worldwide, becoming the 20th-highest-grossing film of 1992.
+
+Plot
+In 1969, student hackers and long-time friends Martin Brice and Cosmo use their skills to reallocate money from causes they consider evil to underfunded ones that help the world. When Martin steps out to get pizza, the police arrive and arrest Cosmo, forcing Martin into hiding.
+Decades later in San Francisco, Martin, now living under the alias Martin Bishop, leads a penetration testing security team that includes former CIA operative Donald Crease, technician and conspiracy theorist Darren "Mother" Roskow, hacking prodigy Carl Arbogast, and blind phone phreaker Irwin "Whistler" Emery.
+NSA agents approach Martin and reveal they know his true identity. They offer to clear his record if he recovers a Russian-funded black box device, codenamed Setec Astronomy, from mathematician Gunter Janek. With help from ex-girlfriend Liz, Martin and his team steal the device, only to discover it is a codebreaker capable of penetrating even the most secure networks. Realizing that "Setec Astronomy" is an anagram of "too many secrets", Crease locks everyone in the office until it can be handed over to the NSA.
+The next day, Martin delivers the box to the agents but flees after learning Janek was murdered the night before. The team realizes the box was actually funded by the NSA and that the supposed agents are impostors. Martin's friend Gregor, a Russian consulate spy, identifies one as a former NSA agent now working for a crime syndicate. Men posing as FBI agents arrive, kill Gregor with Martin's gun to frame him, and abduct Martin.
+He awakens in an unknown location, where the impostors are revealed to be working for Cosmo. Released early from prison for his hacking skills, Cosmo was recruited by the syndicate to manage its illicit finances. He wants the box to complete what he and Martin began in 1969: erasing financial and ownership records to make the rich and poor equals. He invites Martin to join him, but Martin rejects the plan as too extreme. In retaliation, Cosmo uses the box to access FBI systems, exposing Martin's identities and branding him a fugitive once more.
+Martin and his team contact NSA operations director Bernard Abbott, who agrees to help if they can recover the box. Using sounds Martin recalls from his abduction, Whistler pinpoints Cosmo's office inside the PlayTronics toy company. While researching the building's security, the team identifies employee Werner Brandes and manipulates a dating service to pair him with Liz. During their date, she steals his access codes, allowing Martin to infiltrate PlayTronics.
+Brandes grows suspicious and takes Liz to his office, where Cosmo realizes her link to Martin. He locks down the facility and takes her hostage. Martin surrenders and hands over the box, but again rejects Cosmo's plea to join him. The group escapes and exits the building, only to be confronted by Cosmo again. Unable to kill his old friend, Cosmo lets Martin and the team leave, only to discover Martin has given him an empty box.
+Back at their office, Martin's team is confronted by Abbott and his agents. Martin realizes the box could be used by the NSA to infiltrate U.S. systems such as the FBI and the White House. To secure their silence, Abbott agrees to their demands: clearing Martin's record, funding a vacation for Crease and his wife, buying Mother a Winnebago, and giving Carl the phone number of an attractive NSA agent. After the agents depart, Martin reveals the box is useless; he has removed its core component.
+A news report announces the sudden bankruptcy of the Republican National Committee and the simultaneous receipt of large anonymous donations to Amnesty International, Greenpeace, and the United Negro College Fund.
+
+Cast
+Production
+Lawrence Lasker and Walter F. Parkes first conceived the idea for Sneakers in 1981, while doing research for WarGames. In early drafts, the character of Liz was a bank employee, rather than Martin's ex-girlfriend. The role was changed because Lasker and Parkes believed that it took too long for her character to develop.
+Once Robert Redford was attached to the picture, his name was used to recruit other members of the cast and crew, including the director Robinson, who had little initial interest in the project but had always wanted to work with Redford.
+At one point during the project, Robinson received a visit from men claiming to be representatives of the Office of Naval Intelligence, who indicated that for reasons of national security, the film could not include any references to "a hand-held device that can decode codes". Robinson was highly concerned, as such a device was a key to the film's plot, but after consulting with a lawyer from the film studio, he realized that the "visit" had been a prank instigated by a member of the cast, possibly Aykroyd or Redford.
+Leonard Adleman was the mathematical consultant on this movie. The character of "Bernard Abbott" was named after Robert Abbott, the so-called "Father of Information Security," who was also a consultant for the film. The character "Whistler" was based on Josef "Joybubbles" Engressia and John "Cap'n Crunch" Draper, well-known figures in the phone phreaks and hacking communities. "Donald Crease" was based on John Strauchs, a former CIA officer who founded the security consulting firm Systech Group.  Dan Aykroyd's brother Peter supplied conspiracy material on "UFOS, cattle mutilations, the Tri-Lateral Commission, the staged moon landing, JFK, [and] Marilyn Monroe" that was used to "spice up" his character.
+
+Filming
+Filming took place mainly on-location in San Francisco, Oakland and other parts of the Bay Area. The opening scene was shot at the "Courthouse Square" set on the Universal Studios Hollywood backlot, better known as "Hill Valley" in the Back to the Future films. The "Playtronics" building was a former headquarters for Gibraltar Savings and Loan in Simi Valley, California.
+"I can't remember having so much fun on a movie," Stephen Tobolowsky recalled in 2012 for a 20th-anniversary piece about the film for Slate. He had initially scoffed at the script based on its title alone, but his agent persuaded him to read it, and he reconsidered. Afterward, he told his agent, "Now I know what a hundred million dollars at the box office reads like." "It was one of the most spectacular casts I've ever been lucky enough to be a part of," Tobolowsky wrote. When he was shooting the scene where he and McDonnell eat at a Chinese restaurant, Robinson told him he could do anything he wanted to make her laugh. "Dangerous words. It set the tone for the rest of the shoot," he recalls. "I played with my food. I made up lines (including one about pounding chicken breasts in the kitchen during our second date)." The rest of the cast and crew felt similarly. Near the end of the shoot, Robinson said the only way it could have been better would have been if the lab lost the film, so they would have had to do it all over again.
+
+Release
+The film's press kit was accompanied by a floppy disk containing a custom program explaining the movie. Parts of the program were quasi-encrypted, requiring the user to enter an easily guessable password to proceed. It was one of the first electronic press kits by a film studio.
+
+Reception
+The film received generally positive reviews from critics upon its release. Writing for the Los Angeles Times, Kenneth Turan called Sneakers "[a] caper movie with a most pleasant sense of humor", a "twisting plot", and a "witty, hang-loose tone." Turan went on to praise the ensemble cast and director Robinson, who is "surprisingly adept at creating tension at appropriate moments" and "makes good use of the script's air of clever cheerfulness". Roger Ebert, writing for the Chicago Sun-Times, was less impressed, giving the film two-and-a-half stars out of four, calling it "a sometimes entertaining movie, but thin." He went on to point out numerous clichés and tired plot devices recycled in the film. Vincent Canby, writing for The New York Times, said the film looked like it had "just surfaced after being buried alive for 20 years."
+On Rotten Tomatoes, the film has an approval rating of 79% based on reviews from 57 critics. The website's consensus states: "There isn't much to Sneakers' plot and that's more than made up for with the film's breezy panache and hi-tech lingo." On Metacritic, the film has a score of 65 out of 100 based on reviews from 20 critics, indicating "generally favorable reviews".
+Audiences surveyed by CinemaScore gave the film a grade A− on a scale of A to F.
+
+The film was a box office success, grossing over $105.2 million worldwide.
+
+Novelization
+A novelization of the film written by Dewey Gram was published in English (Signet, 1992, ISBN 0451174704) and translated into German (Droemer Knaur, 1993, ISBN 3-426-60177-X).
+
+Potential TV series
+In October 2016, NBC was developing a TV series based on the film. Writer Walter Parkes was brought on as an executive producer.
+
+See also
+List of films about mathematicians
+List of films featuring surveillance
+
+References
+External links
+Sneakers at IMDb
+Sneakers at the TCM Movie Database (archived)
+Sneakers at the AFI Catalog of Feature Films
+Leonard Adleman's recollections of Sneakers

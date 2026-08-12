@@ -1,0 +1,33 @@
+Seed was a massively multiplayer online role-playing game (MMORPG) developed by Danish studio Runestone Game Development. Aiming for a radically different experience than most other games in the genre, the game focused on character interaction and politics to the extent that combat was entirely removed from the design.
+Beta testing started on February 1, 2006. Open beta testing started on April 25, 2006. The game was released to the public on May 2, 2006.
+As of September 28, 2006, Runestone decided to file a bankruptcy petition to the court of Aarhus, Denmark. A public statement explained that the lack of money was caused by failing to achieve a partnership deal with publishers and MMO companies.
+
+Story
+Having successfully colonized the Moon and Mars, humanity was looking to spread far across the universe. The creation of ram scoop propulsion made this dream a reality.
+Five seed ships were built, each a kilometer long and populated with machinery designed to terraform a suitable planet. Humans would not ride along for the journey; instead, DNA codes, sperm, and eggs were carried along in cryocoolers to be hatched by the TAU computers at the appropriate time.
+The TAU computers also carried a wealth of human knowledge. This was the subject of a long and heated debate on what should be included. Finally, it was decided to make the colonies idealist societies; therefore, references to wars and violence were not included.
+After searching the universe for several years, the first suitable planet was spotted near the star Beta Hydri 24.4 light years from the Sun. Probes indicated that the planet had an atmosphere, water and living microorganisms. It was to be the destination of the first seed ship.
+However, something went wrong and suddenly the colony has found itself on a planet that has not been terraformed, as was the plan, and without contact to Earth.
+
+Gameplay
+Players were colonists and instead of doing combat in the traditional sense the game focused on politics and manual labor. Players politically fought for sectors of the station which could then be equipped to provide services to other players. Using tools the player could manufacture new technology as well as repair parts of the station that were slowly degrading. Letting too many failing systems in the station rendered machinery unavailable until players repaired them.
+
+Technology
+Seed ships
+Seed ships ships use the latest technology Earth has to offer. Employing ram scoop propulsion, they are able to travel vast distances across the universe. The ship's primary purpose is to find a habitable planet, and to terraform it as necessary for human life. These massive ships are a kilometer in length and carry all the machinery needed to start a colony on a new planet.
+
+TAU
+The Terraforming Assistance Unit is the central AI of the colony.
+
+Ring
+The "guilds" or "clans" of seed.
+
+Closed
+As of September 28, 2006, Runestone, the developer and publisher of Seed, officially announced the game's closing.
+
+References
+External links
+Developer's site
+Qube Software Archived 2004-09-04 at the Wayback Machine
+Forum of the Seed Community
+Post-mortem interview with Lars Kroll Kristensen

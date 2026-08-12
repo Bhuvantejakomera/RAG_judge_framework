@@ -1,0 +1,29 @@
+The Petrushka chord is a recurring polytonal device featured in Igor Stravinsky's 1911 ballet Petrushka, as well as in later compositions. It consists of two major triads separated by a tritone; when sounded together, the chords clash "horribly with each other", producing a distinctive and dissonant sound.
+
+Structure
+The Petrushka chord is typically defined as the simultaneous sounding of two major triads separated by a tritone. In Petrushka, Stravinsky employs C major over F♯ major. The version as played in the piano during the second tableau is illustrated below:
+
+A variation of the chord, played by the clarinets, is also shown below. In this instance, the F♯ major triad appears in first inversion:
+
+The device uses tones that, together, make up a synthetic hexatonic scale (0 1 4 6 7 t). When enharmonically spelled C–D♭–E–G♭–G(♮)–B♭, it is called the tritone scale. Alternatively, when spelled C–D♭–E–F♯–G–B♭, it can be read as the auxiliary diminished scale.
+The chords may be considered to contradict each other because of the tritone relationship: "Any tendency for a tonality to emerge may be avoided by introducing a note three whole tones distant from the key note of that tonality."
+At the end of the third tableau, the Petrushka chord appears with Petrushka but at A and E♭, which, with C and F♯, create a diminished seventh chord (0, 3, 6, 9) and exhaust the octatonic scale (9 1 4, 3 7 t, 0 4 7, and 6 t 1 = 0 1 3 4 6 7 9 t), "and suggests that it did ... possess for Stravinsky an a priori conceptual status".
+
+Petrushka and origin
+Although attributed to Stravinsky, the chord (or, more precisely, two simultaneous major chords set a tritone apart, specifically F and B major) was present much earlier in Franz Liszt's Malédiction, a work for piano and strings. (Although the exact date of the composition remains unknown, it is estimated by Humphrey Searle to be from about 1840; the composition is believed to have originated from one of Liszt's early works, performed in 1827.)
+Maurice Ravel uses this chord in his piano work Jeux d'eau to create flourishing, water-like sounds that characterize the piece. In his article "Ravel's 'Russian' Period: Octatonicism in His Early Works, 1893-1908", Steven Baur notes that Jeux d'eau was composed in 1901, ten years before Stravinsky composed Petrushka (1911), suggesting that Stravinsky may have learned the trick from Ravel.  Stravinsky heard Jeux d'eau and several other works by Ravel no later than 1907 at the "Evenings for Contemporary Music" program.
+Stravinsky used the chord repeatedly throughout the ballet Petrushka to represent the puppet and devised the chord to represent the puppet's mocking of the crowd at the Shrovetide Fair. Eric Walter White suggests and dismisses the possibility that the Petrushka chord is derived from Messiaen's "second Modes of limited transposition" (the octatonic scale) in favor of a "black key/white key bitonality" which results from, "Stravinsky's well known habit of composing at the piano."
+
+Other uses
+The 1979 song "Kogaion" by Romanian progressive rock band Sfinx makes use of the chord.
+The Petrushka chord is dominantly used in the track Above the Clouds, from the 2003 simulation game Sim City 4.
+
+See also
+Polychord
+Elektra chord
+Mystic chord
+Psalms chord
+Tristan chord
+
+
+== References ==

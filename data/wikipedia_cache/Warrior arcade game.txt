@@ -1,0 +1,19 @@
+Warrior is a 1979 arcade fighting game. It is considered one of the first fighting games, excepting several boxing games such as Heavyweight Champ, released in 1976, and Atari's unreleased Boxer (which was cloned as 1980's Boxing for the Atari 2600).
+Developed by Tim Skelly while working at Cinematronics, it was released under the Vectorbeam company name shortly before Cinematronics closed Vectorbeam, which they had purchased in 1978. The game featured two dueling knights rendered in monochrome vector graphics and based on crude motion capture techniques.  Due to the limitations of the hardware, the processor could not render the characters and gaming environment at the same time, so backgrounds were printed and the characters projected on top of them.
+
+Controls
+Originally Skelly planned for a two-player system with each player using two joysticks, one to control the movement of the player and the other controlling the player's weapon.  However, financial constraints restricted the cabinet to one stick for each player and a button to switch between character and weapon modes. The sticks were produced in house and installed in cabinets in a way that players found unresponsive and difficult to use.
+
+Legacy
+The cabinets and hardware were produced on a low budget and proved to be very unreliable when compared to contemporary machines.  As a result, very few remain in working order, with only one known restored machine in the United Kingdom Warrior is emulated by MAME.
+
+See also
+List of fighting games
+List of fighting game developers
+
+References
+Further reading
+"The Making of... Warrior". (December 2006) Edge Magazine 169, pp. 101–103
+
+External links
+Warrior at the Killer List of Videogames

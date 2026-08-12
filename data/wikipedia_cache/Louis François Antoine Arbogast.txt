@@ -1,0 +1,15 @@
+Louis François Antoine Arbogast (4 October 1759 – 8 April 1803) was a French mathematician. He was born at Mutzig in Alsace and died at Strasbourg, where he was professor. He wrote on series and the derivatives known by his name: he was the first writer to separate the symbols of operation from those of quantity, introducing systematically the operator notation DF for the derivative of the function F. In 1800, he published a calculus treatise where the first known statement of what is currently known as Faà di Bruno's formula appears, 55 years before the first published paper of Francesco Faà di Bruno on that topic.
+
+Biography
+He was professor of mathematics at the Collège de Colmar and entered a mathematical competition run by the Saint Petersburg Academy. His entry was to bring him fame and an important place in the history of the development of the calculus. Arbogast submitted an essay to the Saint Petersburg Academy in which he came down firmly on the side of Euler. In fact he went much further than Euler in the type of arbitrary functions introduced by integrating partial differential equations, claiming that the functions could be discontinuous not only in the limited sense claimed by Euler, but discontinuous in a more general sense that he defined that allowed piecewise functions consisting of portions of different curves. Arbogast won the prize with his essay, and his notion of discontinuous function became important in Cauchy's more rigorous approach to analysis.
+In 1789 he submitted in Strasbourg a major report on the differential and integral calculus to the Académie des Sciences in Paris which was never published. In the Preface of a later work he described the ideas that prompted him to write the major report of 1789. Essentially he realised that there were no rigorous methods to show convergence of series. In addition to his mathematics post, he was appointed as professor of physics at the Collège Royal in Strasbourg and from April 1791 he served as its rector until October 1791 when he was appointed rector of the University of Strasbourg; in 1794 he was appointed Professor of Calculus at the École centrale des travaux publics et militarisée (soon to become École Polytechnique) but he taught at the École préparatoire.
+His contributions to mathematics show him as a philosophical thinker. As well as introducing discontinuous functions, he described calculus with operational symbols. The formal algebraic manipulation of series investigated by Lagrange and Laplace in the 1770s was put in the form of operational calculus by Arbogast in 1800. He coined the term factorial for a product of a finite number of terms in arithmetic progression.
+
+Notes
+References
+Further reading
+A Short Account of the History of Mathematics at Project Gutenberg
+Itard, Jean (1970), "Arbogast, Louis François Antoine", Dictionary of Scientific Biography, vol. 1, New York: Charles Scribner's Sons, pp. 206–208, ISBN 0-684-10114-9.
+
+External links
+O'Connor, John J.; Robertson, Edmund F., "Louis François Antoine Arbogast", MacTutor History of Mathematics Archive, University of St Andrews

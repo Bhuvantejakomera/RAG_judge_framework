@@ -1,0 +1,103 @@
+The Mon language, formerly known as Peguan and Talaing, is an Austroasiatic language spoken by the Mon people. Mon, like the related Khmer language, but unlike most languages in mainland Southeast Asia, is not tonal. The Mon language is a recognised indigenous language in Myanmar as well as an indigenous language of Thailand.
+Mon was classified as a "vulnerable" language in UNESCO's 2010 Atlas of the World’s Languages in Danger. The Mon language has faced assimilative pressures in both Myanmar and Thailand, where many individuals of Mon descent are now monolingual in Burmese or Thai respectively. In 2007, Mon speakers were estimated to number between 1,800,000 and 2 million. In Myanmar, the majority of Mon speakers live in Southern Myanmar, especially Mon State, followed by Tanintharyi Region and Kayin State.
+
+History
+Mon is an important language in Burmese history. Until the 12th century, it was the lingua franca of the Irrawaddy valley—not only in the Mon kingdoms of the lower Irrawaddy but also of the upriver Pagan Kingdom of the Bamar people. Mon, especially written Mon, continued to be a prestige language even after the fall of the Mon kingdom of Thaton to Pagan in 1057. King Kyansittha of Pagan (r. 1084–1113) admired Mon culture and the Mon language was patronized. 
+Kyansittha left many inscriptions in Mon. During this period, the Myazedi inscription, which contains identical inscriptions of a story in Pali, Pyu, Mon and Burmese on the four sides, was carved. However, after Kyansittha's death, usage of the Mon language declined among the Bamar and the Burmese language began to replace Mon and Pyu as a lingua franca.
+Mon inscriptions from Dvaravati's ruins also litter Thailand. However it is not clear if the inhabitants were Mon, a mix of Mon and Malay or Khmer. Later inscriptions and kingdoms like Lavo were subservient to the Khmer Empire.
+
+After the fall of Pagan, Mon again became the lingua franca of the Hanthawaddy kingdom (1287–1539) in present-day Lower Myanmar, which remained a predominantly Mon-speaking region until the 1800s, by which point, the Burmese language had expanded its reach from its traditional heartland in Upper Burma into Lower Burma.
+The region's language shift from Mon to Burmese has been ascribed to a combination of population displacement, intermarriage, and voluntary changes in self-identification among increasingly Mon–Burmese bilingual populations in throughout Lower Burma. The shift was certainly accelerated by the fall of the Mon-speaking Restored Hanthawaddy Kingdom in 1757. Following the fall of Pegu (now Bago), many Mon-speaking refugees fled and resettled in what is now modern-day Thailand. By 1830, an estimated 90% of the population in the Lower Burma self-identified as Burmese-speaking Bamars; huge swaths of former Mon-speaking areas, from the Irrawaddy Delta upriver, spanning Bassein (now Pathein) and Rangoon (now Yangon) to Tharrawaddy, Toungoo, Prome (now Pyay) and Henzada (now Hinthada), were now Burmese-speaking. Great Britain's gradual annexation of Burma throughout the 19th century, in addition to concomitant economic and political instability in Upper Burma (e.g., increased tax burdens to the Burmese crown, British rice production incentives, etc.) also accelerated the migration of Burmese speakers from Upper Burma into Lower Burma.
+The Mon language has influenced subtle grammatical differences between the varieties of Burmese spoken in Lower and Upper Burma. In Lower Burmese varieties, the verb ပေး ("to give") is colloquially used as a permissive causative marker, like in other Southeast Asian languages, but unlike in other Tibeto-Burman languages. This usage is hardly employed in Upper Burmese varieties, and is considered a sub-standard construct.
+In 1972, the New Mon State Party (NMSP) established a Mon national school system, which uses Mon as a medium of instruction, in rebel-controlled areas. The system was expanded throughout Mon State following a ceasefire with the central government in 1995. Mon State now operates a multi-track education system, with schools either using Mon as the primary medium of instruction (called Mon national schools) offering modules on the Mon language in addition to the government curriculum (called "mixed schools"). In 2015, Mon language courses were launched state-wide at the elementary level. This system has been recognized as a model for mother-tongue education in the Burmese national education system, because it enables children taught in the Mon language to integrate into the mainstream Burmese education system at higher education levels.
+In 2013, it was announced that the Mawlamyine-based Thanlwin Times would begin to carry news in the Mon language, becoming Myanmar's first Mon language publication since 1962.
+
+Geographic distribution
+Southern Myanmar (comprising Mon State, Kayin State, and Tanintharyi Region), from the Sittaung River in the north to Myeik (Mergui) and Kawthaung in the south, remains a traditional stronghold of the Mon language. However, in this region, Burmese is favored in urban areas, such as Mawlamyine, the capital of Mon State. In recent years, usage of Mon has declined in Myanmar, especially among the younger generation.
+While Thailand is home to a sizable Mon population due to historical waves of migration, only a small proportion (estimated to range between 60,000 and 80,000) speak Mon, due to Thaification and the assimilation of Mons into mainstream Thai society. Mon speakers in Thailand are largely concentrated in Ko Kret. The remaining contingent of Thai Mon speakers are located in the provinces of Samut Sakhon, Samut Songkhram, Nakhon Pathom, as well the western provinces bordering Myanmar (Kanchanaburi, Phetchaburi, Prachuap Khiri Khan, and Ratchaburi). A small ethnic group in Thailand speak a language closely related to Mon, called Nyah Kur. They are descendants of the Mon-speaking Dvaravati kingdom.
+
+Dialects
+Mon has three primary dialects in Burma, coming from the various regions the Mon inhabit. They are the Central (areas surrounding Mottama and Mawlamyine), Bago, and Ye dialects. All are mutually intelligible. Ethnologue lists Mon dialects as Martaban-Moulmein (Central Mon, Mon Te), Pegu (Mon Tang, Northern Mon), and Ye (Mon Nya, Southern Mon), with high mutual intelligibility among them.
+Thai Mon has some differences from the Burmese dialects of Mon, but they are mutually intelligible. The Thai varieties of Mon are considered "severely endangered."
+
+Phonology
+Consonants
+/ç/ is only found in Burmese loans.
+Implosives are lost in many dialects and become explosives instead.
+
+Vowels
+Vocalic register
+Unlike the surrounding Burmese and Thai languages, Mon is not a tonal language. As in many Mon–Khmer languages, Mon uses a vowel-phonation or vowel-register system in which the quality of voice in pronouncing the vowel is phonemic. There are two registers in Mon:
+
+Clear (modal) voice, analyzed by various linguists as ranging from ordinary to creaky
+Breathy voice, vowels have a distinct breathy quality
+One study involving speakers of a Mon dialect in Thailand found that in some syllabic environments, words with a breathy voice vowel are significantly lower in pitch than similar words with a clear vowel counterpart. While difference in pitch in certain environments was found to be significant, there are no minimal pairs that are distinguished solely by pitch. The contrastive mechanism is the vowel phonation.
+In the examples below, breathy voice is marked with under-diaeresis.
+
+Syntax
+Pronouns
+Verbs and verb phrases
+Mon verbs do not inflect for person. Tense is shown through particles.
+Some verbs have a morphological causative, which is most frequently a /pə-/ prefix (Pan Hla 1989:29):
+
+Nouns and noun phrases
+Singular and plural
+Mon nouns do not inflect for number. That is, they do not have separate forms for singular and plural:
+
+Adjectives
+Adjectives follow the noun (Pan Hla p. 24):
+
+Demonstratives
+Demonstratives follow the noun:
+
+Classifiers
+Like many other Southeast Asian languages, Mon has classifiers which are used when a noun appears with a numeral. The choice of classifier depends on the semantics of the noun involved.
+
+Prepositions and prepositional phrases
+Mon is a prepositional language.
+
+Sentences
+The ordinary word order for sentences in Mon is subject–verb–object, as in the following examples
+
+Questions
+Yes–no questions are shown with a final particle ha
+
+Wh-questions show a different final particle, rau. The interrogative word does not undergo wh-movement. That is, it does not necessarily move to the front of the sentence:
+
+Notes
+References
+Further reading
+Aung-Thwin, Michael (2005). The mists of Rāmañña: The Legend that was Lower Burma (illustrated ed.). Honolulu: University of Hawai'i Press. ISBN 9780824828868.
+Bauer, Christian (1982). Morphology and syntax of spoken Mon (PhD dissertation). University of London (SOAS).
+Bauer, Christian (1984). A guide to Mon studies. Working Papers. Vol. 32. Monash University. ISBN 0867463481.
+Bauer, Christian (1986). "The verb in spoken Mon" (PDF). Mon-Khmer Studies. 15: 87–110. Archived from the original (PDF) on 2015-06-16.
+Bauer, Christian (Spring 1986). "Questions in Mon: Addenda and Corrigenda" (PDF). Linguistics of the Tibeto-Burman Area. 9 (1): 22–26. doi:10.32655/LTBA.9.1.02. Archived from the original (PDF) on 2022-01-24.
+Diffloth, Gerard (1984). The Dvarati Old Mon language and Nyah Kur. Monic Language Studies. Vol. I. Bangkok: Chulalongkorn University. ISBN 974-563-783-1.
+Diffloth, Gerard (1985). "The registers of Mon vs. the spectrographist's tones". UCLA Working Papers in Phonetics. 60: 55–58.
+Ferlus, Michel (1984). "Essai de phonetique historique du môn" (PDF). Mon-Khmer Studies. 12: 1–90. Archived from the original (PDF) on 2015-06-16.
+Guillon, Emmanuel (1976). Some aspects of Mon syntax. Oceanic Linguistics Special Publications. University of Hawai'i Press. pp. 407–421. JSTOR 20019165.
+Halliday, Robert (1922). A Mon–English dictionary. Bangkok: Siam Society.
+Haswell, J. M. (1874). Grammatical Notes and Vocabulary of the Peguan Language: To which are Added a Few Pages of Phrases, &c. American Mission Press.
+Huffman, Franklin (1990). "Burmese Mon, Thai Mon, and Nyah Kur: a synchronic comparison" (PDF). Mon-Khmer Studies. 16–17: 31–84. Archived from the original (PDF) on 2015-06-16.
+Jenny, Mathias (2005). The Verb System of Mon (Thesis). Zürich: Universität Zürich. ISBN 3-9522954-1-8.
+Lee, Thomas (1983). "An acoustical study of the register distinction in Mon". UCLA Working Papers in Phonetics. 57: 79–96.
+Lieberman, Victor B. (2003). Strange Parallels: Southeast Asia in Global Context, c. 800–1830. Vol. 1: Integration on the Mainland. Cambridge University Press. ISBN 978-0-521-80496-7.
+Pan Hla, Nai (1986). "Remnant of a lost nation and their cognate words to Old Mon Epigraph" (PDF). Journal of the Siam Society. 74: 122–155. Archived from the original (PDF) on 2020-07-18.
+Pan Hla, Nai (1989). An introduction to Mon language. Center for Southeast Asian Studies, Kyoto University.
+Pan Hla, Nai. 1992. The Significant Role of the Mon Language and Culture in Southeast Asia. Tokyo, Japan: Institute for the Study of Languages and Cultures of Asia and Africa.
+Shorto, H.L. 1962. A Dictionary of Modern Spoken Mon. Oxford University Press.
+Shorto, H.L.; Judith M. Jacob; and E.H.S. Simonds. 1963. Bibliographies of Mon–Khmer and Tai Linguistics. Oxford University Press.
+Shorto, H.L. 1966. "Mon vowel systems: a problem in phonological statement". in Bazell, Catford, Halliday, and Robins, eds. In memory of J.R. Firth, pp. 398–409.
+Shorto, H.L. 1971. A Dictionary of the Mon Inscriptions from the Sixth to the Sixteenth Centuries. Oxford University Press.
+Thongkum, Therapan L. (1987). "Another look at the register distinction in Mon". UCLA Working Papers in Phonetics. 67: 132–165.
+
+External links
+
+A hypertext grammar of the Mon language Archived 2016-11-17 at the Wayback Machine
+SEAlang Project: Mon–Khmer languages: The Monic Branch
+Old Mon inscriptions database
+The Ananda "Basement" Plaques
+Mon-language Swadesh vocabulary list of basic words (from Wiktionary's Swadesh-list appendix)
+Mon Language Project
+Mon Language in Thailand: The endangered heritage
+"Monic". Archived from the original (lecture) on 2007-09-15. Retrieved 2007-09-21.

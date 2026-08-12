@@ -1,0 +1,43 @@
+The Net is a 1995 American action thriller film directed by Irwin Winkler and starring Sandra Bullock, Jeremy Northam, and Dennis Miller. The film was released by Sony Pictures Releasing through its Columbia Pictures label on July 28, 1995.
+In the film, a systems analyst with few personal contacts learns that all records about her life have been deleted, that her house has also been emptied, and she must now find a way to reclaim her original identity.
+
+Plot
+United States Under Secretary of Defense Michael Bergstrom commits suicide after being informed that he has tested positive for HIV.
+The relationships of freelance Venice, Los Angeles systems analyst Angela Bennett are almost completely online and on the phone, with the exception of forgettable interactions with her neighbors and visits to her mother, who is institutionalized with Alzheimer's disease and often forgets who she is. Angela's co-worker Dale, in San Francisco, sends her a floppy disk of the band website "Mozart's Ghost" with a backdoor labeled "π" that permits access to a commonly used computer security system called "Gatekeeper" sold by Gregg Microsystems, a software company led by CEO Jeff Gregg. Angela and Dale agree to meet the next morning, as he is planning on taking his own plane, but the navigation system in Dale's private aircraft malfunctions and the plane crashes, killing him.
+Angela travels to Cozumel, Mexico, on vacation, where she meets Jack Devlin. After seducing Angela, Devlin pays a mugger to steal her purse. He chases the mugger, catches him, and roots through the purse to find the disk before shooting the mugger dead. The robber takes Angela out on his speedboat to kill her as well, but she finds his gun and confronts him. While fleeing with the disk and Devlin's wallet, Angela's dinghy collides with rocks, knocking her unconscious.
+Three days later, Angela finds that the disk was ruined by the sun and all records of her life have been deleted. Because none of the neighbors remember her, they cannot confirm her identity. Angela's Social Security number is now assigned to Ruth Marx, for whom Devlin has entered an arrest record. When Angela calls her own desk at Cathedral Software, Ruth, impersonating her, answers and offers her old life back in exchange for the disk. She contacts the only other person who knows her by sight, psychiatrist and former lover Alan Champion. He checks her into a hotel, offers to contact a friend at the FBI, and arranges to have her mother moved for her safety.
+Using her knowledge of the backdoor and a password found in Devlin's wallet, Angela logs into the Bethesda Naval Hospital's computers and learns that Under Secretary of Defense Bergstrom, who had opposed Gatekeeper's use by the federal government, was murdered by altering the results of his HIV test, leading to a misdiagnosis. Fellow hacker "Cyberbob" connects π with the "Praetorians", a group of cyberterrorists linked to recent computer failures around the country. Angela and Cyberbob plan to meet, but the Praetorians intercept their online chat. Angela escapes from Devlin, who is revealed to be a contract killer for the cyberterrorists, but the Praetorians kill Champion by tampering with pharmacy and hospital computer records. After Angela is arrested by the California Highway Patrol, a man identifying himself as Champion's FBI friend frees her from jail. She realizes he is an impostor and escapes again, resulting in the impostor's death in a car crash.
+Now wanted for murder and thought to be Ruth, Angela hitchhikes to Cathedral's office where, using Ruth's computer, she connects the cyberterrorists to Gregg Microsystems and uncovers their scheme: once the Praetorians sabotage an organization's computer system, Gregg sells Gatekeeper to it and gains unlimited access through the backdoor. Angela emails evidence of the backdoor and Gregg's involvement with the Praetorians to the FBI from the Moscone Center and tricks Devlin into releasing a virus into Gregg's mainframe, destroying Gatekeeper and undoing the erasure of her identity. During a battle on the catwalks of the convention center, Devlin accidentally shoots Ruth dead, but Angela ambushes him, causing him to fall to his death. Regaining her identity and life, Angela reunites with her mother, and the conspiracy is exposed, with Gregg being arrested by the FBI.
+
+Cast
+Production
+Filming
+In October 1994, Bullock committed to filming The Net from mid-January through April 10, 1995. The Net was filmed in San Francisco's Moscone Center on Thursday, January 5, 1995, during Macworld as well as at Washington, D.C., locations in April 1995.
+
+Reception
+Box office
+With an estimated budget of $22 million and a release date of July 28, 1995, The Net grossed $50.7 million in the United States and Canada. Including foreign markets, the film grossed $110.6 million worldwide.
+
+Critical response
+Based on 59 reviews on Rotten Tomatoes, 44% of critics gave it positive reviews. The site's consensus states: "The premise isn't without potential and Sandra Bullock is as likable as ever, but The Net lacks sufficient thrills – or plausible plot points – to recommend catching." Metacritic, using a weighted average, assigned the film a score of 51 out of 100 based on 22 reviews, indicating "mixed or average reviews". Roger Ebert gave the film three out of four stars, describing The Net as basically an update of an Alfred Hitchcock trope ("Innocent Person Wrongly Accused"), which was in parts contrived but carried by Bullock's naturalistic performance. 
+Owen Gleiberman, writing for Entertainment Weekly, complimented Sandra Bullock's performance, saying, "Bullock pulls you into the movie. Her overripe smile and clear, imploring eyes are sometimes evocative of Julia Roberts". Audiences polled by CinemaScore gave the film an average grade of "B" on an A+ to F scale.
+
+Home media
+The Net was released on VHS on January 9, 1996, by Columbia TriStar Home Video. It proved very successful in the video rental market, becoming the 10th most-rented film in the United States for 1996.
+
+Sequel
+A sequel named The Net 2.0, starring Nikki DeLoach as Hope Cassidy and directed by Charles Winkler, son of Irwin Winkler, was announced in February 2005. It was released direct-to-video in 2006, and was about a young systems analyst who arrives in Istanbul for her new job, to find that her identity has been stolen.
+
+Television series
+The film spawned an American spinoff television series of the same name, starring Brooke Langton as Angela Bennett.
+
+See also
+List of films featuring surveillance
+
+References
+External links
+
+Official website
+The Net at IMDb
+The Net at Rotten Tomatoes
+The Net at Box Office Mojo

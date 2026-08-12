@@ -1,0 +1,55 @@
+Suicide: A Study in Sociology (French: Le Suicide: Étude de sociologie) is an 1897 book written by French sociologist Émile Durkheim. It was the second methodological study of a social fact in the context of society (it was preceded by a sociological study by a Czech author, later the president of Czechoslovakia: Tomáš Garrigue Masaryk, Der Selbstmord als soziale Massenerscheinung der Gegenwart, 1881, Czech 1904). It is ostensibly a case study of suicide, a publication unique for its time that provided an example of what the sociological monograph should look like.
+According to Durkheim,
+
+the term suicide is applied to all cases of death resulting directly or indirectly from a positive or negative act of the victim himself, which he knows will produce this result.
+
+Four types of Suicide
+In Durkheim's view, suicide comes in four types, which are based on the degrees of imbalance of two social forces: social integration and moral regulation. Durkheim noted the effects of various crises on social aggregates—war, for example, leading to an increase in altruism, economic boom or disaster contributing to anomie.
+Egoistic suicide reflects a prolonged sense of not belonging, of not being integrated in a community. It results from the suicidee's sense that they have no tether. This absence can give rise to meaninglessness, apathy, melancholy, and depression.
+Durkheim calls such detachment "excessive individuation." Those individuals who were not sufficiently bound to social groups (and therefore well-defined values, traditions, norms, and goals) were left with little social support or guidance, and were therefore more likely to die by suicide. Durkheim found that suicide occurred more often among unmarried people, especially unmarried men, whom he found had less to bind and connect them to stable social norms and goals.
+Altruistic suicide is characterized by a sense of being overwhelmed by a group's goals and beliefs. It occurs in societies with high integration, where individual needs are seen as less important than the society's needs as a whole. They thus occur on the opposite integration scale as egoistic suicide. As individual interest would not be considered important, Durkheim stated that in an altruistic society there would be little reason for people to die by suicide. He described one exception: when the individual is expected to kill themself on behalf of society, for example in military service.
+Anomic suicide reflects an individual's moral confusion and lack of social direction, which is related to dramatic social and economic upheaval. It is the product of moral deregulation and a lack of definition of legitimate aspirations through a restraining social ethic, which could impose meaning and order on the individual conscience. This is symptomatic of a failure of economic development and division of labour to produce Durkheim's organic solidarity. People do not know where they fit within their societies. Durkheim explains that this is a state of moral disorder where people do not know the limits on their desires and are constantly in a state of disappointment. This can occur when they go through extreme changes in wealth; while this includes economic ruin, it can also include windfall gains—in both cases, previous expectations from life are brushed aside and new expectations are needed before they can judge their new situation in relation to the new limits.
+Fatalistic suicide occurs when a person is excessively regulated, when their futures are pitilessly blocked and passions violently choked by oppressive discipline. It is the opposite of anomic suicide, and occurs in societies so oppressive their inhabitants would rather die than live on. For example, some prisoners might prefer to die than live in a prison with constant abuse and excessive regulation. Unlike the other concepts he developed, Durkheim believed that fatalistic suicide was theoretical and probably did not exist in reality. However, recent empirical evidence demonstrates that fatalistic suicide exists in contemporary society.
+
+Findings
+Durkheim concluded that suicide rates are higher:
+
+in men than women (although married women who remained childless for several years ended up with a high suicide rate).
+for those who are single than those who are in a sexual relationship.
+for people without children than people with children.
+among Protestants than Catholics and Jews.
+among soldiers than civilians.
+in times of peace than in times of war. (For example, the suicide rate in France fell after the coup d'état of Louis-Napoléon Bonaparte. War also reduced the suicide rate: after war broke out in 1866 between Austria and Italy, the suicide rate fell by 14 per cent in both countries.)
+in Scandinavian countries.
+He also concluded that, the higher the education level, the more likely it was that an individual would choose suicide. However, Durkheim established that there is more correlation between an individual's religion and suicide rate than an individual's education level. Jewish people were generally highly educated but had a low suicide rate.
+
+Criticisms
+Ecological fallacy
+Durkheim has been accused of committing an ecological fallacy since Durkheim's conclusions are apparently about individual behaviour (e.g. suicide), although they are derived from aggregate statistics (the suicide rate among Protestants and Catholics). This type of inference, which explains particular events (the "micro") in terms of statistical data (the "macro"), is often misleading, as Simpson's paradox shows.
+However, diverging views have contested whether Durkheim's work really contained an ecological fallacy. Van Poppel and Day (1996) argue that differences in reported suicide rates between Catholics and Protestants could be explained entirely in terms of how these two groups record deaths. Protestants would record "sudden deaths" and "deaths from ill-defined or unspecified cause" as suicides, while Catholics would not. If so, then Durkheim's error was empirical, not logical. Inkeles (1959), Johnson (1965), and Gibbs (1958) claimed that Durkheim only intended to explain suicide sociologically, within a holistic perspective, emphasizing that "he intended his theory to explain variation among social environments in the incidence of suicide, not the suicides of particular individuals".
+More recently, Berk (2006) questions the micro–macro relations underlying criticisms of Durkheim's work. He notices that
+
+Durkheim speaks of a "collective current" that reflects the collective inclination flowing down the channels of social organization. The intensity of the current determines the volume of suicides ... Introducing psychological [i.e. individual] variables such as depression, [which could be seen as] an independent [non-social] cause of suicide, overlooks Durkheim's conception that these variables are the ones most likely to be affected by the larger social forces and without these forces suicide may not occur within such individuals.
+
+Catholics and Protestants
+Durkheim explores the differing suicide rates among Protestants and Catholics, arguing that stronger social control among Catholics results in lower suicide rates. According to Durkheim, Catholic society has normal levels of integration while Protestant society has low levels.
+This interpretation has been contested. Durkheim may have over-generalized. He took most of his data from earlier researchers, notably Adolph Wagner and Henry Morselli, but they had been more careful in generalizing from their data. Indeed, later researchers found that the Protestant–Catholic differences in suicide seemed to be limited to German-speaking Europe, thus suggesting a need to account for other contributing factors. Despite its limitations, Durkheim's work on suicide has influenced proponents of control theory, and is often mentioned  as a classic sociological study.
+Jean Baechler sharply critiques Durkheim's correlation between religion and suicide, asserting that the degree of cohesion within a religious community does not determine the protective value against suicide, as Durkheim suggests. Baechler states, "there is no intelligible relationship possible between (the) various religions and suicide". Furthermore, he argues that "the differences in social cohesion determined by the various religions are a pure Durkheimian fantasy: assuming they exist, it is unclear what standard one could use to measure them". According to Baechler, the religious element is only a minor factor when compared to peoples' complex individual biographies.
+
+Selected editions
+1951. Suicide: A Study in Sociology, translated by John A. Spaulding and George Simpson, edited with an introduction by George Simpson.  New York: The Free Press. ISBN 0-684-83632-7.
+1967. Le suicide. Étude de sociologie (2nd ed.). Paris: Les Presses universitaires de France. doi:10.1522/cla.due.sui2
+2005. Suicide: A Study in Sociology, translated by J. A. Spaulding and G. Simpson. London: Routledge. ISBN 0-203-99432-9.
+
+See also
+Antipositivism
+Positivism
+Suicidology
+
+References
+Further reading
+Pickering, W.S.F.; Walford, Geoffrey (2000). Durkheim's Suicide: A Century of Research and Debate. Routledge. ISBN 978-0415205825.
+
+External links
+Suicide: A Study in Sociology at the Internet Archive
+(in French) Full text

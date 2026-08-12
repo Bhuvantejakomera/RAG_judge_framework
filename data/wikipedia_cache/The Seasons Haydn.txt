@@ -1,0 +1,81 @@
+The Seasons (German: Die Jahreszeiten, Hob. XXI:3) is a secular oratorio by Joseph Haydn, first performed in 1801.
+
+History
+Haydn was led to write The Seasons by the great success of his previous oratorio The Creation (1798), which had become very popular and was in the course of being performed all over Europe.
+
+Libretto
+The libretto for The Seasons was prepared for Haydn, just as with The Creation, by Baron Gottfried van Swieten, an Austrian nobleman who had also exercised an important influence on the career of Mozart (among other things commissioning Mozart's reorchestration of Handel's Messiah). Van Swieten's libretto was based on extracts from the long English poem "The Seasons" by James Thomson (1700–1748), which had been published in 1730.
+Whereas in The Creation Swieten was able to limit himself to rendering an existing (anonymous) libretto into German, for The Seasons he had a much more demanding task. Olleson writes, "Even when Thomson's images were retained, they required abbreviation and adaptation to such an extent that usually no more than faint echoes of them can be discerned, and the libretto often loses all touch with the poem which was its starting point. Increasingly during the course of the oratorio, the words are essentially van Swieten's own or even imported from foreign sources."
+Like The Creation, The Seasons was intended as a bilingual work.  Since Haydn was very popular in England (particularly following his visits there in 1791–1792 and 1794–1795), he wished the work to be performable in English as well as German. Van Swieten therefore made a translation of his libretto back into English, fitting it to the rhythm of the music. Olleson notes that it is "fairly rare" that the translated version actually matches the Thomson original. Van Swieten's command of English was not perfect, and the English text he created has not always proven satisfying to listeners; for example, one critic writes, "Clinging to [the] retranslation, however, is the heavy-handed imagery of Haydn's sincere, if officious, patron. Gone is the bloom of Thomson's original." Olleson calls the English text "often grotesque", and suggests that English-speaking choruses should perform the work in German: "The Seasons is better served by the decent obscurity of a foreign language than by the English of the first version." Van Swieten's words also show some inconsistency in tone, ranging from the rustically humorous (for instance, a movement depicting a wily peasant girl playing a trick on her rich suitor) to the uplifting (as in several large-scale choruses praising God for the beauty of nature).
+
+Composition, premiere, and publication
+The composition process was arduous for Haydn, in part because his health was gradually failing and partly because Haydn found van Swieten's libretto to be rather taxing.  Haydn took two years to complete the work.
+Like The Creation, The Seasons had a dual premiere, first for the aristocracy whose members had financed the work (Schwarzenberg palace, Vienna, 24 April 1801), then for the public (Redoutensaal, Vienna, 19 May). The oratorio was considered a clear success, but not a success comparable to that of The Creation. In the years that followed, Haydn continued to lead oratorio performances for charitable causes, but it was usually The Creation that he led, not The Seasons.
+The aging Haydn lacked the energy needed to repeat the labor of self-publication that he had undertaken for The Creation and instead assigned the new oratorio to his regular publisher at that time, Breitkopf & Härtel, who published it in 1802.
+
+Forces
+The Seasons is written for a fairly large late-Classical orchestra, a chorus singing mostly in four parts, and three vocal soloists, representing archetypal country folk:  Simon (bass), Lucas (tenor), and Hanne (soprano).  The solo voices are thus the same three as in The Creation.
+The orchestral parts are for 2 flutes (1st doubling on piccolo in one aria), 2 oboes, 2 clarinets, 2 bassoons and contrabassoon, 4 horns, 3 trumpets, 1 alto trombone, 1 tenor trombone and 1 bass trombone, timpani, percussion (triangle, bass drum, cymbals) and strings (violins, violas, cellos, basses).
+However, some of the key early performances at the Tonkünstler Society in Vienna were for much larger forces (as was the fashion at the time); Haydn led performances for both large and small ensembles. Material surviving from these large-scale Viennese performances indicates the use of tripled wind (arranged into three separate groups, each one similar to the Harmonie wind ensembles of the time), doubled brass and as many as ten horn players, backed up by at least eighty string players and similar numbers of singers.
+In addition, a fortepiano usually plays in secco recitatives, with or without other instruments from the orchestra.
+
+Musical content
+The oratorio is divided into four parts, corresponding to Spring, Summer, Autumn, and Winter, with the usual recitatives, arias, choruses, and ensemble numbers.
+Among the more rousing choruses are a hunting song with horn calls, a wine celebration with dancing peasants (foreshadowing the third movement of Beethoven's Pastoral Symphony), a loud thunderstorm (ditto for Beethoven's fourth movement), and an absurdly  stirring ode to toil:
+
+The huts that shelter us,
+The wool that covers us,
+The food that nourishes us,
+All is thy grant, thy gift,
+O noble toil.
+Haydn remarked that while he had been industrious his whole life, this was the first occasion he had ever been asked to write a chorus in praise of industry.
+Some especially lyrical passages are the choral prayer for a bountiful harvest, "Sei nun gnädig, milder Himmel" (Be thou gracious, O kind heaven), the gentle nightfall that follows the storm, and Hanne's cavatina on Winter.
+The work is filled with the "tone-painting" that also characterized The Creation:  a plowman whistles as he works (in fact, he whistles the well-known theme from Haydn's own Surprise Symphony), a bird shot by a hunter falls from the sky, there is a sunrise (evoking the one in The Creation), and so on.
+
+The "French trash" episode
+There is some evidence that Haydn himself was not happy with van Swieten's libretto, or at least one particular aspect of tone-painting it required, namely the portrayal of the croaking of frogs, which is found during the serene movement that concludes Part II, "Summer".  The version of the anecdote given below is from the work of Haydn scholar H. C. Robbins Landon.
+In 1801, August Eberhard Müller (1767–1817) prepared a piano version of the oratorio's orchestra part, for purposes of rehearsal and informal performance. Haydn, whose health was in decline, did not take on this task himself, but he did look over a draft of Müller's work and wrote some suggested changes in the margins.  Amid these changes appeared an off-the-cuff complaint about van Swieten's libretto:
+
+NB!  This whole passage, with its imitation of the frogs, was not my idea:  I was forced to write this Frenchified trash. This wretched idea disappears rather soon when the whole orchestra is playing, but it simply cannot be included in the pianoforte reduction.
+Robbins Landon continues the story as follows:
+
+Müller foolishly showed the passage in the enclosed sheet, quoted above, to the editor of the Zeitung für die elegante Welt, who promptly included it in support of his criticism of Swieten's wretched libretto. Swieten was enraged, and [Haydn's friend] Griesinger reported that His Excellency "intends to rub into Haydn's skin, with salt and pepper, the assertion that he [Haydn] was forced into composing the croaking frogs."
+A later letter of Griesinger's indicates that the rift thus created was not permanent.
+The term "Frenchified trash" was almost certainly not a gesture of contempt for France or French people; Haydn in fact had friendly relationships with French musicians (see, e.g. Paris symphonies).  Rather, Haydn was probably referring to an earlier attempt by van Swieten to persuade him to set the croaking of the frogs by showing him a work by the French composer André Grétry that likewise included frog-croaking.
+
+Critical reception
+Although the work has always attracted far less attention than The Creation, it nonetheless has been strongly appreciated by critics.  Charles Rosen calls both oratorios "among the greatest works of the century", but judges The Seasons to be the musically more successful of the two. Daniel Heartz, writing near the end of a massive three-volume account of the Classical era, writes "The Hunting and Drinking choruses first led me to study Haydn's music more extensively beginning some forty years ago ... no music has elated me more in old age than The Seasons." Michael Steinberg writes that the work "ensure[s] Haydn's premiere place with Titian, Michelangelo and Turner, Mann and Goethe, Verdi and Stravinsky, as one of the rare artists to whom old age brings the gift of ever bolder invention." 
+Opinions vary as to the nature of the relationship between The Creation and The Seasons – whether they are two separate works or an enormous religious diptych. Van Swieten, at any rate, was certainly keen to follow up on the former's success with another large-scale pictorial work in a similar vein, and some authors have seen the two oratorios as constituting the first and second act of a metaphorical 'vast sacred opera'.
+
+Recordings
+1952 – Elfride Trötschel (Hanne), Walther Ludwig (Lucas), Josef Greindl (Simon), RIAS Kammerchor, RIAS Symphonie-Orchester Berlin, Ferenc Fricsay – Deutsche Grammophon.
+1959 – Elsie Morison (Hanne), Alexander Young (Lucas), Michael Langdon (Simon), Beecham Choral Society, Royal Philharmonic Orchestra, Sir Thomas Beecham – Capitol Records.
+1967 – Gundula Janowitz (Hanne), Peter Schreier (Lucas), Martti Talvela (Simon), Wiener Singverein, Wiener Symphoniker, Karl Böhm – Deutsche Grammophon.
+1968 – Heather Harper (Hanne), Ryland Davies (Lucas), John Shirley-Quirk (Simon), BBC Symphony Orchestra and Chorus, Sir Colin Davis – Philips Records (sung in English).
+1972 – Edith Mathis (Hanne), Werner Hollweg (Lucas), Franz Crass (Simon), Chor des Bayerischen Rundfunks, Symphonieorchester des Bayerischen Rundfunks, Rafael Kubelík – Orfeo (live recording of a performance on 9 March 1972; digitally remastered and issued on Orfeo in 2016).
+1973 – Gundula Janowitz (Hanne), Werner Hollweg (Lucas), Walter Berry (Simon), Chor der Deutsche Oper Berlin, Berlin Philharmonic Orchestra, Herbert von Karajan – EMI.
+1978 – Ileana Cotrubaș (Hanne), Werner Krenn (Lucas), Hans Sotin (Simon), Brighton Festival Chorus, Royal Philharmonic Orchestra, Antal Doráti – Decca Records.
+1981 – Edith Mathis (Hanne), Siegfried Jerusalem (Lucas), Dietrich Fischer-Dieskau (Simon), Academy and Chorus of St. Martin in the Fields, Sir Neville Marriner – Philips Records.
+1992 – Barbara Bonney (Hanne), Anthony Rolfe Johnson (Lucas), Andreas Schmidt (Simon), Monteverdi Choir, English Baroque Soloists, John Eliot Gardiner – Archiv Produktion.
+1993 – Ruth Ziesak (Hanne), Uwe Heilmann (Lucas), René Pape (Simon), Chicago Symphony Orchestra and Chorus, Sir Georg Solti – Decca Records.
+2006 – Sibylla Rubens (Hanne), Andreas Karasiak (Lucas), Stephan MacLeod (Simon), Gewandhaus Kammerchor, Leipziger Kammerorchester, Morten Schuldt-Jensen – Naxos Records.
+2007 – Annegeer Stumphius (Hanne), Alexander Stevenson (Lucas), Wolfgang Schöne (Simon), Gächinger Kantorei, Bach-Collegium Stuttgart, Helmuth Rilling – Hänssler Classic.
+2017 - Carolyn Sampson (soprano), Jeremy Ovenden (tenor), Andrew Foster-Williams (Simon), National Forum of Music Choir, Wroclaw Baroque Orchestra, Gabrieli Consort & Players, Paul McCreesh - Winged Lion
+
+Notes
+References
+Clark, Caryl (2005) The Cambridge Companion to Haydn.  Cambridge:  Cambridge University Press.
+Dies, Albert Christoph (1810) Biographical Accounts of Joseph Haydn, Vienna. English translation by Vernon Gotwals, in Haydn: Two Contemporary Portraits, Milwaukee: University of Wisconsin Press.
+Heartz, Daniel (2009) Mozart, Haydn, and Early Beethoven:  1781-1802.  New York:  Norton.
+Humphreys, David (2009) "Fugue," article in David Wyn Jones, ed., Oxford Composer Companions:  Haydn.  Oxford:  Oxford University Press.
+Jones, David Wyn (2009) "Breitkopf & Härtel," article in David Wyn Jones, ed., Oxford Composer Companions:  Haydn.  Oxford:  Oxford University Press.
+Olleson, Edward (2009) "Seasons, The", article in David Wyn Jones, ed., Oxford Composer Companions:  Haydn.  Oxford:  Oxford University Press.
+Robbins Landon, H. C. (1959) The Collected Correspondence and London Notebooks of Joseph Haydn.  London:  Barrie and Rockliff.
+Rosen, Charles (1971) The Classical Style.  New York:  Norton.
+
+External links
+Haydn: The Seasons - complete recording from the Internet_Archive
+Scores on IMSLP
+German libretto.
+English translation.
+Robins, Brian "Haydn's Late Oratorios - The Creation and The Seasons

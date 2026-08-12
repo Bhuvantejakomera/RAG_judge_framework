@@ -1,0 +1,22 @@
+Underground: Tales of Hacking, Madness and Obsession on the Electronic Frontier is a 1997 book by Suelette Dreyfus, researched by Julian Assange. It describes the exploits of a group of Australian, American, and British black hat hackers during the late 1980s and early 1990s, among them Assange himself.
+
+Craig Bowen (nickname), administrator of two important Australian BBS (Pacific Island and Zen)
+Par, a.k.a. The Parmaster (Jason Snitker), an American hacker who avoided capture by the United States Secret Service from July 1989 to November 1991
+Phoenix, Electron and Nom, who were convicted in the first major Australian trial for computer crimes
+Pad and Gandalf, the British founders of the notorious 8lgm group
+the Australian Mendax (Julian Assange) and Prime Suspect, who managed to penetrate the DDN, NIC and the Nortel internal network, and the phreaker Trax. Together, the three were known as the "International Subversives".
+Anthrax, another Australian hacker and phreaker
+The book also mentions other hackers who had contacts with the protagonists, among them Erik Bloodaxe of the Legion of Doom and Corrupt of the Masters of Deception.
+The first chapter of Underground relates the diffusion and reactions of the computer security community to the WANK worm that attacked DEC VMS computers over the DECnet in 1989 and was purportedly coded by a Melbourne hacker.
+As of 2010, the book has sold 10,000 copies.
+The author made the electronic edition of the book freely available in 2001, when it was announced on Slashdot, the server housing the book crashed due to the demand for the book. It reached 400,000 downloads within two years.
+The 2002 documentary In the Realm of the Hackers, directed by Kevin Anderson and centered on Phoenix and Electron, was inspired by this book.
+
+See also
+List of computer books
+
+References
+External links
+Book Website
+ Underground: Hacking, madness and obsession on the electronic frontier by Dreyfus at Project Gutenberg
+Online version of the book

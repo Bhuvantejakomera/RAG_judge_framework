@@ -1,0 +1,310 @@
+A penalty in ice hockey is a punishment for an infringement of the rules. Most penalties are enforced by sending the offending player to a penalty box for a set number of minutes. During the penalty the player may not participate in play. Penalties are called and enforced by the referee, or in some cases, the linesman. The offending team may not replace the player on the ice (although there are some exceptions, such as fighting), leaving them short-handed as opposed to full strength. When the opposing team is said to be on a power play, they will have one more player on the ice than the short-handed team. The short-handed team is said to be "on the penalty kill" until the penalty expires and the penalized player returns to play. While standards vary somewhat between leagues, most leagues recognize several common varieties of penalties, as well as common infractions.
+The statistic used to track penalties is called "penalty minutes" and abbreviated to "PIM" (spoken as single word "pims"). PIM is an acronym for "penalties in minutes", though the full term is rarely used today. It represents the total assessed length of penalties each player or team has accrued.
+
+History
+The first codified rules of ice hockey, known as the Halifax Rules, were brought to Montreal by James Creighton, who organized the first indoor ice hockey game in 1875. Two years later, the Montreal Gazette documented the first set of "Montreal Rules", which noted that "charging from behind, tripping, collaring, kicking or shinning the ball shall not be allowed". The only penalty outlined by these rules was that play would be stopped, and a "bully" (faceoff) would take place. Revised rules in 1886 mandated that any player in violation of these rules would be given two warnings, but on a third offence would be removed from the game.
+It was not until 1904 that players were ruled off the ice for infractions. At that time, a referee could assess a two-, three- or five-minute penalty, depending on the severity of the foul. By 1914, all penalties were five minutes in length, reduced to three minutes two years later, and the offending player was given an additional fine. When the National Hockey League (NHL) was founded in 1917, it mandated that a team could not substitute for any player who was assessed a penalty, thus requiring them to play shorthanded for the duration. The penalty was shortened to two minutes for the 1921–22 season, while five- and ten-minute penalties were added two years later.
+
+Types of penalties
+Both the NHL and the International Ice Hockey Federation (IIHF) recognize the common penalty degrees of minor and major penalties, as well as the more severe misconduct, game misconduct, and match penalties.
+
+Quick reference chart
+Minor penalty
+A minor penalty is the least severe type of penalty. A minor penalty is two minutes in length. The offending player is sent to the penalty box and in most cases, their team will play shorthanded. If the offending player is the goaltender or a coach or the team is given a "bench minor" penalty (assessed against the team, rather than an individual player), then any skater who was on the ice at the time of the infraction may serve the penalty. In rare cases, when the offending player suffers an injury on the same play, whoever is on the ice at the time of the penalty may also serve the penalty, as was the case of Game 2 of the Pittsburgh Penguins and Washington Capitals' series during the 2017 Stanley Cup playoffs, when Phil Kessel served a penalty in place of Tom Kühnhackl.
+A team with a numerical advantage in players will go on a power play. If they score a goal during this time, the penalty will end and the offending player may return to the ice. In hockey's formative years, teams were shorthanded for the entire length of a minor penalty. The NHL changed this rule following the 1955–56 season where the Montreal Canadiens frequently scored multiple goals on one power play. Most famous was a game on 5 November 1955, when Jean Béliveau scored three goals in 44 seconds, all on the same power play, in a 4–2 victory over the Boston Bruins.
+Coincidental (or "matching") minor penalties occur when an equal number of players from each team are given a minor penalty at the same time. The permission of a substitute player depends on the league and the situation at the time of the infractions. In some leagues, such as the NHL, the teams will play four-on-four for the duration of the penalties if they occurred when both teams were at even strength. However, if there is already a manpower differential, then both teams are allowed to make substitutions while the penalized players will remain in the penalty box until the first stoppage in play after their penalty expires.  In other competitions, such as IIHF events, coincidental penalties do not affect manpower in any situation. Coincidental minor penalties are not ended when a goal is scored by either team.
+In some cases, a referee can impose a double or triple minor. The infraction is counted as two or three separate minor penalties. If a team scores a power play goal during such a penalty, only the current block of two minutes being counted down is cancelled; the penalty clock is then reset to the next lowest interval of two minutes (e.g. a goal with a double-minor penalty clock at 3:45 is reset to 2:00). Expiration rules of double- or triple-minor penalties due to goals being scored are identical to that of regular minor penalties being served back-to-back.
+
+Major penalty
+A major penalty is a stronger degree of penalty for a more severe infraction of the rules than a minor. Most infractions which incur a major penalty are more severe instances of minor penalty infractions; one exception is fighting, which always draws a major. A player who receives a major penalty will remain off the ice for five minutes of play during which his team will be short-handed. A major penalty cannot end early even if a goal is scored against the short-handed team, unless the goal is scored during an overtime period (which ends the game). If major penalties are assessed to one player on each team at the same time, they may be substituted for, and teams will not be reduced by one player on the ice. The penalized players will remain in the penalty box until the first stoppage of play following the end of the penalties. This commonly occurs with majors for fighting.
+Starting with the 2019–20 season, NHL referees are required to use on-ice video review for all major (non-fighting) penalties to either confirm the call or reduce the call to a minor penalty.
+Under IIHF rules, every major penalty carries an automatic game misconduct penalty; in other competitions, earning three major penalties in a game results in a game misconduct penalty, though a number of infractions that result in a major penalty automatically impose a game misconduct as well.
+Infractions that often call for a major penalty include spearing, fighting, butt-ending, charging, and boarding.
+
+Misconduct penalty
+A player who receives a misconduct penalty will remain off the ice for ten minutes. The player may be substituted for on the ice and may return to the ice at the first stoppage in play following the expiration of the penalty (unless other penalties were assessed); however, in practice, misconduct penalties are normally assessed along with two-minute minor penalties (resulting in a penalty combination colloquially called a "two-and-ten"). If an additional penalty is incurred with a misconduct penalty, the times run concurrently (simultaneously), with another eligible player serving the other penalty in the offender's place to enforce a disadvantage. For example, if a player receives a 2-minute minor plus a misconduct for boarding, two players will be sent to the penalty box: the offender and a teammate of theirs, frequently one who was on the ice at the time. The team is allowed to immediately substitute for the offender, so there is only a one-man disadvantage. Once the boarding penalty ends, the teammate can return to the ice, and both teams are at full strength again while the offender remains in the penalty box until the first stoppage in play after their ten minutes have elapsed. This is according to USA Hockey Rule 404(a) and NHL Rule 28. In the event the other penalty is a non-coincidental major, most adult leagues allow deferring placing the substitute player into the penalty box so long as they are in place before the major penalty expires (but the team must still play shorthanded). In such cases, only a player from the penalty box can emerge in place of the offender after the end of the major penalty.
+Misconduct penalties are usually called to temporarily take a player off the ice and allow tempers to cool. They are sometimes also assessed in conjunction with fighting majors, giving the offending players the opportunity to calm down as they sit out their ten minutes.
+IIHF rules state that a player who gets another misconduct penalty risks a game misconduct penalty and is ejected.
+
+Game misconduct penalty
+A player (whether a skater or goaltender) or any member of any team's coaching staff who receives a game misconduct penalty is ejected, and is sent to the team's dressing room. The player may be immediately substituted for on the ice; however, in practice, game misconduct penalties are often assessed as an addition to a particularly egregious infraction that has also earned the player a two-minute minor penalty or (more often) a five-minute major penalty, in which case another player will serve this penalty in place of the ejected player. Regardless of the time during the game that the penalty is given, the player is charged with ten penalty minutes (twenty in the IIHF rules) for statistical purposes for the game misconduct. This rule also applies to match penalties (see below).
+In most leagues, the referee has the discretion to call a game misconduct on a player charged with boarding due to the likelihood of injury to the boarded player. However, in the NHL, if a boarded player suffers a head or facial injury (a concussion risk), the offending player receives an automatic game misconduct.
+Any player who is dismissed twice for stick infractions, boarding or checking from behind, or dismissed three times for any reason, in a single NHL regular season incurs an automatic one-match ban, and further discipline is possible for subsequent ejections. For each subsequent game misconduct penalty, the automatic suspension shall be increased by one game. Salary lost as a result of a ban is usually donated to a league-supported charity or to a program to assist retired players.
+Examples of a game misconduct penalty include getting out of the penalty box before the penalty time is served, trying to join or attempt to break up a fight [third man in] or earning a second misconduct penalty in the same game.
+
+Match penalty
+A player who receives a match penalty is ejected. A match penalty is imposed for deliberately injuring another player or attempting to injure another player. Many other penalties automatically become match penalties if injuries actually occur: under NHL rules, butt-ending, goalies using blocking glove to the face of another player, head-butting, kicking, punching an unsuspecting player, spearing, and tape on hands during altercation must be called as a match penalty if injuries occur. Under IIHF rules, match penalty used to be imposed for kneeing and checking to the head or neck area if injuries occurred; since the 2023/24 edition of IIHF rules, match penalty has been removed from the rules and a major penalty with a game misconduct penalty should be imposed for dangerous actions.
+NHL referees are required to use on-ice video review for all match penalties to either confirm the call or reduce the call to a minor penalty.
+The team of the offending player must choose a substitute player to place in the box from any of the eligible players, excluding the goaltender. The substitute serves a five-minute penalty similar to a major penalty (except in overtime, goals scored against the penalized team do not end the penalty early). If the goaltender receives a match penalty, another player serves the time so that the team may immediately insert a backup. In most cases, offending players are suspended from the next game their team plays, and often face hearings with the possibility of a lengthier ban. In the NHL, a match penalty and a game misconduct are virtually identical in application. However, a match penalty carries a larger fine, and the offending player is suspended indefinitely until the Commissioner rules on the issue.
+In NCAA hockey, a similar penalty called a game disqualification results in automatic suspension for the number of games equal to the number of game disqualification penalties the player has been assessed in that season.
+For statistical purposes, match penalty is counted as fifteen minutes in NHL (since 2022, previously ten minutes) and as twenty-five minutes under the IIHF rules.
+Match penalties can also be used in cases where severe unsportsmanlike conduct has occurred, such as taunting that is offensive on the basis of race, sexual orientation, etc., as well as acts that are exceptionally disrespectful to an opponent or official regardless of whether or not an injury occurred. An example of this occurred when New York Rangers defenseman K'Andre Miller was assessed such a penalty for spitting on Los Angeles Kings defenseman Drew Doughty during a game at Madison Square Garden on 26 February 2023.
+
+Penalty shot
+A penalty shot is a special case of penalty for cases in which a scoring opportunity was lost as a result of an infraction (like being tripped or hooked while on a breakaway; or a player other than the goaltender covers the puck with his hand inside the crease). The player who was deprived of the opportunity (in cases the infraction was against him, for example, on breakaways), or one chosen by the team (in cases where the infraction is not against a specific player), is allowed an unchallenged opportunity to score on the opposing goaltender as compensation. If the infraction occurred when the penalized team has pulled their goalie and the infraction occurs during a breakaway, a goal is immediately awarded to the other team rather than a penalty shot. Regardless of whether or not the penalty shot is successful, the penalty is now treated as if a goal had been scored during that penalty; a minor penalty is negated, and a double-minor is reduced to a regular minor. Major, match, and misconduct penalties are served in their entirety as these are not affected by goals. If the non-offending team scores a goal in the delayed penalty situation, the penalty shot is not taken and the penalized team serves the time instead.
+Apart from their use as a penalty, penalty shots also form the shootout that is used to resolve ties in many leagues and tournaments.
+
+Gross misconduct penalty
+Similar to a game misconduct in severity, gross misconduct penalties have been eliminated from the NHL rulebook. It was imposed for an action of extreme unsportsmanlike conduct, such as abuse of officials or spectators, and could be assessed to any team official in addition to a player. Infractions which garnered a gross misconduct now earn a game misconduct. The penalty had last been assessed in 2006 on Atlanta Thrashers coach Bob Hartley due to post-game comments made regarding referee Mick McGeough's blown call during a game versus Edmonton. The Phoenix Coyotes' Shane Doan was the last player to be given a gross misconduct penalty in 2005 for alleged ethnic slurs directed at French-Canadian referees (later investigated and subsequently cleared by the NHL).
+However, this penalty is still in effect in Canadian hockey. "A Gross Misconduct penalty shall be assessed [to] any player or team official who conducts herself in such a manner as to make a travesty of the game."
+
+This penalty can be assessed for actions which include the consumption of alcohol prior or during the game.
+Where a player or team official becomes involved in a fight with a team official or spectator.
+Any player or team official who sprays water on or at an official
+Any player or team official who engages in verbal taunts based on discriminatory grounds (race, ethnicity, religion, gender, sexual orientation)
+
+Enforcement of penalties
+The referees make most penalty calls. Linesmen may stop play and enforce only certain infractions (as defined by the rules governing the league in which they officiate), such as "too many players on the ice". The official will initially put an arm in the air to signal a penalty; the official will stop play only once the offending team has control of the puck, or play is stopped by normal means. A delayed penalty is one in which the penalty is called but play is not yet stopped because the non-offending team retains the puck. Because the play will stop immediately upon the offending team gaining control of the puck, the goaltender of the non-offending team will often go to the players' bench upon seeing the arm signal to allow an extra attacker on the ice until the play is stopped. Because the offending team will not be able to take a shot on goal before the play is stopped, this is generally seen as a risk-free play. However, there have been instances in which the non-offending team accidentally puts the puck into their own net, usually on a failed backward pass. Once the offending team touches the puck and the play is stopped, the referee will signal the specific infraction. If the penalized player was injured on the play and cannot return, another player on the team would serve the penalty if it involves a team being short-handed.
+In the NHL, if the non-offending team scores a goal in a delayed penalty situation, then it is treated as if a goal was scored during that penalty. Thus, if the delayed penalty is a minor, the penalty is waved off. If the delayed penalty is a double-minor, only the first two-minute block is waved off, and the offending player must still serve the second time block. These rules used to be in college hockey as well, until the 2010–2011 season, when it was changed so that the penalty would still be imposed even if a goal was scored. Major penalties, misconduct penalties and match penalties, which are not affected by goals, are enforced in the usual manner, in both college hockey and the NHL, whether or not a goal is scored.
+The offending player or players are sent to the penalty box where they must remain until the penalty has expired. Typically a team will not be allowed to replace the penalized player on the ice; the player will return directly to the ice once the penalty has expired. This creates a power play during which the penalized team will have one player fewer than their opponent and is said to be "short-handed". If two players on a team are in the penalty box at the same time, the situation is called a "five on three" (as is customary, the goalies are not counted in this expression) or "two-man advantage". Additional players may be penalized, but a team will never play with fewer than three skaters on the ice. Additional penalties will be delayed until one of the earlier penalties has expired (see stacked penalties below).
+In leagues which play with a shorthanded overtime (with only three or four attackers on the ice), should a team be penalized with only three players on the ice, the penalized player may be immediately substituted by the offending team, but an additional skater is then allowed on the other team to create an advantage, until a five-on-three is produced. If a penalty in this situation expires without a goal being scored, the penalized player will be allowed back on the ice and will play normally until there is a stoppage; both teams will then be reduced back to the correct numbers. Ending coincidental penalties produce a similar situation, with both teams playing with additional players until play is stopped, allowing teams to be reduced again.
+While goaltenders can be assessed penalties, a goaltender cannot go to the penalty box and the penalty must be instead served by another player from their team who was on the ice at the time of the infraction (the PIM will be charged to the goaltender). If the goaltender receives either (a) three major penalties (NHL Rule 28.2), (b) one game misconduct penalty (NHL Rule 28.4), or (c) one match penalty (NHL Rule 28.5) however, he or she is ejected for the remainder of the game and must be substituted.
+While a team is short-handed, they are permitted to ice the puck as they wish, without having the icing infraction called against them. This allows short-handed teams to relieve pressure more easily when defending with fewer skaters than their opponents. This exemption does not apply to teams whose opponents have pulled their goaltender for an extra attacker (unless the defending team is killing a penalty at the same time).
+
+Stacked penalties
+A team must have a minimum of three skaters on the ice at all times. If an accumulation of penalties would otherwise force a team to fall below this minimum, the situation becomes known as "stacked penalties". This means that the new penalty will start when one of the already-penalized players causing the disadvantage is allowed back onto the ice, whether the time expires or the opposing team scores on the power play. This also means that the player whose penalty expires first out of the three must wait for a stoppage in play, or the expiration of the second penalty, before leaving the penalty box so that it is appropriately 5 on 3, 5 on 4, and 5 on 5 in succession for each respective situation. Penalties that allow for immediate substitution (certain coincidental penalties and misconduct penalties) do not produce a disadvantage and thus do not count for stacked penalties. Stacked penalties still apply in shorthanded overtimes because two penalties still result in a five-on-three situation regardless of the initial lineup due to the rules allowing an extra attacker as needed.
+
+Final five minutes
+In a situation where there are fewer than five minutes remaining in play (the final five minutes of regulation time or the five minutes of regular season overtime), should unequal simultaneous penalties be assessed (a minor or double-minor penalty against one team and a major or match penalty against the other), then instead of both sides serving their full times (which is impossible in the case of the major/match penalty, as fewer than five minutes remain), the minor penalty is cancelled and its time subtracted from the major penalty, which is then assessed against that team.
+In addition, under most leagues' "fight instigator" rules, a player penalized as a fight instigator in the final five minutes (or during overtime) is charged with a game misconduct penalty and further disciplinary action. This is intended to discourage "revenge" fights started by badly-losing teams.
+
+List of infractions
+In the NHL, infractions that result in penalties include:
+
+Abuse of officials
+Arguing with, insulting, using obscene gestures or language directed at or in reference to, or deliberately making violent contact with any on or off-ice official. This generally is issued in addition to other penalties or as a bench penalty against a coach or off-ice player, and is grounds for ejection under a game misconduct or match penalty in most leagues including the NHL.
+Aggressor penalty
+Assessed to a player who engages in a fight with an unwilling combatant. This is independent of the instigator penalty, and both are usually not assessed to the same player at one time (in that case the player's penalty for fighting is usually escalated to attempt to injure, a match penalty).
+Attempt to injure
+Deliberately trying to harm an opponent, in any manner. This type of infraction carries an automatic match penalty.
+Biting
+Carries a major penalty (5:00) and game misconduct.
+Boarding
+Pushing, tripping or checking an opposing player violently into the boards.
+Butt-ending (or Stabbing)
+Jabbing an opponent with the end of the shaft of the stick. It carries an automatic major penalty and game misconduct.
+Broken stick
+Engaging in a play while holding a broken stick.
+Charging
+Taking more than three strides or jumping before hitting an opponent.
+Checking from behind
+Hitting an opponent from behind is illegal. It carries an automatic minor penalty and misconduct, or a major penalty and game misconduct if it results in injury. See checking. This is generally allowed in the NHL unless it is covered by another infraction such as boarding or illegal check to the head.
+Clipping
+Delivering a check below the knees of an opponent. If injury results, a major penalty and a game misconduct will result.
+Cross-checking
+Hitting an opponent with the stick when it is held with two hands and no part of the stick is on the ice.
+Delay of game
+Stalling the game (for example, shooting the puck out of play from the defensive zone, holding the puck in the hand, refusing to send players out for a faceoff, or repeated deliberate offsides). Starting in the 2004–05 AHL season and advanced to the NHL a year later, an automatic delay of game penalty is charged to goaltenders that go into the corners behind the goal line (outside a trapezoid-shaped area just behind the net) to play the puck. Some delay of game offenses, such as taking too long to send players to take a faceoff, are not punished with a penalty: instead, the official may choose to eject the centre of the offending team from the face-off circle and order him replaced with another player already on the ice. An unsuccessful coach's challenge will result in a minor penalty for delay of game for the first unsuccessful challenge and a double-minor penalty for each additional unsuccessful challenge.
+Diving (or "embellishment")
+Falling to the ice after a hit, exaggerating the effect of the hit in an attempt to draw a penalty for the opposing team.
+Elbowing
+Hitting an opponent with the elbow. If injury results, a major penalty and a game misconduct will result.
+Eye-gouging
+Carries a major penalty and often a match penalty.
+Fighting
+Engaging in a physical altercation with an opposing player, usually involving the throwing of punches with gloves removed. Minor altercations such as simple pushing and shoving, and punching with gloves still in place, are generally called as roughing.
+Goaltender interference
+Physically impeding or checking the goaltender. Visually impeding the goaltender's view of the play with the body, called "screening", is legal; but at no time may a goaltender be hit or checked.
+Goaltender leaving the crease
+A goaltender may not leave the vicinity of his crease during an altercation. Once he has left the crease during an altercation, he may be given a penalty.
+Head-butting
+Hitting an opponent with the head. A match penalty is called for doing so.
+
+High-sticking
+Touching an opponent with the stick above shoulder level. A minor penalty is assessed to the player. If blood is drawn, a double-minor (4 minutes) is usually called. A common (yet false) belief is that blood drawn automatically warrants a double-minor. There is no such rule; this is, however, the precedent that has been in place for years. Referees may use their discretion to assess only a minor penalty even though blood was drawn. They may also assess a double-minor when blood is not drawn, if they believe that the player was sufficiently injured or that the offending player used excessively reckless action with his stick. If a player, while in the action of "following through" on a shot, strikes an opposing player in the head or face area with his stick, high sticking is not called unless the referee can determine that the player taking the shot was deliberately aiming to strike the opposing player. A penalty is also not called when the puck is hit by a high stick, but play will be stopped and the ensuing faceoff will take place at a spot which gives the non-offending team an advantage. Also, a goal that is scored by means of hitting the puck with a stick above the height of the crossbar will not be counted unless it is done by a player of the defending team. (Note that the requirements for high-sticking the puck for purposes of allowing/disallowing goal is different from the other forms of high-sticking.) NHL referees can use on-ice video review to confirm or overturn a double-minor high sticking call.
+Holding
+Grabbing an opponent's body, equipment or clothing with the hands or stick. Generally a minor; USA Hockey rules call for a major and a game misconduct for grabbing and holding a facemask or visor.
+Holding the stick
+Grabbing and holding an opponent's stick, also called when a player deliberately wrenches a stick from the hands of an opposing player or forces the opponent to drop it by any means that is not any other infraction such as Slashing.
+Hooking
+Using a stick as a hook to slow an opponent, no contact is required under new standards.
+Illegal check to the head
+As of the start of the 2010–11 NHL season, any form of "a hit to an opponent, where the player's head is targeted and/or the principal point of contact" is punishable with a combination five-minute major penalty and game misconduct, due to the increasing concern following concussion injuries to NHL players following incidents such as David Booth and Marc Savard's concussions in the 2009–10 NHL season. A second incident of this type caused by the same player in a season (or post-season playoffs) results in an automatic suspension for the following game their team plays, with the potential for increasing durations of suspension from active play, for any subsequent checks to opposing players' head areas. The following season, it was changed to any hit to an opposing player's head that is targeted and the principal point of contact. An illegal check to the head is punishable with either a two-minute minor penalty or a match penalty. In the 2013–14 NHL season, the rule was clarified to "A hit resulting in contact with an opponent's head where the head was the main point of contact and such contact to the head was avoidable is not permitted (known as illegal check to the head). As mentioned before, that is punishable with either a two-minute minor penalty or a match penalty. Rule 48 – Illegal Check to the Head
+Illegal equipment
+Using equipment that does not meet regulations, either by size (length, width) or number (two sticks) or other guidelines (e.g. a goaltender's facemask can no longer be the "Jason Voorhees"-style form-fit mask, a skater may not have a stick with a curve exceeding 3⁄4 in (19 mm), nor may they play with a goaltender's stick (a goaltender may play with a regular player's stick). If a player (non-goaltender) breaks a stick, it is mandatory to drop the stick immediately and play without it until getting a replacement from the bench. Otherwise a penalty will be assessed to the offending player (some game summaries call this "playing with a broken stick"). In addition, in the NHL a player may not pick a broken stick up off the ground after it has been dropped (they can only receive a stick from another player or from the bench; goaltenders may not go to the bench but must have a stick carried out to them). This rule is generally not enforced in amateur leagues except for broken sticks or egregiously out-of-spec equipment, as the cost of acquiring gear that meets NHL specifications since a 2005 (and further in 2013) rule change is prohibitive, especially for goalies. Goaltenders will now receive a two-game suspension for the use of oversized equipment. Their teams will also be fined $25,000, the trainer will be docked $10,000, the coach and general manager fined $50,000 and the owner fined $100,000.
+Instigator penalty
+An instigator of an altercation is a player who demonstrates any of the following actions: distance travelled; gloves off first; first punch thrown; menacing attitude. A player deemed an instigator will receive an instigating minor penalty. A player who instigates a fight in the final five minutes of a game (or in overtime in the regular season) will instead be charged a game misconduct and given an automatic one-game suspension. The length of the suspension would double for each additional incident. The player's coach will be fined $10,000, a penalty that would double for each recurrence.
+Interference
+Impeding a player's progress using the body or stick when the player does not have the puck.
+Joining a fight
+Also called the "third man in" rule, the first person who was not part of a fight when it broke out but participates in said fight once it has started for any reason (even to pull the players apart) is charged with an automatic game misconduct in addition to any other penalties they receive for fighting.
+Kicking
+Kicking an opponent with the skate or skate blade. Kicking carries a match penalty if done with intent to injure, but otherwise carries a major penalty and a game misconduct. (Under Hockey Canada rules, kicking or attempting to kick an opponent always carries a Match Penalty regardless of intent.) Kicking the puck is legal, though a goal scored off the skate will not be counted.
+Kneeing
+Hitting an opponent with the knee. If injury results, a major penalty and a game misconduct will result.
+Leaving the penalty bench
+A penalized player who leaves the penalty bench before his penalty has expired, whether play is in progress or not, shall incur an additional minor penalty after serving his unexpired penalty. Any player who, having entered the penalty bench, leaves the penalty bench prior to the expiration of his penalty for the purpose of challenging an official's ruling, shall be assessed a game misconduct penalty. He shall also be automatically suspended for at least the next three regular league or playoff games of his club. A player exiting the penalty bench, or player's bench, during an altercation or for the purpose of starting an altercation will be given a game misconduct, and suspended the next 10 games.
+Participating in the play beyond the centre red line (goaltender)
+A rare infraction, carries a minor penalty and is only assessed against the goaltender.
+Playing with too many sticks
+When a player plays with more than one stick. For example, if a goaltender were to lose his stick and a player from his team skates over to pick up the goaltender stick and then, while skating back to the goaltender with both sticks, attempts to touch a live puck with either stick, will be called for playing with too many sticks.
+Roughing
+Pushing or shoving after the whistle has been blown or when it takes place away from the play (often called against a player from each team, resulting in a coincidental minors situation, but can also be called on a single player); also called when the hands make contact with an opponent's head/face on an otherwise legal check; called in non-checking leagues when a body check is made. Non-checking leagues may also refer to this as simply 'body checking'. In the NHL, a minor penalty for roughing is assessed when a player intentionally removes the helmet of an opponent. If injury results, a major penalty and a game misconduct will result.
+Secondary altercation
+This infraction is not listed in the NHL Rulebook, but it is prevalent in the Central Hockey League (United States) and other minor leagues. It is most commonly issued when players engage in or attempt to engage in fight after the original fight (between two separate players). This infraction carries an automatic game misconduct penalty.
+Slashing
+Swinging a stick at an opponent, no contact is required under new standards. If injury results, a major penalty and a game misconduct will result.
+Slew footing
+This occurs when a player uses his feet or knees to knock an opponent's skates out from under him with a kicking or leg dragging motion from behind. If injury results, a major penalty and a game misconduct will result. Slew footing as a separate infraction does not exist in the USA Hockey rulebook as of 2005–2006.
+Spearing
+Stabbing an opponent with the stick blade. It carries an automatic major penalty and game misconduct.
+Starting the wrong lineup
+This very rare bench minor penalty is assessed when the offending team's starting lineup contains any player not listed in the lineup submitted before the game. For this to be called, the captain of the non-offending team must bring this breach of the rules to the referee's attention immediately at the first stoppage of play. Also the penalty may be assessed if a player is not put on the scoresheet at the beginning of the game and plays. The only way for this to be called is if the official scorer notifies the referee of this oversight.
+Substitution infraction (Illegal Substitution)
+This rare bench minor penalty is assessed when a substitution or addition is attempted during a stoppage of play after the linesmen have signaled no more substitutions (once the face-off is set) or if a team pulls its goaltender and then attempts to have the goaltender re-enter play at any time other than during a stoppage of play. Too many men on the ice or starting the wrong lineup can also simply be called a substitution infraction.
+Throwing the stick/Throwing stick/Throwing equipment
+Often accompanied by a penalty shot. The penalty applies when a player on the ice throws anything towards the puck or another player, unless a penalty shot or goal has been awarded. A bench minor penalty for unsportsmanlike conduct may also be assessed against anyone on the bench throwing anything onto the ice, including during a stoppage. Can be upgraded to game misconduct or match penalty depending on severity.
+Too many men on the ice
+Having more than the allowable number of players (six, including the goaltender, if not already short handed) on the ice involved in the play at any given time. "Involved in the play" is key; players that are entering the ice as substitutes for players coming off (line changing) may enter the ice once the player returning to the bench is less than five feet from his team's bench (Rule 74.1); at that point the returning player is considered out of the play, even if the play passes in front of the bench, unless he actively makes a move for the puck. Players entering the ice are part of the play as soon as their skates touch the ice.
+Tripping
+Using a stick or one's body to trip an opponent, no contact is required under new standards. If injury results, a major penalty and a game misconduct will result.
+Unsportsmanlike conduct
+Arguing with a referee, fan, opponent or teammate; using slurs against an opponent, teammate or fan; playing with illegal equipment; making obscene gestures or abusing an official, fan, opponent or teammate. Can carry either a minor, major, misconduct, game misconduct or match penalty, depending on the gravity of the infraction (for instance, using obscene language to a referee initially results in a minor, but making an obscene gesture to an opponent, teammate, fan or official carries a game misconduct). Also, in some leagues the penalty progression is different for players and team officials (for example, in the USA Hockey rulebook players get a minor for their first infraction, a misconduct for their second and a game misconduct for their third, whereas the option of a misconduct is removed for coaches; in addition, after each penalty for a team official, the penalty count resets itself). Unsportsmanlike conduct may also be called if a player drops gloves and stick in preparation for a fight, but the non-offending player does not drop the corresponding equipment and has committed no action (verbal or physical harassment) to attempt to instigate a fight. Since 2008, the NHL has ruled that standing in front of an opposing goaltender and engaging "in actions such as waving his arms or stick in front of the goaltender's face, for the purpose of improperly interfering with and/or distracting the goaltender" will draw a minor unsportsmanlike conduct penalty, a rule interpretation inspired by the play of Sean Avery against Martin Brodeur.
+
+List of fouls/infractions that result in minor penalties
+Boarding
+Charging
+Clipping
+Closing hand on puck
+Cross-checking
+Delay of game
+Elbowing
+Embellishment
+Goaltender interference
+High-sticking
+Holding
+Holding the stick
+Hooking
+Illegal equipment
+Illegal stick
+Instigator
+Interference
+Kneeing
+Leaving penalty bench too early
+Leaving the crease (goalkeeper)
+Participating in the play beyond the centre red line (goalkeeper)
+Roughing
+Slashing
+Throwing puck towards opponent's goal (goalkeeper)
+Throwing stick
+Tripping
+Unsportsmanlike conduct
+
+List of infractions that result in bench minor penalties
+Abuse of officials
+Delay of game
+Deliberate illegal substitution
+Face-off violation
+Illegal substitution
+Improper starting line-up
+Interference from players' or penalty bench
+Interference with an official
+Leaving bench at end of period
+Refusing to start play
+Stepping onto ice during period (Coach)
+Throwing objects onto ice
+Too many men on the ice
+Unsportsmanlike conduct
+
+List of fouls/infractions that result in major penalties
+Boarding
+Butt-ending
+Charging
+Checking from behind
+Clipping
+Cross-checking
+Elbowing
+Fighting
+Head-butting
+Hooking
+Illegal check to the head
+Interference
+Kneeing
+Slashing
+Spearing
+
+List of infractions that result in misconduct penalties
+Banging boards with stick in protest of an official's ruling
+Continuing or attempting to continue a fight
+Deliberately breaking stick or refusing to surrender stick for measurement
+Deliberately throwing any equipment (including stick) out of playing area
+Entering or remaining in the referee's crease
+Fighting off the playing surface (or with another player who is off the playing surface)
+Inciting an opponent
+Instigating a fight
+Interfering or distracting opponent taking a penalty shot
+Knocking or shooting puck out of reach of an official
+Leaving bench to speak to official
+Mouthpiece violation
+Refusing to change non-regulation piece of protective equipment (second violation)
+Use of profane or abusive language
+Verbal abuse of an official
+
+List of infractions that result in game misconduct penalties
+Continues or attempts to continue a fight
+Fighting off the playing surface or with an opponent who is off the playing surface
+First or second player to leave the players' bench during or to start an altercation
+First to intervene in an altercation (third man in)
+Interfering with a game official in the performance of their duties
+Interfering with or striking a spectator
+Leaving the penalty bench during an altercation
+Obscene gestures
+Persists to challenge or dispute an official's ruling
+Physically abuses an official
+Player who has been ordered to the dressing room but returns to the bench or the ice
+Player who deliberately attempts to injure a manager, coach or other non-playing club personnel in any manner
+Racial taunts or slurs
+Some major penalties (generally stick infractions)
+
+List of fouls/infractions that result in match penalties
+Attempt to injure (in any manner)
+Biting
+Boarding
+Butt-ending*
+Charging
+Checking from behind
+Clipping
+Cross-checking
+Deliberate injury (in any manner)
+Elbowing
+Goalkeeper who uses his blocking glove to the head or face of an opponent*
+Grabbing of the face mask
+Hair pulling
+Head-butting*
+High-sticking
+Illegal check to the head
+Kicking a player
+Kneeing
+Punching and injuring an unsuspecting opponent*
+Slashing
+Slew-footing
+Spearing*
+Throwing stick or any object
+Wearing tape on hands in altercation*
+Other leagues typically assess penalties for additional infractions. For example, most adult social leagues ban all body checking (a penalty for roughing or illegal check is called), and the same is true for international competitions in women's hockey. The Professional Women's Hockey League chose to allow body checking at the request of players. In most amateur leagues, any head contact whatsoever results in a penalty. If a player commits a hair pulling violation on an opponent, they will be charged with a game misconduct penalty. The foul of moving the goalposts is handled differently from league to league; it has historically been a penalty shot, but after David Leggio began deliberately committing the foul to disrupt scoring opportunities, the American Hockey League declared such an act to be a game misconduct and the Deutsche Eishockey Liga automatically awarded the goal.
+
+Penalty records
+NHL
+The NHL keeps individual statistics on the penalties each player accrues through the penalties in minutes statistic (abbreviated "PIM"). Players renowned for their fighting or for being dirty players will usually lead their team in PIM and have such statistics highlighted by the media.
+The record for the most penalty minutes in one season is held by Dave Schultz of the Philadelphia Flyers, with 472 in the 1974–75 NHL season. The record for most penalty minutes in a career is held by Tiger Williams, who had 3,966 over 14 years. With Zdeno Chara's retirement in 2022, no active player has more than 2,000 penalty minutes.
+The most penalties in a single game occurred in a fight-filled game between the Ottawa Senators and Philadelphia Flyers on 5 March 2004, when 419 penalty minutes were handed out.  Statistically, a game misconduct counts as 10 penalty minutes, in addition to other penalties handed out. In rare cases (as a result of multiple infractions, for instance the player participating in multiple fights), multiple game misconducts may be handed to a player — that is merely statistical, not (automatically) a multi-game suspension, although the league will often suspend the player in a subsequent decision. The most penalty minutes accumulated by a single player in a single game was the 67 minutes from 9 penalties given to Randy Holt of the Los Angeles Kings in their 11 March 1979, meeting against the Philadelphia Flyers.
+
+Kontinental Hockey League
+On 9 January 2010, a massive brawl broke out in an Avangard Omsk game against Vityaz Chekhov. The conflict started during pre-game warm-ups when Darcy Verot intentionally shot a puck at Lasse Kukkonen forcing Alexander Svitov to stand up for his teammate. Soon after the game started, Brandon Sugden challenged Svitov to another fight, which then involved all other eight skaters on the ice. A number of other fights ensued resulting in a bench- and penalty-box clearing. The officials had to suspend the game just after 3:39 in the first period, as there were only four players left to play the game. A world record total of 707 penalty minutes were incurred during the game. Some players were arrested by police. The Kontinental Hockey League imposed heavy fines on both teams, some players and the head coaches as well as disqualifying six of Vityaz's players and Avangard's Dmitry Vlasenkov, who was first to leave the bench during a fight. The game was counted as a 5–0 defeat for both teams with no points being awarded.
+
+References
+Footnotes
+
+General
+Duplacey, James (1996). The Annotated Rules of Hockey. New York: Lyons & Buford. ISBN 1-55821-466-6.
+McKinley, Michael (2006). Hockey: A People's History. Toronto: McClelland & Stewart. ISBN 0-7710-5769-5.
+National Hockey League (2011). Official Rules of the National Hockey League. Archived from the original on 5 April 2009. Retrieved 29 January 2012.
+International Ice Hockey Federation (29 September 2010). IIHF Rule Book 2010–2014. Archived from the original on 15 February 2012. Retrieved 29 January 2012.
+
+External links
+"USA Hockey 2017–21 Rules" (PDF). Archived from the original (PDF) on 10 April 2018.
+"On-Line Rulebook". Hockey Canada. Archived from the original on 25 March 2006.
+"National Hockey League Officials Association - Rules Page". nhlofficials.com. Archived from the original on 21 May 2008.
+"Ottawa District Hockey Association Referees". Archived from the original on 8 June 2014. Retrieved 29 May 2026.
+"Sault Hockey Officials Association". shoa.tk. Archived from the original on 8 October 2007. Retrieved 29 May 2026.
+"Gross Misconduct hockey blog". grossmisconduct.ca. Archived from the original on 2 May 2009. Retrieved 29 May 2026.

@@ -1,0 +1,78 @@
+Old Persian is one of two directly attested Old Iranian languages (the other being Avestan) and is the ancestor of Middle Persian (the language of the Sasanian Empire). Like other Old Iranian languages, it was known to its native speakers as ariya (Iranian). Old Persian is close to Avestan  and both languages are highly inflected.
+Old Persian appears primarily in the inscriptions, clay tablets and seals of the Achaemenid era (c. 600 BCE to 300 BCE). Examples of Old Persian have been found in what is now Iran,  Armenia, Bahrain, Iraq, Turkey and Egypt, with the most important attestation by far being the contents of the Behistun Inscription (dated to 522 BCE).
+In 2007, research into the vast Persepolis Administrative Archives at the Oriental Institute at the University of Chicago unearthed Old Persian tablets, which suggest Old Persian was a written language in use for practical recording and not only for royal display.
+
+Origin and overview
+As a written language, Old Persian is attested in royal Achaemenid inscriptions. It is an Iranian language and as such a member of the Indo-Iranian branch of the Indo-European language family. The oldest known text written in Old Persian is from the Behistun Inscriptions. Old Persian is one of the oldest Indo-European languages which are attested in original texts.
+The oldest date of use of Old Persian as a spoken language is not precisely known. According to certain historical assumptions about the early history and origin of ancient Persians in Southwestern Iran (where the Achaemenids hailed from), Old Persian was originally spoken by a tribe called Parsuwash, who arrived in the Iranian Plateau early in the 1st millennium BCE and finally migrated down into the area of present-day Fārs province. Their language, Old Persian, became the official language of the Achaemenid kings. Assyrian records, which in fact appear to provide the earliest evidence for ancient Iranian (Persian and Median) presence on the Iranian Plateau, give a good chronology but only an approximate geographical indication of what seem to be ancient Persians. In these records of the 9th century BCE, Parsuwash (along with Matai, presumably Medians) are first mentioned in the area of Lake Urmia in the records of Shalmaneser III. The exact identity of the Parsuwash is not known for certain, but from a linguistic viewpoint the word matches Old Persian pārsa itself coming directly from the older word *pārćwa. Also, as Old Persian contains many words from another extinct Iranian language, Median, according to P. O. Skjærvø it is probable that Old Persian had already been spoken before the formation of the Achaemenid Empire and was spoken during most of the first half of the first millennium BCE.
+
+Classification
+Old Persian belongs to the Iranian language family, a branch of the Indo-Iranian language family, itself within the large family of Indo-European languages. The common ancestors of Indo-Iranians came from Central Asia sometime in the first half of the 2nd millennium BCE. The extinct and unattested Median language is another Old Iranian language related to Old Persian; both are classified as Western Iranian languages, and many Median names appear in Old Persian texts. The group of Old Iranian languages was presumably large; however, knowledge of it is restricted mainly to Old Persian, Avestan, and Median. The first two are the only languages in that group to have left written original texts, while Median is known mostly from loanwords in Old Persian.
+
+Language evolution
+By the 4th century BCE, the late Achaemenid period, the inscriptions of Artaxerxes II and Artaxerxes III differ enough from the language of Darius' inscriptions to be called a "pre-Middle Persian," or "post-Old Persian". Old Persian subsequently evolved into Middle Persian, which is in turn the ancestor of New Persian.
+Professor Gilbert Lazard, a famous  Iranologist and the author of the book Persian Grammar, states:
+
+The language known as New Persian, which usually is called at this period (early Islamic times) by the name of Parsi-Dari, can be classified linguistically as a continuation of Middle Persian, the official religious and literary language of Sassanian Iran, itself a continuation of Old Persian, the language of the Achaemenids. Unlike the other languages and dialects, ancient and modern, of the Iranian group such as Avestan, Parthian, Soghdian, Pashto, etc., Old, Middle and New Persian represent one and the same language at three states of its history. It had its origin in Fars and is differentiated by dialectical features, still easily recognizable from the dialect prevailing in north-western and eastern Iran.
+Middle Persian, also sometimes called Pahlavi, is a direct continuation of Old Persian and was used as the written official language of the country. Comparison of the evolution at each stage of the language shows great simplification in grammar and syntax. However, New Persian is a direct descendant of Middle and Old Persian.
+
+Substrates
+Old Persian contains numerous loanwords from the Median language, which was presumably a substrate of Old Persian. The Median element is identifiable because it did not share in the developments that were peculiar to Old Persian. Median words can be found in all parts of the lexicon, though some forms appear only in proper names, while others appear primarily in religious vocabulary and thus may include some Avestan influence. Some words are attested with both their Old Persian and Median forms, such as the word for 'horse', which is attested in Old Persian as both asa (Old Persian) and aspa (Median).
+
+Script
+Old Persian texts were written from left to right in the syllabic Old Persian cuneiform script and had 36 phonetic characters and 8 logograms. The usage of logograms is not obligatory. The script was surprisingly not a result of evolution of the script used in the nearby civilisation of Mesopotamia. Despite the fact that Old Persian was written in cuneiform script, the script was not a direct continuation of Mesopotamian tradition and in fact, according to Schmitt, was a "deliberate creation of the sixth century BCE".
+The origin of the Old Persian cuneiform script and the identification of the date and process of introduction are a matter of debate among Iranian scholars with no general agreement having been reached. The factors making the consensus difficult are, among others, the difficult passage DB (IV lines 88–92) from Darius the Great who speaks of a new "form of writing" being made by himself which is said to be "in Aryan":
+
+King Darius says: By the grace of Ahuramazda this is the inscription which I have made. Besides, it was in Aryan ("ariyâ") script, and it was composed on clay tablets and on parchment. Besides, a sculptured figure of myself I made.
+Also, the analysis of certain Old Persian inscriptions are "supposed or claimed" to predate Darius the Great. Although it is true that the oldest attested Old Persian inscriptions are found on the Behistun monument from Darius, the creation of this "new type of writing" seems, according to Schmitt, "to have begun already under Cyrus the Great".
+The script shows a few changes in the shape of characters during the period it was used. This can be seen as a standardization of the heights of wedges, which in the beginning (i.e. in DB) took only half the height of a line.
+
+Phonology
+The following phonemes are expressed in the Old Persian script:
+
+Most phonemes are conventionally transcribed with the corresponding IPA symbols shown on this table, including θ, x for /θ, x/. The exceptions are c, j, y, ç, as the first three letters are used for /t͡ʃ d͡ʒ j/, and ç is used for the remaining phoneme (𐏂 in the native script, of uncertain pronunciation but perhaps an affricate or sibilant of some kind).
+Lycian 𐊋𐊆𐊈𐊈𐊀𐊓𐊕𐊑𐊏𐊀 Kizzaprñna ~ 𐊈𐊆𐊖𐊀𐊓𐊕𐊑𐊏𐊀 Zisaprñna for (genuine) Old Persian *Ciçafarnā (besides the Median form *Ciθrafarnah) = Tissaphernes suggests /t͡s/ as the pronunciation of ç (compare [1] and Kloekhorst 2008, p. 125 in [2] for this example, who, however, mistakenly writes Çiçafarnā, which contradicts the etymology [PIIr. *Čitra-swarnas-] and the Middle Persian form Čehrfar [ç gives Middle Persian s]).
+The phoneme /l/ does not occur in native Iranian vocabulary, only in borrowings from Akkadian (a new /l/ develops in Middle Persian from Old Persian /rd/ and the change of /rθ/ to /hl/). The phoneme /r/ can also form a syllable peak; both the way Persian names with syllabic /r/ (such as Brdiya) are rendered in Elamite and its further development in Middle Persian suggest that before the syllabic /r/, an epenthetic vowel [i] had developed already in the Old Persian period, which later became [u] after labials. For example, Old Persian Vᵃ-rᵃ-kᵃ-a-nᵃ /wr̩kaːna/ is rendered in Elamite as Mirkānu-, rendering transcriptions such as V(a)rakāna, Varkāna or even Vurkāna questionable and making Vrkāna or Virkāna much more realistic (and equally for vrka- "wolf", Brdiya and other Old Persian words and names with syllabic /r/).
+While v usually became /v/ in Middle Persian, it became /b/ word-initially in New Persian, except before [u] (including the epenthetic vowel mentioned above), where it became /ɡ/. This suggests that it was really pronounced as [w].
+
+Grammar
+Grammatical numbers
+Old Persian has 3 types of grammatical number: singular, dual and plural.
+
+Grammatical genders
+Old Persian has three grammatical genders: masculine, feminine and neuter. In contrast, Modern Persian (as well as Middle Persian) is a genderless language.
+
+Nouns
+Old Persian stems:
+
+a-stems (-a, -am, -ā)
+i-stems (-iš, iy)
+u- (and au-) stems (-uš, -uv)
+consonantal stems (n, r, h)
+
+Adjectives are declined in a similar way.
+
+Verbs
+Voices
+Active, Middle (them. pres. -aiy-, -ataiy-), Passive (-ya-).
+Mostly the forms of first and third persons are attested. The only preserved Dual form is ajīvatam 'both lived'.
+
+Sample text
+Here's the opening line of the Darius Naqsh-e Rostam inscription "a".
+Old Persian
+
+Transliteration
+
+English translation
+
+Lexicon
+See also
+Category:Old Persian language
+Middle Persian
+New Persian
+
+Notes
+Bibliography
+
+
+== Further reading ==

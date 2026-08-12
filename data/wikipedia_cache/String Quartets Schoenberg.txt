@@ -1,0 +1,103 @@
+The Austrian composer Arnold Schoenberg published four string quartets, distributed over his lifetime: String Quartet No. 1 in D minor, Opus 7 (1905), String Quartet No. 2 in F♯ minor, Op. 10 (1908), String Quartet No. 3, Op. 30 (1927), and the String Quartet No. 4, Op. 37 (1936).
+In addition to these, he wrote several other works for string quartet which were not published. The most notable was his early String Quartet in D major (1897). There was also a Presto in C major (c. 1895), a Scherzo in F major (1897), and later a Four-part Mirror Canon in A major (c. 1933). Finally, several string quartets exist in fragmentary form. These include String Quartet in F major (before 1897), String Quartet in D minor (1904), String Quartet in C major (after 1904), String Quartet Movement (1926), String Quartet (1926), String Quartet in C major (after 1927) and String Quartet No. 5 (1949).
+Schoenberg also wrote a Concerto for String Quartet and Orchestra in B♭ major (1933): a recomposition of a work by the Baroque composer George Frideric Handel.
+
+String Quartet in D major
+This string quartet in four movements is Schoenberg's earliest extant work of large scale: average duration of recorded performances is about 27 minutes. Completed in 1897, it was premiered privately on March 17, 1898, and publicly later that same year on December 20 in Vienna. It was published posthumously in 1966 (Faber Music, London).
+Schoenberg's friend Alexander von Zemlinsky gave him much advice and criticism during the composition of this work. Zemlinsky even showed an early draft of it to Johannes Brahms, whom Schoenberg very much admired. It was given the old master's approval.
+The string quartet is in four movements:
+
+The original second movement was the Scherzo in F which now exists as a separate piece. Schoenberg substituted the Intermezzo at Zemlinsky's suggestion.
+
+String Quartet No. 1, Op. 7
+A large work consisting of one movement which lasts longer than 45 minutes, Schoenberg's First String Quartet established his reputation as a composer. Begun in the summer of 1904 and completed in September 1905, the quartet is remarkable for its density of its orchestration.
+The quartet is in D minor. The tonality is stretched to the limit as was common in late Romantic music. It also carries a small collection of themes which appear repeatedly in many guises. Instead of balanced phrase structures typical of string quartet writing up to that period, Schoenberg wrote asymmetrical phrases that build into larger cohesive groups.
+According to Schoenberg, when he showed the score to Gustav Mahler, the composer exclaimed: "I have conducted the most difficult scores of Wagner; I have written complicated music myself in scores of up to thirty staves and more; yet here is a score of not more than four staves, and I am unable to read them."
+
+String Quartet No. 2, Op. 10
+This work in four movements was written during a very emotional time in Schoenberg's life. Though it bears the dedication "to my wife", it was written during Mathilde Schoenberg's affair with their friend and neighbour, artist Richard Gerstl, in 1908. It was first performed by the Rosé Quartet and the soprano Marie Gutheil-Schoder.
+The second movement quotes the Viennese folk song, "O du lieber Augustin". As musical settings of Stefan George's poetry, the third and fourth movements feature a soprano; a 1914 Vossische Zeitung critic called this innovation in genre Beethovenian (alluding to the Symphony No. 9, a choral symphony).
+On setting George, Schoenberg later wrote, "I was inspired by [his] poems ... and, surprisingly, without any expectation on my part, these songs showed a style quite different from everything I had written before. ... New sounds were produced, a new kind of melody appeared, a new approach to expression of moods and characters was discovered."
+The string quartet is in four movements:
+
+Text
+The latter two movements of the Second String Quartet are set to poems from Stefan George's collection Der siebente Ring (The Seventh Ring), which was published in 1907.
+
+String Quartet No. 3, Op. 30
+Schoenberg's Third String Quartet dates from 1927, after he had worked out the basic principles of his twelve-tone technique. Schoenberg had followed the "fundamental classicistic procedure" by modeling this work on Schubert's String Quartet in A minor, Op. 29, without intending in any way to recall Schubert's composition. There is evidence that Schoenberg regarded his 12-tone sets—independent of rhythm and register—as motivic in the commonly understood sense, and this has been demonstrated with particular reference to the second movement of this quartet.
+Arts patron Elizabeth Sprague Coolidge, whose foundation materials are held at the Library of Congress, commissioned the Quartet, Op. 30 on March 2, 1927. The work had already been completed by this time, and its première was given in Vienna on September 19, 1927, by the Kolisch Quartet.
+The string quartet is in four movements:
+
+String Quartet No. 4, Op. 37
+Schoenberg's Fourth String Quartet (April–June 1936, commissioned by Coolidge) marks his transition to a late style. It is freer than the Third, and he found it perhaps more "pleasant". He had relocated to Brentwood, Los Angeles to teach at the University of California, Los Angeles, and was revisiting tonal idioms while still working on the opera Moses und Aron (planned since 1923). He had last finished Three Songs, Op. 48 (Berlin, 1933) and begun the Violin Concerto (United States, 1934–36). After sketches, he wrote the Quartet in six weeks for $1,000, finishing the Concerto midway. The Concerto's first movement culminates in a structurally integrating passage like many in the Quartet, which is more cohesive. He did not finish another twelve-tone work until the Ode to Napoleon (1942).
+
+Movements
+The Quartet has four motivically linked movements:
+
+They have the same twelve-tone row.
+
+I. Allegro molto, energico
+The first movement, marked Allegro molto, energico (lit. 'Very fast, energetic'), is a march by turns calm and agitated. An abstract sonata form veiled by extensive thematic variation, Schoenberg wrote that it "resembles catalogued forms in only a few respects". Its musical argument is audible as two head-motives, <2,1,9> and <7,8,0>, that accrue different structural associations, including
+
+row forms (source row forms P2 and I7),
+meters (broadly quadruple and triple),
+textures (generally thicker and thinner), and
+tonalities (primarily D minor and its submediant, B♭ major).
+This exemplifies Schoenberg's "musical idea" (Idee or musikalische Gedanke): "the totality ... its creator wanted to present." As a process, narrative, or dialectic, the idea is realized as the Grundgestalt (thesis). This basic shape generates tensions (the antithesis) during composition, which decisions reinforcing structural coherence may resolve through synthesis (unity of opposites).
+
+Exposition
+Primary theme
+The periodic Grundgestalt melody is shaped from P2, with trichords <2,1,9>, <10,5,3>, <4,0,8>, and <7,6,11>. Its first five pitches outline D minor crossing into B♭ major (solfège: do–ti–sol/ti–do–sol). Seminal dyads <2,1> (D–C♯) and <8,7> (A♭–G) are accented. Beethoven's "fate" motif is evoked rhythmically. The accompaniment first projects 44 via aggregate-completing trichord groups (mm. 1–3), but the heard meter is registrally conflicted and fluid. A D-major-seventh chord via {1,2,9} leads into a B♭ sonority via <10,5,3> at a quasi-cadence (mm. 4–5).
+Midway, a pickup introduces head-motive I7: <7,8,0>, rendered vertically in a dotted rhythm as if in 34 (mm. 6–7). B♭–oriented dominant–tonic motion follows (mm. 8–9). The accompaniment restores 44 (mm. 10–12), and a pitch-class palindrome (mm. 13–16) suggests similar D–focused harmonic motion, with <9,1,2,2,1,9> in the first violin's Hauptstimme (chief melody). In the continuation, <7,8,0> recurs in triplets across registers (mm. 21–22) and, amid B♭–oriented motion, in second violin's palindrome (<7,8,0,0,8,7>, mm. 23–24).
+
+Transition
+The transition has two portions (mm. 27–42 and 42–62) and a cadence (mm. 62b–65), with modulation-like aggregate transpositions from home-key-like A2 through A7, A4, A10, and A6, to dominant-like A9.
+Building on earlier palindromic passages, one in mm. 27–31 spans row forms P2, I7, R2, and RI7 partitioned into hexachords in the violins, over the lower strings' complementary pitch-class retrograde. Mosaics, formed through the distribution of pitch-class sets in the violins, structure the trichord exchange relations
+
+P2: <2,19> (violins) and I7: <9,1,2> (cello), and then
+I7: <7,80> (violins) and P2: <0,8,7> (cello).
+Midway, these exchange relations are paralleled in the second violin and lower strings. (A related pitch-class mirror in mm. 42–44 suggests B♭: ti–do–mi via <9,10,2> in the violin Hauptstimme.)
+In mm. 35–37, the violins' partition of P7 as <7,6,2,3,10,8,¦9,5,1,0,11,4> previews the development theme (mm. 116ff.), while the lower strings' related partition of I0 previews the start of the secondary theme (mm. 66–68), together prefiguring these themes' contrapuntal recapitulation (mm. 188ff.).
+
+Secondary theme
+For the secondary theme (mm. 66–94), Schoenberg uses harmonies like an A minor-major seventh chord to allude to expository tonic–dominant modulation. The cello Nebenstimme, or counter-melody, reprises the seminal dyads, transposed and in continuous chromatic descent, entering with <9,8> just before the theme and continuing with <7,6> beneath it (mm. 66–68).
+
+Development
+The development (mm. 95–164) has five stages (mm. 95–104, 105–110, 111–139, 140–153, and 153–164).
+
+Recapitulation and coda
+The concise recapitulation (mm. 165–238) recasts the primary theme (mm. 165–177) and secondary theme (mm. 188–195) separated by a transition (mm. 178–188). Both themes return in counterpoint: the first with another from m. 42 (the transition), and the second with one from m. 116 (the development).
+Following a transition (mm. 195–238), the coda (mm. 239–284) has two stages based on the primary theme (mm. 239–257) and the secondary theme (mm. 258–273). In the final section (mm. 274–284), melodic and tonic–dominant motion evoking B♭ major crowds out bits of D minor until both keys' tonic and dominant harmonies are fused in a quasi-cadence.
+
+II. Comodo
+The second movement, marked Comodo (lit. 'Leisurely'), is an intermezzo in ternary form. It begins as a gentle waltz with an arpeggio-like theme but turns more virtuosic, playful, and edgy as the middle section introduces new material and accrues textural density through motivic–thematic development. Elements of this carry into the return before it ends abruptly as if exhausted.
+
+III. Largo
+The solemn third movement, marked Largo (lit. 'Broadly', as in very slowly and expansively), is in binary form (ABAB). It opens with a unison theme in all instruments, which diverge into separate lines, and has the character of an operatic recitative. A diminuendo leads into the periodic, undulating secondary theme. The unison theme returns in inversion.
+
+IV. Allegro – agitato
+The finale, marked Allegro (lit. 'Fast'), is a rondo dominated by variation. Returning to march-like material, it becomes agitated, not unlike the Violin Concerto's finale. The main theme is subsumed into extensive transformation, then gradually re-emerges, and the work ends morendo.
+
+Reception
+Premiered by the Kolisch Quartet in Los Angeles in 1937, the Fourth Quartet was dedicated to them and Coolidge.
+
+Notes
+References
+Further reading
+Babbitt, Milton. 2003. The Collected Essays of Milton Babbitt, edited by Stephen Peles, with Stephen Dembski, Andrew Mead, and Joseph N. Straus. Princeton and Oxford: Princeton University Press. ISBN 0-691-08966-3
+Barbier, Pierre E. 1997. String Quartets nos. 1, 2, "Historical Legitimacy", included booklet. Praga Digitals PRD 250 112 HMCD 90. Prague.
+Burkholder, J. Peter. 1999. "Schoenberg the Reactionary". In Schoenberg and his World, edited by Walter Frisch, . Princeton University Press. ISBN 0-691-04861-4
+Frisch, Walter (Summer 1988). "Thematic Form and the Genesis of Schoenberg's D-Minor Quartet, Opus 7". The Journal of the American Musicological Society. 41 (2): 289–314. doi:10.2307/831435. JSTOR 831435. S2CID 194093809.
+Harrison, Max. 1999. Schoenberg, the String Quartets, in booklet for "Four Staging Posts on Schoenberg's Musical Journey". Phillips Classics 464 046–2. Munich.
+Rauchhaupt, Ursula von, ed. (1971). Schoenberg, Berg, Webern: The String Quartets. A Documentary Study. Translated by Eugene Hartzell. Hamburg: Deutsche Grammophon. pp. 9–80.
+Roy, Adam J. 2021. "Motivic Metamorphosis: Modelling Intervallic Transformations in Schoenberg’s Early Works". PhD Dissertation. Western University.
+Schoenberg, Arnold. 1997. String Quartets nos. 1 and 2. Mineola, New York: Dover Publications, Inc. ISBN 0-486-29693-8
+Stolz, Nolan. 2008. "Contrapuntal Techniques in Schoenberg's Fourth String Quartet". Eunomios (August): 1–10.
+
+External links
+Eike Feß. "String Quartet in D major (1897)". Arnold Schönberg Center.
+Matthias Schmidt. "String Quartet No. 1" (PDF). Arnold Schönberg Center.
+Therese Muxeneder. "String Quartet No. 2" (PDF). Arnold Schönberg Center.
+Camille Crittenden. "String Quartet No. 3" (PDF). Arnold Schönberg Center.
+Mirjam Schlemmer. "String Quartet No. 4" (PDF). Arnold Schönberg Center.
+String Quartet No. 1, Op. 7, String Quartet No. 2, Op. 10, String Quartet No. 3, Op. 30, String Quartet No. 4, Op. 37: Scores at the International Music Score Library Project

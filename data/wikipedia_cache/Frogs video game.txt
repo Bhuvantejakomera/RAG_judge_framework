@@ -1,0 +1,12 @@
+Frogs is a 1978 action video game developed and published by Gremlin Industries for arcades. It featured a jumping character (predating Donkey Kong by three years) with graphics "projected" by laying the monitor flat on its back and reflecting the computer-generated graphics of the frogs and flies toward the player via a mirror at a 45-degree angle. The game's graphics were actually generated and shown backward, so the mirror reflection would show letters and numbers properly. The game was distributed by Sega in Japan.
+
+Gameplay
+The player controls a frog on lilypads and attempts to catch (with the frog's tongue and while jumping) various insects (butterflies and dragonflies) worth different numbers of points in a set amount of time.
+
+Legacy
+In 1980, Adventure International published a similar game with varying names–Frog, Frogs, Frog on a Log–for the TRS-80. In this version the player controls a large frog that moves left or right along a log.
+Mattel released Frogs and Flies for the Atari 2600, which was renamed Frog Bog for the Intellivision version. Both were published in 1982.
+
+References
+External links
+Frogs at mamedb.com

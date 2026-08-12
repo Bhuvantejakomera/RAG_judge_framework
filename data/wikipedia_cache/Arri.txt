@@ -1,0 +1,152 @@
+Arri Group () (stylized as "ARRI") is a German manufacturer of motion picture film equipment.  Based in Munich, the company was founded in 1917. It produces professional motion picture cameras, lenses, lighting and post-production equipment.  It is cited by Hermann Simon as an example of a "hidden champion". The Arri Alexa camera system was used to shoot several films that won the Academy Award for Best Cinematography, including Hugo (2011), Life of Pi (2012), Gravity (2013), Birdman (2014), The Revenant (2015) and 1917 (2019).
+
+History
+Early history
+Arri was founded in Munich, Germany on 12 September 1917 by August Arnold and Robert Richter as Arnold & Richter Cine Technik. The acronym Arri was derived from the initial two letters of the founders' surnames, Arnold and Richter.
+In 1924, Arnold and Richter developed their first film camera, the small and portable Kinarri 35. In 1937, Arri introduced the world's first reflex mirror shutter in the Arriflex 35 camera, an invention of longtime engineer Erich Kästner. This technology employs a rotating mirror that allows a continuous motor to operate the camera while providing parallax-free reflex viewing to the operator, and the ability to focus the image by eye through the viewfinder, much like an SLR camera for photography. The reflex design was subsequently used in almost every professional motion picture film camera and is still used in the Arri Alexa Studio digital camera. The first Hollywood film to employ an Arriflex was the 1947 Humphrey Bogart and Lauren Bacall film Dark Passage in 1947. Over the years, more than 17,000 Arriflex 35s were built. The design was recognized with two Scientific and Technical Academy Awards in 1966 and 1982.
+
+Rise and Appeasement under Nazi Rule (1926–1938)
+In its early years, ARRI grew steadily: by 1927, the company had 20 employees, and five years later, it had already doubled that number.
+When August Arnold and Robert Richter were not using their technology to produce films or segments for the newsreel (Wochenschau), they rented out their equipment to other film producers for a fee. This idea of renting equipment would later lead to the founding of ARRI Rental, now a major branch of ARRI's global business.
+In 1928, the company developed the KINARRI 16, the first 16mm camera—a hand-cranked amateur model soon replaced by an improved version with a spring mechanism. In 1934, ARRI released a mobile sound camera, but due to patent issues, it was only used for the production of two films.
+From 1927 onward, the company filmed the Reichsparteitage of the NSDAP, and after the party took power in Germany, ARRI ingratiated itself by sending letters presenting the firm as a longtime supporter. Richter and Arnold both joined the NSDAP in 1933. They hoped to gain protection, commissions, and recommendations for the renewed production of feature films under party-affiliated organizations.
+The company hired directors and screenwriters who were aligned with the cultural policies of Nazi Germany, but after only three feature films produced in 1934–35 it abandoned feature-film production. These films were Grenzfeuer (1934), written and directed by Hanns Beck-Gaden; Die Frauen vom Tannhof (1934), directed by Franz Seitz Sr. from a screenplay by Joseph Dalmann; and Es waren zwei Junggesellen (1935), directed by Seitz, with a screenplay by Dalmann and Joe Stöckel.
+In 1938, ARRI was commissioned to shoot a film documenting the destruction of the Old Main Synagogue in Munich.
+In 1937, ARRI presented the ARRIFLEX 35 at the Leipzig Spring Fair, the first mass-produced reflex film camera. Engineer Erich Kästner played a decisive role, bringing the rotating mirror shutter to production readiness in motion picture cameras. For the first time, the ARRIFLEX 35 allowed users to view the precise frame and focus distribution through the viewfinder without parallax error.
+The basic design of this camera is still used today in ARRI's digital ALEXA line.
+
+Second World War (1939–1945)
+From 1939 onwards, the German military became a major customer for ARRIFLEX cameras, which were used for propaganda purposes. Sales to the film industry were largely restricted. Although ARRI was not classified as an armaments manufacturer, in 1942 production was relocated from Türkenstraße in Munich to Brannenburg, approximately 70 km away.
+On 13 July 1944, ARRI's Munich headquarters was completely destroyed in an Allied bombing raid.
+During the war, a copy of the ARRIFLEX—called the Cineflex—was developed in the United States, primarily for military applications. After 1945, when ARRI was again able to deliver precision-engineered ARRIFLEX cameras from U.S.-occupied Bavaria, the American copy disappeared from the market.
+Following the end of the war, ARRI immediately began rebuilding its headquarters in Munich. The reconstruction took place in several phases and lasted approximately ten years.
+
+1950–1989
+In 1952, Arri introduced the Arriflex 16ST, the first professional 16mm camera with a reflex viewing system. In 1965,  a self-blimped 16mm camera was released: the Arriflex 16BL. The Arriflex 35BL followed in 1972 as a lightweight, quiet alternative to the rather heavy and cumbersome blimped cameras of the time. Also in 1972, Arri pioneered the development of daylight luminaires with the Arrisonne 2000 W.
+The Arriflex 16SR, launched in 1975, featured a redesigned viewfinder with a through-the-lens light meter. The Arriflex 765, a 65mm camera, was released in 1989, partly in response to the growing industry demand for 70mm release prints.
+
+1990–2009
+The Arriflex 535 camera was released in 1990, followed by the Arriflex 535B and the Arriflex 16SR 3 in 1992. The Arriflex 435 was released in 1994.
+Arri partnered with Carl Zeiss AG in order to develop and manufacture advanced lenses for the motion picture industry. In 1998, Arri released the Ultra Prime lenses.
+Development of the Arrilaser, a postproduction film recorder, began in 1997 and it was released for beta testing in 1998.
+In 2000, Arri purchased the company Moviecam and developed Arricam, a 35mm camera platform. In 2003, Arri developed its first digital camera, the Arriflex D-20, which later evolved into the D-21. The camera used a 35mm CMOS sensor (instead of CCD) and allowed cinematographers to utilize standard 35mm lenses. This technology was further developed and improved for the Arri Alexa camera.
+Arri revealed its Arriscan prototype during IBC 2003. The 16mm/35mm film scanner worked alongside the Arrilaser to support the increasingly popular digital intermediate route through post-production. Later, the Arriscan became a widely used tool for film restoration work and was recognized with a Scientific and Engineering Academy Award in 2009.
+Arri released the Master Prime lenses in 2005, designed for a super-fast aperture of T1.3 without breathing and distortion. In 2007, the Master Prime 14mm and 150mm lenses were released.
+The Arrilaser 2 was released in 2009, with new client-server architecture and speeds twice as fast as the original model. In 2011, the Arrilaser was recognized with an Academy Award of Merit.
+
+2010–present
+In 2010, the Arri Alexa camera was released. The camera could compress 1080p footage to ProRes QuickTime formats and allowed direct-to-edit workflows. Later models added to the range included the Alexa Plus, Alexa Studio and Alexa M, which was designed to get the camera closer to the action. The Alexa Plus 4:3, like the Alexa Studio, allowed the full area of the sensor to be used with anamorphic lenses.
+The 16mm Arriflex 416 camera and Ultra Prime 16 lenses were used in the filming of the 2010 film Black Swan.
+Arri announced a strategic collaboration with Zeiss and Fujinon in 2010 to create new lenses that incorporated enhanced electronic lens data transfer to simplify visual effects workflows in post-production. The Arri/Fujinon Alura Zooms were released that same year, while the Arri/Zeiss Master Anamorphic lens series was released in 2012.
+In 2013, Arri created Arri Medical, a business unit that utilizes its camera technology for medical purposes. Apart from a medical imaging documentation service, it has developed a fully digital 3D surgical microscope called the Arriscope.
+The Arri Alexa 65, released in 2014, was used in the filming of The Revenant as well as Mission: Impossible – Rogue Nation and Rogue One: A Star Wars Story. The Arri Amira camera was also released in 2014. In 2015, four of the five nominees for the cinematography category of the Academy Awards were filmed using the Arri Alexa.
+Arri's subsidiary post-production and creative services company, Arri Film & TV, was renamed Arri Media in 2015 as part of a company restructuring. At NAB 2015, the SkyPanel LED fixtures were introduced by Arri. The SC60 and the SC30 have a full color tunable LED option.
+In April 2016, Arri acquired the artemis camera stabilizer systems developed by Curt O. Schaller from Sachtler / Vitec Videocom. As a result, Arri became the exclusive seller of Artemis Trinity stabilizers. At NAB 2016, Arri unveiled its version of the Trinity system.
+The second generation of Arri camera stabilization systems followed in 2022 with ARTEMIS 2 and TRINITY 2.
+In 2023, ARRI established ARRI Solutions as a dedicated business unit under the leadership of Kevin Schwutke. With this move, ARRI responded to the growing global demand for virtual production solutions, system integration, and workflow development.
+In 2025, Curt O. Schaller was awarded the Academy Scientific and Engineering Award for the concept, design and development of the Trinity 2 system.
+On April 14, 2026, after months of public speculation regarding the future of the company, it was announced that ARRI had been acquired by German communications executive Thomas Riedel (Riedel Communications), after having been privately owned and operated by the same family for 108 years.
+
+Mounts
+Historically, Arri used three types of lens mounts. The mounts became popular and adapters for them had been made by other camera manufacturers.
+Arri standard was a lens mount developed by Arri for use with both 16 mm and 35 mm movie cameras. Lenses are distinguished by a tab inside an outer ring. Because of the weak seating strength and ability of the aluminum mount to gradually become poorly seated, the stainless steel Arri bayonet mount superseded the Arri standard mount in 1965, debuting on the 16BL.
+Arri bayonet was a lens mount developed by Arri for use with both 16 mm and 35 mm movie camera lenses. Lenses of this type are distinguished by "outer wings" which both control aperture and bayonet alignment, and are placed in the mount while two pressure tabs are simultaneously depressed at the side of the lens mount on the camera. These tabs provide a relatively strong locking mechanism which allows for higher quality lens seating than offered by the Arri standard mount. Debuting in 1965 with the 16BL, the Arri bayonet mount superseded the Arri standard mount, but cameras with the bayonet mount were also able to accommodate Arri standard lenses due to both mounts having the same flange focal distance and diameter. However, cameras with Arri standard mounts were unable to fit lenses with Arri bayonet mounts, due to the locking mechanism. The bayonet mount began to be superseded around 1980 by the Arri PL mount, which has since become an overwhelmingly predominant mount for most modern cameras, along with Panavision and their PV mount.
+Arri PL is a lens mount developed by Arri for use with both 16 mm and 35 mm movie cameras. The PL stands for "positive lock". It is the successor mount to the Arri bayonet; unlike the bayonet mount, however, it is incompatible with older Arri-mount lenses, due to the larger diameter. Originally developed for 35-mm cameras, it became popular on the 16-mm cameras as well, mostly due to the advantage of using the same lenses on both camera packages.
+
+Awards
+Products
+Camera lines
+Kinarri 35 (1924)
+Kinarri 16 (1928)
+Arriflex 35 (1937)
+Arriflex 35 II (1946)
+Arriflex 16ST (1952)
+Arriflex 35 IIA (1953)
+Arriflex 35 IIB (1959)
+Arriflex 16M (1960)
+Arriflex 35 IIC (1963)
+Arriflex 16BL (1965)
+Arritechno 35 (1970)
+Arriflex 35BL (1972)
+Arriflex 16SR (1975)
+Arriflex 35BL II (1975)
+Arriflex 35 III  (1979)
+Arriflex 35BL III (1980)
+Arriflex 35 IIIC (1982)
+Arriflex 16SR2 (1982)
+Arriflex 35BL 4 (1986)
+Arriflex 35BL 4S (1988)
+Arriflex 765 (1989)
+Arriflex 535 (1990)
+Arriflex 535 B (1992)
+Arriflex 16SR 3 (1992)
+Arriflex 435 (1994)
+Arriflex 435 ES (1995)
+Arricam Studio and Lite (2000)
+Arriflex 435 Advanced (2001)
+Arriflex 235 (2003)
+Arriflex 435 Xtreme (2004)
+Arriflex D-20 (2005)
+Arriflex 416 (2006)
+Arriflex 416 Plus (2006)
+Arriflex 416 Plus HS (2008)
+Arriflex D-21 (2008)
+Arri Alexa (2010)
+Arri Alexa XT (2013)
+Arri Amira (2013)
+Arri Alexa 65 (2014)
+Arri Alexa Mini (2015)
+Arri Alexa SXT (2016)
+Arri Alexa LF (2018)
+Arri Alexa Mini LF (2019)
+Arri Alexa 35 (2022)
+Arri Alexa 265 (2024)
+Arri Alexa 35 Xtreme (2025)
+Lighting
+Arri Fresnel (1937)
+Arri Gigant (1952)
+Arrisonne 2000 (1972)
+Arri Apollo (1979)
+Arri Studio (1988)
+Arri Compact Daylight (1991)
+Arrisun 40/25 (1992)
+Arrilux Pocket PAR (1996)
+ARRIMAX 18/12 (2005)
+Arri M40 (2011)
+Arri L7 LED Fresnel (2011)
+Arri SkyPanel S60-C (2015)
+Arri SkyPanel S120-C
+Arri SkyPanel S360-C
+Arri SkyPanel S30-C
+Arri Orbiter (2019)
+Stellar Lighting Control App
+Camera stabilizers
+ARRI ARTEMIS 2
+ARRI TRINITY 2
+artemis Maxima
+artemis Trinity
+Film recorder
+Arrilaser film recorder, used for film-out
+Film scanner
+Arriscan
+
+Corporate espionage
+In 2011, it was alleged that Michael Bravin, an executive of the US-based subsidiary Arri Inc., had unlawfully accessed a rival company's email account. A suit was brought before a US court and in September 2011, Bravin entered a guilty plea. Arri Inc. denied knowledge or gains from Bravin's actions, and a separate lawsuit against the company was dropped as a result of an out-of-court settlement.
+
+See also
+Carl Zeiss AG
+Panavision
+Red Digital Cinema
+Comparison of movie cameras
+
+References
+Sources
+Hart, D. (2012). The Camera Assistant: A Complete Professional Handbook. Taylor & Francis. ISBN 978-1-136-04913-2. Retrieved 2024-12-26.
+Malkiewicz, Kris; Mullen, M. David (2009-12-01). "Lens Mounts". Cinematography: Third Edition. Simon and Schuster. ISBN 978-1-4391-0562-7. Retrieved 2025-09-09.
+
+External links
+Official website
+Arri's cameras histories in CinemaTechnic website
+Reviews: D-20 & D-21 on The Reel Show
+Arriflex 16 S operating instructions - PDF
+Discussion and demonstration of the Arriflex ST 16mm film camera by ex BBC cameramen Brian Tufano and David Whitson

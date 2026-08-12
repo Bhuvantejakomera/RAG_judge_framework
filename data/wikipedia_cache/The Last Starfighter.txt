@@ -1,0 +1,83 @@
+The Last Starfighter is a 1984 American space opera film directed by Nick Castle. The film tells the story of Alex Rogan (Lance Guest), a teenager who, after winning the high score in an arcade game that's secretly a simulation test, is recruited by an alien defense force to fight in an interstellar war. It also features Dan O'Herlihy, Catherine Mary Stewart, and Robert Preston in his final role in a theatrical film. The character of Centauri, a "lovable con-man", was written with Preston in mind and was a nod to his most famous role as Professor Harold Hill in The Music Man (1962).
+The Last Starfighter was released on July 13, 1984, by Universal Pictures. It earned $28.7 million at the domestic box office, against a budget of $15 million, and positive reviews from critics. The film, along with Walt Disney Pictures' Tron (1982), has the distinction of being one of cinema's earliest films to use extensive "real-life" computer-generated imagery (CGI) to depict its many starships, environments, and battle scenes. There was a subsequent novelization of the film by Alan Dean Foster, as well as a video game based on the production. In 2004, it was also adapted as an off-Broadway musical.
+
+Plot
+Teenager Alex Rogan lives in a trailer park with his younger brother Louis and their mother Jane. Aside from his girlfriend Maggie Gordon, his only diversion is an arcade game called Starfighter, in which the player is "recruited by the Star League to defend the Frontier against Xur and the Ko-Dan Armada" in deep-space warfare. One evening, Alex becomes the game's highest-scoring player. The moment is spoiled, however, when he learns that his application for a college scholarship has been rejected.
+The inventor of Starfighter, Centauri, arrives in a futuristic car with a proposition. Centauri is a disguised alien, and his car is a spacecraft. Alex is taken to the planet Rylos while Beta, a doppelgänger android, covers his absence. Alex learns of a conflict between the peaceful Rylan Star League and the oppressive Ko-Dan Empire. The latter's armada, poised to invade Rylos, is led by Xur, a would-be-tyrant who has sabotaged the Frontier-forcefield shielding Rylos and other League-worlds from the Ko-Dan. The only hope against Xur and his allies rests with a small fleet of Gunstar spacecraft, operated by "Navigators" and by "Starfighter" gunners. Centauri's Starfighter arcade game is a recruiting tool designed to train Starfighters. Alex meets a friendly reptilian Navigator named Grig, to whom he explains his reservations about being part of the coming conflict.
+Xur contacts Starfighter Command as Alex watches. After publicly executing a Star League spy, Xur promises the imminent fall of Rylos. Shaken, Alex asks to be taken home; there, Centauri gives him a means to contact the League should he change his mind. Back on Rylos, a saboteur disables Starfighter Command's defenses as the Ko-Dan command ship attacks with a long-range Meteor Gun. The remaining Starfighters and their Gunstars are wiped out. The saboteur warns Xur of Alex's escape.
+Alex's life is saved by another twist of fate, when he discovers Beta and contacts Centauri to retrieve the droid. Centauri arrives just as Alex and Beta are attacked by a Zando-Zan, a shape-shifting assassin in Xur's service. Centauri is mortally wounded protecting Alex. He and Beta explain that more Zando-Zans are en route to Earth; Alex's only hope for survival is to embrace his calling as a Starfighter. Alex agrees, and Centauri flies him back to Starfighter Command just before dying from his injury. Alex and Grig take off in a custom-modified Gunstar.
+While Grig mentors Alex, Beta finds it difficult to maintain his impersonation...particularly with Maggie. Then a second Zando-Zan shoots Beta in front of Maggie, revealing the ruse. Maggie tags along as Beta steals a truck and chases the Zando-Zan. Before the would-be-assassin can warn Xur, Beta sacrifices his life to destroy it.
+Believing Alex has been slain, Xur orders the taking of Rylos. Then Alex and Grig ambush the Ko-Dan mothership. As Ko-Dan warlord Kril relieves Xur of command, Alex knocks out the mothership's communications and weapons-targeting system. Xur overpowers his captors and escapes. Outnumbered and overwhelmed by Ko-Dan fighters, Alex activates "Death Blossom": an experimental weapon, developed by Grig, which destroys the remaining fighters. His flagship's batteries still offline, Kril attempts to ram the Gunstar, which evades him. Alex disables Kril's navigation system, and the mothership crashes into a nearby moon.
+Alex is proclaimed the savior of Rylos. Grig and a recovered Centauri persuade him to help rebuild the Rylan Starfighter legion. Alex and Grig stop by Earth, landing their Gunstar in the trailer park. Louis is delighted to meet Grig, who speaks of Alex's heroism. Alex bids his family farewell and invites Maggie along to Rylos. She agrees. Louis throws himself into mastering the Starfighter game so that he too can join the legion.
+
+Cast
+Production
+Jonathan R. Betuel stated that the genesis for the film came about because he wandered into a video arcade and saw a young boy playing a video game. At that time, he was reading the book The Once and Future King by T. H. White. He wondered what would happen if a video game were a metaphorical sword in a stone, and a boy racked up an incredible score, which would cause a ripple effect across the universe.
+
+The Last Starfighter was shot in 38 days, mostly night shoots in Canyon Country. It was one of the earliest films to make extensive use of computer graphics for its special effects. In place of physical models, 3D-rendered models were used to depict space ships and many other objects. The Gunstar and other spaceships were designed by artist Ron Cobb, who also worked on Dark Star, Alien, Star Wars and Conan the Barbarian.
+Computer graphics for the film were rendered by Digital Productions (DP) on a Cray X-MP supercomputer. The company created 27 minutes of effects for the film. This was considered an enormous amount of computer generated imagery at the time. For the 300 scenes containing computer graphics in the film, each frame of the animation contained an average of 250,000 polygons and had a resolution of 3000 × 5000 36-bit pixels. Digital Productions estimated that using computer animation required only half the time and between a third to half of the cost of traditional special effects. The result was a cost of $14 million for a film that made close to $29 million at the box office.
+DP used Fortran, CFT77 for programming:
+
+Everything was in FORTRAN, because it was the only language with vectorization when we started and remained the only language with good vectorization through the life of DP.
+Not all special effects in the film were done with computer animation. The depiction of the Beta unit before it had taken Alex's form was a practical effect, created by makeup artist Lance Anderson. The Starcar, created by Gene Winfield and driven by Centauri, was a working vehicle based on Winfield's Spinner designs from Blade Runner.
+Because the test audiences responded positively to the Beta Alex character, director Nick Castle added more scenes of Beta Alex interacting with the trailer park community. Because Lance Guest had cut his hair short after initial filming had been completed and he contracted an illness during the re-shoots, his portrayal of Beta Alex in the added scenes has him wearing a wig and heavy makeup. Wil Wheaton had a few lines of dialogue that were ultimately cut from the film, but he still is visible in the background of several scenes.
+
+Music
+Composer Craig Safan wanted to go "bigger than Star Wars" and therefore used a "Mahler-sized" orchestra, resulting in an unusual breadth of instruments, including "quadruple woodwinds" and "eight trumpets, [trombones], and horns!"
+
+Reception
+At the box office, the film grossed over $28.7 million in the United States and Canada. On home video, the film grossed $13 million in video rentals by 1991.
+
+Critical response
+At the review aggregator website Rotten Tomatoes, The Last Starfighter received an approval rating of 76%, based on 90 reviews, with an average rating of 6.5/10. The website's critical consensus reads: "While The Last Starfighter is clearly derivative of other sci-fi franchises, its boundary-pushing visual effects and lovably plucky tone make for an appealing adventure". Metacritic gave the film a score of 67 based on eight reviews, indicating "generally favorable reviews". Over time, it has developed a cult following.
+Roger Ebert of the Chicago Sun-Times gave the film two-and-a-half out of four stars. While the actors were good, particularly Preston and O'Herlihy, Ebert wrote The Last Starfighter was "not a terrifically original movie" but it was nonetheless "well made". Colin Greenland reviewed The Last Starfighter for Imagine magazine, and stated that "apart from a mildly amusing little sub-plot with the android replica left on Earth to conceal his absence, Alex's adventure is strictly the movie of the video game: simple as can be, and pitched at a pre-teen audience who can believe Alex and Grig blasting a hundred alien ships and escaping without a scratch." Halliwell's Film Guide described the film as "a surprisingly pleasant variation on the Star Wars boom, with sharp and witty performances from two reliable character actors and some elegant gadgetry to offset the teenage mooning".
+In 2017, Variety described it as having "a simple yet ingenious plot" and added that "the action is suitably fast and furious, but what makes the movie especially enjoyable are the quirky character touches given to Guest and his fellow players." Variety also noted that film critic Gene Siskel described The Last Starfighter as the best of all Star Wars imitators. Alan Jones awarded it three stars out of five for Radio Times, writing that it was a "glossy, space-age fairy tale" and "highly derivative—Star Trek-like aliens have Star Wars-inspired dog-fights against a computer-graphic backdrop—but the sensitive love story between Guest and Catherine Mary Stewart cuts through the cuteness and gives the intergalactic adventures a much-needed boost."
+
+Adaptations
+The Last Starfighter's popularity has resulted in several non-film adaptations of the storyline and uses of the name.
+
+Musical
+A musical adaptation was first produced at the Storm Theatre Off-Off Broadway in New York City in October 2004, with music and lyrics by Skip Kennon and book by Fred Landau. In November 2005, the original cast recording was released on the Kritzerland label.
+
+Books
+Alan Dean Foster wrote a novelization of the film shortly after it was released (ISBN 0-425-07255-X).
+
+Comics
+The year the film was released, Marvel Comics published a comic book adaptation by writer Bill Mantlo and artists Bret Blevins and Tony Salmons in Marvel Super Special #31. The adaptation was also available as a three-issue limited series.
+
+Games
+In 1984, FASA, a sci-fi tabletop game maker, created The Last Starfighter: Tunnel Chase board game.
+
+Video games
+Arcade
+A real The Last Starfighter arcade game by Atari, Inc. is promised in the end credits, but was never released. If released, the game would have been Atari's first 3D polygonal arcade game to use a Motorola 68000 as the CPU. Gameplay was to have been taken from game scenes and space battle scenes in the film, and used the same controller used on the first Star Wars arcade game. The game was abandoned once Atari representatives saw the film in post-production and decided it was not going to be a financial success.
+
+Home
+Home versions of the game for the Atari 2600 and Atari 5200 consoles and Atari 8-bit computers were also developed, but never commercially released under the Last Starfighter name. The home computer version was eventually renamed and released (with some minor changes) as Star Raiders II. A prototype exists for the Atari 2600 Last Starfighter game, which was in actuality a game already in development by Atari under the name Universe. The game was eventually released as Solaris.
+In 1990, an NES game titled The Last Starfighter was released, but was actually a conversion of Uridium for Commodore 64, with modified sprites, title screen and soundtrack.
+A freeware playable version of the game, based on what is seen in the film, was released for PC in 2007. This is a faithful reproduction of the arcade game from the film, featuring full sound effects and music from the game. Game creators Rogue Synapse also built a working arcade cabinet of the game.
+
+Potential sequel
+In February 2008, production company GPA Entertainment added "Starfighter – The sequel to the classic motion picture Last Starfighter" to its list of projects. But two months later, the project was reported to be "stuck in the pre-production phase". It was still there as of January 2012. Hollywood directors including Seth Rogen and Steven Spielberg, as well as screenwriter Gary Whitta, expressed interest in creating a sequel or remake, but the potential sequel rights-holder, Jonathan R. Betuel, has allegedly indicated that he does not want another film made.
+The rights to the film have not been clearly defined due to conflicting information. Multiple sources say Universal Pictures still owns the theatrical and home media distribution rights while Warner Bros., which absorbed Lorimar-Telepictures (Lorimar's successor) in 1990, has the TV and international distribution rights. Another source states that Universal has the option to remake the film while Betuel has sequel rights. Further complicating the situation is a claim that both Universal and Warner Bros. each have remake and sequel rights.
+In July 2015, it was reported that Betuel would write a TV reboot of the film.
+On April 4, 2018, Whitta posted concept art for The Last Starfighter sequel on his Twitter account. In the same tweet, he also indicated that Betuel would be collaborating with him on the project. In a follow-up interview with Gizmodo, Whitta referred to the project as "a combination of reboot and sequel that we both think honors the legacy of the original film while passing the torch to a new generation."
+On October 20, 2020, Betuel stated that, with Whitta, a script for a sequel was being written and the rights to the film had been recaptured.
+On March 25, 2021, Whitta posted a sequel concept reel on YouTube called The Last Starfighters with concept art by Matt Allsopp and music by Chris Tilton and Craig Safan, featuring an audio clip from the original movie by Robert Preston.
+
+See also
+Armada—A 2015 novel by Ernest Cline with a similar premise
+"Ender's Game"—A 1977 short story/novelette by Orson Scott Card
+Future Man—A 2017 TV series with a similar premise
+Starship Girl Yamamoto Yohko—A Japanese media franchise with a similar premise
+
+References
+External links
+
+The Last Starfighter at IMDb
+The Last Starfighter at the TCM Movie Database (archived)
+The Last Starfighter at Letterboxd 
+Animation Timeline from Brown University
+The Last Starfighter video game
+Arcade game specifications by Atari; Archived September 23, 2015, at the Wayback Machine
+Podcast about The Last Starfighter by the Retroist

@@ -1,0 +1,37 @@
+Request Tracker, commonly abbreviated to RT, is an open source tool for the tracking and management of workflows, customer requests, and internal project tasks. Request Tracker began as ticket-tracking software written in Perl used to coordinate tasks and manage requests among an online community of users.  It supports email integration, custom ticket lifecycles, configurable automation, and detailed permissions and roles.
+RT's first release in 1996 was written by Jesse Vincent, who later formed Best Practical Solutions LLC to distribute, develop, and support the package. RT is open source (FOSS) and distributed under the GNU General Public License.
+Request Tracker for Incident Response (RTIR) is a special distribution of RT to fulfill the specific needs of CERT teams.
+It was initially developed in cooperation with JANET-CERT, and in 2006 was upgraded and expanded with joint funding from nine Computer Security Incident Response Teams (CSIRTs) in Europe.
+
+Technology
+RT is written in Perl and runs on the Apache and lighttpd web servers using mod_perl or FastCGI with data stored in either MySQL, PostgreSQL, Oracle or SQLite. It is possible to extend the RT interface using plug-ins written in Perl.
+
+History
+Jesse Vincent, while enrolled at Wesleyan University in 1994, worked for Wesleyan's computing help desk and was responsible for improving the help desk and residential networking software infrastructure. This task included setting up a ticketing system for the help desk. Initially he set up a Linux server to run "req", but later he identified that the command line interface was limiting usage.  Over the next two years he created and maintained WebReq, a web based interface for req written in Perl.  Eventually the req portions were removed and what was left became RT version 1.0.  A complete rewrite occurred for RT version 2.0 when Jesse started to work on RT full-time in 2001 and founded Best Practical Solutions. RT was used by Perl's CPAN, but because of declining use, a sunset date of March 1, 2021, was announced at the Perl NOC on December 4, 2020. rt.cpan.org will sunset on March 1st, 2021. Following a pushback from the developer community, a company was contracted to take over the hosting. rt.cpan.org to remain online.
+
+Interface
+Request Tracker can be used to track and manage workflows, customer requests, and internal project tasks. It offers custom ticket lifecycles, email integration, configurable automation, and detailed permissions and roles. 
+RT has many ways to highly customize creating and updating tickets, owners, dependencies, custom everything, and workflows. A web interface is available for both logged in users and guest/customer/end users. Template callbacks allow the modification of the software's web pages without requiring extensive knowledge.
+Seamless email integration is another primary interface to RT and is often the only interface many guest users see. The email system includes support for auto-responses, attachments, and full customization of all the rules which govern email.  Emails are stored in RT as correspondence on a ticket, and the software can make a distinction between public replies and private comments to show them as appropriate.
+A basic REST-like API and a command-line tool are also  provided as another way to interact with RT.
+
+Features
+RT integrates with Best Practical's knowledge base application, the RT FAQ Manager ("RTFM"). As of RT 4.0.0, RTFM's functionality was integrated into RT itself as Articles, RT's now built-in knowledgebase.
+Robust charting capacity, a workflow builder, drag-and-drop Dashboard editors, and automation capabilities are all standard.
+Request Tracker receives and manages all email sent to any of your key email addresses: support@, sales@, helpdesk@, security@, etc. Staff can manage ticket replies via email or by using RT’s full web interface.
+RT  has a powerful transaction query builder allowing searches like "show me all the replies I sent this week" or "show me all of the changes to this custom field on this ticket" or even "show me how many replies were sent by everyone on the Support queue last week".
+For developers familiar with Bootstrap, it is easy to customize RT's UI or even create new themes using the Bootstrap toolkit as a base.
+SuperUsers can now take advantage of hundreds of RT’s configuration options by making changes right in the browser as of RT 5.
+RT also integrates with Best Practical's IT asset management application, "Assets." As of RT 4.4.0, this functionality was integrated into RT itself. Assets makes it easy   to track and manage all of the equipment or intangible assets from within RT.
+RT supports the Networked Help Desk API.
+
+See also
+Comparison of help desk issue tracking software
+Comparison of issue-tracking systems
+
+References
+"RT Essentials", O'Reilly, 2005, 224 pages ISBN 0-596-00668-3
+
+Notes
+External links
+Official website

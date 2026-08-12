@@ -1,0 +1,55 @@
+Adelaide, Op. 46, (German pronunciation: [aːdəlaːˈiːdə]) is a song for solo voice and piano composed in about 1795 by Ludwig van Beethoven. The text is a poem in German by Friedrich von Matthisson (1761–1831).
+
+Composition and publication
+During the period he created Adelaide, Beethoven was in his mid twenties; he had come to Vienna in 1792 to pursue a career and was in the early stages of making a name for himself as pianist and composer. He had only recently completed his studies with Joseph Haydn. A. Peter Brown suggests that in writing Adelaide, Beethoven was strongly influenced by Haydn's song O Tuneful Voice (Hob. XXVIa:42, c. 1795), written by the elder composer shortly before. Like "Adelaide", "O Tuneful Voice" sets a love poem, is in moderate tempo with a steady triplet accompaniment, and wanders from key to key in its middle section.
+In composing Adelaide Beethoven made many sketches. Barry Cooper assigns the work of composition to "an unusually long time during 1794, 1795, and perhaps 1796." The song was published by Artaria in Vienna; the first edition bears no date, but an advertisement for it appeared 8 February 1797 in the Wiener Zeitung.
+Beethoven dedicated the work to Matthisson. The German-language title page may be translated:
+
+ADELAIDE by MATTHISSON. A cantata for voice with keyboard accompaniment. Set to music, and dedicated to the author, by LUDVIG van BEETHOVEN. Artaria and Co., Vienna.
+
+Text
+The text of Adelaide is an early Romantic poem that expresses an outpouring of yearning for an idealized and apparently unattainable woman.
+
+Formally, the poem is a sapphic ode, a metrical form adapted into German from Ancient Greek (notably the verse of Sappho). For the three main lines of each stanza, the meter is what is called a Phaelacian hendecasyllable, bearing the rhythmic pattern trochee – dactyl – trochee – trochee – trochee. The short concluding line, the Adonius, has a dactyl plus a trochee; in Matthison's poem it always consists of the addressee's name, "Adelaide".
+The poem clearly struck a chord with Beethoven, whose personal life, as in the poem, often centered on his yearnings for idealized and unattainable women. The letter of thanks that Beethoven later wrote to Matthisson testifies to his emotional engagement with the poem:
+
+Vienna, August 4, 1800.
+MOST ESTEEMED FRIEND,--
+You will receive with this one of my compositions published some years since, and yet, to my shame, you probably have never heard of it. I cannot attempt to excuse myself, or to explain why I dedicated a work to you which came direct from my heart, but never acquainted you with its existence, unless indeed in this way, that at first I did not know where you lived, and partly also from diffidence, which led me to think I might have been premature in dedicating a work to you before ascertaining that you approved of it. Indeed, even now I send you "Adelaide" with a feeling of timidity. You know yourself what changes the lapse of some years brings forth in an artist who continues to make progress; the greater the advances we make in art, the less are we satisfied with our works of an earlier date. My most ardent wish will be fulfilled if you are not dissatisfied with the manner in which I have set your heavenly "Adelaide" to music, and are incited by it soon to compose a similar poem; and if you do not consider my request too indiscreet, I would ask you to send it to me forthwith, that I may exert all my energies to approach your lovely poetry in merit. Pray regard the dedication as a token of the pleasure which your "Adelaide" conferred on me, as well as of the appreciation and intense delight your poetry always has inspired, and always will inspire in me.
+When playing "Adelaide," sometimes recall
+Your sincere admirer,
+
+BEETHOVEN.
+
+Music
+Adelaide is in the key of B-flat major; the vocal range is appropriate for a tenor or soprano voice (it is also performed in transposed versions by other voices). A performance lasts about six minutes. The song is through-composed, meaning that every stanza is set to different music.
+Beethoven treated the text in two parts. The first, covering the first three stanzas, is set larghetto and marked dolce. There is a triplet accompaniment in the piano, with many modulations through the flat keys, creating a dreamy atmosphere. As Cooper remarks, "the lover sees his beloved wherever he wanders, and the music correspondingly wanders through a great range of keys and rhythms."
+The second part of Beethoven's song sets the extravagant death fantasy of the final stanza, in which flowers sprout from the poet's grave to express his undying love. Strikingly, Beethoven sets this stanza in tones not of despair but of ecstasy; the tempo marking is allegro molto. In an essay on this song, Carla Ramsey offers an almost lurid account of the final section:
+
+"A culmination of the yearnings expressed in the earlier part of the song, the Allegro molto might be viewed as a kind of triumphal march in which the young lover exults in a death and a transfiguration whereby he is symbolically united with his beloved... The march crescendos and culminates on F above middle C with an impassioned outcry of the beloved's name. The final eleven measures, marked calando, musically portray an almost post-coital relaxation of the exhausted lover into his lover's arms with a dying, prayer-like exhalation: "Adelaide."
+Of the music of the final section, Kinderman remarks, "Most striking of all is the musical intensification of the last stanza in the Allegro molto. In the piano, he compresses the melodic outline from the beginning of the song, with its upbeat from F leading to repeated Ds and then the dominant seventh supporting E♭. The "compression" pointed out by Kinderman is illustrated in the following figure and sound files.
+
+Reception
+Beethoven was quite late in presenting Matthisson with a copy of his song, fearing the poet would not like it (see letter above). In fact, Matthisson appreciated the song greatly; he later wrote (in an 1811 introduction to an edition of his collected poems):
+
+Several composers have animated this little lyrical fantasy through music; I am firmly convinced however that none of them so threw the text into the shade with their melody as did the genius Ludwig van Beethoven in Vienna.
+Of Beethoven's songs (a minor genre for this composer), Adelaide is one of the most popular, and it is included in most recorded anthologies.
+The work was especially popular in Beethoven's day, and went through many editions. Various composers, including Sigismond Thalberg and Franz Liszt (who wrote three versions, S.466) prepared arrangements of the song for solo piano. Later in the nineteenth century, the critic Eduard Hanslick called Adelaide "the only song by Beethoven the loss of which would leave a gap in the emotional life of our nation." The song is less well-known today; the New Grove calls it "once-popular".
+
+Criticism
+Charles Rosen used the song to exemplify his claim that, somewhat counterintuitively, Beethoven drew closer to the compositional practice of his predecessors Haydn and Mozart as his career evolved:
+
+With age, Beethoven drew closer to the forms and proportions of Haydn and Mozart. In his youthful works, the imitation of his two great precursors is largely exterior: in technique and even in spirit, he is at the beginning of his career often closer to Hummel, Weber, and to the later works of Clementi than to Haydn and Mozart ... The equilibrium between harmonic and thematic development so characteristic of Haydn and Mozart is often lost in early Beethoven, where thematic contrast and transformation seem to outweigh all other interests. Beethoven, indeed, started as a true member of his generation, writing now in a proto-Romantic style and now in a late and somewhat attenuated version of the classical style, with an insistence on the kind of broad, square melodic structure that was to find its true justification later in the Romantic period of the 1830s. The early song Adelaide is as much Italian Romantic opera as anything else: its long, winding melody, symmetrical and passionate, its colorful modulations and aggressively simple accompaniment could come easily from an early work of Bellini.
+
+Notes and references
+Notes
+
+References
+
+Sources
+
+External links
+"Adelaide": Scores at the International Music Score Library Project
+Sheet music for "Adelaide"
+"Adelaide"". Friedrich Matthissons Gedichte (in German). Karlsruhe: Christian Gottlieb Schmieder. 1792. p. 19.
+Animated score on YouTube, Peter Schreier (tenor), Walter Olbertz (piano) (1969)

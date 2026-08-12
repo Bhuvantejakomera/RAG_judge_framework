@@ -1,0 +1,29 @@
+Atlantis no Nazo (Japanese: アトランチスの謎, Hepburn: Atoranchisu no Nazo; "The Mystery of Atlantis") is a side-scrolling platform game developed and published by Sunsoft and released for the Family Computer in 1986.
+The game is set in the mythical land of Atlantis. The player controls an amateur adventurer named Wynn (ウィン), whose objective is to save his master being held captive in the final level.
+
+Plot
+Several years ago, a gigantic island arose from the southern Atlantic Ocean due to sudden shifts on the Earth's surface. Numerous adventurers made their way to the island to investigate, but none of them were able to return home safely. This island was named Atlantis, and nobody approached it out of fear. The game's main character is an amateur adventurer named Wynn, who decides to go to the island after learning that his master disappeared on the island over half a year ago. Armed with the special dynamite invented by the master, Wynn heads over to Atlantis all by himself to face an evil emperor who seeks to revive an ancient empire.
+
+Gameplay
+The game is a side-scrolling platform game, similar to Super Mario Bros., but unlike in that game, it is possible to scroll in both directions on the screen in Atlantis no Nazo rather than just the right-hand direction. However, the somewhat choppy physics of Atlantis no Nazo, its one-hit deaths, and its multiple pathways make it much more challenging than Super Mario Bros.
+
+The levels in the game are referred to as "zones", and the player travels through various locations such as fields, caves, ruins, temples, and even across clouds. The games consists of 101 of these zones (zones 1-99, the final zone, and the secret final zone), and features not native to Atlantis, such as Moai face statues and pyramids appear in backgrounds of the zones. In later zones, the terrain may be difficult to see because of the dark, or it may become hard to control the character because the ground is covered with ice. Some zones (called "black holes") only involve falling. Three zones are not connected to the main game, so they can only be accessed using a hidden command that allows the player to select and play any zone they want.
+The player starts from the first zone, and must head towards the final zone to rescue Wynn's master while fending off numerous enemies by throwing sticks of dynamite. The player warps into different zones by going into the entrances placed within each zone, but the zones do not come in numerical order, as several warp entrances may be placed within a single zone.
+The earlier zones are generally easier in terms of difficulty, and the later zones are more difficult. Certain entrances may take the player from an easy zone directly into a harder one (with secretive warps jumping the player by a great number of zones), or vice versa. A time limit exists for each level, and the timer displayed on the lower part of the screen begins counting down from 999 all the way to 001 followed by OUT. Failing to reach the next zone during the time limit results in a loss of one life. The player also loses a life if their character touches an enemy, gets hit by an enemy attack, falls into a pit, or is caught in the explosion of their own dynamite stick. The game over screen appears once the player has no lives remaining.
+
+Development
+Sunsoft developed the game with the intention of surpassing the enormously popular Super Mario Bros., and advertised the game with the slogan Ano Super Mario wo koeta!! (あのスーパーマリオを超えた!!; lit. "The game that surpassed Super Mario!!"). The number of levels included in Atlantis no Nazo did surpass the number included in Super Mario Bros.
+Though the game was never released outside Japan, a partially translated version titled Super Pitfall II was under development by Activision for release in North America as the sequel to the unrelated Super Pitfall. The game was ported to the PlayStation on December 6, 2001 as part of Memorial Series SunSoft Vol. 2 (coupled with Route-16 Turbo). The game was also released for the Microsoft Windows operating system on June 29, 2001 as part of the Ultra 2000 Sunsoft Classic Games 1 (coupled with Super Arabian and The Wing of Madoola) and its value version, Yu Yu Sunsoft Kessakusen 1 (released on July 2, 2004). It would be one of the 30 games included on Nintendo's Classic Mini: Family Computer microconsole exclusively in Japan, released on November 10, 2016.
+The game became available on the Nintendo Classics platform in July 2024.
+
+Reception
+From contemporary reviews, Eiji Hamano of Beep compare the game to Super Mario Bros. (1985) stating it did not have the same level of fun as Nintendo's game as it was more complex and its controls were frustrating.
+
+Legacy
+The protagonist Wynn made an appearance in Sunsoft's 2011 game Shanghai Musume: Mahjong Girls.
+Wynn was made into a Joker card in Sunsoft's 2012 game Moe Moe Daifūgō ~Zenkoku Bishōjo Meguri~.
+The final boss of the game, Zavira, is featured as a minor antagonist in the 2019 game Blaster Master Zero 2, an entry in Sunsoft's Blaster Master series developed and published by Inti Creates. Here, the introduction of Zavira is combined with that of the plot of another Sunsoft game, Ikki, where the protagonist of Ikki, Gonbei, discovers that the feudal warlord overtaxing them had become a Mutant Overlord named Zavira. Other references to Atlantis no Nazo also show up periodically throughout the game, such as an optional level based on the "dark" rooms from Atlantis no Nazo.
+
+References
+External links
+Official Virtual Console site

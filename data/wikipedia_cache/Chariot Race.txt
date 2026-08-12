@@ -1,0 +1,7 @@
+Chariot Race is a top-down racing game for the VIC-20 home computer published in 1983 by Micro-Antics. Each player attempts to take out the opponent's chariot on the way to the finish. The design, programming, and sound were done by Paul Hope, who died in 2011.
+
+Gameplay
+Chariot Race allows two people to play at the same time. Each player races a chariot along the vertically scrolling track while avoiding side walls and oncoming chariots. A player can eliminate the opponent's chariot by pushing it into other chariots or making it crash into the arena walls.
+
+
+== References ==

@@ -1,0 +1,99 @@
+Persa ("The Persian") is a comedic Latin play by the early Roman playwright Titus Maccius Plautus. Unusually in this play, the lover is not a wealthy young man helped by a cunning slave, but the cunning slave himself. In order to repay the money he has borrowed to buy his girlfriend from the pimp Dordalus who owns her, Toxilus persuades his friend Sagaristio to dress up as a Persian, in order to trick the pimp Dordalus into paying a large sum to buy a girl who is dressed as an Arabian captive, but who is in fact free. The girl's father Saturio then appears and reclaims his daughter.
+The play is set in a street in Athens. Facing the audience are two houses, one belonging to Toxilus's absent master, and the other to the pimp Dordalus.
+Persa is believed to be one of Plautus's later plays. Among other indications is a reference in lines 99–100 to the epulum Iovis "banquet of Jupiter", a custom instituted in 196 BC; another indication is the large number of polymetric cantica. Unlike some other Plautus plays, it has been rarely if ever imitated in later literature, perhaps because of the somewhat coarse elements in its plot.
+
+Plot
+The slave Toxilus is taking care of his master's house while he is away. Toxilus is in love with a girl, Lemniselenis, who is owned by the procurer (pimp) Dordalus. He asks his friend Sagaristio to lend him the money required to buy her freedom. Sagaristio does not have the required sum, but promises to try to obtain some from elsewhere. Toxilus intends to get the money back from Dordalus after it is paid.
+First Toxilus persuades Saturio, a parasitus, who has a pretty and clever daughter, to allow Sagaristio sell this girl to Dordalus, even though she is not a slave. Saturio, who will do anything for a meal, agrees. Meanwhile, Toxilus sends a cheeky young slave boy, Paegnium, with a letter to Lemniselenis. Paegnium meets Lemniselenis's messenger, the maid Sophoclidisca, coming the other way and they exchange insults and banter.
+Then Toxilus receives Sagaristio's money (money which was entrusted to Sagaristio by his owner to make a purchase) and takes it to Dordalus to buy Lemniselenis's freedom.
+While Dordalus is having the money tested in the forum, Sagaristio dresses up as a Persian. Aided by Toxilus, he sells Saturio's daughter, pretending that she was captured in Arabia, to Dordalus for a huge sum. Immediately afterwards Saturio enters and reclaims his daughter, on the grounds that she is an Athenian citizen, and drags Dordalus off to court. The play concludes with Toxilus and Sagaristio feasting to celebrate Dordalus' misfortune.
+
+Metrical structure
+Plautus's plays are traditionally divided into five acts; these are referred to below for convenience, since many editions make use of them. However, it is not thought that they go back to Plautus's time. One way in which Plautus himself articulated the different parts of the play is by changes in the metre.
+In Plautus's plays a common pattern is to begin each section with iambic senarii (which were spoken without music), then a scene of music in various metres, and finally a scene in trochaic septenarii, which were apparently recited to the accompaniment of tibiae (a pair of reed pipes). Moore calls this the "ABC succession", where A = iambic senarii, B = other metres, C = trochaic septenarii. However, the ABC order is sometimes varied.
+The Persa only partly follows the ABC scheme. The play begins with music, rather than the usual unaccompanied iambic senarii. The following two sections also have music preceding the iambic senarii. The final scene, instead of being in pure trochaic septenarii, consists of trochaic septenarii mixed with anapaestic and other metres, perhaps reflecting the carnivalesque nature of the scene. If a metrical section is considered as ending with trochaic septenarii, the overall scheme may be seen as follows:
+
+BABC, BBAC, BACAC, ABBCBC
+C. W. Marshall (2006), however, sees the metrical sections (or "arcs") as always starting with iambic senarii (excepting the two paragraphs where the forged letter is being read aloud). He therefore divides the play as follows:
+
+BB, ABCBB, ACBACAC, ABBCBC
+As Timothy Moore points out in an analysis of the music of the play, the more emotional scenes tend to be accompanied by music, whereas more serious or "matter-of-fact" passages, such as the letter which Dordalus reads out (501–512, 520–527), are unaccompanied. Another point is that the slave characters have most or all of their words accompanied by music, whereas Saturio speaks all of his.
+
+Toxilus seeks help from his friends
+Act 1.1 (lines 1–52): polymetric song (iambic, cretic, trochaic metres, ending ia7) (52 lines)
+The slave Toxilus enters and sings how unhappy he is because he is love but can't find enough money. On the other side of the stage Sagaristio (a slave from another family, and friend of Toxilus) is complaining that he does not get on well with his master. After they greet each other, Sagaristio explains to Toxilus that he has been punished by being made to work in a flour mill for more than a year. Toxilus explains that his master is away but that he has been wounded by love. He needs to borrow 600 coins to buy his beloved's freedom. Sagaristio says he can't help now but he will get back to Toxilus if he finds something. The two slaves depart separately.
+Act 1.2–1.3 (lines 53–167): iambic senarii (116 lines)
+The parasite Saturio enters and explains that his profession, like that of his ancestors, is to dine at other people's expense. He claims this is better than informing on wrongdoers for a reward. – Toxilus comes out of his master's house, and pretending not to see Saturio, he gives orders through the door for other slaves to start warming up an elaborate meal. Having thus whetted Saturio's appetite, before he allows him to eat anything, Toxilus makes a strange request: he wants to borrow Saturio's daughter to sell her to the slave-dealer. He commands Saturio to go and dress up his daughter and instruct her what to say. Toxilus suggests it will be possible to obtain a suitable costume from the theatre-producer.
+Act 2.1 (168–182): anapaestic metres (15 lines)
+From the slave-dealer's house, an old female attendant, Sophoclidisca, comes out. It appears that Lemniselenis has instructed Sophoclidisca to carry a message to Toxilus. Sophoclidisca (probably through the doorway) reassures her and begs her not to go on about it so much.
+Act 2.1 (cont.) (182a–202): various trochaic metres (21 lines)
+Meanwhile on the other side of the stage, Toxilus has given a letter to a cheeky young boy-slave called Paegnium and is instructing him to carry it to Lemniselenis. Toxilus goes indoors.
+Act 2.1 (cont.) (203–250): trochaic septenarii (48 lines)
+Paegnium and Sophoclidisca cross paths and exchange insults and banter.
+
+Lemiselenis is freed
+Act 2.3–2.4 (251–279): polymetric song (29 lines)
+The slave Sagaristio enters, singing delightedly that some money has "fallen from heaven" into his hands. His master has given him some cash to buy oxen in Eretria; he will tell the master that there were no oxen and use the money to lend to Toxilus instead. Now he sees Paegnium returning home and asks him where Toxilus is. Paegnium answers him insolently.
+Act 2.4 (cont.)–2.5 (280–328): iambic septenarii (50 lines)
+Sagaristio tells Paegnium not to be rude to his elders, but Paegnium continues to be cheeky. When Paegnium has gone inside, Toxilus comes out with Sophoclidisca, and sends her off with a message for Lemniselenis. When she has gone, Sagaristio gives him a purse with money in it. Sagaristio goes into Toxilus's house to wait.
+Act 3.1–4.2 (329–469): iambic senarii (141 lines)
+Saturio arrives with his daughter, who is dressed as an Arabian captive; he instructs her how she is to behave. She is clearly reluctant to be sold but promises to obey her father's wish. They go into the house to wait. – Dordalus the slave-dealer now comes out from his own house, wondering whether Toxilus will bring the cash to buy his girlfriend. He sees Toxilus and heaps him with insults, to which Toxilus replies in kind. Toxilus gives him the money. He makes a request that when Dordalus goes to have the coins assessed in the market, he should leave his house by the back door, and that he should send Lemniselenis over to his own house by the same door, out of sight of the public. Dordalus goes inside. – Toxilus, after saying he is confident the trick will go well, calls Sagaristio. Sagaristio comes out with Saturio's daughter. Sagaristio is dressed as a Persian, wearing a tall "tiara" (Persian hat). Toxilus praises their costume and tells them to go and wait further up the street, out of sight.
+Act 4.3 (470–489): trochaic septenarii mixed with octonarii (20 lines)
+Dordalus comes out, congratulating himself on the profit he has made. Toxilus approaches; Dordalus reassures him that he has officially freed the girl and delivered her to Toxilus's house.
+
+Dordalus is tricked
+Act 4.3. (cont.) (491–500): anapaestic octonarii mixed with anapaestic septenarii (10 lines)
+Toxilus thanks Dordalus and tells him that he has a business deal for him. He shows him a letter supposedly written by Toxilus's absent master.
+Act 4.3 (cont.) (501–512): iambic senarii (12 lines)
+Dordalus reads the letter aloud. In the letter the master orders Toxilus to extend hospitality to a certain Persian visitor.
+Act 4.3 (cont.) (513–519): trochaic septenarii (7 lines)
+Dordalus is puzzled, but Toxilus tells him to continue reading.
+Act 4.3 (cont.) (520–527): iambic senarii (8 lines)
+The letter goes on to say that the Persian is bringing a female captive from Arabia to sell, but that it won't be possible for him to give a guarantee.
+Act 4.3 (cont.)–4.4 (528–672): trochaic septenarii (145 lines)
+Dordalus expresses disquiet about the idea of buying a slave without a warranty, but Toxilus reassures him. Sagaristio and the girl now approach. The girl is talking in a clever way. Toxilus assures Dordalus that he will be able to make a lot of money out of her. He advises him to interrogate the girl before making an offer. Dordalus questions the girl about her parents and home country; she replies cleverly and evasively. Dordalus bargains with Sagaristio, and they agree a high price of 60 minae (three times the usual price for a slave). Dordalus goes inside to fetch the money.
+
+Victory over Dordalus
+Act 4.5–4.9 (673–752): iambic senarii (80 lines)
+While Dordalus is inside, Toxilus praises the girl for her performance and instructs Sagaristio what to do next. Dordalus comes out with the money, meanly deducting two coins for the purse. Sagaristio thanks him and says he must hurry off to deliver letters and to redeem his twin brother, who has been enslaved. When Dordalus asks Sagaristio's name, Sagaristio invents a comically long 55-syllable name. He departs. – Dordalus thanks Toxilus for his help, and goes inside for a moment leaving Toxilus to watch over the girl. While Dordalus has gone, Toxilus calls Saturio out from his own house and tells him to wait up the street out of sight. When Dordalus returns, Toxilus takes his leave and goes into his own house. Suddenly Saturio returns to reclaim his daughter. He drags Dordalus off to a magistrate.
+Act 5.1 (753–776): mostly anapaestic metres (24 lines)
+Toxilus comes outside in triumph, ordering the other slaves to lay out couches for a banquet in the street. Lemniselenis and Sagaristio join him.
+Act 5.2 (777–791): anapaestic octonarii (14 lines)
+Dordalus now arrives, complaining bitterly over the fact that he has lost so much money. Suddenly he sees Toxilus and his friends celebrating. Toxilus invites Dordalus to join them. He orders the junior slaves to bring water to wash Dordalus's feet.
+Act 5.2 (cont.) (792–803): varied anapaestic metres (12 lines)
+Dordalus responds by protesting furiously about how he has been tricked. Toxilus and Lemniselenis try to calm him.
+Act 5.2 (cont.) (804–818): cretic, bacchiac (15 lines)
+Toxilus mischievously asks Paegnium if he would like to play with the pimp. Given permission by Toxilus, Paegnium hits Dordalus twice and talks to him insolently.
+Act 5.2 (cont.) (819–857): tr. system (4 lines), tr. septenarii (17 lines), tr. system (8 lines), tr. septenarius (1 line)
+Toxilus calls for more wine and he and Sagaristio each perform an obscene dance in front of Dordalus to taunt him. Lemniselenis begs them to stop, but she is overruled by Toxilus.
+Act 5.2 (cont.) (843–857): anapaestic octonarii and other metres (15 lines)
+The others continue to mock Dordalus, slapping him and pinching his bottom, until eventually Toxilus (or Sagaristio) declares that he has been punished enough.
+Act 5.2 (cont.) (858): trochaic septenarius (1 line)
+Toxilus says farewell to the spectators and asks them to applaud.
+
+Characters
+Toxilus
+The character of the cunning slave who rescues a girl from the clutches of a slave-dealer by means of a trick is found in several other Plautus plays. In Asinaria, Libanus rescues Philenium with the help of his fellow-slave Leonida who dresses up as a donkey dealer; in Miles Gloriosus Palaestrio rescues Philocomasium, with the help of two courtesans, who dress up as a rich divorcée and her maid, and Philocomasium herself, who pretends to be her own twin sister; in Poenulus, the slave Milphio rescues two girls from a pimp by dressing up his master's farm-manager Collybiscus as a rich customer; and in Pseudolus, the slave Pseudolus rescues his master's beloved Phoenicium by dressing up another cunning slave, Simio, as the servant of the soldier who wants to buy her. What is unusual about Toxilus is that he himself is the character who is in love with the rescued girl rather than acting on behalf of his young master. This is unprecedented in Plautus, although Menander's comedy Heros opened in a similar way with a slave called Daos complaining of being in love.
+
+Sagaristio
+Sagaristio is another cunning slave of the same kind as Toxilus. The similarity of the two is emphasised by the music of the opening scene, when the metres and words used by Sagaristio mirror those used by Toxilus. Sagaristio's cunning is shown by his quick-witted acting the part of the Persian stranger; his slyness is shown by his willingness to risk punishment by "borrowing" his owner's money to lend to Toxilus. He helps Toxilus perform his con trick by dressing up in costume, just as Leonida helps Libanus in Asinaria, and Simio helps Pseudolus in the play Pseudolus.
+
+Dordalus
+Dordalus the pimp is another stock character of Plautus's plays, similar to Ballio in Pseudolus or Lycus in Poenulus. His trade is to buy under-age girls and rent them out for sex with rich clients. His meanness is shown by his deducting 2 didrachmas for the purse when he pays over the money to the Persian stranger. Unlike the pimp Labrax in Rudens, however, he keeps his word, and frees and delivers Toxilus's girlfriend Lemniselenis after being paid the agreed price.
+
+Paegnium
+Paegnium is a boy-slave. He is described by Sophoclidisca as young and good-looking but boyish "not yet weighing 80 pounds" (line 231). His main characteristic is his waspish tongue and his insolence and cheek; he is never short of an insult. It is hinted (lines 229, 284, 804) that he has sex with men, and he is quite brazen about it, replying to Sagaristio's taunt, "So what if do? At least I don't do it for free, like you do!" It has been argued for various reasons that the scenes with Paegnium were added by Plautus for humorous effect and were not in the original Greek play. One indication of this is that in Greek comedy it seems probable that no scene had more than three speaking actors; and yet the last scene of Persa requires five. Moreover, the carrying of two messages in Acts 2.2 and 2.4 seems superfluous to the plot; it is more likely that in the original play only Sophoclidisca delivered a letter and then returned without meeting Paegnium. The name "Paegnium" means "little plaything" and is also given in Plautus's Captivi 984 to a boy slave.
+
+Saturio's daughter
+The unnamed daughter of Saturio combines the roles of the quick-witted courtesan and the highly moral unmarried girl. The costume she is dressed in, including crepidulae "sandals", appears to associated with tragedy rather than comedy; moreover, several of her lines seem to be quotations from Sophocles and Euripides, and the conversation with Saturio seems to be a parody of the scene in Euripides' play Iphigenia in Aulis where Agamemnon is about to sacrifice his daughter. So part of the humour of her role may be that she is acting a parody of tragedy while Saturio and Sagaristio are playing an obviously comic role. Another humorous element is that she repeatedly refuses to follow the script which Toxilus has told her to say, causing him to become frantic that his trick may fall through.
+
+Translations
+English translation by Henry Thomas Riley at Perseus: Persa
+Amy Richlin, 2005
+Wolfang de Melo, 2011
+
+References
+External links
+ Latin Wikisource has original text related to this article: Persa
+Latin text at The Latin Library: "Persa"
+Latin text edited by Friedrich Leo at Perseus: Persa

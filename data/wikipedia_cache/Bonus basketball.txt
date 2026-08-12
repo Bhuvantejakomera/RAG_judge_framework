@@ -1,0 +1,42 @@
+In the sport of basketball, the bonus situation (also called the penalty situation) occurs when one team accumulates a requisite number of fouls, the number of which varies depending on the level of play. When one team has committed the requisite number of fouls, each subsequent foul results in the opposing team's taking  free throws regardless of the type of foul committed (i.e., whether or not the foul was a shooting foul). Teams under the limit are commonly referred to as having fouls to give, and thus they can try to disrupt their opponents without being penalized free throws. These fouls reset every quarter or half depending on the rules in use (i.e. FIBA, NBA, NCAA, etc.).
+
+FIBA
+Under FIBA rules, used for all competitions involving international teams and most leagues outside the U.S., the penalty is triggered when a team commits more than four fouls in a quarter; the fifth and subsequent team fouls will incur penalty free throws. All subsequent non-shooting defensive fouls committed by that team in the same quarter concede two free throws. All fouls committed by players count towards the team foul count.
+Only defensive fouls are awarded free throws.
+Team fouls accrue from the fourth period on, as all overtimes are extensions of it for the purpose of team foul accumulation.
+Effective in October 2022, FIBA adopted the NBA's Rule 12-b, Section X ("Away from the Play Foul"), called in the FIBA language a "throw-in foul", defined as a defensive foul committed in the last 2 minutes of the fourth quarter or overtime period, during a throw-in, but before the ball is released by the thrower. Regardless of the penalty situation, the non-fouling team receives 1 free throw and possession.
+
+FIBA 3x3
+The 3-man game, known as FIBA 3x3, has a slightly different penalty rule. The penalty is triggered when a team commits more than six fouls in a game.  Each penalty situation involves two penalty free throws, and the tenth and subsequent fouls will also include possession of the ball.
+The bonus rule specifically supersedes the normal rules for defensive fouls on shot attempts. Instead of the 1 shot awarded on a made basket or a missed 1-point shot attempt, or the 2 free throws awarded on a missed 2-point shot attempt, 2 free throws are always awarded regardless of the result of the shot attempt.
+However, as in standard basketball rules, offensive fouls (if not technical or unsportsmanlike) never result in free throws, regardless of the number of team fouls.
+
+NBA and WNBA
+Team foul penalty
+In the National Basketball Association and Women's National Basketball Association, bonus rules in a quarter apply starting with the fifth team foul, with a rule change preventing a team not in the penalty late in a period from committing multiple fouls without penalty. The rules on the team foul penalty are similar to the FIBA version, with three major differences:
+Only defensive and loose-ball fouls count towards a team's limit for the team foul penalty. Offensive fouls do not count towards the team foul penalty unless a player is in the player foul penalty situation.
+The team foul penalty applies after a team commits two fouls in the final two minutes of a period if the team had not yet reached the penalty phase in the first ten (NBA) or eight (WNBA) minutes of that period. In other words, within any period, free throws are awarded starting from the fifth foul or from the second foul within the last two minutes of the period, whichever comes earlier.
+If a game enters overtime, the foul counts are reset to 0, and are similarly reset before each subsequent overtime period. The penalty phase starts with the fourth foul in each overtime period rather than five for regulation periods, since overtime periods are much shorter than regulation periods (5 minutes vs. 10/12 in regulation play). As in regulation play, two free throws are awarded for non-shooting defensive fouls during the bonus, and one foul in the final two minutes automatically puts the team in the team foul penalty.
+
+Player foul penalty
+A player who commits their sixth (and subsequent) personal foul and must remain in the game because the team has no eligible players remaining is charged with a non-unsportsmanlike conduct technical foul, with the penalty of a single free throw, regardless of offensive or defensive foul. Likewise, a player who was the last player to commit six fouls is called back into the game if no eligible players remain following an injury or ejection. The player cannot be ejected for a technical foul in either situation.
+This type of technical foul serves in effect as a "player foul penalty" of a bonus free throw, similar to the team foul penalty. However, this bonus free throw is awarded regardless of the foul being an offensive or defensive foul, unlike a team foul penalty, where two free throws are only allowed for defensive fouls. If a player commits his/her sixth or subsequent foul while on offense and there are no eligible players available to take their place on the court, one free throw is still awarded, in addition to possession of the ball to the team shooting the free throw.
+
+NCAA
+The bonus situation is also used in American men's college basketball, but the NCAA rules are very different from the bonus rules of the NBA. The basic bonus rules remain the same, but the limit for team fouls is six per half. Upon committing the seventh foul of the half, a team is penalized and the opposing team is awarded at least one free throw for any defensive or loose-ball foul, no matter if the foul was shooting or non-shooting (offensive fouls are never awarded free throws in the NCAA). In the case of a non-shooting foul, the opposing player must make the first free throw in order to be awarded a second free throw. This is commonly referred to as "one-and-one". (A shooting foul is not subject to this requirement; the player will get all free throw attempts allowed by the rules regardless of the result of the preceding shot.) Beginning with the tenth foul of a half, the fouled team is awarded two free throws on non-shooting fouls regardless of whether the first shot is made (often referred to as the "double bonus"). For purposes of bonus, team fouls accrue from the second half on, as all overtimes are extensions of it.
+Women's college basketball followed men's bonus rules until the 2015–16 season, when it adopted FIBA bonus rules: four fouls per period; two free throws on every team foul over four; team fouls accrue from the fourth period on, as all overtimes are extensions of it.
+The NCAA regularly uses its second-tier tournament for Division I men's teams, the National Invitation Tournament, as a testing ground for experimental rules, and the bonus situation is no exception. The following bonus-related rules have been used in the 2017, 2018, and 2019 editions:
+
+In 2017 and 2019, both team foul counts were reset to zero at the 10-minute mark of each half (technically 9:59). In 2018, games were played in quarters, matching current practice in NCAA women's basketball, instead of the halves used in the current NCAA men's rules.
+In all three tournaments, the team foul limit was four per 10-minute block (either the virtual quarter in 2017 and 2019, or the actual quarter in 2018), identical to the NCAA women's limit for each quarter.
+Also in all three tournaments, two shots were awarded for all non-shooting defensive or loose-ball fouls upon the fifth team foul in a 10-minute block. This is also identical to the current NCAA women's rule.
+In 2017 and 2019, each overtime period was considered a separate period for accumulation of team fouls, as in the (W)NBA. The fourth team foul in an overtime period triggered the so-called "double bonus".
+In 2019 only, the (W)NBA rule regarding team fouls in the final 2 minutes of a quarter during regulation, or any overtime period, was adopted between 8:00 and 10:00 and 18:00 and 20:00 of each half, as well as the final 2 minutes of any overtime.
+On May 15, 2023, the National Federation of State High School Associations (NFHS), which governs high school basketball in the United States, announced that it would adopt the FIBA bonus rules.
+
+Summary
+See also
+NBA records
+
+
+== References ==

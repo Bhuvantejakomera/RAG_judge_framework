@@ -1,0 +1,20 @@
+9: The Last Resort is a 1996 adventure computer game developed by Tribeca Interactive.
+
+Gameplay
+Nine: The Last Resort drops the player into a whimsically eerie mansion they have mysteriously inherited—a place steeped in carnival-like visuals, animated oddities, and cryptic objectives. The player awakens with no clear sense of purpose, compelled to explore the surroundings by clicking on everything in sight. Progress hinges on solving a variety of cerebral challenges. Some are straightforward—like matching sound effects in a memory-style mini-game—while others are more luck-driven, requiring persistent mouse-clicking. Nine attempts to reward that persistence with vivid animations, surreal 3D art, and engaging character encounters. Voiced by a star-studded cast including Cher, Christopher Reeve, and members of Aerosmith, the characters offer hints and help bring the mansion's eccentric tone to life. Salty, portrayed by Jim Belushi, pops up sporadically with useful tips amid his grumpy banter. The player's overarching task is to rid the mansion of its corrupt inhabitants.
+
+Plot
+The player character has just inherited a hotel, The Last Resort, belonging to their deceased uncle, Thurston Last. The hotel is inhabited by nine muses. As the player character enters the hotel, it becomes clear that it is no longer a hospitable place. Its wacky inhabitants live in fear of a pair of squatters known as the Toxic Twins. Only the aeroplane-man Salty is brave enough to wander around and talk to the player character. The player's goal is to reconstruct "The Muse Machine" and banish the Toxic Twins.
+
+Development
+The game was developed by Tribeca Productions, a company founded in August 1988. The game was produced by Robert De Niro and Jane Rosenthal, and sported a cast of voice-artists including Cher, James Belushi, Christopher Reeve, Ellen DeGeneres, Anne Heche, Tress MacNeille and Steven Tyler & Joe Perry of Aerosmith.  It also includes the visual style and artwork of Mark Ryden. It was developed for the Windows and the Mac OS platforms. The title was in development as early as February 1996 and was Tribeca Interactive's debut game.
+
+Reception
+GameSpot gave the game a 7.3 out of 10' stating: "If you're still boasting that you solved Myst in under 14 hours, give this one a shot. It may not take you as long to finish, but it's a far more beautiful and less disorienting ride". 
+MacAddict said "It's the grooviest Made-With-Macromedia-Director game yet, and although it's not an action-packed twitch-fest, the combination of artsy tomfoolery, good-natured pseudomysticism, and K-A rated brainteasers give 9: The Last Resort all the markings of a prestigious cult hit"
+
+References
+External links
+9: The Last Resort at MobyGames
+EPK (Electronic Press Kit) for the game with in-game footage, interviews and more.
+Perfectly playable DOSBox emulator for playing the game in its entirety - allowing you to call up the menu (CTRL+M) save, load and exit games via the other keyboard shortcuts shown in the game's documentation. at retrogames.onl

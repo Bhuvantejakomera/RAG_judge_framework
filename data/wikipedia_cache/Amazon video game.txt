@@ -1,0 +1,15 @@
+Amazon is an interactive fiction graphic adventure game. The game was published by Telarium in 1984 and written by Michael Crichton.
+
+Development
+Best-selling novelist and director Michael Crichton was a computer hobbyist who taught himself the programming language BASIC. In the early 1980s he, programmer Stephen Warady, and artist David Durand began developing an Apple II graphic adventure game based on Crichton's novel Congo; he sometimes programmed game sequences which Warady converted into much faster assembly language. They worked on the project for 18 months and, before Crichton found a publisher, Spinnaker Software approached him about adapting his novels for its Telarium division's new "bookware" games. The author revealed the game, amazing Spinnaker, and signed a contract in late 1983.
+Crichton did not realize, however, that he had already sold all adaptation rights to Congo to another party. The team revised the game (renamed Amazon), moving the setting from Africa to South America and changing a diamond mine to an emerald mine; the novel's Amy the talking gorilla became Paco the talking parrot. Because the game was mostly complete, Telarium was able to port it to the Commodore 64 before Amazon's release. Crichton later said that he was disappointed with the game due to technological limitations at the time of its development.
+
+Reception
+Amazon was the best-selling Telarium title with as many as 100,000 copies sold, the majority likely for the Commodore 64. Computer Gaming World praised its rarely used animated graphics and Crichton's cooperation with its designers, stating that "the cohesive manner in which the game's storyline unfolds reflects Crichton's skill as a writer". James Delson of Family Computing reviewed the Apple II version and wrote that the game "has limited graphics, but what's there is choice." Delson also noted the game's difficulty and wrote, "Patience is more than a virtue in this game, it's a necessity." German reviewers recognized the suspenseful, atmospheric and elaborated prose. Storyline, graphics and text parser got the score "sehr gut" (very good).
+
+References
+External links
+Amazon at MobyGames
+Amazon at Museum of Computer Adventure Game History
+Amazon at Lemon 64
+Amazon in the Interactive Fiction Database

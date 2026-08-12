@@ -1,0 +1,147 @@
+In C is a composition by Terry Riley from 1964. It is one of the most successful works by an American composer and a seminal example of minimalism. The score directs any number of musicians to repeat a series of 53 melodic fragments in a guided improvisation.
+Terry Riley's 1968 recording of In C, released on Columbia Records, was added to the National Recording Registry of the United States Library of Congress in 2022. The piece has inspired many minimalist and postminimalist composers, including Philip Glass and Steve Reich as well as pop and rock musicians.
+
+Composition
+Alongside fellow University of California, Berkeley and Robert Erickson students Loren Rush and Pauline Oliveros, Terry Riley had been involved with group improvisation since 1958. The immediate forerunner for the piece was the incidental music Riley wrote for a 1963 Paris production of Ken Dewey's play The Gift. Riley ran into Chet Baker and recorded his quartet performing songs that included Miles Davis' "So What". Riley was familiar with the Echoplex tape delay unit and wanted to replicate its sound. A technician from the Office de Radiodiffusion Télévision Française (ORTF) set up a tape loop system for the composer, which inspired Riley to work with loops for years to come. Riley later created installations using tape loops that he called "time-lag accumulators".
+Back in San Francisco the next year, Riley played piano nightly at the Gold Street Saloon. In March 1964, he heard In C in his head on the way there and wrote it down after the show. The score consists of short melodic fragments, then a staple of his style.
+
+Riley saw In C as a way for instrumentalists to play in the style he had developed with tape loops. His artistic goal was shamanistic:I was never concerned with minimalism, but I was very concerned with psychedelia and the psychedelic movement of the sixties as an opening toward consciousness. For my generation that was a first look towards the East, that is, peyote, mescaline, and the psychedelic drugs which were opening up people's attention towards higher consciousness. So I think what I was experiencing in music at that time was another world...music was also able to transport us suddenly out of one reality into another. Transport us so that we would almost be having visions as we were playing. So that's what I was thinking about before I wrote In C. I believe music, shamanism, and magic are all connected, and when it's used that way it creates the most beautiful use of music.
+
+Premiere
+Soon after conceiving In C, Riley was invited by Morton Subotnick to give a concert at the San Francisco Tape Music Center. In the fall of 1964, he began trying the composition out at local house concerts with a small group of performers. One of the issues that emerged was coordination of tempo and rhythm. Steve Reich suggested using a steady eighth note pulse throughout to keep the ensemble together. Though Riley envisioned the piece without a prevailing rhythm, he agreed to the utility of Reich's solution.
+The piece was premiered on November 4, 1964, during "An Evening of Music by Terry Riley" at the San Francisco Tape Music Center. Music from the Gift was played as the audience arrived. The first half included Riley's I, Shoeshine, In B♭ or Is It A♭?, and COULE.
+There was a break to set up In C. At one piano, Jeanie Brechan pulsed the top two Cs above Terry Riley, with whom she shared the instrument. Warner Jepsen and James Lowe played a second piano. The other keyboard instruments were played by Reich (Wurlitzer electronic piano), Oliveros (accordion), and Ramón Sender (Chamberlin). The Chamberlin was housed in a recording studio upstairs from the concert space, to which audio was piped up to Sender to coordinate. The wind section included Mel Weitsman (sopranino recorder), Subotnick (clarinet), Jon Gibson (soprano saxophone), Sonny Lewis (tenor saxophone), Stan Shaff (trumpet), and Phil Winsor (trumpet). Artist Tony Martin projected a light show on the ceiling. Oliveros recalls that the ensemble performed at a stately tempo of 69 beats per minute.
+
+The concert was repeated two days later, and critic Alfred Frankenstein reviewed this performance for the San Francisco Chronicle. He raved, "'On C' was the evening's masterpiece, and I hope the same group does it again." He continued:At times you feel you have never done anything all your lifelong but listen to this music and as if that is all there is or ever will be, but it is altogether absorbing, exciting, and moving, too. One is reminded of the efforts of Carlos Chavez to reconstitute the ceremonial music of pre-Columbian Mexico. Terry Riley may have captured more of its spirit than Chavez did.
+After the premiere, Riley went to Mexico for three months. In C was performed again at the San Francisco Tape Music Center during a three-day festival of Riley's music from May 21–3, 1965.
+
+Subsequent performances
+Trombonist Stuart Dempster performed In C on his October 25, 1967, recital at SUNY Buffalo. Playing soprano saxophone, Riley led the ensemble of three pianos, tuned percussion, strings, and winds. A critic for Buffalo Evening News left early and panned the piece.
+The New York City premiere, which also included Dempster, was at Carnegie Recital Hall on December 19, 1967. In C shared a program with Igor Stravinsky's Octet and works by Harley Gaber, David Rosenboom, and Dorrit Licht. Lukas Foss arranged speakers throughout the venue so the music could be heard from multiple vantage points, and the audience was encouraged to circulate during the piece.
+The performance reminded The New York Times critic Donal Henahan of Alban Berg's "Invention on One Note" from Wozzeck, and he admired the ensemble's "gamenlanlike sonorities". He continued, "Mr. Riley's effort produced a happy din, which was at worst hypnotic and often fascinating in its multilayered rhythms and sound patterns." Pianist Margaret Hassell, then-wife of trumpeter Jon Hassell who also played, wore bandages and gloves to pad her fingers, which prompted Henahan to recall the cabaret performer Hildegarde.
+The first UK performances of In C were given on May 18 & 23, 1968 at the Queen Elizabeth Hall in London by the Music Now Ensemble directed by Cornelius Cardew. The performance was driven by an electric guitar playing the pulse loud and fast. The Musical Times found it "rewarding" and wrote that "whereas previous performances of Riley's work have tended to be delicate, full of barely perceptible intricacies for the relaxed mind to absorb, this one was totally uncompromising. It demanded a fight".
+Pianist Alexei Lubimov organized the Soviet premiere of In C in 1969 for an audience including composers Sofia Gubaidulina and Alfred Schnittke. The piece received its German premiere that year at the Darmstädter Ferienkurse. Wolf-Eberhard von Lewinski was relieved when the piano strings broke under the stress of the pulse, but the neighboring B strings had been tuned up a half step, and the work continued to his dismay. This scordatura had also been used at previous performances.
+The Oakland Symphony performed the first orchestral version of In C in 1970. Six months later, the San Francisco Ballet used many of the same musicians to perform Riley's score for a production called Genesis 70 choreographed by Carlos Carvajal.
+A 25th anniversary concert was held on January 14, 1990, at the Fort Mason Center in San Francisco. The composer and his son Gyan Riley performed in an eclectic group that also included Jaron Lanier, Sender, and Jepsen. The lineup included Kronos Quartet, and Riley was particularly fond of the way they slid into the notes of the musical fragments. The performance was released on CD in 1995.
+
+Form
+Score
+Most of Riley's music is not written down. In C remained one of his few notated pieces until Kronos Quartet began commissioning him in the 1980s. He wrote In C so that it would be open to many interpretations. The score fits on a single page. Riley felt, "If you can't do it with just that, it's not worth doing."
+The score of In C consists of 53 "modules" that fit on a single page. Each module is a short musical phrase notated in treble clef without a time signature and bracketed by repeat signs. Riley uses nine different pitch classes, only omitting C♯, D♯, and G♯ from the chromatic scale.
+The total duration of the written score is exactly 521 eighth notes. The shortest module lasts one eighth note, and the longest lasts 64. The material varies widely in character, from drones to running sixteenth note figures. Three modules are repeated: No. 10 (as No. 41), No. 11 (as No. 36), and No. 18 (as No. 28). The longest is No. 35, which spans 60 pulses, ranges an octave and a half, and includes seven different pitches. Its length creates a sense of figure 35 as a turning point in the piece, creating a symmetry or even hinting at a very loose ternary form.
+Riley indicates no tempo, instrumentation, or dynamics. The first module outlines a major third with its three quarter note Es ornamented with grace note Cs. The final melody is a minor third between G and B♭ played in sixteenth notes. The structure of the melodic modules creates a vague sense of tonal shifts, for instance from C to E and then C to G.
+All of the modules are diatonic until No. 14, which introduces an F♯. The raised fourth scale degree prevails until module 31 when the F♮ returns. The F♯ makes one final appearance in module 35, shortly after a B♭ is introduced. The seventh scale degree returns to B♮ until No. 49, where it remains lowered until the end of the piece. Riley composed the modules with strong interrelations. Rarely is a module not clearly related to its predecessor.
+
+Instructions
+There are a few rules for performing In C that have remained since its first performance. They primarily define the indeterminate nature of the piece:
+
+Instrumentation: The piece can be played by any group of musicians on any type of instrument.
+Tempo: There is no required tempo. All performers play at the same pace.
+Patterns: The 53 patterns are to be played in order.
+Repetitions: Individual players determine how often to repeat any pattern.
+Transposition: Patterns may be transposed up or down by octaves.
+Coordination: An eighth note pulse may be used to coordinate the performance. It can be played on the top two octaves of a piano or mallet percussion instrument. Time can also be kept by improvised percussion.
+Ending: The piece ends when all players arrive at pattern 53. Performers stop playing individually.
+
+Riley suggests a group of about three dozen performers, while acknowledging smaller and larger groups are possible. Though they are governed by the same tempo, the musicians are not required to play together. Performers are encouraged to stagger their entrances, which creates a heterophonic canon. Riley diagrammed the 12th module in several alignments to demonstrate how freely the musicians can perform the score. He initially asked players to remain within 4–5 modules of each other. Later instructions reduce that bandwidth to 2–3 patterns. Riley also recommends coalescing in unison at some point.
+If one of the motifs is too difficult to play, a performer is allowed to omit it or augment its rhythm.
+In C has elements of aleatoric music due to its improvisatory nature. However, much of its structure is specifically designed to reduce the scope of chance. Riley conceived of a version where each pattern lasted a week and the final pattern was played in the new year. He estimates an average run time of 45–90 minutes. His instructions avoid declarative statements and read like a series of suggestions. Riley intended to leave "a lot of liberties".
+
+Performance practice
+The score's instructions for performers have gone through several iterations. Originally it had none, as musicians played from Riley's ozalid copies of the score. After the release of an LP by Columbia Records in 1968, many performances relied on the score that was printed in the album's liner notes. The 1969 Soviet premiere was made possible because composer Edison Denisov passed on his copy of the record to Lubimov. David Behrman wrote a paragraph for the liner notes explaining how to interpret the score.
+Riley did eventually write two pages of performance notes for the piece. In 1989, he released a shorter set of instructions. The most recent set of instructions from 2005 differs significantly from Riley's original notes.
+The one thing the composer has stressed in every version of the instructions is listening:
+
+"Don't be in a hurry to move from figure to figure. Stay on your part and keep repeating it, listening for how it is relating to what the rest of the ensemble is playing."
+"It is important to think of patterns periodically so that when you are resting you are conscious of the larger periodic composite accents that are sounding, and when you re-enter you are aware of what effect your entrance will have on the music's flow." (1989)
+"It is very important that performers listen very carefully to one another and this means to occasionally drop out and listen...One of the joys of playing In C is the interaction of the players in polyrhythmic combinations that spontaneously arise among patterns. Some quite fantastic shapes will arise and disintegrate as the ensemble progresses through the piece." (2005)
+Behrman's instructions for the album refer to the "pulse" part: "Not included in the score is a piano part, called the Pulse, which consists entirely of even octave eighth notes to be drummed steadily on the top two C's of the keyboard throughout the duration of a performance." The prevalence of the pulse on the recording, along with Behrman's liner notes, gave rise to the impression that it is a requirement for the piece. One set of liner notes fetishizes it, "In the beginning was the pulse."
+However, Riley's first instructions hint at some leeway: "The pulse is traditionally played by a beautiful girl on the top two octaves of a grand piano. She must play loudly and keep a strict tempo for the entire ensemble to follow." The 2005 version of the score explicitly makes the pulse optional: "The ensemble can be aided by the means of an eighth note pulse played on the high C's of a piano or mallet instrument." After decades of familiarity with In C, Riley came to feel that "any good musicians now could keep it together...I don't like The Pulse, as is sometimes used, 'out in front,' where it becomes very annoying. That wasn't my intention of the piece at all." At the piece's 20th anniversary performance in Hartford, Connecticut, no pulse was used.
+
+Recording
+In late 1965, Terry Riley moved to New York City and started performing on soprano saxophone in his apartment on Grand Street in the Bowery. He would use Revox tape recorders to create delays and loops from his playing. Among the regular attendees at these performances was composer David Behrman, the producer for Columbia Records' Music of Our Time series of contemporary classical albums, who arranged for the label to release a recording of In C.
+Behrman arranged for Columbia to release a recording of In C. The personnel were largely drawn from the musicians in Buffalo who were fans of the work. When they were ready to record the piece, Riley performed it once more at Carnegie Hall on March 26, 1968. The musicians recorded the piece at CBS 30th Street Studio in Manhattan on the following two days, along with works by Carlos Alcina, David Rosenboom, and Yūji Takahashi. The sessions were engineered by Fred Plaut and Russ Payne. Behrman conducted the ensemble by holding up cue cards for each module. His job was to keep the ensemble on pace for a recording that would fit on the two sides of an LP record. Margaret Hassell broke a string on the piano while playing the pulse.
+Riley knew that the texture would be more captivating if it were thicker. With only eleven musicians in the ensemble, he decided to record the piece three times and overdub the takes. Columbia staff were hesitant to apply this "pop" technique to a classical piece, but the ensemble sought to blur the boundaries between pop and classical music. When everyone listened to the initial mix of the session, Behrman exclaimed, "I think we've just changed music."
+
+The album's cover was designed by Billy Bryant, incorporating a blurb from Alfred Frankenstein's review of the premiere. The founder of Crawdaddy! magazine, Paul Williams, also wrote an enthusiastic essay for the package: I'm not here to justify this record, or explain it...Allright, so let's say that what we have here is a 'trip', a voluntary, unpredictable, absorbing experience, one which brings together parts of one's self perhaps previously unknown to each other...Playing this record for a small group of people is like watching a web being spun. Playing it for a friend means watching a Pilgrim's Progress of reactions.
+Most importantly for In C's legacy, a foldout in the record liner included a copy of the score. Whereas most of Riley's compositions are formally published to control the performing rights, Riley has never relied on a publisher to protect In C. By giving the piece away as a kind of freeware, he inadvertently ensured its popularity.
+
+Personnel
+Terry Riley – soprano saxophone, bandleader
+Jon Hassell – trumpet
+Edward Burnham – vibraphone
+David Rosenboom – viola
+Darlene Reynard – bassoon
+Jerry Kirkbride – clarinet
+David Shostac – flute
+Jan Williams – marimbaphone
+Lawrence Singer – oboe
+Stuart Dempster – trombone
+Margaret Hassell – piano ("pulse")
+
+Reception
+The Columbia LP recording of In C was well received by critics. Janet Rotter of Glamour dubbed the composition "the global village's first ritual symphonic piece" and noted its crossover appeal: "Terry Riley has not yet reached the mass concert audience that the Beatles have, but he has written in his own way to that audience".
+In Stereo Review, David Heckman wrote that "In C produces, over the course of its forty-three minutes, a vague hypnotic effect, that is doubtless related to the repeated C, hammering away incessantly through the musical fabric. Isolated motives, bits and snatches of themes, and a kind of Klangfarbenmelodie of individual pitches drift in and out of one's consciousness. Very nice, for a while, but ultimately wearing."
+Frankenstein revisited the piece with undimmed enthusiasm in his album review for High Fidelity, where he called it "one of the definitive masterpieces of the twentieth century. It is probably the most important piece of music since Boulez's Marteau sans maître, conceivably it is the most important since the Sacre."
+
+Legacy
+Upon hearing the premiere of In C, Alfred Frankenstein remarked that Riley had developed "a style like that of no one else on earth...he is bound to make a profound impression with it." Indeed, Riley's composition is often cited as the first significant minimalist composition. Terry Riley's website advertises In C as "The composition that launched the Minimalist movement". However, he has repeatedly dismissed the idea in interviews:
+People say minimalism started with Erik Satie, and it may have started with Gesualdo; I don't know who it started with. But in this group of people, which is Steve Reich, Philip Glass, La Monte Young, and me, obviously it was La Monte who was the first one. The Trio for Strings is the landmark minimalist piece.
+Coming at a time when experimental music in the United States was largely synonymous with atonality, In C stood firmly against current trends. Reich and others point to Riley's technique as a seminal influence on their work. Morton Subotnick recalled how In C "brought a forward movement to repetition...it blossomed in a direction, and that directionality, and the beat, was not what people were thinking at the time...it was a kind of cockamaimie Ravel Bolero; people don't think about it now because it's so ordinary. Everyone's grown up with Glass and Reich, but that didn't exist at that point." One historian concluded that Riley's composition "made minimalism a viable commercial force in American music, for it took minimalism out of the lofts and galleries – where [La Monte] Young's far more austere music was destined to remain".
+A decade after it was written, critic Robert Palmer called In C "the single most influential post-1960 composition by an American". According to Michael Nyman, Riley's score is a classic of experimental music which injected a physical exhilaration into the genre that was previously lacking. It has become one of the most widely performed classical pieces from the twentieth century. Riley later described the score as "a gift that The Universe kindly bestowed on the Terry Riley of 1964, who might possibly be a stranger if he showed up at my door today".
+The foregrounding of the repeated "pulse" gave rise to the mistaken impression that the piece is centered on that single note. One detractor mused that "A modern vision of Hell might well contain an unbroken loop of In C". Another writer concluded, "In C is, at root, an exercise in human relations." Riley himself described it as a "musical hall of mirrors". Due to its communal ethos, In C has been called "the quintessential Sixties piece".
+In 1971, Pete Townshend of the Who composed "Baba O'Riley", named in tribute to Meher Baba and Riley. Townshend was particularly fond of Riley's album A Rainbow in Curved Air, as well as In C.
+In 2022, the 1968 LP recording of In C was selected by the Library of Congress for preservation in the United States National Recording Registry as being "culturally, historically, or aesthetically significant".
+
+Discography
+Robert Carl published extensive analyses of several commercial recordings. He found tempi ranging from 92 to 132 beats per minute.
+
+With Terry Riley's involvement
+
+Terry Riley, In C (Columbia, 1968) – Re-mastered for CD release by Sony Classical in 2009
+Shanghai Film Orchestra, In C (Celestial Harmonies, 1989) – Performed on traditional Chinese instruments. Mixed by Riley, Brian Eno, and Jon Hassell.
+Terry Riley, In C – 25th Anniversary Concert (New Albion, 1995) – With Riley singing and directing the ensemble.
+The Repetitition Orchestra, Terry Riley (Long Arms Records, 2001) – With Riley on piano
+Independent of Riley
+
+Piano Circus, Six Pianos/In C (Argo, 1990)
+Ensemble Percussione Ricerca, In C/Djembé (Materiali Sonori, 1995)
+SMCQ, In C (ATMA Classique, 2000) – Conducted by Walter Boudreau
+Ictus, In C (Cypres, 2000) – With Blindman Kwartet
+Bang on a Can, In C (Cantaloupe Music, 2001)
+The Styrenes, In C (Enja Nova, 2002)
+Acid Mothers Temple & The Melting Paraiso U.F.O., In C (Eclipse Records, 2001) – Flipside includes the band's composition "In E"
+European Music Project, zignorii++, In C (WERGO, 2002)
+re-sound, In C (Move Records, 2002)
+DésAccordes, In C (Gazul Records, 2005)
+Ut Gret, Recent Fossils (ear X-tacy Records, 2006) – In C is on disc 3
+Ars Nova Copenhagen, Terry Riley – In C (Ars Nova, 2006) – Conducted by Paul Hillier with Percurama
+American Festival of Microtonal Music, Ear Gardens (Pitch, 2007) – In C in just intonation
+The New Audience Ensemble, Live at the Edge (Odessa Mama Records, 2006)
+Jeroen van Veen, Minimal Piano Collection (Brilliant Classics, 2006) – In C is on disc 9
+Grand Valley State University New Music Ensemble, In C Remixed (Innova Recordings, 2008) – In C is on disc 2
+Orkest de Volharding, The Minimalists (Mode, 2009)
+Hans Balmer, Minimal Flute (Fontastix, 2009)
+GVSU New Music Ensemble, Terry Riley – In C (Ghostly International, 2009)
+Invisible Polytechnic, Perform in C By Terry Riley (Junior Aspirin Records, 2011)
+The Sensorium Saxophone Orchestra, Terry Riley – In C (Living Records, 2012)
+Adrian Utley's Guitar Orchestra, In C (Invada Records, 2013)
+Minimalist Ensemble, In C (Alexander Campkin, 2013)
+Africa Express Presents... Terry Riley's In C Mali (Transgressive, 2014) – with Brian Eno and Damon Albarn
+Fighting Windmills + Sethstat, In C (PMGJazz, 2018)
+The Young Gods, Play Terry Riley in C (Two Gentlemen Records, 2022)
+Louth Contemporary Music Society, In C Irish, 2023 (performed by an Irish trad ensemble)
+Adaptations
+L'Infonie, Volume 33: Mantra (Polydor, 1970) – Incorporates In C in a larger improvisation.
+Grand Valley State University New Music Ensemble, In C Remixed (Innova Recordings, 2008) – Features remixes by Jad Abumrad, Mason Bates, Jack Dangers, Dennis DeSantis, R. Luke DuBois, Mikael Karlsson/Rob Stephenson, Zoë Keating, Phil Kline, Kleerup, Glenn Kotche, David Lang, Michael Lowenstern, Paul D. Miller (DJ Spooky), Nico Muhly, Todd Reynolds and Daniel Bernard Roumain (DBR).
+
+References
+Further reading
+Sun, Cecilia. "Journey to the East: Asian Influences in the Performance History of Terry Riley's In C". Intercultural Music: Creation and Interpretation. Edited by Sally Macarthur, Bruce Crossman, and Ronald Morelos. Sydney: Australian Music Centre, 2006.
+Vosper, Richard Field. "Structure and Probably Organization of In C by Terry Riley: An Analysis of Stochastic Projection of Pattern Behavior". MA thesis, San Jose State University. 1980.
+
+External links
+1968 In C LP audio with the electronic swoops between each side at Internet Archive. (See Carl, p. 83f)
+Steve Reich – rhythm and minimalism (interview) on YouTube, Andrew Ford, The Music Show, May 6, 2012, ABC Radio National
+Kyle Gann, "Those Jangling High C's on the Piano", Artsjournal.com. July 2, 2009.
+iNCYNC, website that enables simultaneous playback of multiple In C recordings

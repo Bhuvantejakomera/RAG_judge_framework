@@ -1,0 +1,108 @@
+Central Mechanical Engineering Research Institute (also known as CSIR-CMERI Durgapur or CMERI Durgapur) is a public engineering research and development institution in Durgapur, West Bengal, India. It is a constituent laboratory of the Indian Council of Scientific and Industrial Research (CSIR). This institute is the only national level research institute in the field of mechanical engineering in India.
+The CMERI was founded in February 1958 under the endorsement of the CSIR. It was founded to develop national mechanical engineering technology, particularly in order to help Indian industries. During its first decade, the CMERI mainly focused its efforts towards national technology and import substitution. Currently, the institute is making R&D efforts in the front-line areas of research such as Robotics, Mechatronics, Microsystem, Cybernetics, Manufacturing, Precision agriculture, Embedded system, Near net shape manufacturing and Biomimetics. Besides conducting research, the institute works towards different R&D-based mission mode programs of the country to provide suitable technological solutions for poverty alleviation, societal improvement, energy security, food security, aerospace, mining, automobile, and defense.
+
+Campus
+CMERI has one office campus and three residential campuses in Durgapur. Office campus spans in an area of 81 acres with more than 16 buildings. The campus is located 7.80 kilometers from Durgapur railway station and 1.6 kilometers from Durgapur City Center. The campus is adjacent to National Institute of Technology, Durgapur and National Power Training Institute, Durgapur. An extension center of CMERI, Durgapur is situated in Bardhaman District, an industrial town of West Bengal.
+Three residential campuses extended over 72 acres of land and has civic amenities like Staff Quarters, Scientist Apartments, Children Park, Health Center, Staff Club, Guest Houses, Executive Hostels, Academic Hall of Residence, Dispensary, Market, Gymkhana and Schools. Kendriya Vidyalaya is situated inside the campus for providing the education from primary to higher secondary students and meant mainly for ward of the employees. A state-funded free primary school named Shishu Bani is also available in the campus to serve the educational need of nearby poor people. The institute also runs a free children computer training center named CSIR Kids' i-zone, which is situated in the colony campus.
+
+This institute has an extension centre named as CMERI-Centre of Excellence for Farm Machinery situated at Ludhiana in Punjab.
+
+Achievements
+The CMERI has developed many products and processes, out of which 26 have been awarded prestigious national awards. The CMERI has filed more than 100 patents. Over 120 licensees have learned from the institute's products and processes for commercial exploitation.
+During 1956–1962, Man Mohan Suri, the then director of CMERI, has developed a novel concept of an integrated power pack involving reverse-governing techniques for the diesel engine superimposed on a hydro-mechanical transmission called Suri-Transmission. This has resulted in substantially increasing the efficiency of diesel locomotives. Suri-Transmission and its improvements are covered by 36 patents in 11 major countries.
+
+In the mid-sixties, the Green Revolution triggered large-scale tractor usage in India. To meet this growing demand in 1965, CMERI initiated a project for design and development of 35 HP tractor based on indigenous know how. The developed tractor technology has been named as Swaraj by Indira Gandhi (the then Prime Minister of India). 
+Recently, the institute developed the Soleckshaw electric rickshaw under the CSIR-800 community project program, to reduce the carbon footprint of the city and simultaneously mitigating the drudgery of the manual rickshaw puller. The institute in collaboration of West Bengal Renewable Energy Development Agency (WBREDA), also developed a smart card based prepaid energy meter for use with renewal energy sources. Scientists of the institute have developed India's first cricket-ball stitching machine to bring uniformity in cricket balls and repeatability in performance.
+Through its Surface Robotics Laboratory, the institute has contributed to the development of mobile robot systems,
+The institute is one of the nodal points of National Knowledge Network connectivity program under multi-gigabit pan-India network to share intellectual property and knowledge-base among premier R&D labs/institutes/universities of the country.
+
+Notable Technologies Invented & Developed
+Suri Transmission
+Coil Expanding & Spreading Machine
+Mini Climbing Crane(MCC)
+Handwasher
+Automatic submerged arc welding machine
+Hydraulic Bolt Tensioner
+Portable oxy-gas cutting machine
+Reconfigurable Microfactory
+TIG cutting machine
+Cable Making Machine
+Calendar Sealing Machine
+Electric Tractor
+Pneumatic Precision Planter
+Programmable Irrigation Scheduler
+Hand Pump Attachable Iron Removal Plant
+Swaraj 35 HP Tractor
+Deep Sea-bed Mining System
+Remotely Operated Vehicle
+Spouted Bed Dryer
+Fluidized Bed Dryer
+50 TPD Oil Expeller
+Placer Sand Mining System
+Mark II Hand Pump 
+Rotillor
+Single Spindle Automatic Turret Lathe
+SPM for Automatic Reaming of Bores
+Electric Slag Refining Plant
+Friction Welding Machine & TIG Cutting Torch
+Self Propelled Combine Harvester
+Inter Row Rotary Cultivator for Wide Row Crops
+SPM for Manufacturing of Globoidal Cam Indexing Units
+SCARA Manipulator of 60 kg Payload
+Vision Guided Robotic System
+Radio Frequency Quadruple (RFQ) LINAC
+Design and Analysis of high 'Q' 75 MHz Radio Frequency (RF) Cavity for DRIFT Tube LINAC
+Fluidised Bed Dryer for Oilseeds
+1 TPD Oil Expeller
+Epoxy Concrete Technology
+Process Development for manufacture of ADI crankshaft for cars and single cylinder agricultural pump engines
+Autonomous Underwater Vehicle (AUV-150)
+Sub-Terrain Robot
+All Terrain Robot
+Five Axis μ-CNC Milling Machine
+Reconfigurable Micro Factory Test Bed
+600 Litre/Day Capacity Semi Continuous Type Biodiesel Plant
+A Prepaid Smart Card Operated Electronic Energy Meter with Online Load Optimizer for Solar Power Application
+Orientation Unit for a Fruit Sorting and Grading Machine
+Mobile Bridge Inspection Unit
+Pneumatic Precision Planter for Vegetables
+Domestic Type Filtration unit for defluoridation of drinking water
+Appropriate Mechanization Project at the Durgapur Steel Plant
+Remotely Operated Vehicle (ROV): 500 m Depth Qualification
+Design & development of an Autonomous Mobile Robot
+Autonomous Intelligent Robotic Wheel Chair
+Design and Development of an Outdoor Mobile Robot
+Teleoperated Rotary-Wing Aerial Robot (RWAR)
+Colposcope- a Medical Device
+Plasma Disposal of Plastic Waste and Generation of Syngas for Power Generation
+Washing Unit for Freshly Harvested Ginger/Turmeric
+Improved Cabinet Dryer for Ginger & Turmeric
+Agricultural Implements
+Krishi Shakti Tractor 10 HP Tractor
+Soleckshaw-Solar Electric Rickshaw
+Improved Iron Removal Plant
+Solar Power Tree
+Oxygen Enrichment Unit
+
+Awards and Accolades
+1961: Padma Shri, Recipient Shri Man Mohan Suri
+1962: Shanti Swarup Bhatnagar Prize for Science and Technology, Recipient Shri Man Mohan Suri
+2003: "We Think for India" Award, Recipient, Dr. Gopal P. Sinha et al.
+2003: SAIL Gold Medal, Recipient Dr. Gopal P. Sinha
+2013: CSIR Technology Award for Portable Colposcopy
+2017: CSIR Technology Award for Improved Iron Removal Plant and its implementation in Rural Areas
+
+Extension Centre
+The CMERI Centre of Excellence for Farm Machinery (CMERI-CoEFM) (Erstwhile MERADO), Gill Road, Ludhiana, Punjab. The CMERI-CoEFM was established as Mechanical Engineering Research & Development Organization (MERADO) at Ludhiana as an extension center of CMERI to concentrate on the technology development and expertise needs of around 65,000 small & medium scale industries, concentrated in and around Ludhiana, Punjab. In the past, a major component of R&D carried out at this center has gone towards the development of appropriate machinery for productivity enhancement in the agricultural and post-harvest processing sectors. A series of oil expellers of different capacities (from 1TPD to 50TPD) are developed with a patented technology to produce pungent oil from mustard seed, which was released to several industries. In the industrial front, the center developed many products ranging from single needle flat bed & post bed leather sewing machines and high-speed safety stitching industrial sewing machines for the textile industry, brick molding machines for the construction industry, radial drilling machines, friction welding machines, and rough terrain forklift truck for the manufacturing industry.
+This extension center of CMERI, Durgapur is now concentrating on precision farming, multi-cropping, and productivity improvement of available land, which would lead to conservation of seed, water, and fertilizer through the development of advanced farm machinery equipped with advanced sensors.
+At present, the major R&D thrust of this center is directed towards the exploration of various sources of bio-fuels and perfecting its extraction technology. CMERI-CoEFM has taken the initiative for the development of a small biodiesel plant suitable for farmers in rural sector. The center also has started experiments for utilization of de-oiled cakes for generation of bio-gas, which can be used by farmers for self-reliance in energy.
+
+Academics
+The institute offers integrated M.Tech.-PhD. programmes from the Academy of Scientific and Innovative Research in New Delhi in Mechatronics, and applied and Computational Mechanics. New Postgraduate diploma Program  in Robotics, Maintenance Engineering, and Advanced Manufacturing Technology are being offered with a target to provide in-depth exposure to the engineering concepts, scientific principles, implementation methodology and hands-on experience to freshers and Industry professionals. Other on-demand short-term courses are also arranged in the area of mechanical engineering and allied disciplines. The CMERI offers opportunities to do projects twice a year for B.E./ B.Tech./ M.C.A./ M.Tech. to students from reputed engineering colleges like IITs, NITs etc. in Robotics, Information Technology, Mechanical Engineering, Electronics, Computer Science, Mechatronics and Material Science.
+
+Further reading
+Vantika Dixit, Narayanan Suresh (July 2009). "Solar Powered Cycle". MIT Technology Review. Retrieved 19 December 2013.{{cite news}}:  CS1 maint: deprecated archival service (link)
+
+References
+External links
+Official website

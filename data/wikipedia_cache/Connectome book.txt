@@ -1,0 +1,67 @@
+Connectome: How the Brain's Wiring Makes Us Who We Are (2012) is a book by Sebastian Seung. It introduces basic concepts in neuroscience and then elaborates on the field of connectomics, that is, how to scan, decode, compare, and understand patterns in brain connectivity. The book concludes with musings on cryonics and mind uploading. It was selected by The Wall Street Journal as Top Ten Nonfiction of 2012.
+
+Book outline
+Introduction
+Seung frames the idea of connectomics and argues that "You are more than your genes. You are your connectome."
+
+Ch. 1: Genius and Madness
+Seung introduces the 19th-century idea of phrenology and its modern-day counterpart, which he calls "neo-phrenology", i.e., the idea that sizes of brain regions play a role in intelligence (e.g., Einstein's enlarged inferior parietal lobule) or mental disorders (e.g., schizophrenia and autism). That said, Seung emphasizes that these size correlations only show up for large samples and cannot necessarily predict what will happen in any individual's brain.
+
+Ch. 2: Border Disputes
+Seung discusses localization maps of the brain that attempt to confine particular functions to particular regions. For instance, phantom-limb pain is hypothesized to result when brain regions formerly devoted to the now-missing lower arm become occupied for use by the upper arm and face. Hence, stimulation of the upper arm or face produces what feels like pain in the missing lower arm.
+In contrast to brain localization is the theory of equipotentiality, that any brain region has the potential to perform any function.
+
+Ch. 3: No Neuron Is an Island
+Seung discusses basic cell-level neuroscience, including the structure of neurons and their neurites, as well as a "weighted voting model" of neuronal firing in which a neuron fires when the weighted sum of excitatory minus inhibitory inputs exceeds a threshold.
+
+Ch. 4: Neurons All the Way Down
+Seung explores how hierarchical neural networks can encode concepts (e.g., Jennifer Aniston) as compositions of simpler parts and how these concepts can be linked in one's mind when connections are formed between them, either bidirectionally with cell assemblies or unidirectionally with synaptic chains.
+
+Ch. 5: The Assembly of Memories
+Seung discusses theories of memory formation, including basic Hebbian plasticity and the more speculative neural Darwinism. According to the "dual trace" theory of memory, short-term memory can take the form of persistent spiking among a cell assembly, while long-term memories can be stored in persistent connections. It is useful to have both types of memory because of a "stability-plasticity dilemma", which is a concept familiar in computers that use both RAM and hard drive storage.
+
+Ch. 6: The Forestry of the Genes
+Seung discusses how many psychological traits and disorders are at least partly genetic. (He quotes Eric Turkheimer's First Law of Behavior Genetics: "All human behavioral traits are heritable.") He elaborates on some of the mechanisms by which genes influence neural development and can lead to neural disorders.
+
+Ch. 7: Renewing Our Potential
+To what extent are the first three years of development a crucial window after which brain traits cannot be reversed? And to what extent do brains remain plastic throughout life? Seung discusses evidence on both sides to show that the truth is a little bit of both.
+
+Ch. 8: Seeing Is Believing
+Seung discusses how advances in technologies to see the brain have driven neuroscience progress—in the long run arguably more than the immediate neuroscientific advances that these technologies enabled.
+
+Ch. 9: Following the Trail
+Seung reviews the history of mapping the Caenorhabditis elegans connectome by Sydney Brenner and colleagues, published in 1986. The process required immense manual labor, but connectome mapping is speeding up due to automation with artificial intelligence and intelligence amplification.
+
+Ch. 10: Carving
+Seung discusses ways of dividing up the brain into regions. Korbinian Brodmann based his Brodmann areas on uniformity of cortical layers within each area. Santiago Ramón y Cajal tried to identify types of neurons based on their shapes. Seung himself proposes to divide brain regions based on what other regions they generally connect to. He says this might often coincide with Brodmann's or Cajal's divisions, but if we ultimately care about connectivity, Seung's classification would be most directly relevant.
+
+Ch. 11: Codebreaking
+Seung discusses decoding memories from neural connections. As an example potentially feasible in the near/medium term, he suggests the HVC region in birds, which may store their songs in a roughly analogous way as a compact disc stores Beethoven music.
+
+Ch. 12: Comparing
+Seung discusses how to look at differences among brains based on differences in connectivity. This can be approximated at a coarse level using diffusion MRI or at more fine-grained levels using connectome maps.
+
+Ch. 13: Changing
+Seung examines how connectomics may in the future help identify neurological problems before they become serious and inform development of drugs or gene therapies for connectopathies.
+
+Ch. 14: To Freeze or to Pickle?
+Seung examines the efforts of the Alcor Life Extension Foundation to offer some chance of immortality by cryonics. He compares preservation in liquid nitrogen with a plastination approach that, unlike Alcor's method, requires "no special maintenance".
+
+Ch. 15: Save As ...
+Seung explores the idea of mind uploading and associated philosophical implications, such as using an analogue of the Turing test to determine if a simulation has sufficient fidelity to appear as the real "you" to outsiders, as well as whether you would subjectively feel the upload to be "you" on the inside relative to your stored self-model. Seung discusses the idea that thinking of ourselves as information—as not neurons per se but as the connections of neurons—can be seen as a new conception of the soul. He suggests that transhumanism can give spiritual purpose to a seemingly cold, material universe: "transhumanism lends meaning to lives that were robbed of it by science" (p. 273).
+
+Reactions
+Abigail Zuger characterized Connectome as a book arguing that we are more than just our genes. She adds: "it is a testament to Dr. Seung's remarkable clarity of exposition that the reader is swept along with his enthusiasm". Terry Sejnowski echoed this sentiment about the book's style: "With the first-person flavour of James Watson's Double Helix—an account of how DNA's structure was discovered—Connectome gives a sense of the excitement on the cutting edge of neuroscience."
+Susan Okie affirms that "Seung is a clear, lively writer who chooses vivid examples," though she expresses skepticism about the "science-fiction fantasy that, one day, a human being's connectome could be simulated and 'uploaded' onto a computer".
+Daniel Levitin praised Connectome as "the best lay book on brain science I've ever read." He says it is "witty and exceptionally clear" and includes "the equivalent of a college course on neuroscience". That said, Levitin raised the caveat that a person's connectome by itself is not the whole story of who that person is, because beyond understanding neural wiring, "we also need to know the precise chemical soup du jour in the brain" as well as the update rules for how experiences change brain connections.
+
+Christof Koch said: "Treating the connectome as the be-all and end-all of brain function has its problems. ... The book is well illustrated and sourced with an ending that is both engaging and idiosyncratic." But like Levitin, Koch felt that the connectome by itself is missing some pieces of the picture and that not all brain diseases are diseases of connectivity. Other possible problems may arise from "Faults in synaptic transmission and in processes inside neurons and the glial cells that support them".
+
+See also
+Memory
+Connectionism
+Connectogram
+
+Notes
+External links
+Official book website

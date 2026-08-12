@@ -1,0 +1,298 @@
+The Lockheed T-33 Shooting Star (or T-Bird) is a subsonic jet trainer designed and produced by the American aircraft manufacturer Lockheed.
+Originally designated TP-80C/TF-80C at an early stage of its development, the T-33 was derived from the Lockheed P-80/F-80 jet fighter by lengthening the fuselage and adding a second seat. The T-33A conducted its maiden flight on 22 March 1948 and was introduced as an advanced trainer with the United States Air Force (USAF) shortly thereafter. It quickly proved popular with other operators, multiple variants were flown by the United States Navy, including the TO-2, TV-2 (later redesignated as T-33B), and the Lockheed T2V SeaStar (a carrier-capable derivative). A total of 6,557 T-33s were produced: 5,691 aircraft were completed by Lockheed, while a further 210 were built under licence by Kawasaki and 656 by Canadair (as the Canadair T-33AN/CT-133 Silver Star).
+While the majority of T-33s were unarmed, some were fitted with a pair of machine guns for gunnery training. In addition to their use as a trainer, some services opted to deploy the T-33 into frontline combat on occasion. The Cuban Air Force used the type during the Bay of Pigs Invasion, while the Indonesian Air Force opted to rearm its T-33 to perform counter-insurgency strikes in East Timor. Various private operators also flew the type, Boeing frequently used a pair of T-33s as chase aircraft. The final operator of the type was the Bolivian Air Force, which withdrew their last T-33s in July 2017 after 44 years of service.
+
+Design and development
+The origins of the T-33 are closely connected to the Lockheed P-80/F-80, an early jet powered fighter aircraft. During early operations of the P-80 accidents were commonplace; in 1946, the type was recorded as having the highest accident rate of any fighter operated by the United States Army Air Forces (USAAF), and limited pilot experience was an identified contributing factor. During August 1947, a P-80C airframe was taken off the production line and extended by 38.5 inches to accommodate a second seat (provisioned with dual controls) under a lengthened single-piece clamshell canopy. Most other aspects of the aircraft, including the majority of the fuselage, empennage, flight controls, landing gear, wings, and powerplant remained identical. This prototype was initially designated as a variant of the P-80/F-80, the TP-80C/TF-80C.
+The cockpit featured a three-panel windshield, the center panel being bulletproof and of sufficient strength to protect against at least one bird strike. The cockpit is pressurized at a differential pressure of 3.5 psi, although it remains unpressured below 8,000 feet; oxygen masks are required when flying above 15,000 feet. The canopy could not usually be opened mid-flight but could be jettisoned in an emergency; some aircraft were outfitted with ejection seats. To avoid encountering buffeting (reducing the effectiveness of the aircraft's elevators), which was a known phenomenon produced by high-speed compressibility while at a high altitude, pilots generally avoided flying the T-33 at speeds in excess of Mach 0.8.
+On account of the centrifugal-flow engine design, throttle advancement had to be performed slowly while at low airspeeds to prevent excessive exhaust gas temperatures, which prevented the engine from achieving full power during takeoff and thus the aircraft's takeoff acceleration was relatively slow. An aileron boost system was present; this setup frequently caused inexperienced pilots to encounter a Dutch roll motion. While the ailerons are hydraulically-boosted, neither the rudder or elevators are boosted. The type was approved to perform conventional aerobatic manoeuvres, however, rolls were typically avoided while the tip tanks remained full; the T-33 could fly while inverted for a maximum of 30 seconds. The T–33 lacked spoilers, but was equipped with a pair of hydraulically-actuated rectangular speed brakes that swung down and forward from the belly.
+Roughly one gallon of fuel is consumed per mile flown; fuel was burned first from the tip tanks, then from the leading-edge tanks, and then from the wing tanks, all which feed into a central fuselage tank that contains about 20 minutes worth of fuel. The tip tanks are automatically balanced; despite this, in the unusual circumstance of one tip tank remaining full while the other had emptied, the tips could be jettisoned prior to landing, as such an imbalance could be hazardous. Some pilots avoided trimming the ailerons to avoid unintentionally masking a fuel imbalance.
+On 22 March 1948, the prototype T-33 conducted its maiden flight with Lockheed test pilot Tony LeVier at the controls. During 1948, quantity production of the T-33 commenced; Lockheed continued to build the type until 1959, by which point it had been produced in larger quantities than any other derivative/variant of the P-80. The rate of production was so great that Lockheed allegedly only test-flew one out of every four aircraft prior to delivery.
+The largest customer of the T-33 was the United States Air Force (USAF), for which it served as the primary trainer for two decades. The United States Navy (USN) used the T-33 as a land-based trainer starting in 1949; it was originally designated the TV-2, but was redesignated the T-33B in 1962. The USN also operated some ex-USAF P-80Cs as the TO-1, which was subsequently redesignated as the TV-1. A carrier-capable version of the P-80/T-33 family was subsequently developed by Lockheed, the T2V-1/T-1A SeaStar. Both of the TF-80C prototypes were modified as prototypes for an all-weather twin-seater fighter derivative, which entered USAF service as the F-94 Starfire.
+
+Operational history
+U.S. Air Force and U.S. Navy
+The two-place T-33 proved suitable as an advanced trainer, and it was used for such tasks as drone director and target towing. A reconnaissance version known as the RT-33A with a camera installed in the nose and additional equipment in the rear cockpit was also produced. Although it was primarily intended for export, the U.S. Air Force used a single example of the type for secret overflights of South Vietnam and Laos from 1961, with these flights codenamed FIELD GOAL. This lasted until the aircraft were replaced by the more capable McDonnell RF-101 Voodoo in this role.
+The USAF began phasing the T-33 out of front-line pilot training duties in the Air Training Command in the early 1960s, as the newer Cessna T-37 Tweet and Northrop T-38 Talon trainers began replacing it for the Undergraduate Pilot Training (UPT) program. The T-33 was used to train cadets from the Air Force Academy at Peterson Field (now Peterson Air Force Base in Colorado Springs). The T-37 replaced the T-33 for Academy training in 1975. The final T-33 used in advanced training was replaced 8 February 1967 at Craig AFB, Alabama. Similar replacement also occurred in the U.S. Navy with the TV-1 (also renamed T-33 in 1962), as more advanced aircraft such as the North American T-2 Buckeye and Douglas TA-4 Skyhawk II came on line. USAF and USN versions of the T-33 soldiered on into the 1970s and 1980s with USAF and USN as utility aircraft and proficiency trainers, with some of the former USN aircraft being expended as full-scale aerial targets for air-to-air missile tests from naval aircraft and surface-to-air missile tests from naval vessels.
+Several T-33s were assigned to USAF McDonnell F-101 Voodoo, Convair F-102 Delta Dagger, and Convair F-106 Delta Dart units, to include similarly equipped Air National Guard units, of the Aerospace Defense Command as proficiency trainers and practice "bogey" aircraft. Others later went to Tactical Air Command, and TAC gained Air National Guard F-106 and McDonnell-Douglas F-4 Phantom II units in a similar role until they were retired, with the last being an NT-33 variant retired in April 1997.
+
+Military use by other nations
+Foreign interest in the T-33 solidified into numerous export sales, leading to it being adopted by the military air services of roughly 25 countries around the world, typically its capacity as a trainer. Furthermore, the Canadian aerospace company Canadair produced 656 T-33s under licence for service in the Royal Canadian Air Force as the CT-133 Silver Star; separately, the Japanese conglomerate Kawasaki also manufactured 210 T-33s under licence. Other major operators of the type included Brazil, Turkey, and Thailand.
+Some T-33s retained two machine guns, although typically used for gunnery training, some countries opted to use the T-33 in front-line combat. In April 1961, the Cuban Air Force deployed their T-33s, which were the service's only available jet aircraft, in response to the Bay of Pigs Invasion. During the ensuing clash, the rocket-armed T-33 proved to be effective against the Cuban exiles’ Douglas B-26 Invaders, scoring several aerial kills as well as conducting strafing runs on exile ground forces.
+
+The Indonesian Air Force received 19 unarmed T-33A in 1973 to supplant the Aero L-29 Delfin trainers. Several aircraft were later rearmed with two machine guns, gunsight taken from scrapped Il-28 bombers, and bomb racks taken from retired B-25 Mitchell. The rearmed T-33s were deployed to East Timor to conduct counter-insurgency strikes in 1976. During 1980, the Indonesian Air Force retired the last of their T-33s.
+The RT-33A version, reconnaissance aircraft produced primarily for use by foreign countries, had a camera installed in the nose and additional equipment in the rear cockpit. T-33s continued to fly as currency trainers, drone towing, combat and tactical simulation training, "hack" aircraft, electronic countermeasures, and warfare training and test platforms right into the 1980s.
+In the 1980s, an attempt was made to modify and modernize the T-33 as the Boeing Skyfox, but a lack of orders led to the project's cancellation. About 70% of the T-33's airframe was retained in the Skyfox, but it was powered by two Garrett AiResearch TFE731-3A turbofan engines.
+
+In the late 1990s, 18 T-33 Mk-III and T-33 SF-SC from the Bolivian Air Force went to Canada to be modernized at Kelowna Flightcraft.  New avionics were installed, and detailed inspection and renewal of the fuselage and wings were performed.  Most of the aircraft returned in early 2001 and remained operational until the type was officially retired on 31 July 2017.
+The T-33 became the first jet to be used by the Hellenic Air Force in 1951. Additional items, some of which manufactured in Canada, were received in 60s and 70s. It was which as a trainer, until its replacement by the T-2E, equipping the 361, 221 and 222 Training Squadrons and the 366, 367 and 368 Training Flights. For many years the T-33 were painted in silver, until the early 70s when they were painted in “Vietnam” camouflage. The exceptions were some airplanes of 222 Squadron which were used for target towing and were painted in orange. The last T-33s were retired in 2000.
+On 21 June 1996, 1 T-33A-5-LO (trainer TR-602) from the Hellenic Air Force piloted by Squadron Leader Ioannis Kouratzoglou successfully intercepted a Turkish F-16C violating Athens FIR by engaging in low-altitude high-G maneuvers.
+
+Civilian use
+A few T-33s have been owned privately, with two used by Boeing as chase aircraft. In 2010, one of Boeing's T-33s was used as a chase aircraft during the maiden flight of the Boeing 787. The maiden flight of the Boeing 737 MAX-7 on 16 March 2018 also featured a T-33 chase plane. The maiden flight of the Boeing 777-9 on 25 January 2020, also featured a T-33 chase plane, taking off from KBFI and meeting the 777-9 at KPAE, it stopped at KMWH and it took off again to chase the 777-9 on its way back to KBFI, flying around Mount Rainier before their landing. On 4 December 2020, Boeing retired their T-33 chase planes after 66 years of service. Both T-33s operated by Boeing were replaced by a single T-38 Talon.  Actor and pilot Michael Dorn owned a T-33, which he jokingly referred to as his "starship".
+
+Variants
+TP-80C
+Original United States military designation for the Lockheed Model 580 two-seat trainer for the United States Army Air Forces.  Designation changed to TF-80C on 11 June 1948 following establishment of the United States Air Force as a separate military service in 1947, and then to T-33A on 5 May 1949; 20 built.
+T-33A
+Two-seat jet trainer aircraft for the United States Air Force and delivery to foreign air forces under the Military Assistance Program, 5871 including 699 diverted to the United States Navy as the TV-2.
+AT-33A
+Conversions of the T-33A for export as a close support variant fitted with underwing pylons and hard points for bombs and rockets.  Also used in the original fighter lead-in program at Cannon Air Force Base, New Mexico, approximately 1972-1975.
+DT-33A
+This designation was given to a number of T-33As converted into drone directors.
+NT-33A
+This designation was given to a number of T-33As converted into special test aircraft.
+QT-33A
+This designation was given to number of T-33As converted into aerial target drones for the United States Navy.
+RT-33A
+T-33A modified before delivery as a single-seat reconnaissance variant; 85 built, mainly for export under the Military Assistance Program.
+T-33B
+Re-designation of the United States Navy TV-2 in 1962.
+DT-33B
+Re-designation of the United States Navy TV-2D drone director in 1962.
+DT-33C
+Re-designation of the United States Navy TV-2KD target in 1962
+TO-1/TV-1
+U.S. Navy designation of P-80C, 50 transferred to USN in 1949 as jet trainers (not technically T-33 Shooting Star)
+TO-2
+United States Navy designation for 649 T-33As diverted from USAF production. Two-seat land-based jet training aircraft for the U.S. Navy. First 28 were delivered as TO-2s before the Navy changed the designation to TV-2. Surviving United States Navy and United States Marine Corps aircraft were re-designated T-33B on 18 September 1962.
+TV-2
+Re-designation of the TO-2 after the first 28 were built.
+TV-2D
+TV-2s modified as drone directors, later re-designated DT-33B.
+TV-2KD
+TV-2s modified as radio-controlled targets, could be flown as a single-seater for ferry, later re-designated DT-33C.
+
+Canada
+Silver Star Mk 1
+Canadian designation for the T-33A, 20 delivered.
+Silver Star Mk 2
+Canadian designation for a T-33A which became the prototype of the Silver Star Mk 3.
+T-33AN/CT-133 Silver Star Mk 3
+
+The T-33AN is a Rolls-Royce Nene-powered variant of the T-33A for the Royal Canadian Air Force; 656 built by Canadair with the company designation CL-30. The Canadian military designation was later changed from T-33AN to CT-133.
+
+Other
+L-245
+One Lockheed-owned prototype with a more powerful engine. Was later developed into the T2V SeaStar.
+Aérospatiale Pégase
+A Canadair T-33AN was modified by Aérospatiale with an S17a 17% thickness wing section.
+Boeing Skyfox
+
+A comprehensive upgrade and re-engine project, powered by two Garrett TFE731 turbofans. The sole prototype remains parked, without engines, at Rogue Valley International (MFR) at Medford, Oregon.
+Khodkar
+Iranian conversion of T-33A into drone.
+TF-33A
+Brazilian Air Force designation for the AT-33A.
+B.F.11
+(Thai: บ.ฝ.๑๑) Royal Thai Armed Forces designation for the T-33A.
+B.TF.11
+(Thai: บ.ตฝ.๑๑) Royal Thai Armed Forces designation for the RT-33A.
+
+Former operators
+For operators of Canadian-built aircraft, refer to Canadair CT-133 Silver Star.
+
+ Bangladesh
+Bangladesh Air Force (1 × T-33 operated from 1972. Leftover of Pakistan Air Force after Bangladesh Liberation War.)
+ Belgium
+Belgian Air Force (38 × T-33A, 1 × RT-33A operated from 1952)
+ Bolivia
+Bolivian Air Force - Bolivia acquired 15 T-33AN from Canada in 1973–74, purchasing 5 more from Canada in 1977 and 18 T-33SFs from France in 1985. 18 were upgraded to T-33-2000 standard in 2000–2001. Retired in 2017.
+ Brazil
+Brazilian Air Force
+ Burma
+Burmese Air Force – 15 x AT-33A for use as trainers and close air support.
+ Canada
+Royal Canadian Air Force
+Royal Canadian Navy
+VU-32 Utility Squadron
+Canadian Forces
+National Research Council
+ Chile
+Chilean Air Force
+ Republic of China
+Republic of China Air Force
+ Colombia
+Colombian Air Force
+ Cuba
+Cuban Revolutionary Air and Air Defense Force
+ Denmark
+Royal Danish Air Force
+ Dominican Republic
+Dominican Air Force – AT-33A
+ Ethiopia
+Ethiopian Air Force
+ Ecuador
+Ecuadorian Air Force – AT-33A
+ El Salvador
+Salvadoran Air Force
+ France
+French Air Force – 163 x T-33A and RT-33A (also 61 Canadian-built T-33AN)
+ Germany
+German Air Force  192 x T-33A
+ Greece
+Hellenic Air Force – T-33A, RT-33A, and Canadian-built AT-33ANs
+ Guatemala
+Guatemalan Air Force
+ Honduras
+Honduran Air Force – T-33A and RT-33A
+ Indonesia
+Indonesian Air Force – T-33A
+ Iran
+Imperial Iranian Air force                                Operated 60 Lockheed T-33A and 14 Lockheed RT-33A from 1952 until 1982
+ Japan (all retired)
+Japan Air Self Defense Force T-33A – assembled and later manufactured by Kawasaki Heavy Industries Aerospace Company from 1956.
+Tactical Fighter Training Group (1981–1992)
+3rd Tactical Fighter Squadron (1956–1992)
+6th Tactical Fighter Squadron (1959–1992)
+8th Tactical Fighter Squadron (1959–1992)
+201st Tactical Fighter Squadron (1963–1974, 1986–1994)
+202nd Tactical Fighter Squadron (1964–1992)
+203rd Tactical Fighter Squadron (1964–1992)
+204th Tactical Fighter Squadron (1964–1993)
+301st Tactical Fighter Squadron (1973–1993)
+302nd Tactical Fighter Squadron (1974–1994)
+303rd Tactical Fighter Squadron (1976–1994)
+304th Tactical Fighter Squadron (1977–1993)
+305th Tactical Fighter Squadron (1978–1993)
+306th Tactical Fighter Squadron (1981–1994)
+ Libya
+Royal Libyan Air Force – two T-33As donated by the United States.
+ Mexico
+Mexican Air Force – 50 units AT-33A
+
+ Netherlands
+Royal Netherlands Air Force – 60 × T-33A, 3 × RT-33A
+ Nicaragua
+Nicaraguan Air Force FAN received delivery of four AT-33A aircraft from the US Government after the failed Bay of Pigs invasion in 1961. Retired from service in 1979.
+ Norway
+Royal Norwegian Air Force
+ Pakistan
+Pakistan Air Force – 15 T-33A and 6 RT-33A from 1955 to 1993
+ Paraguay
+Paraguayan Air Force operated six AT-33A donated by Taiwan in 1990. The belonged to the Grupo Aerotáctico (GAT) 2nd. Fighter Squadron called "Indios". They were withdrawn from use in 1998.
+ Peru
+Peruvian Air Force operated a total of 27 T-33A delivered between 1955 and 1964, all of them formerly operated by the United States Air Force. They were withdrawn from use in 1981 after being replaced by the Aermacchi MB-339. A single T-33A-1-LO, serial 455 (c/n 580-9889) is preserved at Parque del Aire.
+ Philippines
+Philippine Air Force - 7 units T-33A and 3 units RT-33A. 1955 to 1994.
+ Portugal
+Portuguese Air Force T-33A and one RT-33A (all retired)
+ Saudi Arabia
+Royal Saudi Air Force
+ Singapore
+Republic of Singapore Air Force: 12 x Former French Air Force T-33A delivered in 1980, followed by 8 more in 1982.
+ South Korea
+Republic of Korea Air Force: T-33A is First introduction Time: August, 1955. It also served with the ROKAF Black Eagles aerobatic team
+ Spain
+Spanish Air Force – 60 × T-33A
+ Thailand
+Royal Thai Air Force
+ Turkey
+Turkish Air Force – T-33A and RT-33A
+ United States
+Boeing Commercial Airplanes (two Canadair CT-133 Silver Stars, N109X and N416X)
+United States Air Force
+United States Navy
+United States Marine Corps
+ Uruguay
+Uruguayan Air Force operated 13 AT-33A-1s from 1956 to 1997.
+ Yugoslavia
+Yugoslav Air Force – Operated 125 Shooting Stars in four variants: 25 T-33A, 22 RT-33A, 70 TV-2, and 8 TT-33A
+
+Aircraft on display
+Numerous T-33s have been preserved as museum and commemorative displays.
+
+Notable accidents and incidents
+28 January 1951
+WW2 Ace Dominic Salvatore Gentile was killed when he crashed in a T-33A-1-LO Shooting Star trainer, AF Ser. No. 49-0905, in Forestville, Maryland. Gentile was credited with 20 air kills during his combat tours.
+4 August 1955
+First Lt. Elmer C. Bybee (of Walden CO) and Second Lt. Conrad J. Zubalik (of Greensburg PA), US Air Force, were flying a T-33 on a training sortie out of Perrin Air Force Base (Sherman TX) when a wing snapped off during a turn. The aircraft crashed near Grapevine Lake Dam north of the Dallas-Ft Worth Airport. Both pilot trainees perished in the crash.
+4 June 1957
+Maj. Teruhiko Kobayashi, a flying ace of the Imperial Japanese Air Force, was flying a T-33 on a training sortie from Hamamatsu when a technical problem occurred shortly after takeoff. He ordered his companion in the aircraft with him to eject. After his companion did, he tried to take control of the aircraft and attempted to land it away from any populated areas, but crashed shortly after.
+23 December 1957
+1 US T-33 flown by Maj Howard J.Curran entered Albanian airspace, alleging that he had interference requiring him to fly in Albanian airspace. He was forced to land on Rinas Airport by two Albanian MiG-15 flown by Anastas Ngjela and Mahmut Hysa. Major Howard J.Curran was later released but his T-33 was placed in the Gjirokastra castle museum, where it is still today.
+24 March 1958
+Lt Col. Jacob E. Manch, a member of the Doolittle Raiders during World War 2, was killed in a T-33 jet trainer accident outside of Las Vegas, NV.  He ordered the second crewmember to bail out and guided his powerless aircraft over a neighborhood, that included an elementary school, avoiding potential casualties on the ground. When he finally ejected, his parachute did not have sufficient time to properly operate, and he died when he hit the ground.
+20 May 1958
+An Air National Guard Lockheed T-33A was involved in a mid-air collision with Capital Airlines Flight 300, a Vickers Viscount, over Brunswick, Maryland.
+19 September 1968
+A Chilean Air Force T-33A crewed by Sub-lieutenant Jorge Emberg and Second Lieutenant René Catalán crashed shortly after takeoff from El Bosque Air Base due to an engine failure. Emberg managed to eject safely but Catalán and six people on the ground died when the aircraft crashed on the Santa Erna neighborhood.
+20 August 1971
+On 20 August 1971, Pilot Officer Rashid Minhas was scheduled to fly a T-33 from PAF Base Masroor in Karachi. Matiur Rahman, an instructor pilot, saw Minhas about to take off and joined him via the instructor's seat. Rahman then attempted to hijack the T-33 in midair, intending to fly the plane to India, defect, and join the Bangladesh Liberation War. Minhas sent a message to the control tower that he had been hijacked before being knocked unconscious. The now alerted Pakistani Air Force scrambled F-86 Sabre jets but were unable to locate the T-33. In the meantime, Rashid regained consciousness and there was a struggle between the two pilots and the plane crashed in Pakistan, 40 kilometers from the Indian border, killing both pilots; the precise cause of the crash is unknown.
+
+Specifications (T-33A)
+Data from Lockheed Aircraft since 1913General characteristics
+Crew: 2
+Length: 37 ft 9 in (11.51 m)
+Wingspan: 38 ft 10.5 in (11.849 m)
+Height: 11 ft 8 in (3.56 m)
+Wing area: 234.8 sq ft (21.81 m2)
+Airfoil: NACA 65-213
+Empty weight: 8,365 lb (3,794 kg)
+Gross weight: 12,071 lb (5,475 kg)
+Max takeoff weight: 15,061 lb (6,832 kg)
+Powerplant: 1 × Allison J33-A-35 centrifugal flow turbojet engine, 5,400 lbf (24 kN) thrust  for take-off with water injection
+4,600 lbf (20,461.82 N) maximum continuous, dry
+Performance
+
+Maximum speed: 600 mph (970 km/h, 520 kn) at sea level
+Cruise speed: 455 mph (732 km/h, 395 kn)
+Range: 1,275 mi (2,052 km, 1,108 nmi)
+Service ceiling: 48,000 ft (15,000 m)
+Rate of climb: 4,870 ft/min (24.7 m/s)
+Armament
+
+Hardpoints: 2 with a capacity of 2,000 lb (907 kg) of bombs or rockets (AT-33)
+
+See also
+Related development
+
+Boeing Skyfox
+Canadair CT-133 Silver Star
+Lockheed F-94 Starfire
+Lockheed P-80 Shooting Star
+Lockheed T2V/T-1A Seastar
+Aircraft of comparable role, configuration, and era
+
+Aermacchi MB-326
+Aero L-29 Delfín
+North American T-2 Buckeye
+Northrop T-38 Talon
+Shenyang JJ-1
+
+Related lists
+
+List of Lockheed aircraft
+
+References
+Citations
+Bibliography
+Baugher, Joe. "Lockheed P-80/F-80." Archived 2011-08-18 at the Wayback Machine USAF Fighters. Retrieved: 11 June 2011.
+Cooper, Tom (2017). Hot Skies Over Yemen, Volume 1: Aerial Warfare Over the South Arabian Peninsula, 1962-1994. Solihull, UK: Helion & Company Publishing. ISBN 978-1-912174-23-2.
+Cooper, Tom; Grandolini, Albert; Delalande, Arnaud (2015). Libyan Air Wars, Part 1: 1973-1985. Helion & Company Publishing. ISBN 978-1-909982-39-0.
+Darling, Kev (2005). Tweet and the Dragonfly the Story of the Cessna A-37 and T-37. Big Bird Aviation. ISBN 1411647483.
+Davis, Larry (1980). P-80 Shooting Star. T-33/F-94 in Action. Carrollton, Texas: Squadron/Signal Publications. ISBN 0-89747-099-0.
+Dorr, Robert F. (1998). "P-80 Shooting Star Variants". Wings of Fame. Vol. 11. London, UK: Aerospace Publishing Ltd. ISBN 1-86184-017-9.
+Francillon, René J. (1982). Lockheed Aircraft since 1913. London, UK: Putnam. ISBN 0-370-30329-6.
+"Fuerza Aérea Boliviana". International Air Power Review. Vol. 1. Summer 2001. pp. 28–31. ISSN 1473-9917.
+Gaillard, Pierre (1991). Les Avions Français 1965 a 1990. Paris, France: Editions EPA. ISBN 2-85120-392-4.
+Garrison, Peter (August–September 2005). White Rocket. Vol. 20. Air & Space/Smithsonian Magazine. pp. 58–65.
+Hallion, Richard P. (April–July 1980). "T-33 and F-94 ... More Stars in the Lockheed Galaxy". Air Enthusiast. No. 12. pp. 11–23. ISSN 0143-5450.
+Hiltermann, Gijs (1988). Lockheed T-33. Vliegend in Nederland 3 (in Dutch). Eindhoven, Netherlands: Flash Aviation. ISBN 978-90-71553-04-2.
+Hoyle, Craig (8–14 December 2015). "World Air Forces 2015". Flight International. Vol. 188, no. 5517. pp. 26–53. ISSN 0015-3710.
+Knaack, Marcelle Size (1978). Encyclopedia of US Air Force Aircraft and Missile Systems: Volume 1, Post-World War II Fighters, 1945–1973 (PDF). Washington, D.C., US: Office of Air Force History. ISBN 0-912799-59-5. Archived from the original (PDF) on 3 March 2016. Retrieved 21 December 2013.
+Pace, Steve (2016). The Projects of Skunk Works. Voyageur Press. ISBN 978-0-7603-5032-4.
+Pace, Steve (1992). Lockheed Skunk Works. St. Paul, Minnesota: Motorbooks International. ISBN 0-87938-632-0.
+Pocock, Chris. "Singapore Sting". Air International. Vol. 31, no. 2. pp. 59–64, 90–92.
+Schrøder, Hans (1991). Kay S. Nielsen (ed.). Royal Danish Airforce. Tøjhusmuseet. ISBN 87-89022-24-6.
+Siegrist, Martin (October 1987). "Bolivian Air Power — Seventy Years On". Air International. Vol. 33, no. 4. pp. 170–176, 194. ISSN 0306-5634.
+Swanborough, Gordon; Bowers, Peter M. (1990). United States Navy Aircraft since 1911. Putnam Aeronautical Books. ISBN 0-87021-792-5.
+
+External links
+
+T-33 in Mexican Air Force
+AeroWeb: T-33s on display list
+Warbird Alley: T-33 page
+Walkaround T-33 Shooting Star (Eskishehir, Turkey)
+Pictures of the T-33 at Oak Meadow Park, (Los Gatos, CA)
+Brief T-33 History on Air Mobility Command Museum Site with photo of display T-33 at Dover AFB, DE

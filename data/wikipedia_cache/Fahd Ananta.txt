@@ -1,0 +1,34 @@
+HubSpot, Inc. is a US customer relationship management firm and data broker. It is headquartered in Cambridge, Massachusetts.
+As of 2024, HubSpot is an unregistered data broker. Data broker are companies that collects and sells personal data, both public and private, through various means of data and web scraping. The company claims to provide tools for social media marketing and search engine optimization.
+In 2010, an article in the Harvard Business Review said that HubSpot's most effective inbound marketing feature was its free online tools. One such tool, the Marketing Grader, assessed and scored website performance. The company introduced a Twitter tracking feature in 2011.
+
+History
+In 2010, HubSpot acquired Oneforty, the Twitter app store founded by Laura Fitton. The company also introduced new software for personalizing websites for each visitor. According to Forbes, HubSpot started out targeting small companies but "moved steadily upmarket to serve larger businesses of up to 1000 employees." 
+HubSpot filed for an IPO with the Securities and Exchange Commission on August 25, 2014, requesting to be listed on the New York Stock Exchange under the ticker symbol HUBS.  
+In July 2017, HubSpot acquired Kemvi, which applies artificial intelligence and machine learning to help sales teams. 
+On January 31, 2023, HubSpot announced the first layoffs in the company's history. Affecting approximately 500 employees, this layoff eliminated 7% of its total workforce. On the same day, HubSpot also announced plans to restructure its Cambridge campus, centralizing operations within a nearby office the company had already been leasing. 
+Hubspot announced its acquisition of B2B intelligence firm Clearbit in November 2023. Later that year in September, HubSpot announced the launch of HubSpot AI, an AI-powered service for marketing, sales and service departments, and the relaunch of Sales Hub.
+In April 2024, Reuters reported that Google was considering a bid to acquire HubSpot. The report led to shares of the company spiking by 5%. This news garnered a mixed response from industry leaders and users, 48% said they would be triggered to consider alternative software. In July, it was reported that Google had given up on its effort to acquire the company.
+In December, 2024, HubSpot acquired Frame AI.
+In November 2025, the company acquired XFunnel, an Israeli startup developing tools for AI-driven search and "answer engine" optimization.
+In February 2026, HubSpot acquired the creator-led entrepreneurship publication Starter Story.
+
+Controversy
+In July 2015, HubSpot's CMO, Mike Volpe, was dismissed for violating HubSpot's code of business conduct. It was found that he tried to obtain a draft copy of the book Disrupted: My Misadventure in the Start Up Bubble, written by his former employee Daniel Lyons. According to an article in The Boston Globe, records obtained under the Freedom of Information Act indicated that HubSpot executives considered the book "a financial threat to HubSpot" and Volpe used "tactics such as email hacking and extortion" in the attempt to prevent the book from being published.
+In April 2016, after his book was published, Lyons wrote in The New York Times that HubSpot had a "frat house" atmosphere. He also called the company a "digital sweatshop" in which workers had little job security. Later that month, HubSpot's founders gave an official response to the book, in which they addressed several, but not all, of Lyons' claims.
+In March 2026, HubSpot amended its bylaws to designate U.S. federal courts as the exclusive forum for securities law claims. The change was intended to streamline litigation, reduce the risk of parallel proceedings in multiple jurisdictions, and provide greater procedural consistency.
+
+Reception
+The Boston Business Journal named HubSpot a "Best Place to Work in 2012". In 2015, the company was named the best large company to work for in Massachusetts by The Boston Globe. In 2017, HubSpot was named seventh by CNBC as one of the best places to work. Glassdoor named HubSpot the best place to work in 2020 and the #2 best place to work in 2022. By July 2026, HubSpot's overall employee rating on Glassdoor had declined to 3.4 out of 5, based on employee reviews submitted to the platform. In 2024, HubSpot was listed among the top marketing & digital advertising software products by G2, a platform that ranks software products based on user reviews and ratings.
+In January 2026, PCMag named HubSpot Marketing Hub its Best Overall email marketing software and awarded it an Editors’ Choice distinction, highlighting its integrated CRM and marketing automation features while noting its pricing complexity and learning curve.
+
+References
+Further reading
+Halligan, Brian; David Meerman Scott; Dharmesh Shah (2010). Inbound Marketing: Get Found Using Google, Social Media and Blogs. John Wiley & Sons, Inc. ISBN 978-0-470-49931-3.
+Lyons, Daniel (2016). Disrupted: My Misadventure in the Start Up Bubble. Hachette Books. ISBN 978-0316306089.
+
+External links
+
+Official website
+
+Business data for HubSpot:

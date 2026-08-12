@@ -1,0 +1,26 @@
+Multi-User Dungeon, or MUD (referred to as MUD1, to distinguish it from its successor, MUD2, and the MUD genre in general), is the first MUD.
+
+History
+MUD was created in 1978 by Roy Trubshaw and Richard Bartle at the University of Essex on a DEC PDP-10. Trubshaw named the game Multi-User Dungeon, in tribute to the Dungeon variant of Zork, which Trubshaw had greatly enjoyed playing. Zork in turn was inspired by an older text-adventure game known as Colossal Cave Adventure or ADVENT.
+MUD1 was written in the domain-specific programming language Multi User Dungeon Definition Language (MUDDL). Its first version was written by Richard Bartle and Roy Trubshaw in BCPL. It was later ported to C++ and used in other MUDs such as MIST.
+In 1980, Roy Trubshaw created MUD version 3 in BCPL (the predecessor of C), to conserve memory and make the program easier to maintain. Richard Bartle, a fellow Essex student, contributed much work on the game database, introducing many of the locations and puzzles that survive to this day. Later that year Roy Trubshaw graduated from Essex University, handing over MUD to Richard Bartle, who continued developing the game. That same year, MUD1 became the first Internet multiplayer online role-playing game as Essex University connected its internal network to the ARPANET.
+In 1983, Essex University allowed remote access to its DEC-10 via British Telecom's Packet Switch Stream network between 2 am and 7 am each night. MUD became popular with players around the world, and several magazines wrote articles on this new trend.
+Between 1984 and 1987, MUD was hosted on the DEC-20 of Dundee College of Technology which was one of the few institutions to allow outside access.
+In 1984, Compunet, a UK-based network primarily for Commodore 64 users, licensed MUD1 and ran it from late 1984 until 1987, when CompuNet abandoned the DEC-10 platform they were using.
+Trubshaw and Bartle (with the assistance of Simon Dally) subsequently formed the company Multi-User Entertainment Limited, and proceeded to work on MUD version 4, also known as MUD2 (released in 1985). MUD2 was intended to be run as a service for British Telecom.
+In 1987, MUD1 was licensed by CompuServe, who pressured Richard Bartle to close down the instance of MUD1, better known as 'Essex MUD', that was still running at Essex University. This resulted in the deletion of the MUD account that October. This left MIST, a derivative of MUD1 with similar gameplay, as the only remaining MUD running on the Essex University network, becoming one of the first of its kind to attain broad popularity. MIST ran until the machine that hosted it, a PDP-10, was superseded in early 1991.
+
+MUD1 ran under the name British Legends until late 1999 and was retired along with other software during CompuServe's Y2K cleanup efforts.
+In 2000, Viktor Toth rewrote the BCPL source code for MUD1 to C++ and opened it alongside MUD2 on British-legends.com.
+In 2014, with permission from the authors of MUD1, the C++ reimplementation of MUD1 was deposited within the archives of Stanford University for historical purposes.
+In 2020, the full source code for the PDP-10 implementation of MUD1 (as of 1986) was released on GitHub (with permission from the authors), under a custom not-for-profit license.
+
+Reception
+Computer Gaming World in 1993 called British Legends on CompuServe a "typical text-based multi-player role-playing game" with an emphasis on magic.
+
+References
+External links
+The British Legends website
+Richard Bartle's MUD related website
+Michael Lawrie's MUDDL Manual
+Source code of MUD on GitHub

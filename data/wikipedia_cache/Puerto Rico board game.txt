@@ -1,0 +1,87 @@
+Puerto Rico is a Euro-style board game designed by German designer Andreas Seyfarth and published in 2002 in a German-language  edition by Alea.  Players assume the roles of colonial governors on the island of Puerto Rico during the age of Caribbean ascendancy. Puerto Rico was the highest-rated game on the board game website BoardGameGeek for over five years, until it was surpassed by Agricola. The aim of the game is to amass victory points in two ways: by exporting goods and by constructing buildings.
+Puerto Rico can be played by three, four or five players, although an official two-player variant also exists. There is an official expansion released in 2004, which adds new buildings with different abilities that can replace or be used alongside those in the original game. A second, smaller expansion became available in 2009. Additionally, changes to the rules have been suggested that serve to balance the game.
+
+Gameplay
+Each player uses a separate small board with spaces for city buildings, plantations, and resources. Shared between the players are three ships, a trading house, and a supply of resources and doubloons (money).
+The resource cycle of the game is that players grow crops which they exchange for points or doubloons. Doubloons can then be used to buy buildings, which allow players to produce more crops or give them other abilities. Buildings and plantations do not work unless they are staffed and worked by colonists.
+During each round, players take turns selecting a role card from those on the table (such as "Trader" or "Builder"). When a role is chosen, every player gets to take the action appropriate to that role. The player who selected the role acts first and also receives a small privilege - for example, choosing the "Builder" role allows all players to construct a building, but the player who chose the role may do so at a discount on that turn. Roles that have already been selected earlier in a round are not available to be selected again. Unused roles gain a doubloon bonus at the end of each turn, so the next player who chooses that role gets to keep any doubloon bonus associated with it. This encourages players to make use of all the roles throughout a typical course of a game.
+The available roles are as follows:
+Settler: Each player in turn order may select one of the plantation tiles available in the central offer and add it to their personal player board. The player who selected Settler has the option to instead take a quarry tile, which provides a discount on building prices. After each player has had the option to add a plantation, the offer is replenished from a face-down pile so that it contains one more plantation than the number of players.
+Builder: Each player in turn order has the ability to purchase one building from the central market and add the building to their personal player board. The player who selected Builder receives a one-doubloon discount on any building they purchase, and occupied quarries provide further discounts. There are three types of buildings in the game: production buildings are required for producing goods, "violet buildings" grant players in-game advantages when occupied by a colonist, and large violet buildings provide bonus victory points if occupied at the end of the game.
+Mayor: Each player in turn order takes one colonist from the colonist ship until its supply is exhausted. The player who selected Mayor may then take an additional colonist from the central supply. After this, players may place their newly acquired colonists on their plantations, quarries, and buildings, as well as reposition their existing colonists. If a player has more colonists than available buildings, excess colonists can be stored on the San Juan space to be reassigned in a future Mayor phase. Finally, the colonist ship is replenished with a number of colonists from the supply - either the total number of unoccupied building spaces on all player boards or the total number of players, whichever is larger.
+Craftsman: Each player produces goods based on their occupied plantations and production buildings, taking them from the supply and storing them on their player boards. Corn can be produced simply by having an occupied plantation, while all other goods require an occupied plantation and an occupied production building. The player who selected Craftsman may produce one additional good of their choosing, provided that they were able to produce at least one of that type.
+Trader: Each player in turn order has the option to sell one of their resources by placing them on an empty space in the trading house and taking the appropriate number of doubloons in return. Players can only trade goods that are not already in the trading house, and if the trading house is full they cannot trade at all. The player who selected Trader earns an additional doubloon, provided they were able to trade a good. At the end of the phase the trading house is cleared of all goods if all four of its spaces are filled, otherwise it remains partially filled for future Trader phases.
+Captain: Each player in turn order ships goods in exchange for victory points, placing goods on the empty spaces of one of the available ships and taking one victory point chip for each barrel. The player who selected Captain gains one additional victory point, provided they were able to ship at least one good. The Captain phase is the only phase where player actions are not optional - a player must ship a good if able to, and must ship as many barrels of that good as possible. Each ship can contain only one type of good, and goods cannot be added to ships that have already been filled. The Captain phase continues until it is no longer possible for any player to ship, meaning that some players may get multiple turns in the phase. Afterward, any ships that are completely filled are cleared, while partially filled ships remain so for future Captain phases, and all remaining unshipped goods spoil - players may keep one barrel of their choosing on their player board, but all others are returned to the supply.
+Prospector: The player who selected Prospector takes one doubloon from the supply, and all other players take no action. The game is played with two Prospectors with five players, one Prospector with four players, and no Prospectors with three players, ensuring that there will always be three unselected roles in every round.
+Puerto Rico uses a variable phase order mechanic, where a "governor" token is passed clockwise to the next player at the conclusion of a turn. The player with the token begins the round by choosing a role and taking the first action.
+Players earn victory points for owning buildings, for shipping goods, and for staffing "large buildings." Each player's accumulated shipping chips are kept face down and come in denominations of one or five.  This prevents other players from being able to determine the exact score of another player. Goods and doubloons are placed in clear view of other players and the totals of each can always be requested by a player. As the game enters its later stages, the unknown quantity of shipping tokens and its denominations require players to consider their options before choosing a role that can end the game.
+
+Ending
+The game can end in three different ways:
+
+Mayor is selected and there are not enough colonists to refill the colonist ship with the appropriate number.
+Captain is selected and the last VP chip is given to a player. (Additional chips are to be used during that round, once the supply is exhausted.)
+Builder is selected and a player has built out their 12th city space, thus having no room left to build.
+In each case, players finish the current round before the game ends.
+A player's total score is calculated by adding the number on each of their victory chips, the building value of all of their buildings, and the bonus points from large buildings. Staffed large buildings award bonus points based on various game conditions (such as the Fortress, which gives one victory point for every three colonists on the player board, or the City Hall, which awards a point for every small or large violet building owned by the player).
+The winner is the player with the most victory points. In the event of a tie, the player with the most total goods added to doubloons is given the tie-breaker. If a tie still exists between players, they tie.
+
+Variants
+Game balance
+The following changes may be made to the official rules in order to create what some players believe is a more balanced game giving each player a more equal chance of winning:
+
+The prices of the Factory and University buildings may be swapped, such that the Factory costs 8 doubloons and the university costs 7 doubloons. In a private conversation, the designer Andreas Seyfarth said he would make this change.
+In a forum on BoardGameGeek, some players have suggested that players starting with a corn plantation should start with 1 doubloon fewer than players who start with an indigo plantation.
+
+Two-player variant
+Puerto Rico was released as a 3-5 player game but later received an official two-player variant from Alea. The two-player game is played with one Prospector, and in each round both players select three roles, before a doubloon is added to the seventh role and the Governor tile switches sides. Some players prefer to instead play with just five roles being selected each round - three for the Governor and two for the non-Governor - so that players never have the ability to select twice in a row and pull off powerful combos (like Craftsman/Trader).
+
+Strategy
+There are two primary strategies used in Puerto Rico, corresponding to the two means of earning victory points (VP). One strategy, often called the 'shipping strategy', is to attempt a high level of goods production, and to ship those goods back to the homeland for points. Corn is produced free and indigo has a low investment cost, therefore these goods are commonly chosen when this strategy is used because all exports are valued the same. The major disadvantage of this strategy is that doubloons are harder to acquire, and thus buildings are harder to build.
+The other major strategy is to produce crops that are worth more (i.e. tobacco and coffee), and to use the cash produced from selling/trading to buy more buildings that also give new abilities. Expensive buildings can give a player many victory points, but fewer goods are likely to be shipped to the homeland, and so the VPs from exports can be expected to be low. In filling all their building spaces, a player can cause the game to end relatively quickly, before players using the 'shipping strategy' can capitalise on their investment in buildings and crops that increase shipment VPs.
+There are also many minor strategies that play on the nuances of how the buildings interact.
+
+Expansions and online versions
+In January 2004, Alea released an official expansion to Puerto Rico. The addition consists of 14 new buildings that may be used alongside of, or instead of, the original 17.
+In February 2004, Seyfarth released a separate card game called San Juan for two, three or four players. It is based on Puerto Rico and published by the same companies, following the same art style and making use of some of the same buildings and resources.
+A second expansion was under development, but it was later announced that it was cancelled. Instead, a different, but inclusive, expansion is included in the Alea 10th anniversary 'treasure chest' released in 2009, which contains expansions for a number of different games by the company. The Puerto Rico expansions included consist of the original expansion, as well as a small expansion of several new buildings and red 'nobleman' colonists, which interact with the new buildings. An English language translation of the new expansion was released at the end of 2009 by Rio Grande Games.
+A playable online version is available, and, as of April 2026, nearly 3 million games had been played this way. An iPad version was launched in August 2011.
+
+Criticism
+While Puerto Rico was highly reviewed upon its initial release in 2002, it has come under renewed attention since then for its core premise of colonialism.
+In 2011, Jarrah E. Hodge at Bitch Media observed that "Puerto Rico is sanitized of all references to the exploitation of African slaves on plantations, or the indigenous Taino inhabitants of the island, who were virtually wiped out by the Spanish colonists."
+In 2017, Sam Desatoff at Vice magazine wrote "It feels disrespectful for Seyfarth to disregard slavery so completely. By using slavery as a gameplay mechanic without acknowledging the human cost of it (or even using its name directly), by rendering the institution to a mere tool, the true costs of running your economic engine are ignored. It almost seems to uncritically adopt the slavers' mindset, without any self-awareness. The effect is to make players gathered around a table for a game of Puerto Rico into unwitting moral accomplices in the horrors of human servitude."
+Academics Cornel Borit, Melania Borit, and Petter Olsen discussed Puerto Rico in a study of colonialism in popular board games in 2018. "In Puerto Rico, the indigenous population is completely absent. The world is populated only by colonists who arrive from the metropolitan centres by ship and settle into the new world with the support of the administrator (i.e. the Mayor), fitting into the freshly colonised society in accordance with labour force needs. Thus, the subaltern, who, from a historical point of view, had inhabited the Greater Antilles prior to colonisation, is excluded from the re-enactment of this colonial reality. To use Spivak’s critical parlance, it has no voice within the simulated historical world of the game."
+Philosophy professor Stephanie Partridge wrote of Puerto Rico in 2019: "Still, even those of us who are fairly good at seeing the connection between some games and our collective, colonialist past and present tend to find ourselves bracketing such concerns for the sake of gameplay. (Honestly, we probably pull in and out of the gameplay as the incorrigible social meanings impress themselves on us more or less, depending on what game activity we are carrying out). How many of us have carried on playing Puerto Rico or (Settlers of) Catan as if there are no indigenous peoples present in our fictionalized colonial world to “mess it up” — a terra nullius fantasy — or bracketing the (abstracted) exploitation or even enslavement of indigenous peoples. Our tendency to bracket, of course, doesn't mean that there aren't legitimate objections to such colonialist-themed games. It suggests that we have subjectively made an internal calculation about how egregious we think that the representational offense is and whether it is “worth it” to criticize the collective ludic activity of our friends."
+
+Awards and rankings
+Deutscher Spiele Preis, Winner. 2002
+Essen Feather, Winner. 2002
+Spiel des Jahres, Nominee. 2002
+International Gamers Award (General strategy, Multiplayer Category), Winner. 2003
+BoardGameGeek, Number #1 Rated Game. 2003 - August 17, 2008 and March 1, 2010 – December 2010
+BoardGameGeek, Number #2 Rated Game. August 18, 2008 - February 28, 2010 and December 2010 – unknown. Currently, #24 rated game.
+
+Reviews
+Scrye
+
+See also
+San Juan, card game based on Puerto Rico
+Other games by Seyfarth
+Manhattan
+Thurn and Taxis
+
+References
+Further reading
+Rogerson, Melissa J.; Gibbs, Martin; Smith, Wally (May 2015). "Digitising Boardgames: Issues and Tensions". Proceedings of the 2015 DiGRA International Conference. Vol. 12. Digital Games Research Association. ISSN 2342-9666.
+
+External links
+
+Alea's home page for the game (in German)
+iPad - The official version of Puerto Rico for iPad
+Tropic Euro - free online multiplayer adaptation of Puerto Rico for 2-5 players
+An unofficial online multiplayer version of Puerto Rico
+Puerto Rico at Rio Grande Games, American Publisher, with PDF download of English language rules
+Puerto Rico and an introduction to playing Puerto Rico  at BoardGameGeek
+Video review and rules explanation by Board Games with Scott
+BGA - Puerto Rico can be played online multiplayer at Board Game Arena.

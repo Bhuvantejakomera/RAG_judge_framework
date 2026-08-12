@@ -1,0 +1,21 @@
+Corruption is an interactive fiction game by Magnetic Scrolls released in 1988. In this game, a successful stockbroker suddenly finds himself embroiled in a world of crime and danger.
+
+Gameplay
+The game is a text adventure with static graphics in all versions except for the Spectrum +3. It focuses primarily on character interaction instead of object interaction. The Amiga version has a "speech mode", though Computer Gaming World noted it only as a novelty.
+
+Development
+The working title of the game was "Upon Westminster Bridge".
+
+Reception
+The game was voted Best 8-bit Adventure Game of the Year at the Golden Joystick Awards.
+ACE's reviewer The Pilgrim called it "a game that combines powerful programming, wry humour, and a compelling plot all at once. No doubt about it, Corruption is Magnetic Scrolls' best yet." In Computer and Video Games, Keith Campbell wrote that "the game has very much the same feel as the Infocom mysteries, like Suspect, although I found this plot to be far more interesting." He remarked that Corruption will provide "hours of enjoyable frustration", and he praised its graphics, noting that "an adventure set in offices in the city, doesn't sound particularly exciting graphically, yet Magnetic Scrolls have made it so."
+Sinclair User's Sarah Sharkey summarized, "[T]his game is good. The text is well written, the characters are very realistic and the storyline is believable." She highlighted the game's "super interaction with characters" and "absorbing and realistic game world". Mike Gerrard of Your Sinclair wrote, "All in all, I enjoyed Corruption far more than I thought I would... but not quite as much as the previous Magnetic Scrolls games."
+Computer Gaming World in 1989 praised the game's menu features, such as the ability to reveal exits. Charles Ardai in 1992 wrote in the magazine that Corruption was "the one clear winner" in the Magnetic Scrolls Collection. While criticizing the short length of gameplay, he stated that "a game this powerful deserves the widest possible audience".
+
+References
+External links
+Corruption at SpectrumComputing.co.uk
+Corruption at Lemon 64
+Corruption at Lemon Amiga
+Corruption at MobyGames
+Corruption in the Interactive Fiction Database

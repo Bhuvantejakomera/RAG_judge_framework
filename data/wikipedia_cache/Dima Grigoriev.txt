@@ -1,0 +1,13 @@
+Dima Grigoriev (Dmitry Grigoryev) (born 10 May 1954) is a Russian mathematician. His research interests include algebraic geometry, symbolic computation and computational complexity theory in computer algebra, with over 130 published articles.
+Dima Grigoriev was born in Leningrad, Russia and graduated from the Leningrad State University, Dept. of Mathematics and Mechanics, in 1976 (Honours Diploma). During 1976–1992 he was with LOMI, Leningrad Department of the Steklov Mathematical Institute of the USSR Academy of Sciences.
+In 1979 he earned PhD (Candidate of Sciences) in Physics and Mathematics with thesis "Multiplicative Complexity of a Family of Bilinear Forms" (from LOMI, under the direction of Anatol Slissenko). In 1985 he earned Doctor of Science (higher doctorate) with thesis "Computational Complexity in Polynomial Algebra". Since 1988 until 1992
+he was the head of Laboratory of algorithmic methods Leningrad Department of the Steklov Mathematical Institute.
+During 1992–1998 Grigoriev hold the position of full professor at Penn State University.
+Since 1998 he hold the position of Research Director at CNRS, University of Rennes 1, and since 2008 – Research Director at CNRS, Laboratory Paul Painleve University Lille 1 in France.
+He is member of editorial boards of the Journal Computational Complexity, Journal of Applicable Algebra in Engineering, Communications and Computations and Groups, Complexity, Cryptology.
+He is recipient of the Prize of Leningrad Mathematical Society (1984), Max Planck Research Award of the Max Planck Society, Germany (1994), and Humboldt Prize of Humboldt Foundation, Germany (2002), Invited Speaker of International Congress of Mathematicians, Berkeley, California, 1986.
+He has Erdős number 2 due to his collaborations with Andrew Odlyzko.
+
+References
+External links
+Dima Grigoriev at the Mathematics Genealogy Project

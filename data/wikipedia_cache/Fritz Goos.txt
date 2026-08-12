@@ -1,0 +1,24 @@
+Hermann Fritz Gustav Goos (11 January 1883 – 18 May 1968) was a German physicist and astronomer.
+
+Life and work
+Goos attended the Johanneum Gymnasium in Hamburg, from where he graduated with a high school diploma in March 1902. Until April 1903 he then worked in the machine factory Wimmel & Landgraf in  Hamburg. In October 1903 he began to study mathematics and science at the Königliche Technische Hochschule (now Technische Universität Berlin) in Berlin. In March 1905 he joined the University of Bonn in the summer semester to study astronomy and mathematics. In the following winter semester, he continued his studies in Berlin, but in April 1906 went back to Bonn, where he earned a doctorate degree in astronomy in 1908.
+After graduating, he became an assistant at Bonn Observatory, and in 1909 he became an assistant at the Hamburg Observatory. From 1911 he worked at the Physical State Institute (founded in 1885 as the Physical State Laboratory) in Hamburg, where he worked as an assistant professor (Wissenschaftlicher Rat) until 1948.
+As an adjunct professor at the University of Hamburg, Goos worked in the area of optical spectroscopy. He investigated the emission and absorption properties  of various objects such as the electric arc or thin metal layers (of metals such as silver and gold) in the optical, infrared and ultraviolet spectral ranges. At the end of 1912, he discovered a systematic dependence of the wavelengths in the spectrum of an arc on its length and its electrical parameters such as the current used. In the spring of 1913, he was able to confirm these observations in the better-equipped laboratory of Heinrich Kayser in Bonn. Goos also investigated the effect of light on phosphors and worked on the detection of light by a microphotometer.
+One of Goos' best known works is the experimental evidence of displacement of a totally reflected light beam, work he did together with his doctoral student Hilda Hänchen (later Hilda Lindberg-Hänchen). This phenomenon is called the Goos-Hänchen effect.
+In 1933 Goos signed the Vow of allegiance of the Professors of the German Universities and High-Schools to Adolf Hitler and the National Socialistic State.
+
+Selected publications
+Goos, Fritz (1908). Der spektroskopische Doppelstern "Capella" [The spectroscopic binary star "Capella"] (in German). Bonn: C. Georgi. Bibcode:1908dsdc.book.....G.
+Goos, Fritz (1918). Sammlung von Milchstraßenkarten [Collection of maps of the Milky Way] (in German). Hamburg: Grand.
+Goos, Fritz (1921). Die Milchstrasse [The Milky Way] (in German). Hamburg.{{cite book}}:  CS1 maint: location missing publisher (link)
+Goos, Fritz (1921). "Über eine Neukonstruktion des registrierenden Mikrophotometers" [On a redesign of the registering microphotometer]. Zeitschrift für Instrumentenkunde (in German). 41: 313–324.
+Goos, Fritz (1936). "Durchlässigkeit und Reflexionsvermögen dünner Silberschichten von Ultrarot bis Ultraviolett" [Transmittance and reflectance of thin layers of silver in the infrared to the ultraviolet]. Zeitschrift für Physik A (in German). 100 (1): 95–112. Bibcode:1936ZPhy..100...95G. doi:10.1007/BF01337747. S2CID 123673331.
+Goos, Fritz (1937). "Die optischen Konstanten dünner Goldschichten aus Durchlässigkeits- und Reflexionsmessungen von Ultrarot bis Ultraviolett" [Optical constants of thin layers of gold from transmittance and reflectance measurements in the infrared to ultraviolet]. Zeitschrift für Physik A (in German). 106 (9): 606–619. Bibcode:1937ZPhy..106..606G. doi:10.1007/bf01339900. S2CID 119667842.
+Goos, Fritz (1939). "Elektrische Untersuchungen an Zinksulfidkupferphosphoren" [Electrical studies of zinc sulfide copper phosphors]. Annalen der Physik (in German). 426 (1): 77–95. Bibcode:1939AnP...426...77G. doi:10.1002/andp.19394260107.
+Goos, Fritz; Hänchen, Hilda (1943). "Über das Eindringen des totalreflektierten Lichtes in das dünnere Medium" [On the penetration of totally reflected light into the rarer medium]. Annalen der Physik (in German). 435 (5): 383–392. Bibcode:1943AnP...435..383G. doi:10.1002/andp.19434350504.
+Goos, Fritz; Hänchen, Hilda (1947). "Ein neuer und fundamentaler Versuch zur Totalreflexion" [A new and fundamental experiment on total reflection] (PDF). Annalen der Physik (in German). 436 (6): 333–346. Bibcode:1947AnP...436..333G. doi:10.1002/andp.19474360704.
+Goos, Fritz; Hänchen, Hilda (1949). "Neumessung des Strahlversetzungseffektes bei Totalreflexion" [New measurement of the beam displacement effect in total internal reflection]. Annalen der Physik (in German). 440 (6): 251–252. Bibcode:1949AnP...440..251G. doi:10.1002/andp.19494400312.
+
+References
+External links
+Publications of Fritz Goos in the Astrophysics Data System

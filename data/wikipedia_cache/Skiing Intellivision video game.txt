@@ -1,0 +1,23 @@
+Skiing (originally released as U.S. Ski Team Skiing) is a skiing video game produced by Mattel and released for its Intellivision system in 1980. Up to six players compete individually on either a downhill or slalom course to see who can finish the fastest. For the game's initial release, Mattel obtained a license from the U.S. Ski Team and used its name and logo in the game's box art. In 1988, INTV Corporation released an enhanced version of the game entitled Mountain Madness: Super Pro Skiing.
+During its initial release, U.S. Ski Team Skiing was sold by Sears for its private-label version of the Intellivision console, the "Super Video Arcade", without the U.S. Ski Team name or logo. Subsequent re-releases, such as on the Intellivision Lives! collection, have also left the game name simply as Skiing.
+
+Gameplay
+The object of Skiing is to complete the chosen course, either downhill or slalom, in the fastest time possible. Play begins by selecting the number of players for the game. Each player will have three heats in which to post their fastest time for the course. With multiple players, they take turns in the same order for each heat. Next, the players choose from one of 15 levels of steepness for the course, with higher numbers representing steeper (and thus, faster) courses. Lastly, the players select either the downhill or the slalom course for their race.
+Players control their skiers by using the controller to turn them until they reach the desired direction. The skiers will accelerate down the hill automatically, based on the steepness of the course. Players may take turns gradually, or by pushing an action button they may take a turn more sharply. Pushing another action button will cause the skier to jump over obstacles on the course, such as moguls.
+On both courses, players must successfully pass through a number of gates on their way down, with gates on the downhill course spaced further apart than those on the slalom course. Missing a gate adds a five-second penalty to the player's race time. As each player begins their race, the current fastest time is displayed at the starting line, with their final time displayed after the player crosses the finish line.
+
+Reception
+Skiing was reviewed by Video magazine in its "Arcade Alley" column where it received little praise, but only minor criticism as well. It was described as "nothing breathtakingly new", and as offering "an acceptable range of gameplay variations, although there is only one basic trail for each event". The reviewers found that multiplayer tournament mode is "equally entertaining" as the solo-play mode, but they concluded the game "packs an amazing amount of detail into an easy-to-learn contest". In 1997, GameSpot alluded to Skiing as the best skiing video game of the past 17 years.
+
+Legacy
+After Mattel Electronics shut down in 1984, INTV Corporation obtained the assets to the Intellivision system and continued producing games for the console. In 1988, INTV released an enhanced version of the original Skiing game called Mountain Madness: Super Pro Skiing. It increased the number of available courses from one downhill and one slalom to 32 courses, each playable as a downhill course, a slalom course or with no gates at all. Options were also added to allow the computer to randomly generate a course (to simulate helicopter skiing) or for players to design courses of their own, although no provisions were included for players to save their designs.
+While the basic gameplay remains the same between the two titles, including support for up to six players and three heats of racing, Mountain Madness made additional changes. Players are able to preview the desired course before selecting it. Each player can choose their own steepness level, instead of a single setting being used for all players. More surface features were added to the original's trees and moguls, such as ice, powder and bare patches of ground. Also, the penalty for missing a gate was decreased from five seconds to two seconds.
+Mountain Madness: Super Pro Skiing appears alongside the original Skiing on the Intellivision Lives! collection, and the Mountain Madness version was one of the launch titles for Microsoft's Game Room service on its Xbox 360 console and on Games for Windows Live.
+An updated version of Skiing of the same name was originally announced for release on the abandoned Intellivision Amico video game console. It was one of the six games that would have been included with the console.
+
+References
+External links
+Skiing at Intellivision Lives
+Skiing at GameFAQs
+Mountain Madness: Super Pro Skiing at Intellivision Lives
+Mountain Madness: Super Pro Skiing at GameFAQs

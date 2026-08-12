@@ -1,0 +1,103 @@
+The linguistics wars were extended disputes among American theoretical linguists that occurred mostly during the 1960s and 1970s, stemming from a disagreement between Noam Chomsky and several of his associates and students. The debates started in 1967 when linguists Paul Postal, John R. Ross, George Lakoff, and James D. McCawley —self-dubbed the "Four Horsemen of the Apocalypse"—proposed an alternative approach in which the relation between semantics and syntax is viewed differently, which treated deep structures as meaning rather than syntactic objects. While Chomsky and other generative grammarians argued that meaning is driven by an underlying syntax, generative semanticists posited that syntax is shaped by an underlying meaning. This intellectual divergence led to two competing frameworks in generative semantics and interpretive semantics.
+Eventually, generative semantics spawned a different linguistic paradigm, known as cognitive linguistics, a linguistic theory that correlates learning of languages to other cognitive abilities such as memorization, perception, and categorization, while descendants of interpretive semantics continue in the guise of formal semantics.
+
+Background
+In 1957, Noam Chomsky (b. 1928) published Syntactic Structures, his first influential work. The ideas in Syntactic Structures were a significant departure from the dominant paradigm among linguists at the time, championed by Leonard Bloomfield (1887–1949). The Bloomfieldian approach focused on smaller linguistic units such as morphemes and phones, and had little to say about how these units were organized into larger structures such as phrases and sentences. By contrast, syntax was the central empirical concern of Syntactic Structures, which modeled grammar as sets of rules that procedurally generate all and only the sentences of a given language. This approach is referred to as transformational grammar. Moreover, Chomsky criticized Bloomfieldians as being "[t]axonomic linguists", mere collectors and cataloguers of language. Early work in generative grammar attempted to go beyond mere description of the data and identify the fundamental underlying principles of language. According to Chomsky, semantic components created the underlying structure of a given linguistic sequence, whereas phonological components formed its surface-level structure. This left the problem of ‘meaning’ in linguistic analysis unanswered.
+Chomsky's Aspects of the Theory of Syntax (1965) developed his theory further by introducing the concepts of deep structure and surface structure, which were influenced by previous scholarship. First, Chomsky drew from Ferdinand de Saussure (1857–1913), specifically his dichotomy of langue (the native knowledge of a language) versus parole (the actual use of language). Secondly, Louis Hjelmslev (1899–1965) later argued  parole is observable and can be defined as the arrangement of speech, whereas langue comprises the systems within actual speech that underpin its lexicon and grammar. Aspects of the Theory of Syntax also addressed the issue of meaning by endorsing the Katz–Postal hypothesis, which holds that transformations do not affect meaning, and are therefore “semantically transparent”. This attempted to introduce notions of semantics to descriptions of syntax. Chomsky's endorsement resulted in further exploration of the relation between syntax and semantics, creating the environment for the emergence of generative semantics.
+
+Dispute
+The point of disagreement between generative semantics, known at the time as Abstract Syntax, and interpretive semantics was the degree of abstractness of deep structure. This refers to the distance between deep structures and the surface structure. Generative semantics views deep structure and transformations as necessary for connecting the surface structure with meaning. Whereas Chomsky’s paradigm considers the deep structure and transformation that link the deep structure to the surface structure essential for describing the structural composition of linguistic items—syntactic description—without explicitly addressing meaning. Notably, generative semanticists eventually abandoned deep structures altogether for the semantic representation.
+
+Generative semantics approach
+Generative semantics was inspired by the notions of Chomsky in Aspects, in which he highlights two notions: deep structures determine the semantic representations, and selectional restrictions—rules that govern what follows and precedes words in a sentence—are stated in deep structures. These restrictions include the ‘semantic’ nature of the verb eat which necessitates that it should be followed by something edible. Generative semanticists initially misinterpreted Chomsky’s ideas about the relation between semantic representation and used the arguments of selectional restrictions to draw a direct and bilateral relation between meaning and surface structures, where semantic representations are mapped onto surface structures, thereby conflating the two levels of semantic representation and deep structures.
+Generative semantics analysis evolved to favor an approach where deep structures reflect meaning directly through semantic features and relations—semantic representations. Thus, the formal characteristics of deep structures are considered insufficient and meaning drives the surface structures. The formal features of deep structures include context-free phrase-structures grammar and lexical insertion point—the point where words enter the derivation. Generative semantics' view of the transformations and deep structures contrasted sharply with those of Chomsky's. Generative semanticists believed that deep structures are meaning representation and transformations apply to deep structures to create different surface structures while preserving meaning. Chomsky's model suggests that deep structure pertains to the organization of linguistic items while transformations apply to and manipulate deep structure but sometimes alter the meaning.
+
+Generative semantics' model
+
+deep structure:
+[AGENT]  boy,[ACTION] hitting, [PATIENT]the ball
+
+Transformation active:
+The boy hit the ball.
+
+Chomsky's model
+
+deep structure:
+S ((NP the boy) (VP [hit]) (NP the ball))
+
+Transformation passive:
+The ball was hit by the boy.
+
+Generative semanticists used arguments such as category-changing transformations in which simple paraphrase clouds alter the syntactic categories yet the meaning is unchanged, solidifying the Katz-Postal hypothesis which postulates a transparent nature of transformations. These category-changing transformations exist in inchoative and causative clauses which share the same underlying structures similar to their stative clause as evident in the sentences below.
+
+Inchoative:
+The door opened.
+
+Causative:
+He opened the door.
+
+The underlying structure is similar to the stative clause:
+The door is open.
+
+Generative semanticists used this argument, first suggested by George Lakoff in his dissertation, to cement the idea that the underlying meaning (The door is OPEN) drives two different surface structures (Inchoative/causative), not the other way around.
+
+Generative semantics and logical form
+The level of semantic representation in the generative semantic analyses resembled the logical form; therefore, the derivation of a sentence is the direct mapping of semantics, meaning, and logic onto the surface structure, thus all aspects of meaning are represented in phrase-marker. Generative semanticists have claimed that the semantic deep structure is generated in a universal manner similar to those of Predicate logic, thereby reducing the syntactic categories to just three: S (= proposition), NP (= argument), and V (= predicate). In this analysis adjectives, negatives, and auxiliaries are reduced to one category which is Verb, and the other forms are derived transformationally.
+
+Lexical decomposition
+Lexical decomposition was used to draw the syntactic stretch of sentences relaying the semantic implication inherent to words. In the word kill the analysis would reveal that it has atomic bits such as CAUSE and BECOME and NOT and ALIVE and work the semantic and syntactic relation between lexical items and their atomic parts. Generative semantics’ case for lexical decomposition in which lexical reading, and base but different lexical extensions in example such as dead where the lexical base would be NOT ALIVE and the lexical extensions such as kill or die but similar readings such as the word die come from NOT ALIVE with the transformation inchoative it becomes (BECOME NOT ALIVE), and kill with the same lexical base NOT ALIVE with transformation causative, it becomes (CAUSE TO BECOME NOT ALIVE). This simplified the projections rules necessary for transformations; rather than entering the word kill directly in the deep structure, thereby creating a new ‘syntactic’ deep structure, it would be considered as sharing the same ‘semantic’ deep structure with dead, NOT ALIVE. Using this case of lexical decomposition, McCawley proposed a new rule—predicate raising—where lexical items can enter at any point of the derivation process rather than the deep structures. This argument by McCawley undermined deep structures as lexical insertion points; as evident in the generative semantics analysis, some transformations—predicate-raising—needed to be applied before the inserting the lexical items—lexical insertion point—in the derivation. Because predicate-raising collects the predicate parts –abstract verbs— into the meaning complexes, words.
+These arguments were used to conclude that it made no theoretical sense to have syntactic deep structures as a separate level and that semantic representations, features, and relations should be mapped directly onto the surface structure. Additionally, generative semanticists have proclaimed that any level of structure that comes between the semantic representation and surface structure requires empirical justification.
+
+Interpretivist critique of generative semantics
+Chomsky and others conducted a number of arguments that are designed to demonstrate that generative semantics not only did not offer something new but was misconceived and misguided. In response to these challenges, Chomsky conducted a series of lectures and papers, known later as Remarks, which culminated in what was later known as the "interpretivist program". This program aimed to establish syntax as an independent level in the linguistic analysis—autonomous syntax—with independent rules, while the meaning of the syntactic structure follows from ‘interpretive’ rules applied to the syntactic structures. This approach retains the formal characteristics of deep structure as context-free phrase-structure grammar. Chomsky also criticized the Predicate-raising rule of McCawley for being an upside-down interpretive rule.
+
+Lexicalism and deverbal nouns
+The generative semanticist’s analysis—lexical decomposition—holds that words refuse and refusal would belong to the same category refuse, but in Remarks Chomsky argued for the limitation of transformations and the separation of lexical entries for semantically related words as some nominalizations have distinct meanings. Chomsky argued that words such as marry, marriage; revolve, revolution should not be treated as derived from their verb forms as revolution has broader scope, so is marry. These nouns—which are known as deverbal nouns—should exist separately in the lexicon. This approach was later known as lexicalism. This posited also, that nominalization transformations should happen in the lexicon not in the deep structure thereby limiting the power of transformations.  The words refuse and refusal would belong to the same category refuse in the generative semantics framework, but in Remarks Chomsky argued for the limitation of transformations and the separation of lexical entries for semantically related words.
+For example:
+a. John is eager to please.
+b. John's eagerness to please.
+c. John is easy to please.
+d. *John's easiness to please.
+The d. sentence shows some distributional differences not accounted for if the deverbal nouns are to be derived transformationally. Another point made by Chomsky against the generative semantics was the structural similarity deverbal nouns have with noun phrases, which suggests that it has its own independent internal structure, in the example, proofs functions like portraits a regular noun phrase.
+a. Several of John's proofs of the theorem.
+b. Several of John's portraits of the dean.
+Remarks contributed to what Chomsky terms the Extended Standard Theory, which he thought of as an extension to Aspects. To many linguists, the relation between transformations and semantics in the Generative Semantics was the natural progression of Aspects.
+
+Lexical decomposition
+The interpretive semanticist, Jerry Fodor, also criticized generative semanticists’ approach to lexical decomposition in which the word kill is derived from CAUSE TO BECOME NOT ALIVE in the work of Foder in a sentence such as:
+a Putin caused Litvinenko to die on Wednesday by having him poisoned three weeks earlier.
+b * Putin killed Litvinenko on Wednesday by having him poisoned three weeks earlier.
+In these sentences (a) kill is derived from (b) caused to die, however, (a) is correct and causes no discrepancies but (b) which suggests a direct causal of killing contradicts the temporal qualifier “Wednesday by having him poisoned three weeks earlier” which suggests that lexical decomposition cloud fail to account for causal and temporal intricacies required for accurate semantic interpretation.
+
+Cases for formalism in underlying structures
+Coreference
+Under the generative semanticist coreference relations in a sentence such as “Harry thinks he should win the prize” are analyzed in the deep structure as “Harry thinks Harry should win the prize”, then transformations happen to replace Harry with he in the surface structure. But this approach was criticized for creating an infinite loop of embedding— with he—in the deep structure “The man who shows he deserves it will get the prize he desires.”. Thus, the interpretivists considered he as a base component, and finding the correct antecedents is achieved through interpretive rules. Further solidifying the existence of formal structures independent of semantics, which transformations apply to.
+
+Transformations and meaning
+Transformations are not fully accounted for in the Katz-Postal hypothesis which underlies the generative semantics paradigm. The Interpretivists argued that passive transformations do alter meaning in sentences with qualifiers such as every.  In the sentences
+Everyone in the room knows two languages.
+Two languages are known by everyone in the room.
+Chomsky analyzed these two sentences as semantically different despite being only derivational pairs; he observed that the first sentence might imply that everyone knows two different languages, while the second sentence implies that everyone in the room knows the same two languages. This argument was used to retain the formal characteristics of deep structures as transformation movements are not accounted for through semantic relations, but rather formal ones. The existence of an independent level of syntactic structure to which transformations apply is evidence of formalism.
+
+Global rules of generative semantics
+Generative semanticists accounted for such discrepancy resulted from passive transformations by claiming that the previous sentences do not share the same underlying structure, but rather two different structures; the first sentence has an underlying structure starting with “Everyone”, while the other sentence is with “Two” with the quantifier determining the scope of the meaning. Additionally, generative semanticists provided the “Quantifier lowering” rule where quantifiers are moved to the last position in the surface structures. In the previous sentences, in the sentence with “two” as an underlying structure, everyone is lowered highlighting that it is the same two languages are known by everyone, while in the sentence with “Everyone” as an underlying structure, the quantifier “two” is lowered maintaining that it is everyone knows two different languages. Thus, generative semanticist, Lakoff, has expressed that the two sentences are not semantically equivalent. George Lakoff proposed another rule which he termed the global derivational constraint in which sentence such as "Two languages..." would not be possible derivationally from an underlying structure with quantifier "Everyone" encompassing "Two".
+
+Challenges in the paradigm
+Generative semantics faced challenges in its empirical confirmation. Analyses in interpretive semantics involve phrase-structure rules and transformations that are innately codified according to Aspects, drawing on Chomsky’s ideas of innate faculty in the human brain which process languages. By contrast, generative analyses contained hypotheses concerning factors like the intent of speakers and the denotation and entailment of sentences. Its lack of explicit rules, formulas, and underlying structures made its predictions difficult to compare and evaluate compared to those of interpretive semantics. Additionally, the generative framework was criticized for introducing irregularities without justification: the attempt to bridge syntax and semantics blurred the lines between these domains, with some arguing that the approach created more problems than it solved. These limitations led to the decline of generative semantics.
+
+Aftermath
+After the protracted debates and with the decline of generative semantics, its key figures pursued various paths. George Lakoff moved on to cognitive linguistics, which explores the cognitive domain and the relation between language and mental processes. Meanwhile, in the late 90s Chomsky switched his attention to a more universal program of generative grammar, the minimalist program, which does not claim to offer a comprehensive theory of language acquisition and use. Postal rejects the idea of generative semantics and embraces natural languages discarding aspects of cognition altogether and emphasizing grammaticality. Postal adopts a mathematical/ logical approach to studying ‘natural’ languages. John R. Ross ventured to more literary-orientated endeavors such as poetry, though he maintained his transformationalist essence as his name existed in many of the Chomskyan works. As for McCawley, he continued following the tradition of Generative Semantics until his unfortunate death in 1999. He was known for his malleable approach to linguistic theory, employing both Extended Standard Theory and Generative Semantics elements.
+
+Books
+A first systematic description of the linguistics wars is the chapter with this title in Frederick Newmeyer's book Linguistic Theory in America, which appeared in 1980.
+The Linguistics Wars is the title of a 1993 book by Randy A. Harris that closely chronicles the dispute among Chomsky and other significant individuals (George Lakoff and Paul Postal, among others) and also highlights how certain theories evolved and which of their important features have influenced modern-day linguistic theories. A second edition was published in 2022, in which Harris traces several important 21st century linguistic developments such as construction grammar, cognitive linguistics and Frame semantics (linguistics), all emerging out of generative semantics. The second edition also argues that Chomsky's minimalist program has significant homologies with early generative semantics.
+Ideology and Linguistic Theory, by John A. Goldsmith and Geoffrey J. Huck, also explores that history, with detailed theoretical discussion and observed history of the times, including memoirs/interviews with Ray Jackendoff, Lakoff, Postal, and Ross. The "What happened to Generative Semantics" chapter explores the aftermath of the dispute and the schools of thought or practice that could be seen as the successors to generative semantics.
+
+See also
+Ray C. Dougherty
+Neurolinguistics
+Decoding Chomsky
+
+References
+Further reading
+Kempson, Ruth M. (1977). Semantic Theory. Cambridge University Press. p. 182. ISBN 978-0-521-29209-2.

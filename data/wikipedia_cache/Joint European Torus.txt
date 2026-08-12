@@ -1,0 +1,81 @@
+The Joint European Torus (JET) was a magnetically confined plasma physics experiment, located at Culham Centre for Fusion Energy in Oxfordshire, UK. Based on a tokamak design, the fusion research facility was a joint European project with the main purpose of opening the way to future nuclear fusion grid energy. At the time of its design JET was larger than any comparable machine.
+JET began operation in 1983 and spent most of the next decade increasing its performance in a lengthy series of experiments and upgrades. In 1991 the first experiments including tritium were made, making JET the first reactor in the world to run on the production fuel mix of 50–50 tritium and deuterium. It was also decided to add a divertor design to JET, which occurred between 1991 and 1993. Performance was significantly improved, and in 1997 JET set the record for the closest approach to scientific breakeven, reaching Q = 0.67 in 1997, producing 16 MW of fusion power while injecting 24 MW of thermal power to heat the fuel.
+Between 2009 and 2011, JET was shut down to rebuild many of its parts, to adopt concepts being used in the development of the ITER project in Saint-Paul-lès-Durance, in Provence, southern France. In December 2020, a JET upgrade commenced using tritium, as part of its contribution to ITER.
+Immediately after the announcement of JET's closure at the IAEA conference in London, October 2023, the group "Scientists for JET" launched a petition to call for a review of the decision to close JET, with scientists fearing a research time gap and personnel loss between JET's closure and the start of ITER's operations.
+JET finished operations in December 2023, with decommissioning expected to last until 2040.
+
+Purpose
+As a large tokamak experiment, JET was designed to study plasma behaviour in conditions and dimensions approaching those required in a fusion reactor. The principal aims of the experiment were to investigate:
+
+the scaling of plasma behaviour as parameters approach the reactor range,
+the plasma-wall interaction in these conditions,
+the additional plasma heating (neutral beam injection, lower hybrid resonance, and ion cyclotron resonance),
+the production of alpha particles from fusion reactions, their confinement, and the consequent plasma heating (fusion self-heating).
+
+History
+Background
+By the early 1960s, the fusion research community was in the doldrums. Many initially promising experimental paths had all failed to produce useful results, and the latest experiments suggested performance was stalled at the Bohm diffusion limit, far below what would be needed for a practical fusion generator.
+In 1968, the Soviets held the periodic meeting of fusion researchers in Novosibirsk, where they introduced data from their T-3 tokamak. This represented a dramatic leap in fusion performance, at least 10 times what the best machines in the world had produced to that point. The results were so good that some dismissed them as faulty measurements. To counter this, the Soviets invited a team from the UK to independently test their machine. Their 1969 report confirmed the Soviet results, resulting in a "veritable stampede" of tokamak construction around the world.
+A key issue in tokamak designs was that they did not generate enough of an electric current in their plasma to provide enough heating to bring the fuel to fusion conditions. Some sort of external heating would be required. There was no shortage of ideas for this, and in the mid-1970s a series of machines were built around the world to explore these concepts. One of these, the Princeton Large Torus (PLT) demonstrated that neutral beam injection was a workable concept, using it to reach record temperatures well over the 50 million K that is the minimum needed for a practical reactor.
+With the PLT's success, the path to scientific breakeven finally appeared possible after decades of effort. Scientific breakeven is the point where the power produced by the fusion reactions is equal to the amount of power injected to heat the plasma. Once breakeven is achieved, even small improvements from that point begin to rapidly increase the amount of net energy being released. Teams around the world began planning for a new generation of machines combining PLT's injectors with superconducting magnets and vacuum vessels that could hold deuterium-tritium fuel instead of the test fuels containing pure deuterium or hydrogen that had been used up to that point.
+
+European design
+In 1971, the member states of the European Atomic Energy Community (Euratom) decided in favour of a robust fusion programme and provided the necessary legal framework for a European fusion device to be developed. In 1975, the first proposals for the JET machine were completed. Detailed design took three years. At the end of 1977, after a long debate, Culham was chosen as the host site for the new design. Funding was approved on 1 April 1978 as the "JET Joint Undertaking" legal entity.
+The reactor was built at a new site next to the Culham Centre for Fusion Energy, the UK's fusion research laboratory which opened in 1965. The construction of the buildings was undertaken by Tarmac Construction, starting in 1978 with the Torus Hall. The Hall was completed in January 1982 and construction of the JET machine itself began immediately after the completion of the Torus Hall. The cost was 198.8 million European Units of Account (a predecessor of the euro) or 438 million in 2014 US dollars.
+JET was one of only two tokamak models designed to work with a real deuterium-tritium fuel mix, the other being the US-built TFTR.
+
+Both were built with the hope of reaching scientific breakeven where the "fusion energy gain factor" or Q = 1.0.
+JET achieved its first plasma on 25 June 1983. It was officially opened on 9 April 1984 by Queen Elizabeth II. On 9 November 1991, JET performed the world's first deuterium-tritium experiment. This beat the US's machine, TFTR, by a full two years.
+
+Upgrades
+Although very successful, JET and its counterpart TFTR failed to reach scientific breakeven. This was due to a variety of effects that had not been seen in previous machines operating at lower densities and pressures. Based on these results, and a number of advances in plasma shaping and divertor design, a new tokamak layout emerged, sometimes known as an "advanced tokamak". An advanced tokamak capable of reaching scientific breakeven would have to be very large and very expensive, which led to the international effort ITER.
+In 1991, the first experiments including tritium were made, allowing JET to run on the production fuel of a 50–50 mix of tritium and deuterium. It was also decided at this time to add a divertor, allowing removal of waste material from the plasma. Performance was significantly improved, allowing JET to set many records in terms of confinement time, temperature and fusion triple product. In 1997, JET set the record for the closest approach to scientific breakeven. It attained Q = 0.67, producing 16 MW of fusion energy while injecting 24 MW of thermal power to heat the fuel, a record that endured until 2021. This was also the record for greatest fusion power produced.
+The central Qcore, defined as the ratio of central fusion power produced to the central applied heating power, is computed using the TRANSP code for the record Q discharge to be Qcore approximately 1.3 (discharge 42976). The corresponding record values for TFTR are Q=0.26 and Qcore approximately 0.8 (discharge 80539).
+In 1998, JET's engineers developed a remote handling system with which, for the first time, it was possible to exchange certain components using artificial hands only. A "Remote Handling" system is, in general, an essential tool for any subsequent fusion power plant and especially for the International Thermonuclear Experimental Reactor (ITER) being developed at Saint-Paul-lès-Durance, in Provence, southern France. This Remote Handling system was later to lead on to become RACE (Remote Applications in Challenging Environments).
+In 1999, the European Fusion Development Agreement (EFDA) was established with responsibility for the future collective use of JET.
+
+ITER design work
+In October 2009, a 15-month shutdown period was started to rebuild many parts of the JET to adopt concepts being used in the development of the ITER project in Saint-Paul-lès-Durance, in Provence, southern France. This including replacing carbon components in the vacuum vessel with tungsten and beryllium ones.
+In mid-May 2011, the shutdown reached its end. The first experimental campaign after the installation of the "ITER-Like Wall" started on 2 September 2011.
+On 14 July 2014, the European Commission signed a contract worth €283m for another 5-year extension so more advanced higher energy research can be performed at JET.
+
+Post-Brexit
+Brexit threw the plans for JET in doubt. As part of its plan to leave the EU, the UK was to leave Euratom, which provides the funding for JET. Talks on the funding after 2018, when the 5-year plan expired, commenced and a new agreement to extend JET's operation until 2019 or 2020 appeared to be largely complete. These talks were put on hold after the Brexit announcement. However, in March 2019, the UK Government and European Commission signed a contract extension for JET. This guaranteed JET operations until the end of 2024 regardless of Brexit situation. In December 2020, a JET upgrade commenced using tritium, as part of its contribution to ITER.
+On 21 December 2021, JET produced 59 megajoules using deuterium-tritium fuel while sustaining fusion during a five-second pulse, beating its previous record of 21.7 megajoules with Q = 0.33, set in 1997.
+In October 2023, JET set its final fusion energy record, producing 69.29 megajoules over 6 seconds from only 0.21 mg of D-T fuel. In November 2023, a petition asking that JET not be closed was started, with scientists fearing a research time gap and personnel loss between JET's closure and the start of ITER's operations. Operations ceased in December 2023, after performing 105,842 pulses, with decommissioning expected to last until 2040. The final pulses were used to operate JET outside of its design capabilities. The decommissioning and repurposing process is expected to last until 2040.
+
+Petition against the closure of JET
+Immediately after the announcement of JET's closure at the IAEA conference in London, October 2023, the group "Scientists for JET" launched a petition to call for a review of the decision to close JET.
+  The scientists are concerned that JET's end date was set assuming that ITER would be up and running by that date to continue fusion experiments, but with ITER's startup being postponed and ITER's deuterium-tritium (D-T) reactions only scheduled for 2039, that there will be a gap of many years with no fusion research.
+
+Description
+JET has a major radius of 3 metres, and the D-shaped vacuum chamber is 2.5 metres wide and 4.2 metres high. The total plasma volume within it is 100 cubic metres, about 100 times larger than the largest machine in production when the JET design began.
+JET was one of the first tokamaks to be designed to use a D-shaped vacuum chamber. This was initially considered as a way to improve the safety factor, but during the design, it was also noticed that this would make it much easier to build the system mechanically, as it reduced the net forces across the chamber that are trying to force the torus towards the centre of the major axis. Ideally, the magnets surrounding the chamber should be more curved at the top and bottom and less on the inside and outsides in order to support these forces, which leads to something like an oval shape that the D closely approximated. The flatter shape on the inside edge was also easier to support due to the larger, flatter surface.
+While exploring the stability of various plasma shapes on a computer, the team noticed that non-circular plasmas did not exactly cancel out the vertical drift that the twisted fields have originally been introduced to solve. If the plasma was displaced up or down, it would continue travelling in that direction. However, the simulations demonstrated that the drift rate was slow enough that it could be counteracted using additional magnets and an electronic feedback system.
+The primary magnetic field in a tokamak is supplied by a series of magnets ringing the vacuum chamber. In JET, these are a series of 32 copper-wound magnets, each one weighing 12 tonnes. In total, they carry a current of 51 MA, and as they had to do so for periods of tens of seconds, they are water cooled. When operating, the coil is attempting to expand with a force of 6 MN, there is a net field towards the centre of the major axis of 20 MN, and a further twisting force because the poloidal field inside the plasma is in different directions on the top and bottom. All of these forces are borne on the external structure.
+Surrounding the entire assembly is the 2,600 tonne eight-limbed transformer which is used to induce a current into the plasma. The primary purpose of this current is to generate a poloidal field that mixes with the one supplied by the toroidal magnets to produce the twisted field inside the plasma. The current also serves the secondary purpose of ionizing the fuel and providing some heating of the plasma before other systems take over.
+The main source of heating in JET is provided by two systems, positive ion neutral beam injection and ion cyclotron resonance heating. The former uses small particle accelerators to shoot fuel atoms into the plasma, where collisions cause the atoms to ionize and become trapped with the rest of the fuel. These collisions deposit the kinetic energy of the accelerators into the plasma. Ion cyclotron resonance heating is essentially the plasma equivalent of a microwave oven, using radio waves to pump energy into the ions directly by matching their cyclotron frequency. JET was designed so it would initially be built with a few megawatts of both sources, and then later be expanded to as much of 25 MW of neutral beams and 15 MW of cyclotron heating.
+JET's power requirements during the plasma pulse are around 500 MW with peak in excess of 1000 MW. Because power draw from the main grid is limited to 575 MW, two large flywheel generators were constructed to provide this necessary power. Each 775-ton flywheel can spin up to 225 rpm and store 3.75 GJ, roughly the same amount of kinetic energy as a train weighing 5,000 tons traveling at 140 kilometres per hour (87 mph). Each flywheel uses 8.8 MW to spin up and can generate 400 MW (briefly).
+
+See also
+Fusion power
+
+References
+Bibliography
+Bromberg, Joan Lisa (1982). Fusion: Science, Politics, and the Invention of a New Energy Source. MIT Press. ISBN 978-0-262-02180-7.
+Kenward, Michael (24 May 1979). "Fusion research - the temperature rises". New Scientist.
+Wesson, John (November 1999). The Science of JET (PDF). JET Joint Undertaking. p. 20.
+
+External links
+Media related to Joint European Torus at Wikimedia Commons
+JET pages on the EUROfusion web site
+Poloidal field coils diagram
+JET demonstrates alpha particle heating. Oct 2005 Archived 17 November 2016 at the Wayback Machine good graph
+Culham Centre for Fusion Energy Archived 28 October 2020 at the Wayback Machine
+The United Kingdom Atomic Energy Authority
+IAEA's information about JET
+Photos from JET Torus Hall Archived 27 November 2020 at the Wayback Machine
+
+Sources
+Fusion reactors explained by HowStuffWorks
+T. Fujita, et al., "High performance experiments in JT-60U reversed shear discharges", Nuclear Fusion, Vol 39, p.  1627 (1999)

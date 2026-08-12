@@ -1,0 +1,69 @@
+Cube is a free and open-source first-person shooter video game. It is often mistaken with its engine (zlib-licensed), the Cube Engine. The engine and game were developed by Wouter van Oortmerssen. 
+It runs on a variety of operating systems, including Microsoft Windows, Linux, FreeBSD, OS X, AmigaOS 4, AROS, iPhone, Wii and Pocket PC devices with 3D acceleration such as Dell Axim x50v. It uses OpenGL and SDL. Cube has both single-player and multiplayer gameplay. The game contains a built-in level editor.
+The game was originally released in 2001.
+The first release with single-player mode was in January 2002. The latest update of Cube was released on August 29, 2005.
+Its engine has been reused for several other games, of which AssaultCube, released in November 2006, is the most popular.
+An official successor has been made called Cube 2: Sauerbraten (also simply known as Sauerbraten). Released in 2004, it uses another engine, the Cube 2 engine.
+
+Gameplay
+As of the August 2005 release, there were 37 single player maps and 65 deathmatch maps, for a total of 102 maps.
+Multiplayer uses a networked game code and a thick client/thin server model.
+
+Single-player
+The single-player gameplay includes two modes. One is a plain single-player mode in which items and monsters do not respawn and have a fixed position; the other is a deathmatch-style mode (where there is a fixed number of monsters, ten per skill level) and items respawn.
+
+Multiplayer
+Multiplayer gameplay includes twelve modes:
+
+"Free For All": Non-teamplay, meant for free-for-all and duel games. This mode is often used for prewar and setting up teams.
+"Coop Edit": Players can edit maps offline or online with others simultaneously.
+"Teamplay": Like Free For All, only allied with those whose team variable is the same as the player's.
+"Instagib": All players spawn with full rifle ammo and 1 health. No items are available (non-teamplay and teamplay).
+"Efficiency": All players have two ammo packs each with 256 health (non-teamplay and teamplay).
+"Insta Arena": When fragged (killed), players stay dead until there is only one player remaining, and then a new round begins; each player only has the rifle and fist (non-teamplay and teamplay).
+"Tactics Arena": Like Insta Arena, but each player randomly gets two out of the four possible weapons (with fist), and two ammo packs each (non-teamplay and teamplay).
+
+Development
+Game engine
+The Cube engine was designed as an outdoor engine, that is, it was designed for maps that are outdoors rather than Doom and Quake, which are optimized for indoors. It utilizes a pseudo-3D world model similar to the Doom engine, based on a 2D height map. This imposes some limitations (e.g. no rooms above rooms), but does permit slopes and 3D props, which in turn can be used to make up for most limitations, for example, to create bridges with a passage below.
+The engine is based on a zero-precompilation philosophy – all map data is interpreted dynamically, with no need to recalculate such as shadowmaps or BSP data. This makes realtime in-game map editing feasible. Cube supports multi-user, realtime map editing.
+The engine is compact and relies on simplicity and brute force instead of fine-tuned complexity.
+
+Further development
+Engine
+The engine was reused for several other games; the developers usually modified the engine to adapt it to the needs of their projects.
+However, there are also changes of unclear nature. The main reason for this is that the engine code is not clearly separated from the game code. Such changes of unclear nature appear both in mods of Cube and in other games using the Cube Engine.
+When the engine is modified, the changes tend to be minor but there also are cases where the changes are significant, such as in AssaultCube (released in November 2006) and its fork AssaultCube Reloaded (released in December 2010).
+
+Ports
+Intel ported the game to OpenGL ES to demonstrate a new mobile 3D chipset at the Game Developers Conference in 2005.
+A Cube port, intended as a technology demo was submitted to the iPhone in 2008, and was released to the iPhone App Store on November 18.
+A version of AssaultCube for Android was released in May 2021.
+
+Successors (other engines)
+Cube 2 Engine
+Cube 2: Sauerbraten, released in 2004, is the official successor of Cube. It uses another engine, the Cube 2 Engine. While the earliest revisions of the Cube 2 Engine were based on code from the Cube Engine, with time it became very different. There are many differences between the Cube Engine and the Cube 2 Engine, including two major ones.
+One of these two major differences is the geometry. Unlike the Cube Engine, which has a 2.5D geometry, the Cube 2 Engine has a real 3D geometry.
+The other of these two differences is the fact that the source code is foldered. The code of the engine and the game specific code are in two different folders and a third folder contains shared code, allowing communication between the game specific code and the engine. This third folder is named shared and the one containing the engine is named engine. The name of the folder containing the game specific code is often the name of the game but not always. In the Cube 2: Sauerbraten source code, the one of Sauerbraten is named fpsgame and the one of Eisenstern (the RPG embryo that come with most releases of Cube 2: Sauerbraten) is named rpggame. Alongside these folders, there are other folders, containing libraries used by the engine, the game(s) or both.
+This does not prevent engine modifications. Blood Frontier, and later Red Eclipse (before the version 2.0 of Red Eclipse), used modded versions of the Cube 2 Engine. Some of the features of these modified versions, such as the rain particles effect, were later added to the official version of the engine.
+
+Tesseract
+Several forks of the Cube 2 Engine were made but only one of them is its official successor, Tesseract. This engine actually shares its name with the game it was made for, unlike its predecessors (the Cube Engine was made for Cube and the Cube 2 Engine was made for Cube 2: Sauerbraten).
+
+Others
+Cube was used in a computer science course at Brown University in 2006.
+
+Reception
+Cube was reviewed positively by LinuxDevCenter in 2002 and awarded with the "Happypenguin Award" for "Best Free 3D Action Game" by The Linux Game Tome in 2003. In 2005 in an O'Reilly article on "Open Source Mac Gaming" Cube was recommended. MacUpdate rated the game's latest release 4.5 stars out of 5. Cube was downloaded between 2004 and May 2017 alone from SourceForge.net 2.7 million times.
+
+See also
+AssaultCube
+Cube 2: Sauerbraten
+
+References
+External links
+
+Official Cube home page
+Cube project at SourceForge.net
+Community Cube/Cube 2 mapping and modding site Archived 2011-02-26 at the Wayback Machine
+Cube in The Linux Game Tome at the Wayback Machine (archived October 11, 2012)

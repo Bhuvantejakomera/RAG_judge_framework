@@ -1,0 +1,97 @@
+Lysis (; Ancient Greek: Λύσις, genitive case Λύσιδος, showing the stem Λύσιδ-, from which the infrequent translation Lysides), is a dialogue of Plato which discusses the nature of philia (φιλία), often translated as friendship, while the word's original content was of a much larger and more intimate bond. It is generally classified as an early dialogue.
+The main characters are Socrates, the boys Lysis and Menexenus who are friends, as well as Hippothales, who is in unrequited love with Lysis and therefore, after the initial conversation, hides himself behind the surrounding listeners. Socrates proposes four possible notions regarding the true nature of loving friendship as:
+
+Friendship between people who are similar, interpreted by Socrates as friendship between good men.
+Friendship between men who are dissimilar.
+Friendship between men who are neither good nor bad and good men.
+Gradually emerging: friendship between those who are relatives (οἰκεῖοι "not kindred") by the nature of their souls.
+Of all those options, Socrates thinks that the only logical possibility is the friendship between men who are good and men who are neither good nor bad.
+In the end, Socrates seems to discard all these ideas as wrong, although his para-logical refutations have strong hints of irony about them.
+
+Characters
+Socrates
+Ctesippus - Cousin of Menexenus. Also appears in the Euthydemus.
+Hippothales - Of approximately the same age of Ctesippus. He is in love with Lysis but the other does not seem to return his feelings.
+Lysis - Eldest son of Democrates I of Aexone, in his early teens. Has praise heaped on him by Hippothales but is just annoyed by it.
+Menexenus - Son of Demophon, of the same age as Lysis. Probable namesake of the Menexenus.
+
+Synopsis
+Socrates finds himself in a wrestling school frequented by young men who, between their classes, like to discuss various topics. Among them is one called Hippothales, who Socrates can tell right away is deeply in love with another boy. Upon hearing this, the young men that are present jump in to confirm Socrates' impression, adding that Hippothales is so madly in love (μαίνεται), that his singing for the unrequited love has beaten the drums of those around him (204d-205a). The object of Hippothales' desires is a boy called Lysis, from whom the dialogue takes its name, and Socrates asks for permission to go and speak with him directly. Hippothales accepts, and tells Socrates that all he needs to attract Lysis is to start discussing with someone, so great is the boy's interest in debates. Socrates does exactly that and Lysis approaches with his friend Menexenus. He begins by asking Lysis, who is obviously underage, whether his parents allow him to do whatever he wishes (207d). Lysis replies that he is not; his parents forbid certain things that even slaves are allowed to do, like driving the chariot. Through his method of dialectics, Socrates forces upon Lysis the conclusion that his parents' behaviour cannot simply be due to his age, as they surely trust the boy with other important things, like transcribing a document for instance. Their denials must therefore be related to his wisdom, or lack thereof (210a-210d). At this point, Socrates thinks of making a friendly pass to Hippothales, by suggesting that Lysis could learn a lot if he were to associate with him, but refrains at the last minute, seeing how timidly Hippothales was looking at them (210e).
+Deciding not to expose Hippothales, Socrates diverges into what will become the dialogue's main theme: the nature of a loving friendship. The exact word in the Greek text is philia (φιλία), which in the context of its time was more than just "friendship". It referred to an intimate love that developed between free men, a love that in certain cases could include the erotic. Keeping in mind this "desirous" aspect of philia is important in understanding the argument that follows, as it would probably not apply to friendship in the modern sense. Turning his questioning towards Menexenus (211d), Socrates concludes that philia is asymmetrical, and that one can love someone who does not love him in return, in contrast with animals who always requite the love of their masters (212d).
+Socrates continues by passing through a series of definitions on the nature of friendship, which he negates himself, even though his listeners are convinced every single time. First, regarding friendship, he supposes that “like attracts like”, just as Homer said, so good men will always be attracted to other good men and bad to the bad. The problem, however, is that bad men cannot be friends with anyone, not even themselves, while the good are so self-fulfilled that there is nothing they need to look for in another person (214e). It must be therefore that opposites attract each other (215e), as Hesiod said, but Socrates refutes this again. So if attraction happens neither between things that are alike, nor things that are opposites, there must be something in between the good and bad, and those who fall in this category are actually the ones most likely to be attracted by the good in loving friendship (216e). These intermediaries are pushed, Socrates says, by the fear of evil. They seek the good to save themselves, just like a human body, which in itself is neither good nor bad, but seeks the "friendship" of a doctor when sick (217b).
+Menexenus finds this last definition complete, but Socrates, upon reflection, cries in despair that both of them have been led astray (218c). First, and on a minor point, once this intermediary thing becomes a friend of the good, and considering that friendship works only among equals, then the two, good and in-between, have both become equals, which means that Socrates' definition has slipped back to the initial "like attracts like" which they have already refuted. Most importantly, however, since philia assumes the goal of betterment, the person who seeks the loving friendship of another is actually moved by the love of a certain virtue he can attain through this other (219c-d). Their definition then leads to an infinite recursion, by which friendship is always towards something for the sake of another friendship, achievable through the first (ἕνεκα ἑτέρου φίλου φίλα ἔφαμεν εἶναι ἐκεῖνα (220e)). Socrates says their definition is like chasing ghosts (εἴδωλα). He ends by admitting that for all their discussion, a proper definition is still elusive. And yet, Socrates says that he considers the two boys, Lysis and Menexenus, to be friends, even though he failed to define friendship properly.
+Although Socrates managed to refute all of his definitions, there are reasons to believe that his last, the one where loving friendship exists between one who is good and one who is in-between, is what Plato intended as true, a definition consistent with the one Socrates gives of eros in the Symposium.
+
+Main themes
+Depiction of simple eros (sexual love) and philia (friendship) [203a–207d]
+Hippothales is accused by Ctesippus, of irritating everyone around him by going overboard with annoying praises of his beloved Lysis. His displays of affection for Lysis only succeed in bugging everyone who has to listen to it. He is then asked by Socrates to sing the songs he composed for Lysis and to perform some of his poetry. Hippothales admits that he loves Lysis, but denies that he behaves in an embarrassing manner. According to Ctesippus, he is wrong because otherwise the others would not know about his unrequited love.
+
+Hippothales composes verses for his own honor
+Lysis returning his affection is the real victory for Hippothales that he achieves from singing and composing verses. Lysis is a trophy for Hippothales. If he wins Lysis' heart then he has a trophy for others to admire. It increases his social capital with the others and makes him also seem more attractive in return. However he is premature in singing for someone who does not return his affection and he only manages to make himself look foolish in doing so.
+
+Heaping praise causes vanity and that spoils any possible chance of friendship or love
+The beloved person if heaped with praise will become vain and therefore, difficult to capture. The lack of wit, extreme display of emotions and heavy praise, builds up vanity within the beloved and does not foster reverence, humility or respect. This makes it impossible to conquer somebody. The beloved becomes conceited and will think themselves too good for the lover who weeps and begs for them. The one who seeks to acquire a new friend or lover only hurts himself in doing this.
+The dialogue continues when Lysis says that he is loved by his parents but Socrates says on the other hand, he is limited in most of what he can do. If he were loved by someone they would allow him to do what he wants but parents dictate most of their children's decisions. Lysis is forced to let his parents, teachers and even slaves decide actions for him (example: the coachman gets to drive him around but he is not permitted to do this himself). His lack of abilities are responsible for this. They would allow him to do what he wishes if he had the abilities and skills required to successfully do these things. If he had the ability to cook tasty food for instance, then even The Great King of Asia would allow him to cook a beautiful meal over his own son even though his son is a prince.
+The conclusion is, that friendship can not be won by flattery.
+
+Knowledge is the source of happiness [207d–210e]
+Another important conclusion from the dialogue with Lysis is that, although his parents wish his complete happiness, they forbid him to do anything about which he has insufficient knowledge. He is allowed to do something only when his parents are sure that he can do it successfully. He is able to please his parents and make them happy when he is better at doing something than other boys are.
+
+Reciprocal and non-reciprocal friendship [211a–213d]
+The dialogue continues with Lysis only as a listener. Socrates is trying to find out what is friendship. He claims, that friendship is always reciprocal. The friendship of the lover is proof of this but he can still get angry and be filled with hatred for his beloved. And that the one who is hated or who he hates is a friend. That is in contradiction with the mentioned thesis, that friendship is reciprocal. The opposite must be true then. Friendship is non-reciprocal. Otherwise the lover cannot be happy. For example, a child who does not obey his parents and even hates them when punished. The conclusion is that people are loved by their enemies (parents) and hated by their beloved (children). Then it is not valid every time that friendship is reciprocal, and that the lover will always be loved by his friend. This is in contradiction with the premise which was given before, saying that friendship can be non-reciprocal.
+
+Like is friend to like [213e–215c]
+Bad men do not befriend either bad men nor the good ones. The former can be harmful to them by the same evil nature they both share and the latter would probably refuse them because of their evil deeds. On the other hand, the good men can have nothing to gain from others who are already good and have therefore no reason to befriend them. They are perfect and can be in love only to the extent to which they feel they need something, therefore to no extent as they are already good.
+
+Unlike is friend to unlike [215c–216b]
+The opposites attract one another. For example, the full needs the empty and empty needs the full. But this is not right in the case of human beings. For example, good vs. evil, just vs. unjust...
+
+The presence of bad is the cause of love (philia) [216c–218c]
+The search continues in an attempt to determine the first principle of friendship. The friendship must have some action that needs to be fulfilled or some benefit more precisely. Perhaps it is the good. But the friendship would not even need goodness at all unless some evil were present. If the beloved did not complete them in some way then they would not even seek friendship.
+
+The possession of good is the goal of love (philia) [216d–219b]
+The friendship must not lead us to evil. It must lead from the bad to some kind of goodness that fulfills it or else, it wouldn't even be friendship at all. The opposite is therefore not bad but good. But there are situations, in which there is no opposite but rather the middle between the two. For example, when the body thirsts it is benefitted by the good (water). When the body is in need of medicine it is benefitted by the good (doctor). The body still remains neither good nor bad in itself though. It is possible that even in the middle between good and bad, the elements of friendship can thrive, which is in contradiction with the premise that they consist in their opposite. The possession of the good is then the definition of friendship.
+
+Love has something to gain [219c–220e]
+So far we can only grasp a shadow of the real nature of friendship. If you are in love and have a friend then they must be completing some action or emotion that you were unable to achieve without them. We need the benefits of the good to escape the evil. We need health to escape illness. We need the rich with money to escape poverty. We need the education of the intelligent to prevent ignorance. Love has something to gain. It needs to benefit us somehow.
+
+Love cannot be unrequited [221a–221d]
+Insufficiency is that which makes us close to each other. The friendship originates from the one benefitting from the other in some way. The beloved was in some way pleasing to the lover and that caused the love in the first place. You would not love someone if they were truly harmful to you in every possible way and provided no benefit. If friendship and love are in need of a benefit of some kind then it is impossible for either to exist without a benefit of some sort. It is therefore impossible to distinguish an object of friendship from the beloved. The beloved must be in love with the lover and love can not be unrequited because the one is fulfilling a need in the other even if unintentionally. Lysis must have been very friendly to Hippothales or pleased him visually with his body or else, brought some kind of benefit to him or else Hippothales would not have been obsessed with him. As reasoned above, the two must then be in love.
+
+The neither good nor bad befriends the Good: aporia [159e–223a]
+Like can not be friend with the like because there is nothing to be gained from either. Someone who is already fulfilled and good would not need anything else to make them fulfilled and good. They have nothing to gain. The evil can not be friends with the good as they are harmful to both them and themselves. This creates a paradox where neither the truly good nor the truly evil can befriend one another. This leaves last the notion that the neither good nor bad are the friends to the good as they are in need of the good. They benefit from the relationship in that they gain the wisdom and the "good." They search for wisdom and truth. It benefits them and makes them whole like a body in need of medicine.
+
+In popular culture
+French aristocrat Jacques d'Adelswärd-Fersen, who had fled Paris in the early 1900s after a homosexual scandal, named the house he built on Capri Villa Lysis after the title of this dialogue.
+British author Mary Renault used the character of Lysis as a major character in her novel The Last of the Wine which follows the relationship between two students of Socrates. In this novel, Lysis is also the son of Demokrates.
+
+Greek text
+Plato: Lysis, Symposium, Gorgias. Greek with translation by W. R. M. Lamb. Loeb Classical Library 166. Harvard Univ. Press (originally published 1925). ISBN 978-0674991842 HUP listing
+Platonis opera, ed. John Burnet, Tom. III, Oxford 1903
+Platone; et al. (Critical text by Stefano Martinelli Tempesta) (2003). Trabattoni, Franco (ed.). Liside. Bibliotheca Classica, 4 (in Italian). Vol. 1. Milan: LED. ISBN 88-7916-230-6.
+Platone; et al. (Italian text with essays by Mauro Bonazzi, Andrea Capra, Franco Trabattoni) (2004). Trabattoni, Franco (ed.). Liside. Bibliotheca Classica, 4 (in Italian). Vol. 2. Translated by Martinelli Tempesta, Stefano. Milan: LED. ISBN 88-7916-231-4.
+
+Translations
+Thomas Taylor, 1804
+Benjamin Jowett, 1892: full text
+J. Wright, 1921
+W. R. M. Lamb, 1925: full text
+David Bolotin, 1979
+Stanley Lombardo, 1997
+T. Penner & C. Rowe (In Plato's Lysis, CUP 2005, pp. 326–351.)
+
+Secondary literature
+Bolotin, David. Plato's Dialogue on Friendship: An Interpretation of the Lysis with a New Translation. Ithaca/London 1979
+Bordt, Michael. Platon, Lysis. Übersetzung und Kommentar. Göttingen 1998
+Garnett, Andrew. Friendship in Plato's Lysis. CUA Press 2012
+Jennings, David; Szaif, Jan (2022). Studies on Plato's Lysis. Archai: The Origins of Western Thought UNESCO Chair.{{cite book}}:  CS1 maint: publisher location (link)
+Krämer, Hans, and Maria Lualdi. Platone. Liside. Milano 1998. (Greek text with an Italian translation, introduction and comment)
+Peters, Horst. Platons Dialog Lysis. Ein unlösbares Rätsel? Frankfurt am Main 2001
+Seech, C. P. Plato's Lysis as Drama and Philosophy. Diss. San Diego 1979
+
+References
+External links
+
+Lysis, in a collection of Plato's Dialogues at Standard Ebooks
+Approaching Plato: A Guide to the Early and Middle Dialogues
+ Lysis public domain audiobook at LibriVox

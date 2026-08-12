@@ -1,0 +1,30 @@
+Crusader Kings is a grand strategy video game developed by Paradox Development Studio and published by Paradox Interactive in April 2004. An expansion called Deus Vult was released in October 2007. A sequel, Crusader Kings II, was released in February 2012, and another sequel, Crusader Kings III, was released on September 1, 2020.
+
+Setting
+The game is set primarily in Europe in the mid to late Middle Ages in the time-period from December 26, 1066 (the day after the coronation of William the Conqueror) until December 30, 1452 (five months before the fall of Constantinople). Three scenarios are also included: the Battle of Hastings (1066), the Third Crusade (1187), and the Hundred Years' War (started in 1337).
+
+Gameplay
+Unlike other Paradox titles (such as the first two Europa Universalis series), Crusader Kings is a dynasty simulator with similarities to role-playing video games in that it focuses on a trait-based individual whose primary goal is the growth and enrichment of their dynasty. The player attempts to lead their dynastic demesne across four centuries, while managing its familial, economic, military, political, and religious affairs and stability. Rulers are supported by appointed councillors, a Chancellor, Steward, Marshal, Spy Master, and Diocese Bishop, and oversee scutage from their vassals.
+In addition, yearly random events, as well as hundreds of pre-scripted ones based on the historical themes, make for varied gameplay and challenges. Crusader Kings differs from many similar turn-based strategy games in that time flows continuously rather than taking place in discrete turns. As such, the player is able to pause the game, examine the map and its characters, and make decisions and give orders, then speed up or slow down time as events take their course.
+Over time, based on the territories and titles held, characters can be elevated upwards in status (from count, duke, king, to emperor substantive titles) or regress as status and lands are lost. The game is lost if no direct member of the playable dynasty holds or inherits an imperial, royal, or noble rank.
+
+Development
+The lead game programmer was Johan Andersson. The engine for the game was based on the one developed for Europa Universalis II, i.e. the updated Europa Engine, which had been released in December 2001. The similarities between the two games, and the release of a save game converter, allow players to continue their game after 1419 through Europa Universalis II.
+In North America, Crusader Kings was originally planned to be published by Strategy First. However, Paradox revealed in June 2004 that it would self-publish the game, which it called "a way for Paradox to secure our intellectual property and to serve our customers in a better way."
+
+Reception
+The game received "average" reviews according to the review aggregation website Metacritic, and many U.S. reviews came in a few months before the game's official U.S. release.
+
+In the 2013 book Digital Gaming Re-imagines the Middle Ages, the author explains that: As digital medievalism, Crusader Kings models systems of cultural change in the Middle Ages rather than merely assigning cultural labels to people and geographic areas of Europe at specific chronological dates. The game attempts to avoid anachronism through historically based systems of gameplay, rather than through rote inclusion of historical facts.
+
+Awards
+Strategy Gaming Online Editor's Choice award
+Game Vortex Top Pick award
+
+Deus Vult expansion
+A downloadable expansion pack called Deus Vult was released in October 2007.
+
+Notes
+References
+External links
+Crusader Kings at MobyGames

@@ -1,0 +1,28 @@
+Tales of Maj'Eyal is an open-source roguelike video game released for Microsoft Windows, macOS, and Linux in 2012. Tales of Maj'Eyal is available as freeware (donationware) from the developers on a donation-supported basis; donations unlock exclusive online features as part of a freemium model. The game can also be purchased through digital distribution platforms such as Steam and GOG. 
+The game's TE4 game engine source code is licensed under GNU GPLv3, while the game's assets are licensed for use exclusively within Tales of Maj'Eyal.
+
+Gameplay
+Tales of Maj'Eyal is a dungeon crawl game featuring a customizable graphical interface that combines classic roguelike keyboard commands with a mouse-driven interface. Unlike many older roguelike games, Tales of Maj'Eyal includes full-color graphics and can be played almost entirely with the mouse. Although it features permadeath, players can earn extra lives through various means, such as in-game achievements and leveling up.
+Tales of Maj'Eyal emphasizes tactical turn-based combat and offers flexible character development controlled by the player. Gameplay relies heavily on the player’s strategic decisions and their ability to plan and execute a combat strategy. Players begin by selecting one of nine races and one of 25 classes, with additional options available through expansions. Not all races and classes are accessible at the start; some must be unlocked through in-game achievements or by making a monetary donation or purchase.
+Players explore the lore-rich world of Eyal, which features numerous dungeons and diverse adversaries. The plot is non-linear, with success depending on a balance of character planning, storyline choices, and the player's skill in combat.
+
+Online support
+Players can register with an optional online game server, which allows them to view their characters, achievements, and high scores. The server also compiles game statistics, such as top player killers, the most common race/class selections, and the number of successful completions. Additionally, the game server includes an online chat system that enables players to communicate with each other in real time.
+
+Development
+Tales of Maj'Eyal was developed by Nicolas Casalini ("DarkGod"), with graphics by Assen Kanev ("Rexorcorum") and Raymond Gaustadnes ("Shockbolt"). It is based on Casalini's earlier game, Tales of Middle Earth (ToME), which itself was based on his PernAngband variant, originally derived from Zangband, which in turn was based on Angband. Development of ToME 4 began in 2009, and the first official release took place in 2012.
+The T-Engine game engine is written in C, providing a development framework for grid-based game modules written in Lua. It supports various OpenGL features, including particle effects and shaders. The T-Engine has been used to create games for the annual Seven Day Roguelike Challenge in 2011 and 2012.
+Several expansions have been released: Ashes of Urh'Rok on 27 October 2014, Embers of Rage on 23 February 2016, and Forbidden Cults on 16 May 2018.
+Players can modify the Tales of Maj'Eyal game module through an add-on system, which allows for customization of graphics, interface, content, and gameplay balance, as well as additions of new features.
+
+Reception
+Tales of Maj'Eyal won the "ASCII Dreams Roguelike of the Year" award in 2010, 2011, and 2012, with over 5,000 roguelike players voting in 2012. It was also added to Valve's Steam store and is available on gog.com, a DRM-free platform. In 2016, Steamspy reported over 150,000 owners on Steam, with around 2,000 active players over a two-week period.
+Reviews for Tales of Maj'Eyal have been largely positive. Critics have praised its accessibility, graphics, user interface, backstory, and varied gameplay. US Gamer called it "one of the very best roguelikes out there". Linux Journal remarked that Tales of Maj'Eyal offers a complex gaming experience with an approachable learning curve, in contrast to the "crushing candy" simplicity of some other games. On Steam, it maintains a 95% positive rating, ranked as "Overwhelmingly Positive".
+
+See also
+List of open-source games
+
+References
+External links
+Official website 
+git.net-core.org/tome/t-engine4 repository of the game's open-source engine

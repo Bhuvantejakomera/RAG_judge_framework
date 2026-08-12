@@ -1,0 +1,16 @@
+David James Brown (born 1957) is an American computer scientist. He was one of a small group at Stanford University that helped to develop the computer system that later became the foundational technology of Sun Microsystems, and  was a co-founder of Silicon Graphics.
+
+Education
+Brown received his primary and secondary school education in Delmar, New York, and then studied at the University of Pennsylvania, Moore School of Electrical Engineering where he received a B.S.E. degree in 1979 and an M.S.E. under advisor Ruzena Bajcsy in 1980.
+In 1984, Brown was introduced to David Wheeler, who invited him to join the University of Cambridge Computer Laboratory as a doctoral candidate. In October 1986, he matriculated at St John's College, University of Cambridge, England to pursue a Ph.D. degree. His dissertation introduced the concept of Unified Memory Architecture. This idea has subsequently been widely applied — such as by Intel in their processors and platform architecture of the late 1990s and onward.
+
+Career
+Brown became a member of the research staff in the Computer Science Department at Stanford University in 1981, where he worked on the SUN workstation research project with Andreas Bechtolsheim, prior to the establishment of Sun Microsystems.
+In 1982, Brown was one of the group of the seven technical staff from Stanford (along with Kurt Akeley, Tom Davis, Rocky Rhodes, Mark Hannah, Mark Grossman, and Charles "Herb" Kuta) who joined Jim Clark to form Silicon Graphics.
+Brown and Stephen R. Bourne formed the Workstation Systems Engineering group at Digital Equipment Corporation. Together they built the group responsible for the introduction of the DECstation line of computer systems.
+In 1992, Brown joined Sun Microsystems. He helped to establish the process used for the company's system software architecture, and then went on to define the application binary interface for Solaris, Sun's principal system software product.
+Later, Brown worked on Solaris's adoption of open-source software and practices, and then its technologies for energy-efficient computing.
+In 1998, Brown was elected to the Council of the Association for Computing Machinery, and in 2003 became a founding editor of the ACM Queue magazine, producing several articles through 2010.
+
+
+== References ==

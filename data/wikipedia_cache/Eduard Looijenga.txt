@@ -1,0 +1,31 @@
+Eduard Jacob Neven Looijenga (born 30 September 1948, Zaandam) is a Dutch mathematician who works in algebraic geometry and the theory of algebraic groups. He was a professor of mathematics at Utrecht University until his retirement in 2013.
+Looijenga studied mathematics at the University of Amsterdam beginning in 1965, and earned a master's degree there in 1971. He obtained a Dutch fellowship for two years of study at the Institut des Hautes Études Scientifiques in France, and then returned to the University of Amsterdam, earning a Ph.D. in 1974 under the supervision of Nicolaas Kuiper. After postdoctoral research at the University of Liverpool, he took a faculty position at the University of Nijmegen in 1975, returned as a professor to the University of Amsterdam in 1987, and moved again to Utrecht in 1991. Since his 2013 retirement, he has also held a professorship at Tsinghua University.
+In 1978, Looijenga was an invited speaker at the International Congress of Mathematicians. He became a member of the Royal Netherlands Academy of Arts and Sciences in 1995, and in 2012 he became one of the inaugural fellows of the American Mathematical Society. In 2013, a conference in honor of his retirement was held at Utrecht University.
+
+Publications
+Looijenga, Eduard (1976). "Root systems and elliptic curves". Inventiones Mathematicae. 38 (1): 17–32. Bibcode:1976InMat..38...17L. doi:10.1007/BF01390167. MR 0466134. S2CID 121219851.
+Looijenga, Eduard J. N. (1984). Isolated singular points on complete intersections. London Mathematical Society Lecture Note Series. Vol. 77. Cambridge: Cambridge University Press. ISBN 0-521-28674-3. MR 0747303.
+Looijenga, Eduard (1995). "On the tautological ring of 
+  
+    
+      
+        
+          
+            
+              M
+            
+          
+          
+            g
+          
+        
+      
+    
+    {\displaystyle {\mathcal {M}}_{g}}
+  
+". Inventiones Mathematicae. 121 (2): 411–419. arXiv:alg-geom/9501010. Bibcode:1995InMat.121..411L. doi:10.1007/BF01884306. MR 1346214. S2CID 119658593.
+
+References
+External links
+Home page
+Eduard Looijenga publications indexed by Google Scholar

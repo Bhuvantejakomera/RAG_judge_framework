@@ -1,0 +1,34 @@
+The DOS MZ executable format is the executable file format used for .EXE files under the DOS and Windows operating systems.
+The file can be identified by the ASCII string "MZ" (hexadecimal: 4D 5A) at the beginning of the file (the "magic number"). "MZ" are the initials of Mark Zbikowski, one of the leading developers of MS-DOS.
+The MZ DOS executable file is newer than the COM executable format and differs from it. The DOS executable header contains relocation information, which allows multiple segments to be loaded at arbitrary memory addresses, and it supports executables larger than 64 KB; however, the format still requires relatively low memory limits. These limits were later bypassed using DOS extenders.
+
+Segment handling
+The environment of an EXE program run by DOS is found in its Program Segment Prefix.
+EXE files normally have separate segments for the code, data, and stack. Program execution begins at address 0 of the code segment, and the stack pointer register is set to whatever value is contained in the header information (thus if the header specifies a 512 byte stack, the stack pointer is set to 200h). It is possible to not use a separate stack segment and simply use the code segment for the stack if desired.
+The DS (data segment) register normally contains the same value as the CS (code segment) register and is not loaded with the actual segment address of the data segment when an EXE file is initialized; it is necessary for the programmer to set it themselves, generally done via the following instructions:
+
+Termination
+In the original DOS 1.x API, it was also necessary to have the CS register pointing to the segment with the PSP at program termination; this was done via the following instructions:
+
+Program termination would then be performed by a RETF instruction, which would retrieve the original segment address with the PSP from the stack and then jump to address 0, which contained an INT 20h instruction.
+The DOS 2.x API introduced a new program termination function, INT 21h Function 4Ch which does not require saving the PSP segment address at the start of the program, and Microsoft advised against the use of the older DOS 1.x method.
+
+Compatibility
+MZ DOS executables can be run from DOS and Windows 9x-based operating systems. 32-bit Windows NT-based operating systems can execute them using their built-in Virtual DOS machine (although some graphics modes are unsupported). 64-bit versions of Windows cannot execute them. Alternative ways to run these executables include DOSBox and DOSEMU.
+MZ DOS executables can be created by linkers, like Digital Mars Optlink, MS linker, VALX or Open Watcom's WLINK; additionally, FASM can create them directly.
+
+See also
+DOS
+DOS extender
+Portable Executable
+DOS API
+Executable compression
+
+Further reading
+Paul, Matthias R. (2002-10-07) [2000]. "Re: Run a COM file". Newsgroup: alt.msdos.programmer. Retrieved 2017-09-03.{{cite newsgroup}}:  CS1 maint: deprecated archival service (link)
+Matthias Paul (2002-10-07). "masm .com(PSP) related trouble". alt.lang.asm discussion group.
+Eager, Bob (2024-12-16). "Notes on the format of DOS .EXE files". PHOBOS reference material. Retrieved 2024-12-18.
+
+References
+External links
+OSDev Wiki - MZ format details

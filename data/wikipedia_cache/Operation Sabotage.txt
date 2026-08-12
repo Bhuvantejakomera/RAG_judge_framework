@@ -1,0 +1,5 @@
+Operation Sabotage is a text adventure game by Ray Sato for the TRS-80 and published by SoftSide Magazine in 1982. It was ported by Rich Bouchard to the Atari 8-bit computers and translated for Apple II by Ron Shaker and later the IBM PC by Fred Condo & Kerry Shetline.  The game was republished in The Best of SoftSide (1983), which also included the program on an accompanying 5¼-inch floppy disk.
+
+References
+External links
+Operation Sabotage in the Interactive Fiction Database

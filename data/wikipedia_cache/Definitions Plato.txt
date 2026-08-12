@@ -1,0 +1,35 @@
+The Definitions (Ancient Greek: Ὅροι Horoi; Latin: Definitiones) is a dictionary of 184 philosophical terms sometimes included in the corpus of Plato's works. Plato is generally not regarded as the editor of all of Definitions. Some ancient scholars attributed Definitions to Speusippus.
+In modern scholarship, Definitions is thought to have little philosophical value. Given the sophistication of Plato's and Aristotle's efforts in the area of definition, this collection seems to be an elementary text produced by second-rate philosophical study. Its early date, however, does give it some importance as a source for the history of ancient Platonism.
+
+Content
+Definitions is a list of 184 terms important in early Platonism together with one or more brief definitions. Though not in alphabetical or any other simple order, it is possible to discern some features of the organization of the collection. Definitions 1–20 consist chiefly of terms from natural philosophy. Definitions 21–107, the main section of the collection, contain concepts from ethics (affects and virtues), political theory, logic, grammar, and epistemology. Definitions 108–184 are a final appendix that contains a mixture of concepts which sometimes duplicate earlier terms and therefore was probably added at a later date. There are few terms drawn from metaphysics. It is probable that the collection underwent changes through the centuries since the number of definitions in the surviving manuscripts varies.
+Methodologically, Definitions is related to the Platonic Method of Division (diairesis) that progresses from the more general to the more specific, i.e., from 'above' to 'below.' Definitions were constructed by first giving the genus of the thing to be defined and then giving more and more of its special characteristics (its differentia) until it was fully distinguished from other members of the genus. Such a definition therefore gives the lowest species for the thing defined. In Definitions, for example, the word definition is defined as an expression that is composed of genus and differentia. Many definitions in Definitions follow these principles and define terms by giving their genus and distinguishing characteristics. A human, for example, is a two-footed animal without wings. Here, two-footed animal is the lowest genus that contains humans and without wings distinguishes humans from all the other two-footed animals, i.e., from birds. Other definitions, however, consist only of lists of characteristics or are trivial explanations of words. Many concepts are defined simply by giving the distinguishing characteristic. Humans, for example, are also defined as the only rational animal.
+
+Author and time of composition
+There is a scholarly consensus that Definitions cannot be ascribed to Plato. However, many individual points rest on his doctrines and it is probable that the way of defining various concepts goes back to this teaching. It is thought certain that Definitions originated in the circles around the school of philosophy founded by Plato, i.e., in or around the Academy. The definitions were probably collected at the time of the Early Academy, and indeed in the period immediately following Plato's death, that is, in the second half of the fourth century or the first third of the third century BCE. Key Aristotelian terms such as 'potential' and 'actuality' are not conspicuous in Definitions.
+It was conjectured that Definitions is a selection from a larger collection that was available in the Academy in that period, and may have been the foundation of a lost collection made by Speusippus, Plato's nephew and the second head of the Academy. Today, however, the hypothesis that the extant collection is related to Speusippus' is no longer defended. Whether Definitions is a compilation made from older collections is debated by scholars.
+
+Reception
+The existence of Definitions is first attested in the Roman imperial period. Until late antiquity, no one else but Plato was named as the author, but the prevailing opinion was that the collection did not originate with him. It was not included in the tetralogical arrangement of Plato's works. The Anonymous Prolegomena to Platonic Philosophy which is dated to late antiquity, designates Speusippus as the author.
+The earliest, surviving manuscript is from the ninth century CE.
+Definitions was unknown to the Latin-speaking, scholarly world of the Middle Ages and was first rediscovered by Renaissance humanists. In the fifteenth century, the humanist Marsilio Ficino believed the collection's author was Speusippus.
+Ficino translated Definitions into Latin and published his translation in Venice in 1497 with Aldus Manutius, and named Speusippus as the author in the introduction.
+The first edition of the Greek text was brought out in Venice by Aldus Manutius in September 1513 as part of the complete works of Plato edited by Markos Musuros. This edition was the basis for the Latin translation that the humanist Willibald Pirckheimer brought out in Nuremberg in 1523 with the printer Friedrich Peypus.
+
+Editions and translations
+John Burnet (ed.). Platonis Opera, vol. V, Oxford Classical Text (Oxford: Clarendon, 1907) (Greek only).
+Douglas S. Hutchinson (translator). Definitions*. In John M. Cooper (ed.): Plato. Complete Works, Hackett Publishing, Indianapolis/Cambridge 1997, ISBN 978-0872203495, pp. 1677–1686 (only English translation).
+Joseph Souilhé (ed.). Platon: Œuvres complètes, v. 13, part 3: Dialogues apocryphes. 2nd edition, Les Belles Lettres, Paris 1962, pp. 151–173 (critical edition with French translation).
+Franz Susemihl (translator). Definitionen. In Erich Ludwig Loewenthal (ed.): Platon: Sämtliche Werke in drei Bänden, v. 3, unchanged reproduction of the 8th edition, Wissenschaftliche Buchgesellschaft, Darmstadt 2004, ISBN 3-534-17918-8, pp. 787–798 (only German translation).
+Hans Günter Zekl (translator). Pseudo-Platon: Begriffsbestimmungen. In Hans Günter Zekl (ed.): Aristoteles: Organon, v. 2, Felix Meiner, Hamburg 1998, ISBN 3-7873-1313-3, pp. LXIV–LXXII, 233–245 (only German translation).
+Benati, Edoardo (2023). Platone, Horoi: Saggio introduttivo, edizione critica, traduzione e commento a cura di Edoardo Benati (1st ed.). Baden-Baden: Academia. ISBN 9783985720972. (critical edition with Italian translation)
+
+Notes
+References
+Heinz Gerd Ingenkamp: Untersuchungen zu den pseudoplatonischen Definitionen. Harrassowitz, Wiesbaden 1967.
+Hans Krämer: Die Ältere Akademie. In Hellmut Flashar (ed.): Grundriss der Geschichte der Philosophie. Die Philosophie der Antike, v. 3: Ältere Akademie – Aristoteles – Peripatos, 2nd edition, Schwabe, Basel 2004, pp. 1–165, 96, 109 ff., 158, ISBN 3-7965-1998-9.
+
+External links
+Definitions translated by George Burges
+Free public domain audiobook version of Definitions translated by George Burges
+ Apocrypha public domain audiobook at LibriVox. Collection includes Definitions. George Burges, translator (1855).

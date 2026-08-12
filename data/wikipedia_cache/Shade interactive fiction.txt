@@ -1,0 +1,16 @@
+Shade is an interactive fiction video game developed by Andrew Plotkin for MS-DOS and self-published in 2000.
+
+Plot
+Shade opens with the nameless protagonist awakening in his studio apartment before sunrise. Examining the apartment reveals that the protagonist is preparing to depart on a trip to Death Valley. After the protagonist locates his plane tickets and begins addressing the various tasks on his to-do list, the appliances and furniture spontaneously crumble and transform into piles of sand upon touch. The apartment slowly becomes buried under dunes of sand. The sand disappears briefly, suggesting the experience was illusionary, but then the protagonist feels dizzy and sits down. The apartment vanishes and the protagonist is suddenly outside and in the middle of a desert. The protagonist notices a small humanoid figure walking across the sand; interacting with the figure causes it to move more and more sluggishly until it eventually passes out and dies. The figure then says to the protagonist, "You win, Okay, my turn again." The game then ends with the message "Nothing left to do. Time passes. The sun crawls higher."
+
+Development
+Shade was written in the Inform 6 programming language by Andrew Plotkin, originally written as an entry for the sixth annual Interactive Fiction Competition. Plotkin began working on the game on September 2, 2000, and finished it by the end of the month in order to make the deadline. Plotkin chose "A one-room game set in your apartment" as the game's tagline as an inside joke, referencing the cliché "escape the room" style games.
+
+Reception
+Shade won the 2000 XYZZY Award for Best Setting. Shade has been described as "technically innovative" for opting "out of conventional light modeling" and dispensing "with conventional spatial navigation." Instead of conventional navigation, the "player location is indicated through nuance and shifting emphasis."
+
+References
+External links
+Author's website
+Baf's Guide review
+SPAG review

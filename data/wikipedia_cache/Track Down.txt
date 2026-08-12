@@ -1,0 +1,29 @@
+Track Down (also known as Takedown outside the United States) is a 2000 American crime thriller film based on the non-fiction book Takedown: The Pursuit and Capture of Kevin Mitnick, America's Most Wanted Computer Outlaw—By the Man Who Did It by Tsutomu Shimomura and John Markoff, about the manhunt for computer hacker Kevin Mitnick. It is directed by Joe Chappelle, with a screenplay by Howard A. Rodman, John Danza, and David & Leslie Newman. The film stars Skeet Ulrich as Mitnick and Russell Wong as Shimomura, with Angela Featherstone, Donal Logue, Christopher McDonald, Master P, and Tom Berenger.
+Upon release, the film and its source material came under controversy due to inaccuracies and falsehoods alleged by Mitnick against Shimomura and the screenwriters. The film's producers faced a lawsuit from author Jonathan Littman, who alleged that portions of the film's screenplay were taken from his book The Fugitive Game: Online with Kevin Mitnick. As such, the film was not released in the United States until September 24, 2004, where it was released direct-to-video by Dimension Films.
+
+Summary
+For years Kevin Mitnick had eluded federal agents while using the latest electronic gadgetry to break into countless computers and gain access to sensitive and valuable information. But when he breaches the system of leading computer crimes expert Tsutomu Shimomura, it sets off an epic chase through cyberspace between a pair of hard-driven geniuses operating on different sides of the law.
+
+Cast
+The real Tsutomu Shimomura makes a cameo appearance as a hacker.
+
+Release
+The film was released to theaters in France as Cybertraque in 2000, then on DVD in Europe as Takedown later, such as in Germany in May 2003. It was released on DVD in the U.S. as Track Down in late 2004.
+
+Reception
+Critics
+On DVD Talk, Francis Rizzo III wrote that "there's plenty of tension and excitement, but it doesn't seem to add up to anything. Sneakers is a better bet for anyone looking for a computer movie." On Variety, Joe Leydon wrote that this "fact-based drama about notorious computer hacker Kevin Mitnick looks and sounds like an extended episode of a stylish teleseries."
+
+Factual inaccuracies
+In Kevin Mitnick's The Art of Deception, Mitnick states that both book and movie are "extremely inaccurate" and based on media hype.  In the film, Mitnick and Shimomura meet twice; one of these meetings prompts Kevin to flee to Seattle. This meeting did not actually take place.
+The film depicts Mitnick hacking into Shimomura's computers and stealing/deleting his files and software. Though Mitnick admits hacking Shimomura's computers using IP spoofing, he claims he never caused any damage to anyone by deleting files or data, merely copying source code of some software, out of curiosity. The film also shows Mitnick hacking NORAD, the NSA and other famous government institutes, which never in fact happened.
+The 2001 documentary Freedom Downtime tries to get behind some of the false rumors about Kevin Mitnick that ended up being presented as facts in the film.
+
+Lawsuit regarding alleged copyright violation
+In 1997, California author Jonathan Littman wrote The Fugitive Game: Online with Kevin Mitnick, in which he presented Mitnick's side of the story.  Littman alleged that portions of the film were taken from his book without permission.
+As a result, Littman sued The Walt Disney Company and Miramax.
+
+References
+External links
+Track Down at IMDb
+Seattle Times article detailing Mitnick's stay in Seattle

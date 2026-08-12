@@ -1,0 +1,88 @@
+The First Suite in E♭ for Military Band, Op. 28, No. 1 is written by the English composer Gustav Holst. It is considered one of the cornerstone masterworks in the concert band repertoire. Officially premiered in 1920 at the Royal Military School of Music, the manuscript was originally completed in 1909. Along with the subsequent Second Suite in F for Military Band, written in 1911 and premiered in 1922, the First Suite convinced many other prominent composers that serious music could be written specifically for band.
+
+Background
+Bands first evolved in the military, with the Royal Artillery Band being formed in 1557, but at the turn of the 20th Century the term "military band" was being applied to any ensemble that incorporated woodwinds, brass and percussion, including civilian bands organised by local police, fire brigades, and even industrial firms.
+The majority of music played by British military bands around this time consisted of popular music and orchestral transcriptions. No serious music had yet been composed specifically for the "military band" medium, there being no standardized instrumentation. Mendelssohn's Overture in C major for wind instruments (Op. 24) stands out as an early example of a serious work for band which employs a similar instrumentation to that of today's military band. Of course many composers wrote specifically for winds in various combinations throughout history, Handel's Music for the Royal Fireworks being a notable example. The lack of a set instrumentation was a major obstacle for composers, in addition to the pervasive belief of some that an ensemble of assorted wind instruments lacked the tonal cohesiveness to produce significant music.
+The Suite in E♭ was Holst's first composition written for military band. Frederick Fennell, in Time and the Winds, observes that Holst's scoring for the work is so well conceived and organised for the band medium, that he must have had some previous experiences with groups of this kind. Indeed, Holst was himself a formidable trombonist, having already performed several seasons with the Scottish Orchestra prior to the composition of the suite. In addition, while still in college, he performed during the summers with various seaside bands, and was admittedly unsatisfied with the music that those ensembles performed. Even though these experiences likely contributed to the composition of the suite, there is no recorded commission for the work, and the reason for Holst's writing of the suite is unknown.
+In addition to being a serious work written for band, the orchestration of the suite was tailored to handle the inherent challenges of the military band. As there was no standardised instrumentation, Holst scored the suite for 19 instruments, with 17 remaining parts labelled "ad lib.", meaning they were unnecessary for performance. As most British military bands of the day employed between 20 and 30 musicians, the 19 required parts could reasonably be expected to be covered, and the remaining parts could be added or discarded as needed without disturbing the integrity of the work.
+The First Suite was a catalysing force that convinced many other prominent composers that serious music could be written specifically for the combination of woodwinds, percussion and brass. Works such as the English Folk Song Suite (1923) of Ralph Vaughan Williams and the William Byrd Suite (1923) of Gordon Jacob are leading examples.
+The piece was later arranged for brass band by Sydney Herbert, and this arrangement has been used as a contest set test piece on numerous occasions, including for the British regional brass band championships in 1970, 1983 and 2019.
+
+Structure
+The First Suite has three movements, each with its own character and form. It is not apparent from the score, but Holst let it be known that the three movements should follow each other without a break. The complete composition is based upon an eight-bar melody reminiscent of English folk song; however, the tune is original to Holst.
+Most notably, the theme statement that initiates the first movement is developed throughout each movement:
+
+Its variations range in style from lyrical to playfully rhythmic to ornamentally embellished.
+
+I. Chaconne
+This movement, in 34 time, is based upon an eight-bar melody initiated by the low brass which repeats sixteen times throughout the piece. The rhythm of the theme with its minim–crotchet and crotchet–minim rhythm is believed to be based upon medieval English carols; the "Agincourt Song" from 1415 in particular bears a strong resemblance.
+Holst uses many colourful effects to vary the chaconne theme. These include "band hits" (synonymous with the popular term "orchestra hits") in the brass and percussion outlining the notes of the theme while the woodwinds play virtuosic semiquaver runs. The whole passage is marked brilliante or "brilliantly". Immediately following this is a famous low brass excerpt where they play a quaver line based again on the notes of the theme. This section is marked pesante or "heavily" which sharply contrasts with the material directly before.
+Following this are more variations using mostly combinations of solo instruments including a solo horn, duet between flute and oboe, and solo alto saxophone. This section eventually develops into a minor key.
+Two of the repetitions, the tenth and eleventh, are an inversion of the theme:
+
+Here the mood changes drastically with a funeral march like feel with the dynamics exceptionally soft. The bass drum and tuba emphasise a hemiola rhythm while a solo euphonium plays the inversion in a minor key. The twelfth repetition, the theme played a third higher, is a famous trombone soli that hints at Holst's earlier years as a trombone player. Then a crescendo poco a poco extends over two more repetitions of the theme. At the height of the crescendo, more hemiola in the brass and saxophones is used to heighten the harmonic interest.
+The climax is at the top of the crescendo with the theme being stated in almost all of the low instruments. The higher instruments play soaring counterpoint lines, all of which is marked ff. The final repetition, stated in the trombones and low trumpets/cornets (an unusual combination for its day) is transposed up a fifth, chromatically altered, and extended. The movement ends with the trombones and trumpets/cornets playing against the rest of the band playing on beats one and two while the rest of the band is striking sustained chords on the third beat of the bar. Holst, in the final chord, drops out all of the bass voices from the band leaving a very brilliant sounding chord with high concert B♭s in the flutes, piccolos, and trumpets/cornets. This powerful coda is difficult to play well, but has very high emotional impact when it is.
+
+II. Intermezzo
+Nearly all of this movement is devoted to a rhythmic and well-articulated oboe, clarinet and cornet solo. The exploitation of wind band tone colour combinations flavour this movement. While the movement is predominantly light in character, the clarinet has a stirring solo, which is later repeated by other voices:
+
+Then, the euphonium (or alto clarinet) takes us back to the first theme. Finally the second theme is played in a major key while the upper woodwinds play their virtuosic semiquavers, and diminishes to the lowest possible volume.
+
+III. March
+The march is usually played at a march tempo, although many recordings use a faster tempo. It opens with a famous bass drum solo, one of the few in the band literature. It features two primary melodies both very contrasting in style.
+The first melody is featured exclusively in the brass section in a very marcato manner. The second melody in the mid and low woodwinds, and later the euphonium, baritone saxophone, and bassoon, resembles the melodies of the first two movements and is played in a very legato and lyrical style. Following the completion of the second melody, strains of the first melody and the first four bars can be heard as the movement builds up to the finale.
+
+The finale of the march features both melodies layered on top of one another in a musical technique called "simultaneous recapitulation": nearly all the brass playing the second melody in a majestic march style, with the woodwinds playing the first melody and variations of it. The last few bars are very powerful (marked ffff) and have one of the most famous trombone soli in the band repertoire.
+
+Instrumentation and standard editions
+1909 autograph manuscript
+The original manuscript, completed in 1909, is housed at the British Library in London. The shelf listing is as follows:
+
+Add. MS 47824. Gustav Holst Collection. Vol. XXI (ff. 37). First Suite in E-flat for military band, op. 28, no. 1, consisting of Chaconne, Intermezzo and March. [1909.] Full score. Autograph. With various notes on f.1 relating to ad lib. parts, etc. Published by Boosey & Co., 1921, in Boosey's Military Journal, 142nd Series, No. 2. [I. Holst, no. 105.]
+The original title of the suite was simply "Suite in E♭ for Military Band by Gustav von Holst". Holst's birthname had actually been Gustavus Theodore von Holst (he had German, Russian, Latvian and Swedish forebears, although his great-great-grandfather had emigrated to the UK in 1802). He changed his name to Gustav Holst during World War I (when German names were unpopular) so that he could be appointed as a volunteer YMCA Music Organizer. According to the title page of the manuscript, "Suite in E♭" is scribbled over, with "First Suite in E♭" written underneath and also above and to the right of the original title.
+In 1921 Boosey & Co. published the parts and a piano reduction for the suite. It was common practice at this time to not include a full instrumental score.
+
+1948 Boosey & Hawkes full score
+The 1948 edition of the First Suite in E♭ was the first since the original Boosey & Co. publication of 1921. With developments in instrumentation in the United States during the two decades following the original published version, there were calls for a newer, more accessible edition. The growing popularity of school band contests resulted in American bands incorporating a wide array of instruments such as the alto and contrabass clarinets, and the baritone and bass saxophones. With more and more bands employing these larger forces, the original version of the First Suite could not be performed as written. In addition, the 1921 edition only had a reduced piano score, and by this time the manuscript had been lost. Albert Austin Harding, longtime Director of Bands at the University of Illinois, suggested that the First Suite be revised to accommodate the growing number of American bands and their modern instrumentation. To facilitate this, a new full score based on the original published parts was produced by Boosey & Hawkes. Multiple errors are found in the score that are not shown in the original parts.
+This new edition contained several modifications:
+
+The flute and piccolo, originally keyed in D♭, were changed to the key of C, as this was becoming increasingly popular.
+The B♭ baritone part was discarded.
+In 1921, at a conference of the Directors of Music of the Navy, Army and Air Force, held at Kneller Hall, it was decided that the B♭ tenor saxophone would officially replace the B♭ baritone. H. E. Adkins states that this was due to baritone's “lack of character and its ineffectiveness.”
+In addition to the removal of the baritone, the string bass was also omitted.
+At this time, it is not known why the string bass was removed. It may simply be that school bands did not incorporate it (as is largely the case today). It may also be that, since the string bass was marked ad lib by Holst, Boosey & Hawkes did not feel the need to include it.
+Instruments added to the score included the E♭ alto clarinet, the E♭ baritone and B♭ bass saxophones, B♭ contrabass clarinet, and a set of flügelhorns.
+
+1984 Boosey & Hawkes revised edition (edited by Colin Matthews)
+Sometime after the publication of the 1921 edition, the original manuscript was lost. As a result, the only full score available of the First Suite was from 1948 edition, and many conductors struggled with the peculiarities contained therein. It was well known which instruments were additions to the original, but because the 1921 score was only a piano reduction, Holst's original intentions remained unclear. Then, in 1974, the original manuscript was discovered. Frederick Fennell, in a reprint of his 1975 article discussing the suite, states:
+
+Shortly after this initial piece in our Basic Band Repertory series was published, the manuscript of the Suite in E♭ for Military Band surfaced for the first time. The full score always existed and it could have answered all the questions which were raised in my initial study and in the minds of other conductors whose pursuits of definite answers in this has been an equal frustration.
+Among the questions raised were those concerning the scoring discrepancies associated with the alto clarinet and baritone saxophone. In light of these realisations, a new, revised score was subsequently prepared by English composer Colin Matthews, with the assistance of Imogen Holst and Frederick Fennell. This new edition was published in 1984 by Boosey & Hawkes.
+Matthews knew that a complete return to the scoring of the manuscript would once again limit the accessibility of the work, particularly in the United States, where American bands are still to this day typically larger than their British counterparts. In the introduction to the revised score, Matthews states:
+
+Since the composition of military bands and wind bands in general has changed since 1909, this new edition of the score does not attempt to go back wholly to the original manuscript... The second pair of trumpets and the baritone have been omitted entirely, while the added baritone and bass saxophones have been retained (with some emendations). The additional parts for alto and contrabass clarinets and flügelhorns have been omitted... The omission of the baritone has allowed the euphonium part to be expanded, most notably in the Intermezzo after letter D, and at the beginning of the Finale, where it doubles the 1st cornet at the lower octave.
+Matthews also makes modifications to the cornets, trumpets and horns. He writes:
+
+Particular care has been taken to ‘cover’ ad lib parts. Since in the original manuscript all the trumpets were ad lib, the omission of the second pair has not left any serious gaps: indeed the opportunity has been taken to fill one or two that Holst himself left (in the Finale at letter C, for example). Three cornets are essential, but the parts have been adjusted, since Holst, when writing for cornets in three parts tended to write for two second cornets (at the end of the first movement and the Finale the fourth cornet is optional). In the same way he was occasionally careless about the disposition of his four horn parts, and these are now organized so that the third and fourth may safely be omitted.
+The three standard versions' instrumentations are listed below side by side for comparison.
+
+1909 autograph manuscript
+1948 Boosey and Co. full score
+1984 Boosey & Hawkes revised edition
+Other band works by Gustav Holst
+Hammersmith
+A Moorside Suite (for brass band)
+Three Folk Tunes
+The Praise of King Olaf (for choir and military band)
+Marching Song (transcription from Two Songs Without Words)
+Johann Sebastian Bach's Fugue à la Gigue transcribed for military band (actually scored as a test piece for Hammersmith.)
+Second Suite in F
+
+References
+Further reading
+Udell, Budd (1982). "Standard Works for Band: Gustav Holst's First Suite in E♭ Major for Military Band." Music Educators Journal, 69 (4):28 JSTOR 3396135
+Khalili, Esmail. Gustav Holst’s Suite in E-flat, Op. 28a: A Comparative Analysis of the Original Manuscript and Later Editions
+Wind Repertory Project. First Suite in E-flat
+
+External links
+First Suite in E-flat for Military Band: Scores at the International Music Score Library Project

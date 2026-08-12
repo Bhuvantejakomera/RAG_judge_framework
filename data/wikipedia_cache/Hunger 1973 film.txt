@@ -1,0 +1,40 @@
+Hunger/La Faim is a 1974 animated short film produced by the National Film Board of Canada. It was directed by Peter Foldes and is one of the first computer animation films. The story, told without words, is a morality tale about greed and gluttony in contemporary society.
+The film won thirteen film awards from 1974–75, and it was nominated for Best Animated Short Film at the 47th Academy Awards in 1975. An additional Academy Award was granted in 1997 for technical achievement in computer animation.
+
+National Research Council
+Peter Foldes worked in collaboration with the National Research Council Canada's Division of Radio and Electrical Engineering's Data Systems Group, who decided to develop a computer animation application in 1969. NRC scientist Nestor Burtnyk had heard an animator from Disney explain the traditional animation process, where a head animator draws the key cels and assistants draw the fill in pictures. Burtnyk worked as lead animator on the NRC project, and he wrote the computer program code. The work of the artist's assistant seemed to Burtnyk to be the ideal demonstration vehicle for computer animation and within a year he and physicist Marceli Wein programmed a "key frame animation" package to create animated sequences from key frames.
+The National Film Board in Montreal was contacted so that artists could experiment with computer animation. Foldes, who was living in Paris at the time, was contacted first. Foldes' first film using Burtnyk's program was a 1971 computer key frame animated short experimental film involving freehand drawings called Metadata. This was followed by Hunger, which took Foldes and his NRC partners a year and a half to make. It cost $38,893 (equivalent to $270,603 in 2025) to create.
+
+Critical reception
+Hunger was nominated for an Oscar in the Best Animated Short Film category for the 47th Academy Awards in 1975, becoming the world's first fully computer-generated animated movie to be nominated. It also won the Cannes Film Festival Jury Prize and other international film awards.
+In addition to the film awards that Hunger won in 1974–75, Burtnyk and Wein later received awards and honors in 1996–98. In 1996, the Festival of Computer Animation in Toronto granted Burtnyk and Wein an award for Fathers of Computer Animation Technology in Canada. In 1997, Burtnyk and Wein earned an Academy Award for Technical Achievement in computer animation for their "pioneering work" on Hunger. The Ottawa International Animation Festival paid tribute to Burtnyk and Wein in 1998, saying that "their work led the way for a flood of technological innovations in Canada and beyond."
+
+Soundtrack
+The music for the film was composed by Pierre F. Brault.
+
+Awards
+Cannes Film Festival, Cannes: Special Jury Award - Short Films, 1974
+Edinburgh International Film Festival, Edinburgh: Certificate of Merit, Interfilm Jury, 1974
+Chicago International Film Festival, Chicago: Silver Hugo, 1974
+Chicago International Film Festival, Chicago: Norman McLaren Award, 1974
+International Week of Cinema in Colour, Barcelona: Gold Medal, 1974
+International Week of Cinema, Nairobi: Gold Impala for Best Short Film, 1974
+Yorkton Film Festival, Yorkton: Golden Sheaf Award for Best Animation, 1975
+International Animation Film Festival, New York: Golden Praxinoscope, 1975
+World Festival of Animated Film, Varna, Bulgaria: Special Award, Short and Medium Length Films, 1975
+Melbourne Film Festival, Melbourne: Diploma of Merit, 1975
+American Film and Video Festival, New York: Blue Ribbon, International Affairs, 1975
+Philadelphia International Festival of Short Films, Philadelphia: Award for Exceptional Merit, 1975
+28th British Academy Film Awards, London: BAFTA Award for Best Short Animation, 1975
+47th Academy Awards, Los Angeles: Nominee: Best Animated Short Film, 1975
+69th Academy Awards, Los Angeles: Award for Technical Achievement in Film (Cartoon Process: Computer Assisted Key Framing for Character Animation), 1997
+
+References
+Works cited
+Evans, Gary (1991). In the National Interest: A Chronicle of the National Film Board of Canada from 1949 to 1989. University of Toronto Press. ISBN 0802027849.
+
+External links
+
+Hunger at ACMSIGGRAPH Archives
+Watch Hunger on the NFB website
+Hunger at IMDb

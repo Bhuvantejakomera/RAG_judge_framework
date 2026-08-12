@@ -1,0 +1,17 @@
+The Lost is a third-person shooter survival horror game developed by Irrational Games. Set to be released in 2002 for the PlayStation 2 and Xbox game consoles, The Lost went through a rocky development period until it was completed, and cancelled. In 2008 the rights and assets to the game were bought by FXLabs and the game saw a release on Windows in 2009 in India, Russia, Poland and the US under different names.
+
+Story
+The Lost is heavily inspired by Dante Alighieri's Divine Comedy, particularly Inferno. The setting is present day, and the main character is a waitress and medical student named Amanda Wright. Amanda is a single mother who has lost her only daughter, Beatrice, in a tragic car accident. Desperate and suicidal, Amanda makes a deal with the devil. Selling her soul, she is given the chance to plunge into the bowels of a concentration camp-esque hell in an attempt to rescue her daughter's soul. The only aids she has in the bowels of hell are Virgil, a strange reptilian creature who Amanda must free from an enchanted sword, and four hellish beings called the Entities. While in hell, Amanda meets several Entities.  She is able to trade identities with these beings, and each Entity is playable, with their own special abilities.
+
+Shadow:  A thief-like character, Shadow specializes in stealth and deception.
+Light:  Adept in defensive spell-casting, Light can also provide healing spells.
+Corruption:  An emaciated mage who performs powerful, offensive spells.
+Instinct:  A sword-wielding character that is best used in close combat.
+
+Development
+The Lost's development period had always been relatively rocky. Playable models of the game had been described as unstable, with a jittery framerate. The developer chose to switch to a different graphics engine partway through the project, moving from the LithTech engine to Epic Games' Unreal Engine. Also, Crave Entertainment changed The Lost's traditional publishing model to a budget game model. Eventually, legal problems amassed, and the completed game was cancelled.
+In March 2008, it was reported that all development and rights to The Lost had been acquired by FXLabs, who later released the game for Microsoft Windows in India under the title Agni: Queen of Darkness. Agni is thought to feature redone art but keeps basic plot and gameplay elements intact. It was also released in Poland and Russia as Inferno: Where Death Is Your Only Ally, and in the United States as Netherworld: Beyond Time I Stand.
+
+References
+External links
+The Lost at IGN.com

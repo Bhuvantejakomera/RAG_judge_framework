@@ -1,0 +1,59 @@
+The Sentences (Latin: Sententiae in quatuor libris distinctae; English: Sentences Divided into Four Books) is a compendium of Christian theology written by Peter Lombard around 1150. It was the most important religious textbook of the Middle Ages.
+
+Background
+The sentence genre emerged from works like Prosper of Aquitaine's Sententia, a collection of maxims by Augustine of Hippo. It was well-established by the time of Isidore of Seville's Sententiae, one of the first systematic treatments of Christian theology. In the Sentences, Lombard collects glosses from the Church Fathers. Glosses were marginalia in religious and legal texts used to correct, explain, or interpret a text. Gradually, these annotations were compiled into separate works. The most notable precedent for Lombard's Sentences were the Glossa Ordinaria, a 12th-century collection of glosses.
+Lombard went a step further by compiling them into one coherent whole. There had been much earlier efforts in this vein, most notably in John of Damascus' The Source of Knowledge. When John of Damascus' work was translated into Latin in 1150, Lombard had access to it.
+Lombard was not alone in his project. Many other contemporary theologians were compiling glossaries, such as Robert of Melun's Sententiae and Hugh of Saint Victor's De sacramentis christianae fidei. In 1134, Lombard went to Paris to study with Hugh, who was finishing his work at the time. Their work was the signal development of 12th-century religious scholars: a systematic theology that treated the activity as a coherent practice. 
+Lombard's twin hurdles were devising an order for his material and reconciling differences among sources. Peter Abelard's Sic et Non employed a method for reconciling authorities that Lombard knew and used. Abelard had also conceived of his work as a textbook. Lombard's previous work, Magna glossatura, was an enormous success and quickly became a standard reference work. Compiling the Magna glossatura prepared Lombard for the definitive synthesis of the Sentences.
+
+Composition
+The Sentences were compiled in two phases. By 1154, he had completed an initial version of the text which he read to his students in Paris during the 1156–7 academic year. The following term, he had significantly revised the Sentences, and this became the definitive version. The first major manuscript of the Sentences was copied by Michael of Ireland in 1158. There are nearly 900 extant manuscripts of Lombard's work, which indicates how widely it was used.
+In addition to Lombard's Magna glossatura and the Glossa Ordinaria, the Sentences relied heavily on the works of Augustine, citing him over 1,000 times. Julian of Toledo's eschatology was heavily reflected in Lombard's work. The Sentences were also a remarkable snapshot of current thought. Editorial choices like including a table of contents made Peter's book a much more helpful reference than other glossaries.
+
+Contents
+Lombard arranged his material from the Bible and the Church Fathers in four books, then subdivided this material further into chapters. Probably between 1223 and 1227, Alexander of Hales grouped the many chapters of the four books into a smaller number of "distinctions". In this form, the book was widely adopted as a theological textbook in the high and late Middle Ages (the 13th, 14th, and 15th centuries). A commentary on the Sentences was required of every master of theology, and was part of the examination system. At the end of lectures on Lombard's work, a student could apply for bachelor status within the theology faculty.
+
+Legacy
+In 1170, Pope Alexander III instructed William of Champagne to "convoke your suffragans at Paris" and renounce the "vicious doctrine" (pravae doctrinae) of Peter Lombard. The Pope was accusing Lombard of espousing Christological Nihilianism: the idea that Christ's human nature was nothing and his sole identity was divine. The concerns centered on Book III of the Sentences where Peter Lombard discusses the hypostatic union from a variety of angles. The debate lingered long enough that the Pope reiterated his concerns in a second letter to William seven years later. The Pope's position was not universally supported among the Cardinals who felt the Church faced more pressing issues.
+After the Fourth Council of the Lateran in 1215, the Sentences became the standard textbook of theology at medieval universities. Stephen Langton's commentary on the Sentences helped establish the form. Until the 16th century, no work of Christian literature, except for the Bible itself, was commented upon more frequently. All the major medieval thinkers in western Europe relied on it, including Albert the Great, Alexander of Hales, Thomas Aquinas, Bonaventure, Marsilius of Inghen, William of Ockham, Petrus Aureolus, Robert Holcot, Duns Scotus, and Gabriel Biel.
+Aquinas' Summa Theologiae would not eclipse the Sentences in importance until around the 16th century. Even the young Martin Luther still wrote glosses on the Sentences, and John Calvin quoted from it over 100 times in his Institutes.
+David Luscombe called the Sentences "the least read of the world's great books". In 1947, Friedrich Stegmüller compiled a 2-volume bibliography of commentaries on the Sentences. By 2001, the tally of Lombard commentators ran to 1,600 authors.
+
+Editions
+Lombardus, Petrus. Sententiae in Patrologia latina, vol. 192. Jacques Paul Migne, ed. Paris: Ateliers Catholiques, 1855.
+Modern English translations
+
+Lombard, Peter. The Sentences, Books 1–4. Translator, Giulio Silano. Toronto: Pontifical Institute of Mediaeval Studies, 2007–2010.
+Book 1: The Mystery of the Trinity
+Book 2: On Creation
+Book 3: On the Incarnation of the Word
+Book 4: On the Doctrine of Signs
+
+See also
+Minuscule 714: A manuscript of the New Testament which includes a fragment of Sententiae.
+
+References
+Further reading
+Elizabeth Frances Rogers, Peter Lombard and the Sacramental System (Merrick, NY: Richwood Pub. Co., 1976).
+Philipp W. Rosemann, The Story of a Great Medieval Book: Peter Lombard's "Sentences" (Toronto: University of Toronto Press, 2007).
+
+External links
+The Sentences online
+
+Manuscript 900, Bibliothèque Municipale Troyes.
+Primary manuscript of the Sentences by Michael of Ireland in 1158.
+(in Latin) Les Sentences. Magister Sententiarum, Groupe de Recherche Pierre Lombard.
+(in Latin) Sententiae, Patrologia Latina Database.
+(in Latin) Textus Sententiarum, Patrologia Latina, 192, col. 519-964.
+(in Latin) Sententiarum. Patrologia Latina, 192.
+Complete scan of Volume 192 at Google Books.
+(in Latin) Textus Sententiarum: cum conclusionibus magistri Henrici Gorichem, 1502. Bavarian State Library.
+Digital scan of manuscript: "The Text of the Sentences: With the conclusions of the master Henry Gorich, and the concordances of the Bible and the Canons: as well as useful summaries at the beginning of the particular distinctions: carefully laid down for the first time..."
+(in Latin) Libri Quattuor Sententiarum, Bibliotheca Augustana.
+Transcription of the complete Latin text by Professor Ulrich Harsch at Fachhochschule Augsburg.
+"Peter Lombard". The Franciscan Archive.
+Commentaries on The Sentences
+
+(in Latin) St. Thomas Aquinas. Scriptum super Sententiis. Corpus Thomisticum, 2013.
+(in Latin) Bonaventure. Introduction to and text of Bonaventura's Commentaries on Peter Lombard's Sentences. Edward Buckner, The Logic Museum. 2006.
+Livesey, Steven J. "Commbase: A Database of medieval commentators on Aristotle and Peter Lombard's Sentences".

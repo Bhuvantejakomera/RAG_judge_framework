@@ -1,0 +1,256 @@
+Politics (Ancient Greek: Πολιτικα, Politiká) is a work of political philosophy by Aristotle, a 4th-century BC Greek philosopher.
+At the end of the Nicomachean Ethics, Aristotle declared that the inquiry into ethics leads into a discussion of politics. The two works are frequently considered to be parts of a larger treatise – or perhaps connected lectures – dealing with the "philosophy of human affairs". In Aristotle's hierarchical system of philosophy he considers politics, the study of communities, to be of higher priority than ethics, which concerns individuals.
+The title of Politics literally means "the things concerning the πόλις (polis)", and is the origin of the modern English word politics. As Aristotle explains, this is understood by him to be a study of how people should best live together in communities – the polis being seen by him as the best and most natural community for humans.
+The history of Greek city-states, their wars and intrigues and political churning, was well-documented. In addition to such documentation, Aristotle pursued a research project of collecting 158 constitutions of various city-states in order to examine them for their strong and weak points. This evidence-based, descriptive approach to the study of politics was a hallmark of Aristotle's method, and a contrast with the more idealistic from-first-principles approach of Plato, as seen for example in the Republic.
+As with the Nicomachean Ethics, the Politics is not a polished work as Aristotle would have written it for publication. There are various theories about the text which has come down to us. It may have been assembled from a set of shorter works on certain political themes, combined with or interlaced with his marginal notes or with the notes taken by those who attended his Lyceum lectures.
+
+Political context
+Aristotle was Macedonian. He attended Plato's Academy in Athens for about twenty years. He returned to Macedonia for a while, in part to tutor a young Alexander the Great, and then went back to Athens to found his own school, the Lycaeum. Though he spent most of his life and career in Athens, he was never an Athenian citizen, but more of a resident alien, with few political rights (he could not own property, for instance). Indeed, throughout his life, he was never a fully-fledged citizen of any Greek polis.
+Citizenship in Greek city-states was usually limited to a minority of adult males. It included more responsibilities than the more passive matter-of-fact citizenship that is typical today. And it usually assumed that those who were citizens shared common goals, a common outlook, and a mutual interest in the success of the polis. 
+Greece was divided politically into territories ruled by many independent city-states. These often formed alliances and sometimes centrally-governed confederations (particularly in times of war). Some developed colonies, both as ways of finding new agricultural land and as ways of giving a restive underclass something to do at some distance from the ruling class.
+There is a reference in the Politics to the assassination of Philip II of Macedon, which happened in 336 BC. So we know that at least some of the work was composed after the expansion of the Macedonian kingdom under Philip II which resulted in its dominion over Athens and much of the rest of Greece, subordinating Greece's many city-states to a foreign empire.
+As a Macedonian and tutor to Alexander the Great, Aristotle was well-placed to be in the good graces of the political leadership of his time, until Athens challenged Macedonian power towards the end of Aristotle's life, and he went into exile from Athens to avoid the possibility of being attacked by anti-Macedonian Athenians.
+
+Overview
+Structure
+Aristotle's Politics is divided into eight books, which are each further divided into chapters. Citations of this work, as with the rest of the works of Aristotle, are often made by referring to the Bekker section numbers. Politics spans the Bekker sections 1252a to 1342b.
+
+Book I
+In the first book, Aristotle discusses the city (πόλις, polis) or "political community" (κοινωνία πολιτική, koinōnía politikē) in comparison with other types of communities and partnerships such as the household (οἶκος, oikos), the master/slave relationship, and the village.
+The highest form of community is the polis. Aristotle comes to this conclusion because he believes the public life is far more virtuous than the private and because "man is by nature a political animal". He begins with the relationship between the city and man, and then specifically discusses the household.
+He takes issue with the view that political rule, kingly rule, and rule over a household or village are only different in size, but rule over slaves was a different kind of rule. He then examines in what way the city may be said to be natural. He concludes that "the state is a creation of nature":
+
+[W]hile the state came about as a means of securing life itself, it continues in being to secure the good life.… This association is the end of those others [the household and the village], and nature is itself an end; for whatever is the end-product of the coming into existence of any object, that is what we call its nature… Moreover the aim and the end is perfection; and self-sufficiency [αὐτάρκεια, autarkeia] is both end and perfection.
+Aristotle discusses the parts of the household, which includes slaves. He considers whether slavery can ever be just and better for the person enslaved or is always unjust and bad. He distinguishes between those who are slaves because the law says they are and those who are slaves by nature, saying the inquiry hinges on whether there are any such natural slaves.
+Only someone as different from other people as the body is from the soul or beasts are from human beings would be a slave by nature, Aristotle concludes, all others being slaves solely by law or convention. Some scholars have therefore concluded that the qualifications for natural slavery preclude the existence of such a being (though Aristotle was convinced that natural slaves existed).
+Aristotle then moves to the question of property in general, arguing that the acquisition of property does not form a part of household management (οἰκονομική, oikonomikē) and criticizing those who engage in excessive chrematistics. Wealth accumulation is necessary to a point, but that does not make it a part of household management any more than it makes medicine a part of household management just because health is necessary.
+He criticizes income based upon trade and upon interest, saying that those who become avaricious do so because they forget that money merely symbolizes wealth without being wealth, and that interest is "contrary to nature" because it increases by itself not through exchange.
+Book I concludes with Aristotle's assertion that the proper object of household rule is the virtuous character of one's wife and children, not the management of slaves or the acquisition of property. Rule over the slaves is despotic, rule over children kingly, and rule over one's wife political (except there is no rotation in office). Aristotle questions whether it is sensible to speak of the "virtue" of a slave and whether the "virtues" of a wife and children are the same as those of a man. He thinks that such people have their own sort of virtues, though not the same set as those of free men, and that even to the extent that they have virtues with the same names as those of free men, they mean somewhat different things.
+
+Book II
+Book II examines various views concerning the best regime. It opens with an analysis of the regime presented in Plato's Republic. Aristotle maintains that, contrary to Plato's assertions, communal share of property between the guardians will increase rather than decrease dissensions, and sharing of wives and children will destroy natural affection. He concludes that common sense is against this arrangement for good reason, and claims that experiment shows it to be impractical. He next analyzes the regime presented in Plato's Laws. Aristotle then discusses the systems presented by two other philosophers, Phaleas of Chalcedon (who promoted methods of enforcing wealth egalitarianism) and Hippodamus of Miletus (who had detailed plans for utopian communities).
+After addressing regimes invented by theorists, Aristotle moves to the examination of three existing regimes that were commonly held to be well managed. These are the Spartan, Cretan,  and Carthaginian. The book concludes with some observations on regimes and legislators, and on the reforms of Solon in Athens.
+
+Book III
+Aristotle considers citizenship and who counts as a citizen. He asserts that a citizen is anyone who is "entitled to participate in office, deliberative or judicial". This excludes honorary citizens, resident aliens, slaves, women, foreigners even if they have some access to the legal system through commercial treaties, boys too young for military service, or people who have been exiled or stripped of their citizenship. Aristotle is also doubtful about whether citizenship should extend to the banausos or working classes.
+He next considers what sort of entity a state is, whether it is a single thing, and under what circumstances it can be considered to have changed or, alternatively, to have been supplanted by a new state. He then turns to the question of how the virtues of a person qua person line up with the virtues of a person qua citizen: where they are coincident and where they may differ.
+
+Next, Aristotle classifies varieties of constitution, in their good and bad forms (in good ones, the rulers rule in the interest of the common good; in bad ones, for the benefit of the rulers themselves).
+
+"The state is an association intended to enable its members, in their households and the kinships, to live well," says Aristotle, "its purpose is a perfect and self-sufficient life." So what is important is not so much who has the power, but whether that power is deployed skillfully toward that end. Political organizations based on equality of power, or on power distributed proportionally to wealth or nobility, are at best approximations to this. Ideally, those who contribute most to the association of people living together for the sake of noble action are entitled to a larger share of state authority. Justice means more than just conformity to constitutional norms; whatever destroys the health of society is not just, even if it was accomplished legally.
+In chapter 11, Aristotle explains the wisdom of the crowd phenomenon: "[I]t is possible that the many, no one of whom taken singly is a sound man, may yet, taken all together, be better than the few, not individually but collectively." This is one argument for letting a broad base of people engage in political decision-making even though none of them are individually particularly qualified to do so.
+He argues against the idea that extraordinarily virtuous people ought to be given the reins of the state. Rather, "such men we must take not to be part of the state... there is no law that embraces men of that calibre: they are themselves law." Indeed, a wise state might be better off showing such people the door so that they do not become sources of political instability.
+Finally, he returns to his division of varieties of constitution, and begins to analyze them in greater detail, beginning with varieties of monarchy/tyranny.
+He also explores the idea that there is a sort of natural lifecycle of states: A state begins when it is founded by an outstanding individual, capable of conferring benefits on others, who becomes the monarch. As more people of good character emerge in the state, they begin to agitate for more political power, and an aristocracy emerges. But corruption then sets in as the aristocracy leverages their political power over the commons for economic gain. Oligarchy sets in, followed by tyranny, and then democracy, such that "one might say that it is hard to avoid having a democratic constitution."
+
+Book IV
+Political science, says Aristotle, should address the following questions:
+
+What sorts of constitution are there, and which are ideally best?
+For a particular real-world population, given its present circumstances and capabilities, which constitution would be best?
+What are the dynamics of actual states as we find them; how do they develop and decay; and how can we affect this?
+Are there cookie-cutter constitutional forms that can be recommended?
+He distinguishes laws from constitutions:
+
+a constitution
+"the organization of a polis, in respect of its offices generally, but especially in respect of that petticoat office whis is sovereign in all issues."
+the laws
+"are those according to which the rulers shall rule and shall watch out for those that transgress them"
+Of the constitutional varieties Aristotle categorized in the previous book, he ranks them as follows (best to worst):
+
+monarchy
+aristocracy
+polity
+democracy
+oligarchy
+tyranny
+Aristotle says that states, and the citizenry, can be divided up in various ways, depending on the constitutional order, the purpose of the state, and the nature of the society it governs. At minimum, a state will have "organs" (analogous to the functional organs of a body) of sorts like 
+agricultural, mechanical (manufacturing), commercial, labor, capital, military, judicial & deliberative/legislative, and executive/bureaucratic.
+He next considers varieties of democracy, including those in which the majority rules but has restraints into what they can do with that rule, and those in which the majority rules utterly. He says that demagogues are typically the catalyst for a democracy going rogue and exercising power irresponsibly. Demagogues have a similar role in a decaying democracy as toadies have in a decaying monarchy: they flatter the ruler(s) into ever more arbitrary and selfish exercises of power.
+There are four varieties of oligarchy: those based on property; those originally based on property but that you cannot just buy your way into; those that are hereditary but limited by law and precedent; and those that are hereditary and arbitrary.
+A polity is a sort of mix of democracy and oligarchy: "A constitution which is a really well-made combination of oligarchy and democracy," Aristotle says, "ought to look like both and like neither." It tends to most empower the middle-class, and is most healthy if economic inequality is kept within reasonable bounds.
+To prevent the majority from seizing power by force of numbers, you can use a variety of financial incentives that nominally disadvantage the wealthy to keep the lower classes satisfied with giving the wealthy more power (for example you can fine the wealthy for neglecting to serve on a jury but let the poor skip out without penalty).
+Aristotle next discusses the legislative element of government, which he says has the following responsibilities:
+
+“decisions as to war and peace”
+“the making and dissolving of alliances”
+“legislation”
+“the penalties of death, exile, and confiscation of goods”
+“the choosing of officials, and the scrutiny of their conduct on expiry of tenure”
+The executive branch has more variety, depending on the particular government, its constitutional structure, and how its members are chosen. The judicial branch varies in this way as well. It is typically divided into different varieties of court, each specializing in a different sort of dispute or auditing function.
+
+Book V
+Aristotle next examines political instability in greater detail, beginning with factionalism. According to Aristotle, factionalism can arise due to ordinary human biases: people are biased toward self-interest. They usually find that people in situations like their own are not getting as much power, status, or resources as they deserve, and they are drawn to join with others of their situation to try to improve their lot. The following causes are examples of situations that can also lead to destabilizing factionalism:
+
+Two large factions in a power struggle are closely-matched in capabilities, without a more powerful buffer institution between them, such that the fruits of victory in a power struggle seem especially tempting.
+The form of government in your polis is different from those in the surrounding ones (e.g. an oligarchy surrounded by democracies)
+If conditions like these prevail, a spark can set off a fire that burns down the constitutional order. That spark can be something seemingly trivial and far-removed from the actual underlying causes that are causing the constitutional order to decay. By the time this happens, it's too late. It's important to address constitutional instability before the straw breaks the camel's back.
+Different sorts of constitutional orders fall in different ways. Democracies are most easily toppled by demagogues who either become tyrants themselves or who provoke a threatened oligarchy into seizing power to prevent a populist uprising that threatens their property and status. They can also decay slowly into worse forms of democracy if too many people are given the vote and electioneering and pandering to voters becomes the main way to get political power.
+Oligarchies become vulnerable when the oligarchs become haughty and abusive, when powerful and jealous people are denied entry to the oligarchy, or when internal intrigue divides the oligarchs. Demagogues can exploit these things to lead populist democratic uprisings. Oligarchies may also fall by "temporarily" ceding power to a military leader during time of war, who then either refuses to relinquish power or decides to devolve it to a military junta rather than to the original oligarchs. Independent, "non-political" militaries can evolve into political factions of their own that can undermine oligarchies. Reforms (for example a relaxing of property requirements to be considered a qualified oligarch) can also gradually transform an oligarchy into something more resembling a democracy.
+Aristocracies and polities most often fall when they economically exploit and unjustly mistreat the lower classes. As in oligarchies, demagogues will exploit this to agitate the lower classes and peel them away their loyalty to the constitutional order. Polities that lean towards oligarchy or towards democracy tend to continue to slide gradually in the direction of their lean, with occasional lurches in the opposite direction when the people on the other side feel wronged enough to do something about it.
+Monarchies and tyrannies are undermined by resentment of injustice and ill-treatment, fear of things getting worse (we'd better overthrow the tyrant now while we still can), contempt for the tyrant's character (for example, when the heir to the throne turns out to be inept), when the tyranny confiscates property, or when someone has ambitions to seize some of the honor and riches the tyrant is hoarding. Some of this is similar to the sources of instability in other constitutional orders, but in a monarchy it's more personal: the target of the resentment is usually the monarch himself rather than the constitutional order. And therefore the threat is also usually to the monarch and not to the constitution: the revolutionaries want vengeance more than they want to seize power.
+Aristotle gives some advice about how to preserve and stabilize various types of constitutional order:
+
+Beware of the accumulation of minor illegalities; these can add up to a general contempt of the laws.
+Give non-citizens a seat at the table, do not deny the ambitious the honor they seek, do not lock the masses out of the economy, and keep those parts of the government that are democratic in nature operating in a spirit of equality and power-sharing.
+Short tenures of office reduce the problem of malevolent, tyrannical, incompetent, or factional office-holders,.
+While it is good for the stability of a state that threats be kept well at bay, it can also be useful to have threats close at hand, because this rallies citizens around the flag and discourages internal division. So it can help to invent fanciful threats if none are handy.
+If you use wealth-qualification in your oligarchy, be sure to index it for inflation and changes in property values so it does not unintentionally evaporate, leaving a de facto democracy behind.
+Power corrupts, so do not give too much power to any individual for long.
+Beware concentrations of wealth or the accumulation of power outside of legal channels by wealthy people; exile them if you have to if they grow too powerful. Balance any offices that have become dominated by wealthy interests. Strengthen the middle-class.
+You may need to set up some authority whose sole job it is to keep the polis operating according to its constitution.
+Ensure that political offices are not sources of financial profit for the officials who hold them. People resent office-holders robbing the public treasury or being otherwise corrupt. Note that if you cannot profit from being in office, your institutions can be nominally democratic but only already-wealthy people will be willing to take positions in them, which satisfies both the democrats and the oligarchs.
+Publicly audit office-holders at the end of their terms in order to prevent theft of public funds.
+Honor officials who develop a reputation for honesty in office.
+Avoid “soak the rich” or redistribution policies, and don't encourage showy expenditures on public goods by the wealthy. Instead arrange your laws such that they do not facilitate the accumulation of great estates.
+Discourage ill-treatment or injustice toward the poor by the rich.
+If you can, improve the balance by giving your attention and authority to those who are currently most excluded by your constitution. For instance, in an oligarchy, consult the people; in a democracy, consult the oligarchs. Similarly, your rhetoric should face in the opposite direction from your power base: as head of the oligarchy call yourself the champion of the common man; as head of the democracy vow to respect private property.
+Office-holders should have respect for the constitution, skill & experience, and those virtues and that sense of justice that is appropriate to the variety of constitution. But given that all of these qualities are rarely found in the same person, choose officials wisely and based on the requirements of the office.
+The health of the constitution depends on more people wanting to maintain it than to overthrow it. Avoid alienating any portion of the population, but instead try to bring everybody to the table. Beware of taking good-sounding principles to extremes: Either absolute democracy or absolute oligarchy will fall victim to its excesses.
+Most importantly, educate the citizenry in the virtues necessary to the constitutional order. Make virtuous, lawful behavior the habitual norm through careful training. Teach democratic citizens how to exercise their roles responsibly; teach oligarchs theirs as well. Too often in an oligarchy, the sons of the rich lead idle, frivolous lives, and so the poor become more politically sophisticated and thereby revolutionary. Democracies also fail in this regard, and confuse what is just and right with whatever whim the majority happens to will at any particular time.
+A monarchy can preserve itself best by being moderate and being willing to share power or refrain from exercising power. A tyrant can try this too, if he cares to, and ought at least to make a show of being restrained and dignified (and pious) in public.
+A tyrant can maintain power by identifying and eliminating potential rivals, banning independent organizations, discouraging people from working together, making people dependent on the government, having spies among the people so that it's hard for them to know whom to trust, keeping the masses at each other's throats, keeping them poor so they're too busy making ends meet to rise up, being often at war or on the brink of it, and keeping women and slaves subjugated so that the main power struggle in society is within the people not between the people and the tyrant.
+A tyrant should bestow honors personally, but delegate the imposition of punishments to others. It is dangerous to humiliate or abuse people.
+If you raise someone to prominence, keep an eye on them and empower their rivals as well. If you have to take someone down a notch, do it gradually.
+As a tyrant, identify whether the common people or the propertied people are the most powerful faction, and, whichever it is, declare yourself to be their champion.
+Finally, Aristotle criticizes Plato's suggestion from the Republic that there is a natural lifecycle of constitutions in which they begin as aristocracies and then progressively decay through the stages of timocracy, oligarchy, democracy, and finally tyranny. Aristotle says that this is oversimplified, does not make theoretical sense, and fails the empirical test of looking at regime change in the historical record. History shows a much larger variety of transformations than these have taken place.
+
+Book VI
+Aristotle next looks more closely at democratic and at oligarchic constitutions. He begins with the democratic.
+"Liberty" is the usual principle behind democracy, Aristotle says, and what is typically meant by this is that people take turns being the ruler and being the ruled, the majority makes the decisions, and people are generally left alone to live as they please (or, to the extent that they are ruled over, they at least get to rule over others in turn).
+Common features of democratic constitutions include:
+
+Everyone can vote and can be elected for office.
+The rule of all over each, and of each (by turns) over all.
+Offices are filled by lot (unless they require some specialized skill).
+There is no property qualification for office.
+Office holders are term-limited and cannot hold the same office twice in succession.
+Important cases are tried by jury.
+The legislature is the most powerful and sovereign body.
+Government service is a paid position.
+Officials are not typically distinguished by birth, wealth, or education.
+The issue with defining equality in the manner a democratic constitution states, is that the majority are "more equal" than those in a minority, who are not represented. In particular, the more numerous poor can plunder the less-numerous rich using their majoritarian power. A possible remedy for this is a sort of bicameralism in which a popular assembly and an oligarchical one each vote on the same questions. Where they agree, the polis is in consensus, and can proceed. Where they disagree, appeal next to a combined assembly in which everyone's vote is weighted by their property value; this proportionally-voting assembly has the final word.
+Democracies work best in agriculture-based communities of small farm holders. This is in large part because the common people are located far from the government seat and are busy with their farms, so they are not often tempted to use their democratic rights: if they can elect and audit their rulers, they are usually satisfied to let them be otherwise. Such a system is nominally democratic, which flatters the people, but the people who actually hold office and take part in government affairs are usually the wealthy urbanites, which pleases the oligarchs.
+Among the things that can make a democracy more stable:
+
+Preserve small-farm holdings by passing laws discouraging concentration of land ownership or mortgaging farms.
+Don't enfranchise any more classes of citizens than you have to.
+Disrupt old allegiances, groups, and traditions in favor of new ones that are centered on the democracy.
+Make it more difficult for the government to use money confiscated from the rich to bribe the voters or for populist free-money giveaways.
+Aristotle believed that a polis should be made from borrowing elements from both an oligarchy and democracy.
+Oligarchies are most likely to thrive if an expensive military branch is necessary. For instance, if your polis relies on cavalry, your military will be dominated by those who can afford to keep horses, which will reinforce oligarchical norms. If your military is dominated by the more democratic light infantry or navy, however, an oligarchy will have a harder time justifying itself and will find the military has become a democratic power center that may pose a challenge to it. In such a case, consider enlisting the sons of the oligarchs in your military so that it does not become a hotbed of democratic sentiment.
+If you require oligarchical office holders to fund public activities, establish public works, throw banquets, and the like, the common people will be more satisfied with a constitution that otherwise neglects them. Such things are also a sort of public relations campaign for the oligarchy.
+Finally, Aristotle describes the necessary bureaucracy of a polis, which at minimum needs officials who superintend:
+
+religion (temple management, ritual supervision)
+defense and war
+the treasury
+commerce (keeps the marketplace in good order and ensures honesty in its workings)
+public works (keeps streets in good order, repairs dilapidated public buildings and walls and harbors, fixes property boundaries)
+land management (similar responsibilities, but covers the territory outside the urban center)
+the courts
+records (keeps track of contracts, legal decisions, and other documents)
+law enforcement (enforces judgments, imprisons offenders)
+audits (into the accounts of the various offices and the conduct of officials)
+presiding (over governing bodies and secular rituals)
+Law enforcement is particularly difficult to get right. The people it is directed against naturally resent it, and so it is difficult and unrewarding. Respectable people avoid becoming law enforcement officers, which leads the office to be peopled by the worst sort "who are themselves more in need of guarding than capable of guarding others." Aristotle recommends that instead of making this a professional position, that law enforcement officers be drafted from those doing militia duty, who then rotate out at the end of their duty period.
+
+Book VII
+The purpose of political association is to promote human flourishing (Eudaimonia), something Aristotle defined and further examined in the Nicomachean Ethics.
+Human flourishing requires the basics of biological survival, a good character (the virtues), and the finer things of life. Virtues are especially important, as they can help you achieve the other two things, but also because (in the best of us, anyway) we only acquire biological necessities and additional material luxuries in order that we may practice the virtues in a complete and unimpeded way. Don't make the mistake of pursuing material goods for the sake of wealth, or political authority for the sake of power.
+A state is in some ways analogous to a person, and also needs virtues in order to thrive. Some people think that the virtues of a state are limited to military virtues (courage, honor, boldness), but Aristotle thinks this is too narrow.
+An individual is best off neither as an ambitious political climber, nor as an aloof hermit, but as someone who engages politically in a just and restrained way. The most virtuous people will not be the rulers, nor will they care to be.
+Aristotle examines certain down-to-earth but important considerations for the success of political organizations: the extent of territory and the size of population, access to the sea, and the influence of climate. In addition, a successful state will need:
+
+a food supply
+a skilled workforce
+arms
+money
+religion, and a dedicated priesthood
+a decision-making and adjudication process
+a comfortably wealthy ruling class
+The purpose of a good state is to promote the virtues of its citizens, but it takes virtuous citizens to govern (and be governed in turn by) a good state. The problem of how to make sure the citizens are virtuous people is vital and of first importance to the person who wants to create or defend a sound state.
+Three parts of the characters of citizens shape their virtuousness: their nature as a human being, their irrational part (the subconscious, habits, things of that sort), and their rational part. The first is largely out of the statesman's control, though eugenics is a possibility Aristotle thinks is worth exploring, and prenatal/postnatal care and nutrition is also important. The second is best formed when the citizen is a youth and their habits and appetites have not yet solidified. The third comes later, when the rational part of a person matures.
+Aristotle recommends a deliberate regimen of education to mold citizens' characters well from childhood.
+
+Book VIII
+This book begins where the previous one left off, with a discussion of education. But it then concerns itself with musical education and music theory exclusively until the conclusion.
+
+Education
+The quality of a state depends on the character of the citizenry, which is a function of the virtues actively practiced by them. This requires education, training, and practice, starting from an early age. The state needs to make sure this happens.
+Aristotle recommends beginning with gymnastic training at an early age, before children are ready for much intellectual effort. However, Aristotle stresses the need for moderation in this, and that one should not pursue physical education to such an extreme as the Spartans, for example.
+Education needs to be about more than learning arts and crafts, or becoming a competent scholar. It should attempt to craft the student into a better person. This does not necessarily mean a more useful person: indeed a good person is one who best knows how to deploy his leisure time toward the end of living a good life.
+Musical education is one way of teaching people how to produce and to appreciate something meant for leisurely delight.
+
+Music
+Aristotle considers a variety of perspectives on musical education. For instance: is it better designed to teach good taste about music, or skill in making music?
+Music is an end, which is to say that it is something desired for its own sake, not as a means to something else. Choosing our ends wisely is key to living well, so musical education is kind of a microcosmic way of learning how to live.
+Different varieties of music can also provoke emotional reactions in people. If you learn to like music that evokes noble changes in your soul, this can help you to learn noble behavior. For example dorian mode is preferred for its manly qualities, over phrygian mode and ionian mode.
+
+Classification of constitutions
+After studying a number of real and theoretical city-states' constitutions, Aristotle classified them according to various criteria. On one side stand the true (or good) constitutions, which are considered such because they aim for the common good, and on the other side the perverted (or deviant) ones, considered such because they aim for the well-being of only a part of the city. The constitutions are then sorted according to the "number" of those who participate to the magistracies: one, a few, or many. Aristotle's sixfold classification is slightly different from the one found in The Statesman by Plato. The diagram above illustrates Aristotle's classification.
+Moreover, following Plato's vague ideas, he developed a coherent theory of integrating various forms of power into a so-called mixed state:
+
+ It is … constitutional to take … from oligarchy that offices are to be elected, and from democracy that this is not to be on a property-qualification. This then is the mode of the mixture; and the mark of a good mixture of democracy and oligarchy is when it is possible to speak of the same constitution as a democracy and as an oligarchy.
+
+Composition
+The literary character of the Politics is subject to some dispute, growing out of the textual difficulties that attended the loss of Aristotle's works. Book III ends with a sentence that is repeated almost verbatim at the start of Book VII, while the intervening Books IV–VI seem to have different flavor from the rest; Book IV seems to refer several times back to the discussion of the best regime contained in Books VII–VIII. Some editors have therefore inserted Books VII–VIII after Book III. At the same time, however, references to the "discourses on politics" that occur in the Nicomachean Ethics suggest that the treatise as a whole ought to conclude with the discussion of education that occurs in Book VIII of the Politics, although it is not certain that Aristotle is referring to the Politics here.
+Werner Jaeger suggested that the Politics actually represents the conflation of two, distinct treatises. The first (Books I–III, VII–VIII) would represent a less mature work from when Aristotle had not yet fully broken from Plato, and consequently show a greater emphasis on the best regime. The second (Books IV–VI) would be more empirically minded, and thus belong to a later stage of development.
+Carnes Lord, a scholar on Aristotle, has argued against the sufficiency of this view, however, noting the numerous cross-references between Jaeger's supposedly separate works and questioning the difference in tone that Jaeger saw between them. For example, Book IV explicitly notes the utility of examining actual regimes (Jaeger's "empirical" focus) in determining the best regime (Jaeger's "Platonic" focus). Instead, Lord suggests that the Politics is indeed a finished treatise, and that Books VII and VIII do belong in between Books III and IV; he attributes their current ordering to a merely mechanical transcription error.
+It is uncertain whether Politics was translated into Arabic like most of his major works. Its influence and ideas were, however, carried over to Arabic philosophers.
+
+Translations
+Aristotle (1948). The Politics. Translated by Barker, Sir Ernest. Oxford: Clarendon Press.
+Aristotle (1912). The Politics, or a Treatise on Government. Everyman's Library. Translated by Ellis, William. London: J.M. Dent & Sons.
+Aristotle (1885). The Politics. Translated by Jowett, Benjamin. Oxford: Clarendon Press. (volumes 1 and 2)
+Aristotle (2013). Politics. Translated by Lord, Carnes (2nd ed.). Chicago: University of Chicago Press. ISBN 978-0-226-92183-9.
+Aristotle (1984). The Politics. Translated by Lord, Carnes. Chicago: University of Chicago Press. ISBN 978-0-226-02669-5.
+Aristotle (1887). The Politics. Translated by Newman, W.L. Oxford: Clarendon Press. (volumes 1, 2, 3, and 4)
+Aristotle (1932). Politics. The Loeb Classical Library. Translated by Rackham, H. London: William Heinmann.
+Aristotle (1998). Politics. Translated by Reeve, C.D.C. Indianapolis: Hackett. ISBN 978-0-87220-388-4.
+Aristotle (2012). Politics. Translated by Sachs, Joe. Cambridge, Massachusetts: Focus. ISBN 978-1585103768.
+Aristotle (1997). The Politics: Translation, Analysis, and Notes. Translated by Simpson, Peter L. P. Chapel Hill: University of North Carolina Press. ISBN 978-0-8078-2327-9.
+Aristotle (1981). The Politics. Translated by Sinclair, T. A. Harmondsworth: Penguin. ISBN 978-0-14-044421-6.
+Aristotle (1894). The Politics, a Revised Text. Translated by Susemihl, Franz; Hicks, R.D. London: MacMillan and Co.
+Aristotle (1853). The Politics and Economics. Translated by Walford, Edward. London: Henry G. Bohn.
+Aristotle (1883). The Politics, with an Analysis and Critical Notes. Translated by Welldon, J.E.C. London: MacMillan and Co.
+
+Greek text
+Aristotle (1855). Congreve, Richard (ed.). The Politics, with English Notes. London: John W. Parker and Son.
+
+See also
+Kyklos, the cycle of governments in a society
+Plato's five regimes
+
+Notes
+Further reading
+Aquinas, St. Thomas (1272). Commentary on Aristotle's Politics.
+Barker, Sir Ernest (1906). The Political Thought of Plato and Aristotle. London: Methuen.
+Davis, Michael (1996). The Politics of Philosophy: A Commentary on Aristotle's Politics. Lanham: Rowman & Littlefield.
+Frank, Jill (2005). A Democracy of Distinction: Aristotle and the Work of Politics. Chicago: University of Chicago Press.
+Goodman, Lenn E.; Talisse, Robert B., eds. (2007). Aristotle's Politics Today. Albany: State University of New York Press. ISBN 9780791472279.
+Keyt, David; Miller, Fred D. (1991). A Companion to Aristotle's Politics. Cambridge: Blackwell.
+Kraut, Richard; Skultety, Steven, eds. (2005). Aristotle's Politics: Critical Essays. Lanham: Rowman & Littlefield.
+Lang, Andrew (1886). The Politics of Aristotle: Introductory Essays. London: Longmans, Green, and Co.
+Mara, Gerald (1995). "The Near Made Far Away". Political Theory. 23 (2): 280–303. doi:10.1177/0090591795023002005. S2CID 143561538.
+Mayhew, Robert (1997). Aristotle's Criticism of Plato's Republic. Lanham: Rowman & Littlefield. ISBN 0847686558.
+Miller, Fred D. (1995). Nature, Justice, and Rights in Aristotle's Politics. Oxford: Oxford University Press.
+Nussbaum, Martha (1986). The Fragility of Goodness. Cambridge: Cambridge University Press. ISBN 0521277027.
+Salkever, Stephen, ed. (2009). Ancient Greek Political Thought. Cambridge Companions to the Ancient World. Cambridge University Press. doi:10.1017/CCOL9780521867535. ISBN 9780521867535.
+Salkever, Stephen G. (1990). Finding the Mean: Theory and Practice in Aristotelian Political Philosophy. Princeton, N.J.: Princeton University Press. ISBN 0691078033.
+Simpson, Peter L. (1998). A Philosophical Commentary on the Politics of Aristotle. Chapel Hill: University of North Carolina Press. ISBN 9780807823804.
+Strauss, Leo (1964). The City and Man. Chicago: The University of Chicago Press. Ch. 1. ISBN 0226777014. LCCN 78-57567. {{cite book}}: ISBN / Date incompatibility (help)
+
+External links
+
+Aristotle: Politics entry by Edward Clayton in the Internet Encyclopedia of Philosophy
+Miller, Fred. "Aristotle's Political Theory". In Zalta, Edward N. (ed.). Stanford Encyclopedia of Philosophy. ISSN 1095-5054. OCLC 429049174.
+Aristotle's Politics on In Our Time at the BBC
+Versions
+
+Politics, full text by Project Gutenberg, trans. by William Ellis
+English translation at Perseus Digital Library, translation by Harris Rackham
+Australian copy, trans. by Benjamin Jowett
+HTML , trans. by Benjamin Jowett
+PDF at McMaster, trans. by Benjamin Jowett
+ Politics public domain audiobook at LibriVox

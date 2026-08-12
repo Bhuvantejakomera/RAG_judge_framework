@@ -1,0 +1,43 @@
+Cabinet (or CAB) is an archive-file format for Microsoft Windows that supports lossless data compression and embedded digital certificates used for maintaining archive integrity. Cabinet files have .cab filename extensions and are recognized by their first four bytes (also called their magic number) MSCF. Cabinet files were known originally as Diamond files.
+
+Design
+A CAB archive can contain up to 65,535 folders (distinct from standard operating system directories), each of which can contain up to 65,535 files for a maximum of 4,294,836,225. Internally, each folder is treated as a single compressed block, which provides more efficient compression than individually compressing each file.
+Every entry in a folder has to be a file. Due to this structure, it is not possible to store empty folders in CAB archives.
+The following shows an example a CAB file structure, demonstrating the relationship between folders and files:
+
+How paths should be handled is not specified in the CAB file format, leaving it to the software implementation:
+
+Some affix file paths to filenames only, as if all files in a CAB archive are in a single folder. IExpress works this way, as does Microsoft Windows Explorer, which can open CAB archives as a folder.
+Some can store the paths, and upon extraction, create folders as necessary. CABARC.EXE and EXTRACT.EXE (tools from Microsoft Cabinet SDK) as well as lcab and cabextract (third-party open-source tools) work this way.
+EXPAND.EXE, only since version 6 (which is included from Windows Vista to above) can extract files to their paths. The previous versions don't do it.
+The CAB file format may employ the following compression algorithms:
+
+DEFLATE: invented by Phil Katz, the author of the ZIP file format (specifically, the MSZIP encapsulation)
+Quantum compression: licensed from David Stafford, the author of the Quantum archiver (not available in all versions of makecab.exe/diamond.exe)
+LZX: invented by Jonathan Forbes and Tomi Poutanen, given to Microsoft when Forbes joined the company
+NULL: stored
+A CAB archive can reserve empty spaces in the archive as well as for each file in the archive, for some application-specific uses like digital signatures or arbitrary data.
+
+Implementations
+Microsoft Windows supports creating CAB archive files using the makecab command-line utility. It supports extracting the contents of a CAB archive files using File Explorer, Setup API, and using the command-line commands expand.exe, extract.exe and extrac32.exe.
+Other well-known software with CAB archive support includes WinZip, WinRAR or 7-Zip. The aforementioned cabextract is a common tool for Linux systems, but is only capable of extracting archives. The gcab tool however can both extract and create CAB archives. For a full list, see Comparison of file archivers § archive formats.
+
+Uses
+A variety of Microsoft installation technologies use the CAB format: these include Windows Installer, Windows Setup (from Windows 95 to Windows Server 2003), Setup API, Device Installer, Theme Pack and AdvPack (used by Internet Explorer to install ActiveX components). CAB files are also often associated with self-extracting programs like IExpress where the executable program extracts the associated CAB file. CAB files are also sometimes embedded into other files. For example, MSI and MSU files usually include one or more embedded CAB files.
+Windows uses the cabinet format to archive its Component-Based Servicing (CBS) log, which is kept in the folder C:\Windows\Logs\CBS. A bug in the compression process can cause run-away generation of useless log files both in that folder and in C:\Windows\Temp, which can consume disk storage until completely filling the hard drive. Deletion of the files without following a specific procedure can cause the deleted files to be regenerated at an increased pace.
+On Linux systems, CAB archives are used by fwupd to distribute firmware updates from hardware vendors that can be flashed on non-volatile memory.
+
+Related formats
+The .cab filename extension is also used by other installer programs (e.g. InstallShield) for their own proprietary archiving formats. InstallShield uses zlib for compression (see Deflate), but their headers are not the same as for Microsoft CAB files so they are incompatible and cannot be manipulated or edited with the programs that are made for standard cabinet format. Specialized third-party utilities, such as Unshield, can extract this specific proprietary format. This format has a different magic number of ISC(.
+Windows CE and Windows Mobile software is distributed as CAB files where the first file inside, ending with extension ".000", details how it is installed.
+Microsoft Installer .msi files sometimes contain CAB files, but are themselves in the Compound File Binary Format which has to be decoded first. Software like lessmsi can be used to unpack these files.
+Microsoft Publisher has a "Pack and Go" feature that bundles a publisher document, together with all external links, into a CAB file with a .PUZ extension. These files are meant to be activated with a companion .EXE file which is distributed along with the .PUZ file. These files may be opened with any CAB file extraction program.
+
+See also
+List of archive formats
+
+References
+External links
+
+Microsoft Cabinet SDK – updated versions of these resources are available in the Microsoft Windows SDK
+Cabinet Software Development Kit (CAB SDK) – downloads of all Microsoft CAB SDK versions (free)

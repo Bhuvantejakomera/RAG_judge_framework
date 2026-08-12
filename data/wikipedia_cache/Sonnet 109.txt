@@ -1,0 +1,50 @@
+Sonnet 109 is one of 154 sonnets written by the English playwright and poet William Shakespeare. It's a member of the Fair Youth sequence, in which the poet expresses his love towards a young man.
+
+Synopsis
+The poet denies that he has been emotionally unfaithful even though he has been absent. He can no more be untrue to the youth than to himself. If he has wandered away, he has returned, and washed away his own guilt. Even though the poet is capable of shameful behavior, he could never be so corrupted that he would lose the perfection of the youth.
+Sonnet 109 explores the uncertainty of a fulfillment of a promise made by the poet to his apparent love. The poet's promised love is inextricable from the fact that the poet is lamenting over a long lost lover who, moreover, has not seen him for quite some time. In the sonnet a sense of forced separation is felt in each quatrain, along with an inconsolable tone which Shakespeare uses to convey an anachronism of revisiting a time of ephemeral love. The poet ends the sonnet with a magnanimous confession of love which is most likely unrequited.
+
+Structure
+Sonnet 109 is an English or Shakespearean sonnet. The English sonnet has three quatrains, followed by a final rhyming couplet. It follows the typical rhyme scheme of the form abab cdcd efef gg and is composed in iambic pentameter, a type of poetic metre based on five pairs of metrically weak/strong syllabic positions. The 12th line exemplifies a regular iambic pentameter:
+
+ ×  /     ×   /  ×   /     ×  /  ×   / 
+To leave for nothing all thy sum of good; (109.12)
+
+/ = ictus, a metrically strong syllabic position. × = nonictus.
+Line 9 has an initial reversal, a common metrical variant:
+
+ / ×   × /      ×    /   ×  / ×    / 
+Never believe though in my nature reigned, (109.9)
+
+There is also an initial reversal in line 5, and potentially in lines 7 and 8. Line 13 may be scanned with a rightward movement of the second ictus (resulting in a four-position figure, × × / /, sometimes referred to as a minor ionic):
+
+ ×   /  ×     ×   /   / × /    ×  / 
+For nothing this wide universe I call, (109.13)
+
+The meter demands that line 11's "preposterously" be pronounced with four syllables (prepost'rously).
+
+Context
+Sonnet 109 was originally published in 1609 with the rest of Shakespeare's sonnets as a collection dedicated to "Mr. W.H." and now referred to as the 1609 Quarto or Quarto 1. Sonnet 109 belongs to the group of sonnets (1-126) that are commonly categorized as "sonnets to a fair youth." This group of sonnets, according to Arthur F. Marotti, "consists of poems written to a younger man who is clearly treated as a patron". The identity of this young patron, who is likely the "Mr. W.H." to whom Shakespeare dedicated the sonnets, is considered by many historians and Shakespearean analysts to be Henry Wriothesley, third Earl of Southampton. Martin Green supports this hypothesis with the evidence that Shakespeare never wrote dedications in of his works to any person besides Wriothesley. Shakespeare's relationship with this young man as interpreted from this group of sonnets is not entirely clear; his words of love and affection could be a bid for more favor, or as Judith Kegan Gardiner maintains, a true love that surprised and startled Shakespeare. Even if Shakespeare's sonnets are accepted as an expression of genuine love, there is still no consensus in academia whether this love was sexual in nature. Many critics argue that Shakespeare was homosexual, while others maintain that he was heterosexual, including the noteworthy Shakespeare analyst A. L. Rowse, who has claimed "Shakespeare is the bawdiest of the Elizabethan dramatists, with the natural bawdy of the highly sexed normal heterosexual".
+
+Analysis
+Like most other Shakespearean Sonnets, 109 consists of three quatrains and a couplet at the end. The volta can be found at the first line of the couplet. Although Sonnet 109 does not make any specific mention of gender, Paul Edmondson, in his book Shakespeare’s Sonnets, states that it may be safe to assume that Shakespeare is writing here to a young man. "The first 126 [sonnets] include none that are clearly addressed to, or concern, a woman, along with all the ones that are clearly addressed to, or primarily concern, a male". And so, if this poem is addressed to a male, who is he? According to Martin Green, the young man to whom Shakespeare dedicates many of his sonnets may be Henry Wriothesley, the third earl of Southampton. If that is the case, then Sonnet 109 does contain some imagery that might refer to Wriothesley.
+Quatrain 1 (lines 1-4)
+In Of Comfort and Despair: Shakespeare's Sonnet Sequence, Robert Witt asserts that in Sonnet 109 Shakespeare comes to the realization of his lover's "Inner Beauty" and how it is a reflection of himself. The poet [Shakespeare]…will remain young as long as the friend [lover] is young because the two are one". This, Witt believes, is what prompted Shakespeare to write Sonnet 109 as a sort of apology for renouncing the friendship between him and his lover after his lover "granted favor to other poets".
+In lines 1 and 2, Shakespeare explains that even though he was angry at his lover for favoring other poets, he was never unfaithful. Furthermore, in lines 3 and 4, Shakespeare continues use of the idea that his lover is a reflection of himself by saying "As from my soul which in thy breast doth lie".
+Quatrain 2 (lines 5-8)
+When Shakespeare's sonnets on the theme of poetry as perpetuation lead to arguments that support the complex and metaphysical aspects of love, there is a conviction that Shakespeare is wrestling with the notion of time and love fighting one another. Love and time are always changing, dimming, growing, and suffering together, but in the end Shakespeare allows readers to feel that love itself is the "defier of time". In the second quatrain Shakespeare resembles his fondness to that of a traveler returning home punctually. Yet while suggesting his travels have been long, he arrives nonetheless back, unchanged by the flow of time. His love resisting all effects of time perpetuates the meaningfulness of his endearment. His internal and genuine love proceeds from the beauty he views in his passion for himself and for his lover. It is separable and inseparable, with time and timeless.
+It is worthwhile to devote some attention to the immutable passion of love in a world of change and short-lived mortality that Shakespeare elaborates on. While the reader searches for the answer of whose love Shakespeare pines for, the question will remain timeless just as this poem and his message.
+Volta and Couplet
+Here Shakespeare lays all of his cards out onto the table with the volta, or shift of mood. The use of the word "rose" in the second line of the couplet is especially notable. Martin Green believes this a significant word because Shakespeare may be using it as a homonym of the last name "Wriothesley" (the earl of Southampton). "The prominence in the Sonnets of Rose imagery associated with and symbolic of the "faire friend" has given rise to the suggestion that the Rose imagery alludes to Henry Wriothesley, third earl of Southampton… whose name might have been pronounced Rosely". It is also of significance to note that every time the word "rose" appears in the 1609 edition of Shakespeare's sonnets it is capitalized, indicating that it may be a proper noun. Another interpretation of the use of the word rose here comes from Northrop Frye: "Rose in Elizabethan parlance meant a 'peerless or matchless person; a paragon'".
+
+Interpretations
+Susannah York, for the 2002 compilation album, When Love Speaks (EMI Classics)
+Erminia Passannanti, “O, never say that I was false of heart”. Love pretence in William Shakespeare's Sonnet 109/110/11(151/152 ", Academia.edu, 2024.
+
+References
+Further reading
+First edition and facsimile
+
+Variorum editions
+
+Modern critical editions

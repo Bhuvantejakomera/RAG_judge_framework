@@ -1,0 +1,40 @@
+Jun Murai (村井 純, Murai Jun; born March 29, 1955 in Tokyo) is a Japanese researcher known for being the founder of influential computer network projects in Japan such as the JUNET and founder of the WIDE Project. He is called by some the "Father of Internet in Japan" and "Internet Samurai." Murai is currently a professor and Dean of the Faculty of Environment and Information Studies at Keio University, as well as President of the Japan Network Information Center.
+Murai has received domestic and international awards and recognitions such as the 2011 IEEE Internet Award and entry to the Internet Hall of Fame in 2013.
+
+Early life
+Jun Murai was born on March 29, 1955, in Tokyo, Japan. As a child, he was an avid reader of Kodomo no Kagaku (Science for Kids) magazine and enjoyed building radios, making amplifiers using vacuum tubes, and learning about televisions and spacecraft. He initially hated computers as a high school student, viewing them as mere calculating machines that required human input.
+In 1970, at the age of 15, Murai spent three months in Canada and the United States at an outdoors camp exchange program. This experience, along with his later involvement in the International Camp Counselor Program (ICCP), helped shape his international perspective and provided early exposure to the English language. During his travels, he encountered a Digital Equipment Corporation (DEC) computer that could process input, write, and draw—functions that extended beyond simple calculations. This interaction changed his perception of computers, leading him to see them as tools for engineering and problem solving.
+
+Education
+Jun Murai earned his undergraduate, master's, and doctorate degrees from Keio University. He majored in Mathematics for his undergraduate studies, graduating in 1979. He then pursued a master's degree in Computer Science, which he finished in 1981. He went on to complete his Ph.D. in 1987, studying Computer Science, the Internet, and Computer Communication.
+Murai has been working at Keio University since 1990, initially as an associate professor in the Faculty of Environment and Information Studies, before he became a full-time professor in 1997. From 1999 to 2005, he was the executive director of the Keio Research Institute, followed by a tenure as Vice President of Keio University from 2005 to 2009. He then became the Dean of the Faculty of Environment and Information Studies from 2009 to 2017 and later served as the Dean of the Graduate School of Media and Governance from 2017 to 2019. Currently, Murai is the co-director of the Keio University Cyber Civilization Research Center and a distinguished professor. He is also a professor at the United Nations University Institute of Advanced Studies and the Tokyo University of the Arts.
+
+Innovations and design
+JUNET
+In 1984, Murai initiated the Japan University Network (JUNET), a computer network that originally connected the University of Tokyo, the Tokyo Institute of Technology, and Keio University using Unix-to-Unix Copy Protocol (UUCP) dial-up technology and a hierarchical domain name system. The original top-level domain name was .junet, but it was changed to .jp in 1989, and JNIC (later renamed to JPNIC) began managing the domain in 1991. The network's ability to use Japanese characters earned it popularity, and it eventually grew to encompass over 700 institutions.
+
+WIDE Project
+In 1994, JUNET was supplanted by and incorporated into innovations by the Widely Integrated Distributed Environment (WIDE) Project, a research consortium that Murai established in 1988. The project took advantage of the newly booming TCP/IP protocols to ensure that Japan is up-to-date in the rapidly developing internet world. Murai later became the President and General Chairperson of the project.
+
+Other works
+As an internet pioneer, Murai worked to develop services and protocols independent of the Japanese government. This research direction caused some friction between Murai and the government and researchers affiliated with it. During this decade, the National Center for Science Information Systems (NACSIS, reestablished in 2000 as the National Institute of Informatics), led by Professor Asano Shoichiro of the University of Tokyo, was attempting to develop government-sanctioned protocols for university networks. However, Murai's initiative to incorporate TCP/IP, diverging from government direction, frustrated NACSIS's efforts to establish a competitive network.
+Murai is credited with advocating for a free and independent internet culture and international cooperation. In particular, Murai was one of the first proponents of country code top-level domains.
+
+Awards and recognition
+Internet Society's Postel Award
+Established in 1999, the Internet Society's Jonathan B. Postel Award was invented to honor an individual or organizations contributions to the evolving Internet. Murai was selected as the 2005 recipient of the Award, for his pivotal role in spreading the Internet across Asia-Pacific. In a statement provided by Daniel Karrenberg, the chair of the Postel award committee for 2005, credits Murai for always having "encouraged, inspired and helped others".
+
+FUNAI Achievement Award
+Murai received this award in 2007, just 5 years following the first iteration of the Information Processing Society of Japan's Forum on Information Technology. Held every year, the forum brings together the efforts of the Information Processing Society of Japan (IPSJ), and the Information and Systems Society (ISS) and the Human Communication Group (HCG) of the Institute of Electronics Information and Communication Engineers (IEICE) in a unique forum. Murai was preceded by other Japanese computer scientists, like Ken Sakamura and Takeo Kanade. Murai was recognized for his developing of the Japan University UNIX Network JUNET, a first of its kind network in Japan.
+
+The IEEE Internet Award and the Okawa Prize
+As one of the world's largest technical professional organizations, the IEEE awards many special recognitions to individuals working to further the implementation of technologies aimed at the betterment of the global community. Among these awards is the IEEE Internet Award, of which Jun Murai was a recipient in 2011. The Internet Award was specifically bestowed upon individuals who made remarkable strides in the advancement of the Internet Shortly following his receipt of the IEEE Internet Award, the Okawa Foundation for Information and Telecommunications  awarded Dr. Murai the 2011 Okawa Prize alongside Dr. Ingrid Daubechies. In the extensive description of his achievements, the Okawa Foundation references his pivotal role in the initial growth of the internet in Japan, referencing his title of "Mr. Internet".
+
+The Internet Hall of Fame
+The Internet Society founded the Internet Hall of Fame in 2012 to recognize the contributions and figures that have worked together to make the Internet what we know today. Murai was selected in 2013 to join the  Internet Hall of Fame, through which he conducted a 2013 Historic Profile and his Acceptance Speech through which he communicates many of the accomplishments like JUNET and many more.
+
+Other awards
+Murai was awarded the Legion of Honour medal by the French government in 2019 and included in Asian Scientist 100 by the Asian Scientist in 2021.
+
+
+== References ==

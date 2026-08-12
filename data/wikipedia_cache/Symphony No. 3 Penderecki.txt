@@ -1,0 +1,80 @@
+The Symphony No. 3 is a symphony in five movements composed between 1988 and 1995 by Krzysztof Penderecki. It was commissioned and completed for the centenary of the Munich Philharmonic. Its earliest version, Passacaglia and Rondo (which later served as the basis for the second and fourth movements of the complete symphony), premiered at the International Music Festival Week in Lucerne, Switzerland, on August 20, 1988. It was performed by the Lucerne Festival Orchestra and conducted by Penderecki. The full symphony premiered in Munich on 8 December 1995, performed by the Munich Philharmonic, again conducted by the composer.
+The Third Symphony exhibits a number of stylistic features which exemplify Penderecki's music of the 1980s, including motor rhythms, passages of free rhythm, chromatic scalar figures and emphasis on the minor second, dissonant intervals, and expanded percussion section. The work's dense counterpoint, innovative instrumentation, free harmonies, and complex rhythms make it stylistically similar to Penderecki's 1986 opera The Black Mask.
+
+Background
+Early in his career, Penderecki was one of the key figures associated with the Polish avant-garde movement of the 1960s. Penderecki was interested in freedom from conventional aspects of music—namely meter, rhythm, harmony, melody, and form. Important works from this period, particularly Anaklasis (1959–60), Threnody to the Victims of Hiroshima (1960), and Fluorescences (1961–62), were experimental compositions characterized by blocks of sound of varying dynamics, extended techniques on acoustic instruments, and tone clusters.
+By the early 1970s, however, Penderecki began to move away from the avant-garde movement, claiming in an interview in 2000, "we pushed music so far in the sixties that even for myself, for me, I closed the door behind me, because there was no way to do anything more than I have done... I decided that there is no way that I can move on." Acknowledging that he had pushed the limits, Penderecki began to rediscover the neo-Romantics while working as a conductor in the 1970s. He specifies, "The kind of music I was conducting influenced my own music very much... During this time I began to have my Romantic ideas, partly because I was conducting Bruckner, Sibelius, and Tchaikovsky." At this point in his career, Penderecki's music begins to feature melodic expression, lyricism, and dramatic character.
+Penderecki felt that the early 1970s represented a major shift in his compositional style. Important to this shift was the composer's renewed emphasis on "tradition." Penderecki attributed the importance of tradition to Artur Malawski, his composition teacher from 1954–57, who balanced contemporary techniques with more conventional musical forms. Penderecki echoed Malawski's compositional philosophy: "The general principles at the root of a work's musical style... the integrity of a musical experience embodied in the notes the composer is setting down on paper, never change. The idea of good music means today exactly what it meant always." In 1973, he also stated he was in search of a new direction, one which resolved to "gain inspiration from the past and look back on my heritage." For Penderecki, tradition also served as an "opportunity to [overcome the] dissonance between the artist and the audience."
+The symphony particularly became an essential genre for Penderecki starting in the early 1970s, stating that his "third style period" began with his first symphony. From the 1970s on, Penderecki described the importance of the symphony in various ways, for instance explaining that his second symphony of 1980 "referred fully to the late-nineteenth century symphonic tradition..." He also stated in 2000, "...It's very clear that I'm trying to continue this tradition, this Romantic tradition" when describing his symphonic compositions. A passage from his collected essays Labyrinth of Time confirms this sentiment: "I would like to continue the music that was cast at the beginning of the [twentieth] century: the tradition of writing symphonies." More importantly, however, Penderecki saw the genre as a kind of synthesis of traditional and contemporary styles, calling the symphony "that musical ark which would make it possible to convey to coming generations what is best in our twentieth-century tradition of the composing of sounds."
+
+Instrumentation
+In addition to the traditional orchestral bodies of the 19th-century symphony, the Third Symphony makes use of a greatly expanded percussion section (which is prominently featured in the second movement).
+
+Analysis
+Although he labeled the work as the Third Symphony, Penderecki stated that "my Fourth and Fifth Symphonies came before it, chronologically." Like his other symphonies, the Third Symphony harkens back to Romantic conventions of movement designation and layout, but as scholar Tadeusz Zielinski notes, the associations with the Romantic symphony are only skeletal, as Penderecki's symphonies are "something entirely different from a reconstruction of a model from the past." Charles Dutoit labeled it a neo-Romantic work, stating "it shows [Penderecki's] love for Bruckner and Mahler and late 19th-century German music."
+The original Passacaglia and Rondo became the fourth and second movements of the symphony, respectively. The other movements were newly composed between 1988 and 1995. As per the front page of the score, the piece is approximately 50 minutes in duration.
+There are five movements:
+
+I. Andante con moto
+By far the shortest of the five movements at approximately three and a half minutes, the entire movement forms an arch—a slow crescendo to a climax with winds and brass at the halfway point followed by an equally paced diminuendo.
+
+The opening movement is characterized by an incessant bass ostinato on a low F, which continues in a regular pattern throughout. The bass ostinato introduced here also becomes a unifying motive for four of the five movements (only the third movement does not contain a defined ostinato figure).
+
+Two additional motives occur during the build-up to the climax. The first is found mainly in the upper winds and strings and is made up of faster moving ascending and descending chromatic scale fragments. The second occurs in the low winds and brass and primarily uses the dissonant intervals of a tritone and a minor ninth. This opening movement is thematically important in that it introduces both the chromatic scale and the tritone as the primary melodic building blocks for the entire symphony. Scholar Tadeusz Zielinski also notes that Penderecki's use of the chromatic scale is similar to Béla Bartók's treatment in works such as Music for Strings, Percussion, and Celesta, and Sonata for Two Pianos and Percussion.
+
+The diminuendo is primarily accomplished by an inverted variation on the bassoon/trombone motive, which is accompanied by fragments from the chromatic theme played at one-quarter tempo in the violins. A solitary clarinet line is all that remains from the original treatment of the chromatic figure. The movement closes with a long B-minor chord held over the F in the bass, preserving the dissonant character and emphasizing the tritone relationship. The pitches of B and F introduced here will also become important to later movements.
+
+II. Allegro con brio
+Originally labeled "Rondo" by the composer, the ten-minute second movement only roughly follows the conventional form, and motives become fragmented and return at different pitch levels or with different instrumentation. This movement is also notable for its prominent use of the expanded percussion section, as pitched percussion including toms, marimba, and timbales carry thematic material for extended periods of time.
+
+The characteristic building blocks of the themes are again the tritone and the chromatic scale. The tritone, initially stated between the pitches B and F, is established at the opening of the movement between the violins and timpani, and also in descending violin clusters.
+
+In between statements of the theme are episodes which often include long solo passages for various instruments. The episodes are unified primarily by their melodic material and character, and themes frequently emphasize both the chromatic scale and the tritone. The trumpet and English horn are both notable examples of episodic melodies.
+
+Additionally, Penderecki also puts added emphasis on the interval of the half step, the smallest unit of the chromatic scale, seen most prominently in the viola solo section. This half step, followed by a short rising chromatic figure, is described by Cindy Bylander as Penderecki's "sighing motive."
+
+Toward the end of the movement, Penderecki also re-introduces the ostinato bass motive which formed the foundation of the first movement and also becomes the main idea of the fourth.
+
+III. Adagio
+At approximately 13 minutes, the Adagio is a long, expansive unfolding of melodic ideas. Very often, the texture of the third movement consists of a solo wind or brass instrument with a lyrical melody over the supporting string ensemble. It is not as dramatically complex as the preceding Allegro, though. Notably, it also does not contain a clearly stated instance of the ostinato figure.
+
+The familiar chromatic scale and the interval of a half step are immediately emphasized, as seen in the rising chromatic figure in the cellos and basses in mm. 10–13, and in the half step "tremolo" figure in the violins in m. 7.
+
+While the Adagio's orchestration is somewhat closer to late 19th-century Romantic writing than the previous movement, Penderecki still makes use of various creative doublings in the ensemble to create unique orchestral colors. Themes sometimes overlap or play together as a duet, but this movement contains frequent instances of solo passages in the winds and brass, as in the clarinet solo in mm. 31–33.
+
+IV. Passacaglia: Allegro moderato
+The Passacaglia movement bears similarities to the first movement both in its use of ostinato and in its expressive arch, slowly building to a climax and then slowly coming back down. Here, however, the ostinato is reduced to simple repeated eighth notes, sounded forcefully by the low strings.
+
+Against this repeated D, however, Penderecki again introduces the tritone; mm. 38–41 establish an A flat in the low brass against the D in the strings and horns.
+
+Penderecki builds the movement through the addition of instruments, as the upper strings and winds sound the ostinato as the movement unfolds. The movement's most dramatic shift occurs when the ostinato moves from D to F. Here, Penderecki brings the Passacaglia to a climax with large sections of the brass and winds stating slow chromatic melodies against the incessantly repeating Fs. The result is one of the largest blocks of orchestral sound created in the entire symphony.
+
+After the climax, the ostinato of the Passacaglia returns to D and the movement experiences a dénouement. It ends with a gradual recession of momentum and a brief recall of the lyricism of the previous Adagio. Here, solo winds take brief melodies over a now fragmented ostinato, as seen in the English horn solo at mm. 101–103 (Example 14). The movement closes with a repeated figure in the bass, seen fragmented in mm. 101–105, with celli in imitation (Example 15).
+
+V. Scherzo: Vivace
+The finale relies heavily on chromatic scale figures and motor rhythms. From an orchestral standpoint, it is arguably the most complex movement. Penderecki uses an elaborate network of instrumental combinations, creating a dialogue of multiple orchestral colors as the finale unfolds. Much of this movement's melodic material utilizes the familiar tritone and chromatic scale.
+
+The bass ostinato again asserts itself early on, firmly linking the finale with the previous movements. The timpani carry the melody with celli and double basses in accompaniment.
+
+The low strings also begin a rhythmic pattern which can be found throughout the movement, often in higher voices (a similar procedure can be found in the second movement). A number of melodies in this finale also consist of an upwards tritone leap followed by a chromatic descent.
+The middle section is functionally similar to the trio of a standard scherzo form. Leaps larger than an octave are found here, as well as the other characteristic Penderecki melodic devices. This section is also characterized by a wide palette of instrumental colors, with solo and duet passages for clarinet and violin, clarinets, trumpets, horns, flute and bass clarinet (Example 18). A series of chromatic descents accompanied by alternating thirds then bring back the scherzo material.
+
+The symphony's conclusion is striking in its use of a clearly stated major key sonority, a marked difference from the chromatic saturation of the entire symphony. This ending, however, features a final reinforcement of the tritone, with a B major chord in the full brass supported by a strong F in the timpani (Example 19). The final measures then emphasize a unison F in the entire orchestra, a final recall of the repeated F which opened the symphony.
+
+Critical reception
+The premiere performances of the Third Symphony were met with mixed reviews. Henryk Tritt's initial reception of the Passacaglia and Rondo at the Lucerne Festival was favorable, stating Penderecki "took maximal advantage of the technical and timbral possibilities of specific groups of instruments... particularly the violas and percussion." The review of the German premiere of the full symphony described it as "a masterpiece," complimenting the work for its synthesis of Penderecki's earlier compositional styles, as well as the innovative use of brass and percussion.
+The New York Times gave a considerably less favorable review of the 1996 premiere, however, with Bernard Holland commenting that "One would admire more his economy of means, were the means being economized more interesting." Although it was "professionally done," he concluded that the symphony was "largely bereft of engaging ideas and, in a word, boring."
+Tony Gualtieri's review of the Naxos CD at classical-music-review.org praised the piece, calling it "a major work, an homage to the past recalling composers such as Mahler and Bartók."
+
+Discography
+Full Symphony
+
+Penderecki, Krzysztof. Orchestra Works Vol. 1. Polish National Radio Symphony Orchestra, conducted by Antoni Wit. Naxos 554491, 2000, compact disc.
+Passacaglia and Rondo
+Penderecki, Krzysztof. Orchestra Works, Vol. 1. Kraków Philharmonic, conducted by Wojciech Czepiel. Dux Records #475, 2005.
+Various. Warszawska Jesień (Warsaw Autumn 1988) -Sound Chronicle 6. Kraków Philharmonic, conducted by Gilbert Levine. Polskie Nagrania Muza, SX 2736, 1988, LP.
+
+Notes
+
+
+=== Sources ===

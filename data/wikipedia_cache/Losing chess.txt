@@ -1,0 +1,75 @@
+Losing chess is one of the most popular chess variants. The objective of each player is to lose all of their pieces or be stalemated. Players must make a capturing move if they are able to. In some variations, a player may also win by checkmating or by being checkmated.
+
+Rules (main variant)
+The rules are the same as those for standard chess, except for the following special rules:
+
+Capturing is compulsory.
+When more than one capture is available, the capturing player may choose.
+The king has no royal power, being effectively replaced by a mann, and accordingly:
+it may be captured like any other piece;
+there is no check or checkmate;
+therefore the king may expose itself to capture;
+there is no castling;
+a pawn may also be promoted to a king.
+A player wins if all of their pieces have been taken, or if they are otherwise unable to make any legal moves (stalemate).
+Draws by repetition, agreement, or the fifty-move rule work as in standard chess. Positions when neither player can win are also draws: for example, when the only pieces remaining are bishops of opposite colors. (This is similar to the dead position rule in standard chess.)
+
+History
+The origin of the game is unknown, but believed to significantly predate an early version, named take me, played in the 1870s. Because of the popularity of losing chess, several variations have spawned. The most widely played (main variant) is described in Popular Chess Variants by D. B. Pritchard. Losing chess began to gain popularity in the 20th century, which was facilitated by some publications about this variant in the UK, Germany, and Italy.
+In September 1998, what was known as the "first International Losing Chess Meeting" was held in Geneva, Switzerland, courtesy of Fabrice Liardet, recognized through a tournament held there as the strongest Losing Chess player in the world at the time. Indeed, there were many international players, including the Netherlands, United Kingdom, France, as well as Switzerland. 
+Losing chess gained a new surge in popularity at the turn of the 20th and 21st centuries as an online game, thanks to the implementation of this variant on FICS in 1996, which greatly contributed to the popularization of losing chess. International tournaments were held in 1998 and 2001. As of 2022, the International Antichess Federation hosts annual international tournaments in Amsterdam. 
+The internet chess server Lichess facilitates play of the game, referring to it as "antichess"; after regular chess it is the most popular variant on the site in terms of numbers of games played weekly. Since 2018 the site has hosted an annual "Lichess World Championship" for the variant. Chess.com also added this variant to their server, calling it "giveaway."
+
+Analysis
+Because of the forced capture rule, losing chess games often involve long sequences of forced captures by one player. This means that a minor mistake can doom a game. Such mistakes can be made from the very first move—it is currently known that a Black win can be forced after 13 of White's 20 legal opening moves. Some of these openings took months of computer time to solve: they vary greatly in difficulty. 
+
+The forced wins against 1.e4, 1.d4, and 1.d3 consist of simple series of forced captures and can be played from memory by most average players.
+The forced wins against 1.Nc3, 1.Nf3, 1.f4, and 1.h4 are harder to demonstrate, but can be executed by skilled players.
+The next tier of difficulty is formed by 1.b4, 1.c3, 1.f3, and 1.h3, which were solved by computers: they form a significant jump in difficulty from the previous set.
+1.a3 is much more difficult than those.
+1.Na3 is more difficult still.
+
+This main variant of losing chess was weakly solved by Mark Watkins in October 2016; White is able to force a win beginning with 1.e3. This solution is valid for both FICS and "International" rules on stalemate. Some lines are trivial (1...d6, 1...d5, 1...Na6, and 1...g6 lose in less than 20 moves), others are quite simple (1...Nf6, 1...h6, 1...e5, 1...f5, 1...h5, 1...f6, 1...a6, 1...a5 lose in less than 30 moves, subject to knowledge of the theory), and some are quite complicated (1...Nh6, 1...Nc6, 1...c6, the win in which may require about 60 moves). The most difficult are the following five openings (in order of increasing difficulty): 1.e3 g5 (Wild Boar Defence), 1.e3 e6 (Modern Defence), 1.e3 b5 (Classical Defence), 1.e3 c5 (Polish Defence), and 1.e3 b6 (Liardet Defence).
+David Pritchard, the author of The Encyclopedia of Chess Variants, wrote that the "complexity and beauty" of losing chess is found in its endgame. He noted that, in contrast to regular chess, losing chess endgames with just two pieces require considerable skill to play correctly, whereas three- or four-piece endgames can exceed human capacity to solve precisely. For example, the following endgames may turn out to be quite complicated: 2 Knights vs Rook, 3 Kings vs King, or Bishop+Knight+King vs King. In the latter case, in particular, a win may require more than 60 moves, which means that it is sometimes unattainable due to the fifty-move rule.
+
+Variations
+Variations regarding stalemate
+Implementations of the main variant can vary in regard to stalemate. "International" rules are as described above, with the stalemated player winning. FICS rules resolve stalemate as a win for the player with the fewer number of pieces remaining; if both have the same number, it is a draw (the piece types are irrelevant). "Joint" FICS/International rules resolves stalemate as a draw unless it is a victory for the same player under both rulesets. The stalemate in the diagram is a win for White under "International" rules, a win for Black under FICS rules, and a draw under "joint" rules.
+
+Variants in The Encyclopedia of Chess Variants
+Pritchard discusses the following variants of the game in The Encyclopedia of Chess Variants.
+Variant 2
+Rules are the same as the main rules, except:
+
+Variant 3
+Rules are the same as the main rules, except:
+
+The king has royal powers, and removing the king from check takes precedence over capturing another piece.
+A player wins by reducing his pieces to a bare king, or by checkmating the opponent.
+Stalemate is a draw.
+Variant 4
+Rules are the same as variant 3, except:
+
+A player wins by reducing his pieces to a bare king, or by getting checkmated.
+
+Notes
+References
+Bibliography
+
+Verney, M. G. H. (1885). Chess Eccentricities. London: Longman, Green, & Co. p. 191.
+Pritchard, D. B. (1994). "Losing Chess". The Encyclopedia of Chess Variants. Games & Puzzles Publications. pp. 176–79. ISBN 0-9524142-0-1.
+Parlett, David (1999). The Oxford History of Board Games. Oxford University Press Inc. ISBN 0-19-212998-8.
+Pritchard, D. B. (2000). "§7 Losing Chess". Popular Chess Variants. B.T. Batsford Ltd. pp. 32–38. ISBN 0-7134-8578-7.
+Pritchard, D. B. (2007). "§10.9 Playing to lose". In Beasley, John (ed.). The Classified Encyclopedia of Chess Variants. John Beasley. pp. 85–89. ISBN 978-0-9555168-0-1.
+Andrejić, Vladica (2018). The Ultimate Guide to Antichess. Belgrade: JP “Službeni Glasnik”. ISBN 978-86-7297-096-8
+
+External links
+Losing Chess by Hans Bodlaender, The Chess Variant Pages
+The Ultimate Guide to Antichess by Vladica Andrejić
+Losing Chess by Fabrice Liardet (in French)
+Losing Chess Solution by Mark Watkins
+Nilatac's Opening Book Losing Chess book browser by Cătălin Frâncu
+Antichess Solution Browser Archived 2020-01-14 at the Wayback Machine Forced wins in Losing Chess
+Losing Chess Puzzles Losing Chess puzzles and endgame training
+Scidb a chess database supporting Losing Chess
+Losing Chess Losing Chess II Losing Chess III Losing Chess IV simple programs by Ed Friedlander (Java)

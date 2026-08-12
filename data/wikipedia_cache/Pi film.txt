@@ -1,0 +1,81 @@
+Pi (stylized as π) is a 1998 American conceptual psychological thriller film written and directed by Darren Aronofsky (in his feature directorial debut). Pi was filmed on high-contrast black-and-white reversal film. The title refers to the mathematical constant pi. The story focuses on a mathematician with an obsession to find underlying complete order in the real world and contrasting two seemingly irreconcilable entities: the imperfect irrationality of humanity and the rigor and regularity of mathematics, specifically number theory. The film explores themes of religion, mysticism, and the relationship of the universe to mathematics.
+The film received positive reviews and earned Aronofsky the Directing Award at the 1998 Sundance Film Festival, the Independent Spirit Award for Best First Screenplay and the Gotham Open Palm Award.
+
+Plot
+Unemployed number theorist Max Cohen, who lives in a drab apartment in Chinatown, Manhattan, believes everything in nature can be understood through numbers. He suffers from cluster headaches, extreme paranoia, hallucinations, and schizoid personality disorder. His only social interactions are with his mathematics mentor, Sol Robeson (now disabled from a stroke), and those who live in his building: Jenna, a little girl fascinated by his ability to perform complex calculations, and Devi, a young woman living next door who sometimes speaks with him.
+Max tries to program his computer, named Euclid, to make stock predictions. Euclid malfunctions, printing out a seemingly random 216-digit number, as well as a single stock pick at one-tenth its current value, then crashes. Disgusted, Max throws away the printout. The next morning, he learns that Euclid's pick was accurate but cannot find the printout. When Max mentions the number, Sol becomes unnerved and asks if it contained 216 digits. He reveals that he came across the same number years ago and urges Max to take a break from his work.
+Max meets Lenny Meyer, a Hasidic Jew who does mathematical research on the Torah. Lenny demonstrates some simple Gematria, the correspondence of the Hebrew alphabet to numbers, and explains that some people believe the Torah is a string of numbers forming a code sent by God. Intrigued, Max notes that some of the concepts parallel other mathematical concepts, such as the Fibonacci sequence. Agents of a Wall Street firm approach Max. One of them, Marcy Dawson, offers him a classified computer chip called "Ming Mecca" in exchange for the results of his work.
+Using the chip, Max has Euclid analyze mathematical patterns in the Torah. Once again, Euclid displays the 216-digit number before crashing. As Max writes down the number, he realizes that he knows the pattern, undergoes an epiphany, and loses consciousness. After waking up, Max appears to become clairvoyant and visualizes the stock market patterns he sought. His headaches intensify, and he discovers a vein-like bulge protruding from his right temple. Max has a falling-out with Sol after Sol urges him to quit his work.
+Dawson and her agents grab Max on the street and try to force him to explain the number, having found the printout Max threw away. Attempting to use the number to manipulate the stock market, the firm instead caused the market to crash. Driving by, Lenny rescues Max, but takes him to his companions at a nearby synagogue. They ask Max to give them the 216-digit number, believing it was meant for them to bring about the Messianic Age, as the number represents the unspeakable name of God. Max refuses, insisting the number has been revealed to him alone.
+Max flees and visits Sol, only to learn from his daughter, Jenny, that he died from another stroke. He finds a piece of paper with the number in his study. At his own apartment, Max experiences another headache but does not take his painkillers. Believing the number and the headaches are linked, Max tries to concentrate on the number through his pain. After passing out, Max goes to the bathroom where he stares at himself in the mirror before lighting a match and burning the piece of paper with the number. Max then takes a power drill to his own head, trepanning himself in an effort to find relief.
+Sometime later, Jenna approaches Max in a park and asks him to do several calculations, including 748 ÷ 238 (an approximation for pi). Max smiles and says that he does not know the answer, seemingly at peace.
+
+Cast
+Sean Gullette as Maximillian "Max" Cohen
+Mark Margolis as Sol Robeson
+Ben Shenkman as Lenny Meyer
+Samia Shoaib as Devi
+Pamela Hart as Marcy Dawson
+Stephen Pearlman as Rabbi Cohen
+Ajay Naidu as Farouq
+Kristyn Mae-Anne Lao as Jenna
+Lauren Fox as Jenny Robeson
+Clint Mansell as Photographer
+
+Production
+Before production, to finance the complex visual sets and shots for the film, producer Eric Watson and director Darren Aronofsky asked every friend, relative, or acquaintance for donations of $100 each. Eventually, they accumulated about $60,000 for their production budget.
+The film was shot on an Aaton XTR Prod Camera, which shoots with 16mm film, with a Bolex H16 Camera used for most of the handheld shots that the crew broke and had to fix. A Canon 16mm camera package was also used. Lenses were from Angenieux. The film was shot on black and white reversal film stock; Aronofsky aimed for high-contrast shots to give Pi a more "technically raw and spontaneous" look.
+Pi was produced with a low budget, with the crew being paid $200 a day and actors being paid $75 a day. To save money, various cost-cutting techniques were used, including using only the actors' clothes and thrift store purchases as costumes, and shooting all of the subway and outdoor city scenes illegally to get around paying expensive permits. To get vehicles for the film, Aronofsky says he "probably" rented a station wagon belonging to the film's consulting producer, and claims to have hailed a cab and paid the driver $100 to keep his car there for a scene that was later cut, rather than renting out an additional vehicle.
+For the main set, which was Max Cohen's apartment, Scott Vogel secured a section of his fathers's warehouse in Bushwick, Brooklyn. A back room was cleared out and used as a sound stage, where Max's Euclid computer was built and the majority of the film was shot.
+Finishing the film was more costly than shooting it. The post-budget was $68,183, most of which went into post-production sound, film and lab work, and film editing. Throughout the filming, 53,000 feet of 16mm film was shot, amounting to about 23 hours over 28 days.
+The film was sent to be developed in Bono Labs in Arlington, Virginia, which was the only lab capable of developing black and white reversal stock. Consequently, the crew only received dailies a week after sending the footage in. Raw stock cost $5,414 and developing it cost $18,000. During post-production, most of the budget went toward the negative cut, which was a match back from an AVID cut list. Clint Mansell created the score on his equipment, for which he was paid a deferred fee.
+The production cost was $60,927, with post-production costing an additional $68,183. Along with other expenses, including insurance, the film cost $134,815.
+
+Themes
+Mathematics
+Pi features multiple references to mathematics and mathematical theories. For instance, Max finds the golden spiral occurring everywhere, including the stock market. Max believes that diverse systems embodying nonlinear dynamics share a unifying pattern. This has some similarity to results in chaos theory, which provides a means for describing certain phenomena of nonlinear systems, which might be thought of as patterns. During the climactic final scene, a pattern resembling a bifurcation diagram is apparent on Max's shattered mirror.
+
+The game of Go
+In the film, Max periodically plays Go with his mentor, Sol. This game has historically stimulated the study of mathematics and features a simple set of rules that results in a complex game strategy. Each character uses the game as a model for their view of the universe: Sol says that the game is a microcosm of an extremely complex and chaotic world, while Max asserts its complexity gradually converges toward patterns that can be found.
+Gullette and Margolis spent many hours learning the game at the Brooklyn Go Club and received help from Dan Weiner, one of three Go consultants credited to the film. Barbara Calhoun and Michael Solomon also served as game consultants.
+
+Kabbalah
+Early in the film, when Lenny speaks with Max about his work, he asks if Max is familiar with kabbalah. The numerological interpretation of the Torah and the 216-letter name of God, known as the Shem HaMephorash, are important concepts in traditional Jewish mysticism.
+
+Quran
+Another religious reference comes while Max is at the market looking for that day's newspaper, when a recitation citing Quran 2:140 can be heard in the background: "Or do you say that Abraham and Ishmael and Isaac and Jacob and the Descendants were Jews or Christians? Say, 'Are you more knowing or is Allah?' And who is more unjust than one who conceals a testimony he has from Allah? And Allah is not unaware of what you do."
+
+Soundtrack
+Pi launched the film scoring career of Clint Mansell. The soundtrack was released on July 21, 1998, via Thrive Records. AllMusic rated it 4.5 stars out of 5. A music video for "πr²", using an alternative mix of the title track, is available as a special feature on DVD, consisting of footage from the film intercut with stock color reels of ants, referencing one of the film's visual motifs.
+
+Credits
+Design – Jeremy Dawson, Sneak Attack
+Executive-Producer – Eric Watson, Ricardo Vinas, Sioux Zimmerman
+Mastered By – Mark Fellows
+Written-By [Voiceover] – Darren Aronofsky, Sean Gullette
+
+Release
+Two decades after its theatrical release, the rights to the film reverted from Lionsgate (owner of Summit Entertainment and the Artisan library) back to Aronofsky, who sold it to A24 in 2023. The 8K and Atmos restoration version was released on March 14 by A24 in the IMAX format, to commemorate its 25th anniversary.
+
+Box office
+Produced on a budget of $134,815, the film was financially successful at the box office, grossing $3,221,152 in the United States despite only a limited theatrical release. It sold steadily on DVD, and was the first film ever to be sold as a download on the Internet. Through the website Sightsound.com, the film was available for streaming in a pay-per-view window.
+
+Critical response
+Pi was received well by critics upon release. On Rotten Tomatoes, the film has an 88% approval rating based on 58 reviews with an average rating of 7.4/10. The website's critical consensus reads: "Dramatically gripping and frighteningly smart, this Lynchian thriller does wonders with its unlikely subject and shoestring budget." On Metacritic, the film has a rating of 72 out of 100 based on 23 reviews, indicating "generally favorable reviews".
+Roger Ebert gave the film three and a half out of four stars, writing: "Pi is a thriller. I am not very thrilled these days by whether the bad guys will get shot or the chase scene will end one way instead of another. You have to make a movie like that pretty skillfully before I care. But I am thrilled when a man risks his mind in the pursuit of a dangerous obsession."
+James Berardinelli gave the film three out of four stars, writing: "Pi transports us to a world that is like yet unlike our own, and, in its mysterious familiarity, is eerie, intense, and compelling. Reality is a fragile commodity, but, because the script is well-written and the central character is strongly developed, it's not hard to suspend disbelief....It probably deserves 3.1416 stars, but since my scale doesn't support that, I'll round it off to three."
+
+See also
+List of cult films
+List of films about mathematicians
+List of films featuring surveillance
+
+Notes
+References
+External links
+
+Pi at IMDb
+Pi at Box Office Mojo
+Pi at Rotten Tomatoes
+Pi at Metacritic 
+Pi: Faith in Numbers - Brows Held High on YouTube

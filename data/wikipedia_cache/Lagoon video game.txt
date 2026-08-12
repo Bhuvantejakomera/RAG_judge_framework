@@ -1,0 +1,25 @@
+Lagoon (Japanese: ラグーン, Hepburn: Ragūn) is a top-view action/adventure video game for the X68000 and Super NES, in which Nasir (Nassel in the Japanese version), Champion of Light, must investigate the source of the world's corrupted water and return peace to Lakeland.
+Lagoon is an action role-playing game with a fantasy setting, very similar to the early Ys games, combining real-time action gameplay with RPG elements such as experience levels and equipment management. The player travels through an assortment of towns, landscapes, and dungeons while battling a variety of enemies ranging from insects to giant bosses, and gaining experience and items along the way.
+
+Story
+Lakeland is a prosperous country full of many people and their families. All was great until something bad happened. It seems that Lakeland is having a bit of a water problem: Muddy Water. An evil being known as Zerah has polluted all of Lakeland's rivers and lakes, making people very sick, and some dying. He does this in hopes to release the Evil Spirit, which is hiding underneath Lagoon Castle, so Zerah lifts Lagoon Castle into the clouds to where no one can reach it. With all this, Lakeland needs a hero.
+That hero is named Nasir, the Champion of the Light. Nasir must go through many lands, challenge many monsters, and meet many people who will help him on his quest.
+
+Characters
+The following is a list of major characters in Lagoon, taken directly from the manual:
+
+Nasir - Born to be the Champion of Light, the protagonist has become a skilled swordsman under the tutelage of the wise Mathias. He displays intelligence and courage beyond his years.
+Mathias - Skilled in the art of the sword and in the ways of magic, he raised Nasir from infancy.
+Thor - Aligned with the forces of Darkness, he is known as a skilled swordsman and for the fact that each of his eyes is a different color.
+Zerah - an evil warlock, he is aligned with the forces of Darkness. He stole the child of Darkness from Mathias and raised him. He seeks to resurrect the evil spirit and bring the forces of Darkness to rule the land.
+Felicia - Princess of Lagoon castle, she is the only one who has the power to open the door to the Secret Place and to move Lagoon Castle.
+Duma and Battler - Henchmen of Zerah.
+
+X68000 Version
+The original Sharp X68000 version has several differences from the more common Super NES release. It features animated cutscenes between game situations. Also, the storyline is slightly different, with objectives that do not match the order in which they happen in the Super NES version. The combat is closer in style to Ys, Hydlide or The Tower of Druaga, where the player attacks by simply drawing a sword and crashing into an enemy, rather than hitting a button for each slash.
+
+Reception
+References
+External links
+Lagoon at MobyGames
+Mike's RPG Center - Lagoon, a Lagoon reference site

@@ -1,0 +1,10 @@
+Cue Brick is a puzzle video game developed and published by Konami for arcades. It was released only in Japan in July 1989. A port to the X68000 titled Cueb Runner was released in 1990. Micronet developed ports of the game for the Sega Genesis and Game Gear under the title Junction; these versions were released outside Japan in 1990. Hamster Corporation released the arcade version outside Japan for the first time as part of their Arcade Archives series for the Nintendo Switch and PlayStation 4 in May 2024.
+
+Gameplay
+Cue Brick's gameplay is based on Konami's Guttang Gottong (1982), but with isometric graphics. Using a variety of sliding puzzles, the player rolls a ball (possibly containing a small armadillo character, as implied by the game's introduction) along tracks set on tiles. Players must align the tracks together and make the ball roll over bridged tracks, set on the border of the puzzle in order to complete each level. The game has a total of 50 levels which the player can select at random, but a certain number of points have to be reached by level 50, in order for the player to beat the game and see the ending.
+
+Notes
+References
+External links
+Junction (Game Gear) at GameFAQs
+Junction (Sega Genesis) at GameFAQs

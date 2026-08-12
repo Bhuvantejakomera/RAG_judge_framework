@@ -1,0 +1,27 @@
+The Ball is a 2010 first-person action-adventure game developed by Teotl Studios and published by Tripwire Interactive.
+The game was one of the OnLive's UK launch titles, and one of the 13 games contained in the Potato Sack Bundle, which was a part of the Potato Sack Alternate Reality Game, promoting Portal 2's release.
+A spiritual successor, The Solus Project, was released on PC and consoles by Teotl and Grip Digital in June 2016. The game features a different setting, featuring an astronaut in the future stranded on an alien world, but the games share a universe and some themes.
+
+Gameplay
+The Ball is a first-person action adventure game. The player controls an archaeologist trapped in an underground city, armed with only an artifact that can attract or repel a large metal ball. To progress in the game, the ball must be guided into triggering the puzzle mechanisms, act as a platform in platforming or defend the player in combat. As the player progresses, the ball will gain additional abilities, strengthening its combat ability or allowing the player to progress in platforming and puzzles.
+The game contains an eight-level single-player campaign and a survival mode focused on combat.
+
+Development
+The Ball was developed by Teotl Studios, a small Swedish independent studio consisting of three developers: Sjoerd De Jong, level designer and creative director, Markus Palviainen, art director, and Markus Arvidsson, programmer. Fifteen other independent developers were also involved in the project, including Theodore Wohng, composer and sound designer.
+To develop his game, Sjoerd De Jong had used several sources as inspiration: Portal for its simple and effective design, Unreal Tournament for its style and atmosphere, Tomb Raider for the mysterious and intriguing atmosphere that emanates from the individual settings and, on the whole, early first-person shooters which were set primarily in dark dungeons and castles.
+Originally developed as a mod for Unreal Tournament III at 2008, it was ported over to the Unreal Development Kit to enable a standalone commercial release. The game was released on October 26, 2010.
+In 2013, the game was ported as a launch title for the Ouya console.
+
+Reception
+The original mod entered the Unreal Engine 3 Make Something Unreal contest and picked up multiple awards, including prizes for Best First-Person Shooter Game Mod, and Second Prize overall.
+The commercial release generated a mixed critical response, receiving a rating of 68% from review aggregator Metacritic and 73.83% from GameRankings. PC Gamer US awarded the game 81/100, calling it "a joyous and addictive action puzzler".
+IGN gave the game a 7/10, criticizing the story presentation and combat but praising the variety of gameplay.
+The Ball was awarded by PC Gamer US as the 2010 Action-Adventure Game of the Year.
+
+See also
+List of video games derived from modifications
+
+References
+External links
+
+Official website

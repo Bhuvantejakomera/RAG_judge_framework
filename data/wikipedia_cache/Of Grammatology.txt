@@ -1,0 +1,42 @@
+Of Grammatology (French: De la grammatologie) is a 1967 book by the French philosopher Jacques Derrida. The book, originating the idea of deconstruction, proposes that throughout continental philosophy, especially as philosophers engaged with linguistic and semiotic ideas, writing has been erroneously considered as derivative from speech, making it a "fall" from the real "full presence" of speech and the independent act of writing.
+
+Background
+The work was initially unsuccessfully submitted by Derrida as a Doctorat de spécialité thesis (directed by Maurice de Gandillac) under the full title De la grammatologie : Essai sur la permanence de concepts platonicien, aristotélicien et scolastique de signe écrit (Of Grammatology: Essay on the Permanence of Platonic, Aristotelian and Scholastic Concepts of the Written Sign).
+
+Summary
+In Of Grammatology, Derrida discusses writers such as Claude Lévi-Strauss, Ferdinand de Saussure, Jean-Jacques Rousseau, Étienne Condillac, Louis Hjelmslev, Emile Benveniste, Martin Heidegger, Edmund Husserl, Roman Jakobson, Gottfried Wilhelm Leibniz, André Leroi-Gourhan, and William Warburton. In the course of the work he deconstructs the philosophies of language and the act of writing given by these authors, identifying what he calls phonocentrism, and showing the myriad aporias and ellipses to which this leads them. Derrida avoids describing what he is theorizing as a critique of the work of these thinkers, but he nevertheless calls for a new science of "grammatology" that would explore the questions that he raises about how to theorize the act of writing.
+Of Grammatology introduced many of the concepts which Derrida would employ in later work, especially in relation to linguistics and writing.
+
+Saussure and structuralism
+The book begins with a reading of Saussure's linguistic structuralism as presented in the Course in General Linguistics, and in particular signs, which for Saussure have the two separate components of sound and meaning. These components are also called signifier (signifiant) and signified (signifié).
+Derrida quotes Saussure: "Language and writing are two distinct systems of signs; the second exists for the sole purpose of representing the first." Highlighting the imbalanced dynamic between speech and writing that Saussure uses, Derrida instead offers the idea that written symbols are in fact legitimate signifiers on their own, and should not be considered as secondary, or derivative, relative to oral speech.
+
+Reading of Rousseau
+Much of the second half of Of Grammatology consists of a sustained reading of Jean-Jacques Rousseau, especially his Essay on the Origin of Languages. Derrida analyzes Rousseau in terms of what he calls a "logic of supplementarity," according to which "the supplement is exterior, outside of the positivity to which it is super-added, alien to that which, in order to be replaced by it, must be other than it." Derrida shows how Rousseau consistently appeals to the idea that a supplement comes from the outside to contaminate a supposedly pure origin (of language, in this case). This tendency manifests in many different binaries that Rousseau sets up throughout the Essay: writing supplements speech, articulation supplements accent, need supplements passion, north supplements south, etc. Derrida calls these binaries a "system of oppositions that controls the entire Essay." He then argues that Rousseau, without expressly declaring it, nevertheless describes how a logic of supplementarity is always already at work in the origin that it is supposed to corrupt: "This relationship of mutual and incessant supplementarity or substitution is the order of language. It is the origin of language, as it is described without being declared, in the Essay on the Origin of Languages."
+
+Publication history
+Of Grammatology was first published by Les Éditions de Minuit in 1967. The English translation by Gayatri Chakravorty Spivak was first published in 1976. A revised edition of the translation was published in 1997. A further revised edition was published in January 2016.
+
+Reception
+Of Grammatology is one of three books which Derrida published in 1967, and which served to establish his reputation. The other two were La voix et le phénomène, translated as Speech and Phenomena, and L'écriture et la différence, translated as Writing and Difference. It has been called a foundational text for deconstructive criticism.
+The philosopher Iain Hamilton Grant has compared Of Grammatology to the philosopher Gilles Deleuze and the psychoanalyst Félix Guattari's Anti-Oedipus (1972), the philosopher Luce Irigaray's Speculum of the Other Woman (1974), the philosopher Jean-François Lyotard's Libidinal Economy (1974), and the sociologist Jean Baudrillard's Symbolic Exchange and Death (1976), noting that like them it forms part of post-structuralism, a response to the demise of structuralism as a dominant intellectual discourse.
+
+Editions
+De la grammatologie (Paris: Les Éditions de Minuit, 1967).
+Of Grammatology (Baltimore & London: Johns Hopkins University Press, 1976, trans. Gayatri Chakravorty Spivak).
+Of Grammatology (Baltimore & London: Johns Hopkins University Press, 1997, corrected edition, trans. Gayatri Chakravorty Spivak).
+
+See also
+Différance
+Logocentrism
+
+References
+Sources
+Further reading
+Bradley, Arthur. Derrida's Of Grammatology (Edinburgh: University of Edinburgh Press, 2008).
+Culler, Jonathan.  On Deconstruction (Ithaca:  Cornell University Press, 1982).
+de Man, Paul. "The Rhetoric of Blindness: Jacques Derrida's Reading of Rousseau," in Blindness and Insight: Essays in the Rhetoric of Contemporary Criticism (Minneapolis: University of Minnesota Press, 1983, second edition)  102-41.
+Harris, Roy.  Interpreters of Saussure (Edinburgh: University of Edinburgh Press, 2001) 171-188.
+
+External links
+Excerpts from Chapter 2: Linguistics and Grammatology

@@ -1,0 +1,81 @@
+Nine full expansion packs for the massively multiplayer online role-playing game Ultima Online have been released. The first, Ultima Online: The Second Age, arrived in 1998. The most recent expansion pack is Ultima Online: Time of Legends (2015).
+
+Expansion packs
+The Second Age
+Ultima Online: The Second Age was the first expansion for the Ultima Online MMORPG. The expansion added several features to the game, including a new region called the Lost Lands, new creatures, and support for player-built cities.
+
+Renaissance
+Ultima Online: Renaissance is the second expansion to the popular Ultima Online (UO) MMORPG. Released on May 4, 2000, it added content, fixed bugs, and made gameplay changes in response to common player complaints.
+Prior to its release, the expansion was said to double the amount of room in the game, but that it would not use a duplicate of the map, rather it would be adding new content.  It was later found in the previews that Renaissance simply added a mirror world under different rules. The current map became Felucca and Trammel was created, the first one with "player vs. player killing" allowed, and the second with only consensual combat.
+Ultima Online: Renaissance holds a 73% rating on GameRankings. Renaissance received nominations for the "Massive Multiplayer/Persistent World" and "Online Gameplay" awards during the AIAS' 4th Annual Interactive Achievement Awards.
+
+Third Dawn
+Ultima Online: Third Dawn, released in 2001, introduced 3D models to the Ultima Online MMORPG franchise. While the game still maintained its scaled, overhead view, the character animation was much smoother. With the introduction of the Ultima Online: Kingdom Reborn client (a more sophisticated 3D Ultima Online client), the Third Dawn client is obsolete, and no longer usable on official shards.
+Even the original Ultima Online client uses a height map for terrain and three dimensions for item and character location within the world, but the newer "3D Client" introduced with Third Dawn included 3D models for all creatures.  It still, however, maintains use of 2D artwork for objects.  While it has an option to zoom in, it does not allow for any rotation due to the 2D artwork still incorporated, and the way the map is constructed.  Some of the 2D artwork (especially walls and trees) were improved noticeably.
+Ultima Online: Third Dawn received mixed reviews from critics. It holds a 66% rating on GameRankings and a 69% rating on Metacritic.
+GameSpot rated the game a 6.9 of 10 saying "Despite Third Dawn, Ultima Online still isn't easy to get into; it's an acquired taste, which many acquired back when there was nothing else available or similar."
+
+Lord Blackthorn's Revenge
+Ultima Online: Lord Blackthorn's Revenge (2002) was the first of the two "darker" Ultima Online MMORPG expansions (the second being Ultima Online: Age of Shadows). The game featured creatures designed by Todd McFarlane (creator of Spawn in comics). The story tells about the return of Lord Blackthorn, the corrupt noble who usurped the throne of Lord British in Ultima V: Warriors of Destiny. Included in the game box was a comic drawn by McFarlane.
+The game was announced to be in development on October 31, 2001.
+Ultima Online: Lord Blackthorn's Revenge holds a 66% rating on GameRankings. GameSpot rated the game 6.7 of 10. GameZone rated the game 8.1 of 10 saying "Ultima Online: Lord Blackthorn’s Revenge has added some very strong elements to this world, making it more enjoyable and not just the hack-and-slash game it could have easily become".
+
+Age of Shadows
+Ultima Online: Age of Shadows is the fifth expansion pack for the popular MMORPG Ultima Online.  It was released on February 11, 2003 and was the last title by developer Origin Systems.
+Age of Shadows introduced a new landmass to the game called Malas.  Malas was designed to appear as a broken continent, with various islands and pieces of land separated from each other and connected only with bridges.  The pieces of land were surrounded by stars, suggesting that Malas floats somewhere in space above the rest of the Ultima Online worlds.
+The main purpose of Malas was to provide more land for player housing.  Players had complained that limited open land was causing an unreasonable amount of price inflation in the community, and restricting younger players from owning houses until they had played for many months.  The greatly increased land that Malas provided helped to lower the cost of housing, and gave more players the opportunity to own a home.
+New item attributes and properties were added with the expansion.  The new attributes allowed for hundreds of combinations of items, a drastic change from the limited possibilities before.  Four elemental properties were part of the change: fire, cold, energy, and poison.  If the elemental properties were high enough, items changed color to reflect elemental power.  This change produced a variety of items such as blue broadswords, and orange katanas, which caused upset with traditional players who claimed that the unrealistically colored weapons detracted from the authenticity of Ultima Online (see: Criticism).
+Two new character classes were added with Age of Shadows. The new Paladin character class consists mainly of the new Chivalry skill.  If used in conjunction with a "Book of Chivalry", a Paladin using the skill can perform powerful techniques, such as curing poison in battle, or teleporting to a new location.  These types of magical abilities were previously restricted to mages.  In order to perform Chivalry techniques, a Paladin must tithe gold to a shrine in exchange for "tithing points".
+The new Necromancer character class was introduced along with 16 Necromancy spells.  Necromancy requires a separate group of reagents: Bat Wing, Grave Dust, Daemon Blood, Nox Crystal, and Pig Iron.
+
+Reception
+On the review aggregator GameRankings, the expansion received an average score of 71% based on 12 reviews. On Metacritic, it received an average score of 74 out of 100, based on 6 reviews — indicating "mixed or average reviews".
+The months following the release of Age of Shadows saw a significant exodus of veteran players from Ultima Online. Many players insisted that the new brightly colored items detracted from the game's atmosphere strongly. A further, more serious criticism, was that the new item system broke Ultima Online's long-standing tradition of being skill-based in favor of an item-based system. This was exacerbated by the fact that the expansion's release roughly coincided in time with an increase in the subscription fee.
+
+Samurai Empire
+Samurai Empire is the sixth expansion to the Ultima Online MMORPG, featuring an oriental-themed environment, allowing players to play archetypical characters the Samurai and Ninja.  It also added a new area named the Tokuno Islands.  It was developed and published by Electronic Arts and released on November 2, 2004.
+Ultima Online: Samurai Empire holds a 63% rating on GameRankings.
+
+Mondain's Legacy
+Mondain's Legacy is the seventh expansion to the Ultima Online MMORPG, featuring a new playable race, elves, along with a new skill and several new dungeons. This expansion focused content more on existing and veteran players, rather than trying to draw new players. It was also the first UO expansion to only be available via digital download instead of the traditional retail box.
+
+Stygian Abyss
+Ultima Online: Stygian Abyss is the eighth expansion pack for the 1997 MMORPG Ultima Online. The expansion was announced prematurely on the Japanese Ultima Online website. It was originally slated for release in the summer of 2007, but expected after 2008. On August 12, 2009, the official release date of September 8, 2009 was announced by Electronic Arts. Ultima Online Stygian Abyss, was "re-announced", this time with art and storyline. UO Herald states that more information will be forthcoming in upcoming months.
+
+Features
+Gargoyle Race - A new player race. One ability includes being ably to "fly" (cross certain obstacles and move at mounted speed). Gargoyles can not learn Archery skill or use bows.
+Ter Mur - The Gargoyle homeland. Players will be able to place houses in this area.
+Stygian Abyss Dungeon - The largest and most intricate dungeon added to date. Based on the one seen in Ultima Underworld, the entrance is found on Fire Island on both facets. Creatures found inside include the Medusa, Primeval Lich and the Stygian Dragon. There will also be non-consensual player vs player combat areas inside the abyss.
+Imbuing - A new crafting skill that allows players to manage the properties added on a crafted weapon or armor piece. This will also include the ability to harvest magical properties from existing items.
+Mysticism - A Gargoyle form of spellcasting complete with its own set of spells.
+Throwing - A new ranged weapons skill utilizing throwing weapons and consumes no ammunition. Can only be learned by Gargoyles.
+Housing Tiles - Nine new sets showing off the style of Gargoyles.
+
+High Seas
+Ultima Online: High Seas is the first and only booster pack for the game. High Seas was announced during a UO Town Hall Meeting held on August 28, 2010 at EA Mythic/Bioware's division headquarters in Fairfax, Virginia. It was introduced with the title Adventures on the High Seas but later trimmed to just High Seas. It was announced that the development team was moving to a "booster" style development process. The stated goal was to release two boosters per year. Focused on additions to fishing, sailing and the pirate skill. Four new ship types, improved ship movement, pirate NPCs to hunt, and new boss encounters are introduced along with improvements to the fishing skill like new types of fish and crustaceans to catch and an increased skill cap.
+
+Features
+New Ships
+Orcish Galleon
+Gargish Galleon
+Tokuno Galleon
+Britannian Ship
+New Ship Movements
+Ship Weapons
+Boats have multiple weapon stations where Cannons may be placed
+Ship can now take damage and be repaired
+Pirate and Merchant Ships
+New Boss Encounters
+A Sea Market
+Fishing Profession Updates
+Fishing skill cap raised to 120 with power scrolls
+Miscellaneous
+20% House and Bank storage increase
+New Cooking recipes
+New mining resource saltpeter
+
+Time of Legends
+Ultima Online: Time of Legends was released in October 8, 2015. New Areas: Shadowguard and Valley of Eodon; two new champion spawns; completing the virtue system; many new items; new skill-masteries; updates to classic housing.
+
+
+== References ==

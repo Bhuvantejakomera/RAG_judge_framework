@@ -1,0 +1,17 @@
+Mike Shaver is the vice president of engineering at Tailscale. He is a former executive and engineer at Netscape Communications, Mozilla Corporation, Facebook, and Fastly.
+
+Career
+Shaver attended high school at Lisgar Collegiate Institute in Ottawa, where he began working with Ingenia Communications Corporation, an Ottawa-area computer consultancy that later dissolved. Starting as a summer student who worked as a system administrator and software developer, he was promoted to chief systems architect and eventually Chief technical officer (CTO).
+Shaver eventually left to work at Netscape Communications and later zerøknowledge, Cluster File Systems, and the Oracle Corporation. Beginning as a visiting developer, he became a founding member of the Mozilla Organization in 1998.
+He was VP of Engineering and VP of Technical Strategy for the Mozilla Corporation where he advocated for open web standards. At Mozilla, Shaver worked with Mike Schroepfer, who also later began working at Facebook.
+In 2007, he handed out business cards with "ten fucking days" hand-written on them, referencing a recent ten-day turnaround for a security flaw from notification to releasing a fixed version of Firefox. His intent was to show confidence in Mozilla's ability to quickly address security issues. This was misunderstood as a general or official Mozilla policy. Shaver stayed at Mozilla for six years before he departed to Facebook, where he became the director of engineering from 2011 to 2016.
+In 2016, Shaver returned to Canada and joined Real Ventures. His first investment was the startup called integrate.ai, where he also serves as CTO.
+In 2022, Shaver began working for Shopify as a Distinguished Engineer.
+In October 2024, Shaver joined the Ladybird Browser Initiative as a board member.
+In 2025, Shaver began working for Fastly as Vice President of Engineering.
+In July 2026, Shaver started working for Tailscale as Vice President of Engineering.
+
+References
+External links
+Mike Shaver's Weblog, noise from signal
+Shaverman webcomic, (pg1 | pg2)

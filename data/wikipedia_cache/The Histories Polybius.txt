@@ -1,0 +1,56 @@
+Polybius' Histories (Ancient Greek: Ἱστορίαι Historíai) is a historical account of the rise of Rome, written in the 2nd century BC. They were originally written in 40 volumes, only the first five of which are extant in their entirety. The bulk of the work was passed down through collections of excerpts kept in libraries in the Byzantine Empire. Polybius, a historian from the Greek city of Megalopolis in Arcadia, was taken as a hostage to Rome after the Roman victory in the Third Macedonian War (171–168 BC), and there he began to write an account of the rise of Rome to a great power.
+
+Publication history
+Papyrus
+Fragments of Histories are known to exist in various papyri written in during Roman Egypt. The oldest extant fragments often derive from the Faiyum region or are known to exist in the Oxyrhynchus Papyri, such as Papyrus Oxyrhynchus 5268 (Books 28.2.6.1 – 8.1) or P. Ryl. Gr. 1 60 (which covers Books 13.8–16.8).
+
+Manuscripts
+Moore (1965) suggests a stemma whereby some 9 prototype manuscripts preserve the manuscript tradition, the oldest being Vaticanus Gr. 124 (dated A.D. 947).
+
+Content
+Polybius' Histories begin in the year 264 BC and end in 146 BC (Polybius was born around 200 BC and died around 117 BC). He is primarily concerned with the 53 years in which Ancient Rome became a dominant world power. This period, from 220–167 BC, saw Rome subjugate Carthage and gain control over Hellenistic Greece. Books I through V cover the affairs of important states at the time (Ptolemaic Egypt, Hellenistic Greece, Macedon) and deal extensively with the First and Second Punic Wars. In Book VI he describes the Roman Constitution and outlines the powers of the consuls, Senate and People. The differences between the first set of states, namely, Athens and Thebes, and the second set which consists of those of Sparta, Crete, Mantinea and Carthage he asserted, on the ground that the states of Athens and Thebes followed an "abnormal" growth. By "abnormal" Polybius means that these states due both the rise to the pinnacle of their power and the downfall to the caprice of fortune. It is chiefly because the Athenians had such leaders as Themistocles, and the Thebans Pelopidas and Epaminondas, that the two states have on their side the favors of fortune for a time. The view of Polybius on the age of Pericles might, to some extent, be considered as contrary to what most modern historians thought was the Golden Age of Greece. He then compares the political system of the Roman state to that of the Cretans, the Spartans, and shows in what aspect the laws of Rome are superior to those of the Carthaginians. He concludes that the success of the Roman state was based on their mixed constitution, which combined elements of a democracy, aristocracy, and monarchy. The remainder of the Histories discusses the period in which Rome came to dominate the Mediterranean, from the defeat of Hannibal in 201 BC to the destruction of Carthage and the Greek city-state of Corinth in 146 BC.
+
+Polybius on tyche
+Tyche, which means fate or fortune, plays an integral role in Polybius’ understanding of history. Tyche takes on a double meaning in his work. It can mean fortune or happenstance, but tyche was also personified as a goddess according to Hellenistic convention. The exploration of Tyche is also the impetus for Polybius beginning his work, in that he discusses the fortunate events that led to Rome’s domination of the Mediterranean.
+
+Polybius on government
+In Book VI Polybius digresses into an explanation of the Roman constitution and he shows it to be mixed. The purpose for this is involved in the Hellenistic nature of the work, particularly his Greek audience. Greeks at this time believed that the strength of a state is manifested in the strength of its constitution. The mixed constitution was touted as the strongest constitution as it combined Aristotle's three integral types of government: monarchy, aristocracy and democracy. Polybius, again in imitation of Aristotle, makes further distinction in the forms of government by including the nefarious counterparts to the ones mentioned above; tyranny, oligarchy, and ochlocracy. These governments, according to Polybius, cycle in a process called anacyclosis or kyklos, which begins with monarchy and ends with ochlocracy.
+
+Reactions
+His histories have an aristocratic ethos and reveal his opinions on honor, wealth and war. His histories have literary merit and interpretations of facts and events.
+
+Polybius in English
+The first English translation, made by Christopher Watson, was published in London in 1568 as The hystories of the most famous and worthy cronographer Polybius. F. W. Walbank wrote a comprehensive commentary on the Histories in three volumes, which was published between 1957 and 1979.
+
+See also
+Herodotus
+Thucydides
+Xenophon
+
+References
+Bibliography
+Editions of the Histories
+Polybius; Frank W. Walbank, Ian Scott-Kilvert (1979). The Rise of the Roman Empire. Penguin Classics. ISBN 0-14-044362-2.
+Polybius; Robin Waterfield (2010). The Histories. Oxford World's Classics. ISBN 978-0199534708.
+Loeb Classical Library
+Polybius. The Histories, Volume I: Books 1–2. Translated by W. R. Paton. Revised by F. W. Walbank, Christian Habicht. Loeb Classical Library 128. Cambridge, MA: Harvard University Press, 2010.
+Polybius. The Histories, Volume II: Books 3–4. Translated by W. R. Paton. Revised by F. W. Walbank, Christian Habicht. Loeb Classical Library 137. Cambridge, MA: Harvard University Press, 2010.
+Polybius. The Histories, Volume III: Books 5–8. Translated by W. R. Paton. Revised by F. W. Walbank, Christian Habicht. Loeb Classical Library 138. Cambridge, MA: Harvard University Press, 2011.
+Polybius. The Histories, Volume IV: Books 9–15. Translated by W. R. Paton. Revised by F. W. Walbank, Christian Habicht. Loeb Classical Library 159. Cambridge, MA: Harvard University Press, 2011.
+Polybius. The Histories, Volume V: Books 16–27. Translated by W. R. Paton. Revised by F. W. Walbank, Christian Habicht. Loeb Classical Library 160. Cambridge, MA: Harvard University Press, 2012.
+Polybius. The Histories, Volume VI: Books 28–39. Fragments. Edited and translated by S. Douglas Olson. Translated by W. R. Paton. Revised by F. W. Walbank, Christian Habicht. Loeb Classical Library 161. Cambridge, MA: Harvard University Press, 2012.
+
+Modern works
+El Hage, Fadi (2023). Une occasion manquée: la réédition de l'Histoire de Polybe commentée par Folard (1753). Paris: Classiques Garnier. ISBN 9782406147817.
+Mogens Herman Hansen 1995, Sources for the Ancient Greek City-State: Symposium, August, 24-27 1994, Kgl. Danske, Videnskabernes Selskab, 376 pages ISBN 87-7304-267-6
+Brian McGing, Polybius' Histories. Oxford University Press, Oxford, 2010.
+Frank William Walbank, A Historical Commentary on Polybius, Oxford University Press, 1957–1979.
+——, Polybius, Berkeley and Los Angeles, University of California Press, 1972.
+——, Polybius, Rome and the Hellenistic World, Essays and Reflections, Cambridge University Press, 2002.
+
+External links
+
+English and Greek version the Histories
+Translation by W. R. Paton (Loeb edition)
+Short introduction to the life and work of Polybius
+Polybius and the Founding Fathers: the separation of powers

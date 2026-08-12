@@ -1,0 +1,16 @@
+Chess with Friends  was a multiplayer asynchronous  chess game developed by Zynga with Friends (formerly Newtoy, Inc.), which also developed Words with Friends and Hanging with Friends. It was one of the first iPhone games to take an asynchronous approach to multiplayer. Released in November 2008 and published by Zynga, the game is available on iOS (iPad, iPhone, iPod Touch) and, since 2014, Android.
+In October 2023 Zynga announced the platform would close in November 2023.
+
+Gameplay
+Chess with Friends was a freemium game, meaning there is no cost to play, but players had the option of purchasing premium content.
+Play a Friend (via link) - for players to quickly play someone from their friend list.
+Default Time - options range from 1 to 14 days for each move. Game lies between 1 and 10-minute as per move default settings (for new users).
+
+Reception
+Paul Bettner, a Zynga with Friends founder, was quoted as saying, “So in August of 2008, we left Ensemble, bought some MacBooks and started working out of our local public library. A few months later, we put Chess with Friends on the App Store.”
+Bettner described Chess with Friends as "like text messaging meets gaming."
+
+References
+External links
+Zynga with Friends Archived 2011-11-24 at the Wayback Machine
+Zynga
